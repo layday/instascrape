@@ -27,7 +27,7 @@ def scrape() -> Generator[Tuple[str, int], None, None]:
 
 def upload(data: str) -> None:
     filename = 'curseforge-slugs.json'
-    github = Github(os.environ['GITHUB_ACCESS_TOKEN'], user_agent=user_agent)
+    github = Github(os.environ['MORPH_GITHUB_ACCESS_TOKEN'], user_agent=user_agent)
     repo = github.get_repo('layday/intascrape')
     file = repo.get_contents(filename, ref='data')
     repo.update_file(file.path, 'Update data', data, file.sha, branch='data')
