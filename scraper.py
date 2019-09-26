@@ -1,5 +1,3 @@
-from __future__ import annotations
-
 from functools import partial
 from itertools import count
 import json
@@ -33,7 +31,7 @@ def scrape_catalogue() -> Generator[dict, None, None]:
         yield from iter(data)
 
 
-def update(repo: Repository, filename: str, data: str) -> None:
+def update(repo: 'Repository', filename: str, data: str) -> None:
     file = repo.get_contents(filename, ref='data')
     repo.update_file(file.path, f'Update {filename}', data, file.sha, branch='data')
 
