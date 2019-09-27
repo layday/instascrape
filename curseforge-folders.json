@@ -2897,6 +2897,13 @@
     ]
   ],
   [
+    21367,
+    "wow_classic",
+    [
+      "AutoFlood"
+    ]
+  ],
+  [
     298882,
     "wow_retail",
     [
@@ -4703,14 +4710,14 @@
   ],
   [
     332558,
-    "wow_retail",
+    "wow_classic",
     [
       "BetterVendorPrice"
     ]
   ],
   [
     332558,
-    "wow_classic",
+    "wow_retail",
     [
       "BetterVendorPrice"
     ]
@@ -4857,7 +4864,7 @@
   ],
   [
     82697,
-    "wow_retail",
+    "wow_classic",
     [
       "BigDebuffs"
     ]
@@ -6700,6 +6707,13 @@
     ]
   ],
   [
+    342456,
+    "wow_classic",
+    [
+      "ButterQuestTracker"
+    ]
+  ],
+  [
     13591,
     "wow_retail",
     [
@@ -6875,6 +6889,26 @@
       "CT_UnitFrames",
       "CT_Viewport",
       "CT_Library"
+    ]
+  ],
+  [
+    72616,
+    "wow_retail",
+    [
+      "CT_BarMod",
+      "CT_BottomBar",
+      "CT_BuffMod",
+      "CT_Core",
+      "CT_ExpenseHistory",
+      "CT_MailMod",
+      "CT_MapMod",
+      "CT_PartyBuffs",
+      "CT_RaidAssist",
+      "CT_Timer",
+      "CT_UnitFrames",
+      "CT_Viewport",
+      "CT_Library",
+      "CT_RaidAssist_MTPlayers"
     ]
   ],
   [
@@ -9016,7 +9050,7 @@
   ],
   [
     91376,
-    "wow_classic",
+    "wow_retail",
     [
       "ConsolePortHelp",
       "ConsolePort",
@@ -9030,7 +9064,7 @@
   ],
   [
     91376,
-    "wow_retail",
+    "wow_classic",
     [
       "ConsolePortHelp",
       "ConsolePort",
@@ -10349,25 +10383,6 @@
   ],
   [
     3358,
-    "wow_classic",
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    3358,
     "wow_retail",
     [
       "DBM-Core",
@@ -10381,6 +10396,25 @@
       "DBM-CrucibleofStorms",
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    3358,
+    "wow_classic",
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -12739,20 +12773,6 @@
     ]
   ],
   [
-    2309,
-    "wow_retail",
-    [
-      "Elephant"
-    ]
-  ],
-  [
-    2309,
-    "wow_retail",
-    [
-      "Elephant"
-    ]
-  ],
-  [
     4289,
     "wow_classic",
     [
@@ -14188,13 +14208,6 @@
     ]
   ],
   [
-    92904,
-    "wow_retail",
-    [
-      "Experiencer"
-    ]
-  ],
-  [
     339976,
     "wow_classic",
     [
@@ -14486,6 +14499,13 @@
   ],
   [
     29767,
+    "wow_retail",
+    [
+      "FarmHud"
+    ]
+  ],
+  [
+    29767,
     "wow_classic",
     [
       "FarmHud"
@@ -14514,20 +14534,6 @@
   ],
   [
     282961,
-    "wow_retail",
-    [
-      "Farmer"
-    ]
-  ],
-  [
-    282961,
-    "wow_classic",
-    [
-      "Farmer"
-    ]
-  ],
-  [
-    282961,
     "wow_classic",
     [
       "Farmer"
@@ -14536,6 +14542,20 @@
   [
     282961,
     "wow_retail",
+    [
+      "Farmer"
+    ]
+  ],
+  [
+    282961,
+    "wow_retail",
+    [
+      "Farmer"
+    ]
+  ],
+  [
+    282961,
+    "wow_classic",
     [
       "Farmer"
     ]
@@ -14877,13 +14897,6 @@
     ]
   ],
   [
-    6079,
-    "wow_retail",
-    [
-      "Fizzle"
-    ]
-  ],
-  [
     304709,
     "wow_retail",
     [
@@ -15086,6 +15099,13 @@
     "wow_retail",
     [
       "FocusInterruptSounds"
+    ]
+  ],
+  [
+    344402,
+    "wow_classic",
+    [
+      "Focused"
     ]
   ],
   [
@@ -17676,34 +17696,6 @@
     ]
   ],
   [
-    14154,
-    "wow_retail",
-    [
-      "HandyNotes"
-    ]
-  ],
-  [
-    14154,
-    "wow_retail",
-    [
-      "HandyNotes"
-    ]
-  ],
-  [
-    14154,
-    "wow_retail",
-    [
-      "HandyNotes"
-    ]
-  ],
-  [
-    14154,
-    "wow_retail",
-    [
-      "HandyNotes"
-    ]
-  ],
-  [
     276954,
     "wow_retail",
     [
@@ -18541,14 +18533,14 @@
   ],
   [
     318461,
-    "wow_classic",
+    "wow_retail",
     [
       "[D4KiR] Healer Protection"
     ]
   ],
   [
     318461,
-    "wow_retail",
+    "wow_classic",
     [
       "[D4KiR] Healer Protection"
     ]
@@ -19157,6 +19149,13 @@
     ]
   ],
   [
+    344304,
+    "wow_classic",
+    [
+      "HolyPaladinTips"
+    ]
+  ],
+  [
     27511,
     "wow_retail",
     [
@@ -19415,23 +19414,7 @@
   ],
   [
     5394,
-    "wow_classic",
-    [
-      "IceHUD_Options",
-      "IceHUD"
-    ]
-  ],
-  [
-    5394,
-    "wow_classic",
-    [
-      "IceHUD_Options",
-      "IceHUD"
-    ]
-  ],
-  [
-    5394,
-    "wow_classic",
+    "wow_retail",
     [
       "IceHUD_Options",
       "IceHUD"
@@ -19448,6 +19431,22 @@
   [
     5394,
     "wow_retail",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_classic",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_classic",
     [
       "IceHUD_Options",
       "IceHUD"
@@ -20931,14 +20930,6 @@
     ]
   ],
   [
-    95528,
-    "wow_retail",
-    [
-      "KkthnxUI_Config",
-      "KkthnxUI"
-    ]
-  ],
-  [
     342348,
     "wow_classic",
     [
@@ -20997,13 +20988,13 @@
     [
       "Kui_Nameplates_Core",
       "Kui_Nameplates_Core_Config",
-      "Kui_Media",
-      "Kui_Nameplates"
+      "Kui_Nameplates",
+      "Kui_Media"
     ]
   ],
   [
     35095,
-    "wow_retail",
+    "wow_classic",
     [
       "Kui_Nameplates_Core",
       "Kui_Nameplates_Core_Config",
@@ -21013,7 +21004,7 @@
   ],
   [
     35095,
-    "wow_classic",
+    "wow_retail",
     [
       "Kui_Nameplates_Core",
       "Kui_Nameplates_Core_Config",
@@ -22713,6 +22704,13 @@
     ]
   ],
   [
+    336268,
+    "wow_classic",
+    [
+      "LibTouristClassic-1.0"
+    ]
+  ],
+  [
     14330,
     "wow_retail",
     [
@@ -22808,6 +22806,13 @@
     "wow_retail",
     [
       "Lifebloomer"
+    ]
+  ],
+  [
+    344264,
+    "wow_classic",
+    [
+      "LightwellBuddy"
     ]
   ],
   [
@@ -22966,14 +22971,14 @@
   ],
   [
     271486,
-    "wow_retail",
+    "wow_classic",
     [
       "LockboxCracker"
     ]
   ],
   [
     271486,
-    "wow_classic",
+    "wow_retail",
     [
       "LockboxCracker"
     ]
@@ -23576,6 +23581,13 @@
     ]
   ],
   [
+    33251,
+    "wow_classic",
+    [
+      "LowHP"
+    ]
+  ],
+  [
     22363,
     "wow_retail",
     [
@@ -23641,28 +23653,6 @@
     "wow_retail",
     [
       "LustDetector"
-    ]
-  ],
-  [
-    300687,
-    "wow_retail",
-    [
-      "LynxUI_ActionBar",
-      "LynxUI_Bags",
-      "LynxUI_CastingBar",
-      "LynxUI_Chat",
-      "LynxUI_Details",
-      "LynxUI_Interrupts",
-      "LynxUI_Mailbox",
-      "LynxUI_Map",
-      "LynxUI_Nameplates",
-      "LynxUI_Options",
-      "LynxUI_SellJunk",
-      "LynxUI_Speedometer",
-      "LynxUI_Tooltip",
-      "LynxUI_Tweaks",
-      "LynxUI_UnitFrames",
-      "LynxUI"
     ]
   ],
   [
@@ -25045,6 +25035,20 @@
     ]
   ],
   [
+    343965,
+    "wow_classic",
+    [
+      "MinimalistChat"
+    ]
+  ],
+  [
+    343965,
+    "wow_retail",
+    [
+      "MinimalistChat"
+    ]
+  ],
+  [
     263037,
     "wow_retail",
     [
@@ -25589,6 +25593,13 @@
     "wow_retail",
     [
       "MountMe"
+    ]
+  ],
+  [
+    102325,
+    "wow_retail",
+    [
+      "MountSpy"
     ]
   ],
   [
@@ -26262,13 +26273,6 @@
   [
     324377,
     "wow_retail",
-    [
-      "NDui"
-    ]
-  ],
-  [
-    324377,
-    "wow_classic",
     [
       "NDui"
     ]
@@ -27433,7 +27437,7 @@
   ],
   [
     325916,
-    "wow_retail",
+    "wow_classic",
     [
       "OneOfUs"
     ]
@@ -28472,20 +28476,6 @@
   ],
   [
     100547,
-    "wow_retail",
-    [
-      "Plater"
-    ]
-  ],
-  [
-    100547,
-    "wow_retail",
-    [
-      "Plater"
-    ]
-  ],
-  [
-    100547,
     "wow_classic",
     [
       "Plater"
@@ -29338,14 +29328,6 @@
   ],
   [
     319533,
-    "wow_retail",
-    [
-      "Quafe_MEKA",
-      "Quafe"
-    ]
-  ],
-  [
-    319533,
     "wow_classic",
     [
       "Quafe_MEKA_Classic",
@@ -29358,6 +29340,15 @@
     [
       "Quafe_LFC",
       "Quafe_MEKA_Classic",
+      "Quafe"
+    ]
+  ],
+  [
+    319533,
+    "wow_retail",
+    [
+      "Quafe_Libs",
+      "Quafe_MEKA",
       "Quafe"
     ]
   ],
@@ -29689,6 +29680,15 @@
     "wow_retail",
     [
       "Quichons"
+    ]
+  ],
+  [
+    3446,
+    "wow_classic",
+    [
+      "QDKP2_Config",
+      "QDKP2_GUI",
+      "QDKP_V2"
     ]
   ],
   [
@@ -30130,6 +30130,13 @@
     "wow_retail",
     [
       "RWN_ArchDistance"
+    ]
+  ],
+  [
+    342912,
+    "wow_classic",
+    [
+      "Radar"
     ]
   ],
   [
@@ -32444,34 +32451,6 @@
     ]
   ],
   [
-    14640,
-    "wow_retail",
-    [
-      "SharedMediaAdditionalFonts"
-    ]
-  ],
-  [
-    14640,
-    "wow_retail",
-    [
-      "SharedMediaAdditionalFonts"
-    ]
-  ],
-  [
-    60431,
-    "wow_retail",
-    [
-      "SharedMediaAdditionalSounds"
-    ]
-  ],
-  [
-    60431,
-    "wow_retail",
-    [
-      "SharedMediaAdditionalSounds"
-    ]
-  ],
-  [
     60431,
     "wow_retail",
     [
@@ -33264,14 +33243,14 @@
   ],
   [
     321567,
-    "wow_retail",
+    "wow_classic",
     [
       "SimplyGInv"
     ]
   ],
   [
     321567,
-    "wow_classic",
+    "wow_retail",
     [
       "SimplyGInv"
     ]
@@ -33375,17 +33354,17 @@
     ]
   ],
   [
-    14660,
-    "wow_retail",
+    339820,
+    "wow_classic",
     [
-      "Skillet"
+      "Skillet-Classic"
     ]
   ],
   [
-    14660,
-    "wow_retail",
+    339820,
+    "wow_classic",
     [
-      "Skillet"
+      "Skillet-Classic"
     ]
   ],
   [
@@ -34052,6 +34031,20 @@
     ]
   ],
   [
+    295182,
+    "wow_retail",
+    [
+      "SpeedyAutoLoot"
+    ]
+  ],
+  [
+    295182,
+    "wow_classic",
+    [
+      "SpeedyAutoLoot"
+    ]
+  ],
+  [
     318906,
     "wow_retail",
     [
@@ -34316,6 +34309,13 @@
   [
     102286,
     "wow_retail",
+    [
+      "StarCursor"
+    ]
+  ],
+  [
+    102286,
+    "wow_classic",
     [
       "StarCursor"
     ]
@@ -34756,14 +34756,14 @@
   ],
   [
     92398,
-    "wow_retail",
+    "wow_classic",
     [
       "Storyline"
     ]
   ],
   [
     92398,
-    "wow_classic",
+    "wow_retail",
     [
       "Storyline"
     ]
@@ -35484,6 +35484,14 @@
     ]
   ],
   [
+    343952,
+    "wow_classic",
+    [
+      "Talented_Data",
+      "Talented"
+    ]
+  ],
+  [
     102216,
     "wow_retail",
     [
@@ -35521,6 +35529,13 @@
   [
     81080,
     "wow_retail",
+    [
+      "TargetClassIcon"
+    ]
+  ],
+  [
+    81080,
+    "wow_classic",
     [
       "TargetClassIcon"
     ]
@@ -35647,23 +35662,23 @@
   ],
   [
     8025,
+    "wow_classic",
+    [
+      "TellMeWhen_Options",
+      "TellMeWhen"
+    ]
+  ],
+  [
+    8025,
+    "wow_classic",
+    [
+      "TellMeWhen_Options",
+      "TellMeWhen"
+    ]
+  ],
+  [
+    8025,
     "wow_retail",
-    [
-      "TellMeWhen_Options",
-      "TellMeWhen"
-    ]
-  ],
-  [
-    8025,
-    "wow_classic",
-    [
-      "TellMeWhen_Options",
-      "TellMeWhen"
-    ]
-  ],
-  [
-    8025,
-    "wow_classic",
     [
       "TellMeWhen_Options",
       "TellMeWhen"
@@ -36453,6 +36468,13 @@
     ]
   ],
   [
+    335270,
+    "wow_retail",
+    [
+      "TokenChecker"
+    ]
+  ],
+  [
     274536,
     "wow_retail",
     [
@@ -36590,13 +36612,6 @@
     "wow_retail",
     [
       "GoldPrice"
-    ]
-  ],
-  [
-    335270,
-    "wow_retail",
-    [
-      "TokenChecker"
     ]
   ],
   [
@@ -37804,20 +37819,6 @@
     ]
   ],
   [
-    21715,
-    "wow_retail",
-    [
-      "UnlimitedChatMessage"
-    ]
-  ],
-  [
-    21715,
-    "wow_retail",
-    [
-      "UnlimitedChatMessage"
-    ]
-  ],
-  [
     29867,
     "wow_retail",
     [
@@ -38239,31 +38240,31 @@
   ],
   [
     7950,
+    "wow_classic",
+    [
+      "VuhDoOptions",
+      "VuhDo"
+    ]
+  ],
+  [
+    7950,
+    "wow_classic",
+    [
+      "VuhDoOptions",
+      "VuhDo"
+    ]
+  ],
+  [
+    7950,
+    "wow_classic",
+    [
+      "VuhDoOptions",
+      "VuhDo"
+    ]
+  ],
+  [
+    7950,
     "wow_retail",
-    [
-      "VuhDoOptions",
-      "VuhDo"
-    ]
-  ],
-  [
-    7950,
-    "wow_classic",
-    [
-      "VuhDoOptions",
-      "VuhDo"
-    ]
-  ],
-  [
-    7950,
-    "wow_classic",
-    [
-      "VuhDoOptions",
-      "VuhDo"
-    ]
-  ],
-  [
-    7950,
-    "wow_classic",
     [
       "VuhDoOptions",
       "VuhDo"
