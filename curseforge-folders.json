@@ -10421,25 +10421,6 @@
   ],
   [
     3358,
-    "wow_classic",
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    3358,
     "wow_retail",
     [
       "DBM-Core",
@@ -10453,6 +10434,25 @@
       "DBM-CrucibleofStorms",
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    3358,
+    "wow_classic",
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -14548,14 +14548,14 @@
   ],
   [
     282961,
-    "wow_retail",
+    "wow_classic",
     [
       "Farmer"
     ]
   ],
   [
     282961,
-    "wow_classic",
+    "wow_retail",
     [
       "Farmer"
     ]
@@ -31727,6 +31727,13 @@
     ]
   ],
   [
+    327045,
+    "wow_classic",
+    [
+      "SamyTotemTimers"
+    ]
+  ],
+  [
     303127,
     "wow_retail",
     [
@@ -32750,6 +32757,22 @@
   ],
   [
     14647,
+    "wow_classic",
+    [
+      "SilverDragon_Classic",
+      "SilverDragon"
+    ]
+  ],
+  [
+    14647,
+    "wow_classic",
+    [
+      "SilverDragon_Classic",
+      "SilverDragon"
+    ]
+  ],
+  [
+    14647,
     "wow_retail",
     [
       "SilverDragon_Vanilla",
@@ -32760,22 +32783,6 @@
       "SilverDragon_Warlords",
       "SilverDragon_Legion",
       "SilverDragon_BattleForAzeroth",
-      "SilverDragon"
-    ]
-  ],
-  [
-    14647,
-    "wow_classic",
-    [
-      "SilverDragon_Classic",
-      "SilverDragon"
-    ]
-  ],
-  [
-    14647,
-    "wow_classic",
-    [
-      "SilverDragon_Classic",
       "SilverDragon"
     ]
   ],
@@ -34077,6 +34084,13 @@
     "wow_retail",
     [
       "SpellBinding"
+    ]
+  ],
+  [
+    344483,
+    "wow_classic",
+    [
+      "SpellbookAbridged"
     ]
   ],
   [
