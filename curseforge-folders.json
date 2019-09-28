@@ -1522,6 +1522,13 @@
     ]
   ],
   [
+    16978,
+    "wow_classic",
+    [
+      "AntiDaze"
+    ]
+  ],
+  [
     101203,
     "wow_retail",
     [
@@ -31727,13 +31734,6 @@
     ]
   ],
   [
-    327045,
-    "wow_classic",
-    [
-      "SamyTotemTimers"
-    ]
-  ],
-  [
     303127,
     "wow_retail",
     [
@@ -35684,7 +35684,7 @@
   ],
   [
     8025,
-    "wow_classic",
+    "wow_retail",
     [
       "TellMeWhen_Options",
       "TellMeWhen"
@@ -35692,7 +35692,7 @@
   ],
   [
     8025,
-    "wow_retail",
+    "wow_classic",
     [
       "TellMeWhen_Options",
       "TellMeWhen"
