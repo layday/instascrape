@@ -972,6 +972,16 @@
     ]
   ],
   [
+    "Aiue's Quest Tracker",
+    [
+      "curse",
+      67669
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AkiTools",
     [
       "curse",
@@ -1171,6 +1181,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Ammo Meter",
+    [
+      "curse",
+      344535
+    ],
+    [
       "classic"
     ]
   ],
@@ -11386,7 +11406,8 @@
       93995
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -14832,6 +14853,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Grimoire Keeper Classic",
+    [
+      "curse",
+      344568
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -20383,7 +20414,8 @@
       3579
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -23904,7 +23936,8 @@
       326111
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -23975,7 +24008,8 @@
       341119
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -26409,6 +26443,17 @@
     ]
   ],
   [
+    "ProfessionMailer",
+    [
+      "curse",
+      342943
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Professions Complete",
     [
       "curse",
@@ -27577,6 +27622,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "RaidMobMarker HUD",
+    [
+      "curse",
+      22822
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -33774,7 +33830,8 @@
       3608
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -39687,6 +39744,16 @@
     ]
   ],
   [
+    "CodeNameBlaze",
+    [
+      "tukui",
+      "29"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DSM Classic",
     [
       "tukui",
@@ -39982,6 +40049,16 @@
     [
       "wowi",
       "4417"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "ChatBar",
+    [
+      "wowi",
+      "4422"
     ],
     [
       "retail"
@@ -41399,7 +41476,8 @@
       "11155"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -41530,7 +41608,8 @@
       "11411"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -51657,7 +51736,8 @@
       "25053"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -54640,6 +54720,16 @@
     [
       "wowi",
       "25366"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ChatBar Classic",
+    [
+      "wowi",
+      "25367"
     ],
     [
       "classic"
