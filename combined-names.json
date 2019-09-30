@@ -1987,7 +1987,7 @@
     ]
   ],
   [
-    "Attesor",
+    "Attesor Universal Language",
     [
       "curse",
       340473
@@ -12868,6 +12868,16 @@
     ]
   ],
   [
+    "Fast Auto Repair for BfA",
+    [
+      "curse",
+      344950
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Fast Guild Invite",
     [
       "curse",
@@ -13948,6 +13958,16 @@
     [
       "curse",
       90124
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "GarrisonSwitch",
+    [
+      "curse",
+      344889
     ],
     [
       "retail"
@@ -18673,6 +18693,16 @@
     ]
   ],
   [
+    "Killfills XP",
+    [
+      "curse",
+      344438
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "KillingBlow_Enhanced",
     [
       "curse",
@@ -18714,7 +18744,7 @@
     ]
   ],
   [
-    "Kiwi Item Info v1.1.1",
+    "Kiwi Item Info v2.0.0",
     [
       "curse",
       342135
@@ -24019,7 +24049,8 @@
       101116
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -32861,6 +32892,16 @@
     ]
   ],
   [
+    "Threatrack",
+    [
+      "curse",
+      344559
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Thymorr's Tea Timers",
     [
       "curse",
@@ -35258,6 +35299,16 @@
     ]
   ],
   [
+    "VortexChat",
+    [
+      "curse",
+      344584
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "VuhDo",
     [
       "curse",
@@ -35691,7 +35742,8 @@
       300055
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -46957,7 +47009,8 @@
       "24050"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -54730,6 +54783,26 @@
     [
       "wowi",
       "25367"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "SpellBook Abridged for WoW Classic",
+    [
+      "wowi",
+      "25368"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Roth_UI Classic WoW",
+    [
+      "wowi",
+      "25369"
     ],
     [
       "classic"
