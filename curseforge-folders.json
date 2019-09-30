@@ -21,6 +21,13 @@
     ]
   ],
   [
+    344967,
+    "wow_classic",
+    [
+      "Shitlist"
+    ]
+  ],
+  [
     44359,
     "wow_retail",
     [
@@ -1164,6 +1171,20 @@
     ]
   ],
   [
+    2462,
+    "wow_classic",
+    [
+      "AltMinder"
+    ]
+  ],
+  [
+    2462,
+    "wow_classic",
+    [
+      "AltMinder"
+    ]
+  ],
+  [
     341879,
     "wow_retail",
     [
@@ -1864,13 +1885,6 @@
     "wow_retail",
     [
       "ARXArmoryxmit"
-    ]
-  ],
-  [
-    49769,
-    "wow_retail",
-    [
-      "AskMrRobot"
     ]
   ],
   [
@@ -3710,34 +3724,6 @@
     ]
   ],
   [
-    13469,
-    "wow_retail",
-    [
-      "BagSlots"
-    ]
-  ],
-  [
-    13469,
-    "wow_retail",
-    [
-      "BagSlots"
-    ]
-  ],
-  [
-    13469,
-    "wow_retail",
-    [
-      "BagSlots"
-    ]
-  ],
-  [
-    13469,
-    "wow_retail",
-    [
-      "BagSlots"
-    ]
-  ],
-  [
     342315,
     "wow_classic",
     [
@@ -4307,27 +4293,6 @@
     "wow_retail",
     [
       "BattlePetBattleStats"
-    ]
-  ],
-  [
-    48478,
-    "wow_retail",
-    [
-      "BattlePetBinds"
-    ]
-  ],
-  [
-    48478,
-    "wow_retail",
-    [
-      "BattlePetBinds"
-    ]
-  ],
-  [
-    45935,
-    "wow_retail",
-    [
-      "BattlePetBreedID"
     ]
   ],
   [
@@ -5966,28 +5931,7 @@
   ],
   [
     21712,
-    "wow_retail",
-    [
-      "Broker_BagFu"
-    ]
-  ],
-  [
-    21712,
-    "wow_retail",
-    [
-      "Broker_BagFu"
-    ]
-  ],
-  [
-    21712,
     "wow_classic",
-    [
-      "Broker_BagFu"
-    ]
-  ],
-  [
-    21712,
-    "wow_retail",
     [
       "Broker_BagFu"
     ]
@@ -6091,20 +6035,6 @@
     ]
   ],
   [
-    21714,
-    "wow_retail",
-    [
-      "Broker_Digicam"
-    ]
-  ],
-  [
-    21714,
-    "wow_retail",
-    [
-      "Broker_Digicam"
-    ]
-  ],
-  [
     22211,
     "wow_retail",
     [
@@ -6219,13 +6149,6 @@
   [
     33086,
     "wow_classic",
-    [
-      "Broker_MoneyFu"
-    ]
-  ],
-  [
-    33086,
-    "wow_retail",
     [
       "Broker_MoneyFu"
     ]
@@ -6305,20 +6228,6 @@
     "wow_retail",
     [
       "Broker_ReoriginationArray"
-    ]
-  ],
-  [
-    46029,
-    "wow_retail",
-    [
-      "Broker_RestFu"
-    ]
-  ],
-  [
-    46029,
-    "wow_retail",
-    [
-      "Broker_RestFu"
     ]
   ],
   [
@@ -9330,13 +9239,6 @@
   ],
   [
     13715,
-    "wow_retail",
-    [
-      "Cosplay"
-    ]
-  ],
-  [
-    13715,
     "wow_classic",
     [
       "Cosplay"
@@ -9441,20 +9343,6 @@
     [
       "Critline_AuraMonitor",
       "Critline"
-    ]
-  ],
-  [
-    13724,
-    "wow_retail",
-    [
-      "Cromulent"
-    ]
-  ],
-  [
-    13724,
-    "wow_retail",
-    [
-      "Cromulent"
     ]
   ],
   [
@@ -14818,13 +14706,6 @@
   ],
   [
     6079,
-    "wow_retail",
-    [
-      "Fizzle"
-    ]
-  ],
-  [
-    6079,
     "wow_classic",
     [
       "Fizzle"
@@ -18352,7 +18233,7 @@
   ],
   [
     2743,
-    "wow_retail",
+    "wow_classic",
     [
       "HealBot_br",
       "HealBot_cn",
@@ -18371,7 +18252,7 @@
   ],
   [
     2743,
-    "wow_classic",
+    "wow_retail",
     [
       "HealBot_br",
       "HealBot_cn",
@@ -21243,6 +21124,22 @@
     ]
   ],
   [
+    14254,
+    "wow_retail",
+    [
+      "LargerMacroIconSelectionData",
+      "LargerMacroIconSelection"
+    ]
+  ],
+  [
+    14254,
+    "wow_classic",
+    [
+      "LargerMacroIconSelectionData",
+      "LargerMacroIconSelection"
+    ]
+  ],
+  [
     302742,
     "wow_retail",
     [
@@ -22177,6 +22074,34 @@
     ]
   ],
   [
+    344823,
+    "wow_classic",
+    [
+      "LibItems"
+    ]
+  ],
+  [
+    344823,
+    "wow_retail",
+    [
+      "LibItems"
+    ]
+  ],
+  [
+    344823,
+    "wow_classic",
+    [
+      "LibItems"
+    ]
+  ],
+  [
+    344823,
+    "wow_retail",
+    [
+      "LibItems"
+    ]
+  ],
+  [
     14294,
     "wow_retail",
     [
@@ -22328,6 +22253,13 @@
     "wow_retail",
     [
       "LibPlayerSpells-1.0"
+    ]
+  ],
+  [
+    69005,
+    "wow_classic",
+    [
+      "LibPrism-1.0"
     ]
   ],
   [
@@ -22750,20 +22682,6 @@
     "wow_retail",
     [
       "LinkWranglerAuctioneer"
-    ]
-  ],
-  [
-    47184,
-    "wow_retail",
-    [
-      "Liquorice"
-    ]
-  ],
-  [
-    47184,
-    "wow_retail",
-    [
-      "Liquorice"
     ]
   ],
   [
@@ -23619,6 +23537,13 @@
     ]
   ],
   [
+    344988,
+    "wow_classic",
+    [
+      "MageHelper"
+    ]
+  ],
+  [
     20327,
     "wow_retail",
     [
@@ -23806,20 +23731,6 @@
   [
     8094,
     "wow_classic",
-    [
-      "ManaPerc"
-    ]
-  ],
-  [
-    8094,
-    "wow_retail",
-    [
-      "ManaPerc"
-    ]
-  ],
-  [
-    8094,
-    "wow_retail",
     [
       "ManaPerc"
     ]
@@ -25640,6 +25551,13 @@
     ]
   ],
   [
+    342743,
+    "wow_classic",
+    [
+      "MudmenItemColor"
+    ]
+  ],
+  [
     255894,
     "wow_retail",
     [
@@ -26314,14 +26232,14 @@
   ],
   [
     341067,
-    "wow_retail",
+    "wow_classic",
     [
       "NeatMinimap"
     ]
   ],
   [
     341067,
-    "wow_classic",
+    "wow_retail",
     [
       "NeatMinimap"
     ]
@@ -27642,6 +27560,13 @@
   ],
   [
     4646,
+    "wow_retail",
+    [
+      "Pawn"
+    ]
+  ],
+  [
+    4646,
     "wow_classic",
     [
       "Pawn"
@@ -28236,6 +28161,13 @@
   ],
   [
     331518,
+    "wow_classic",
+    [
+      "PixelPerfectAlign"
+    ]
+  ],
+  [
+    331518,
     "wow_retail",
     [
       "PixelPerfectAlign"
@@ -28250,7 +28182,7 @@
   ],
   [
     331518,
-    "wow_classic",
+    "wow_retail",
     [
       "PixelPerfectAlign"
     ]
@@ -32775,6 +32707,13 @@
   [
     2849,
     "wow_retail",
+    [
+      "SimpleRaidTargetIcons"
+    ]
+  ],
+  [
+    2849,
+    "wow_classic",
     [
       "SimpleRaidTargetIcons"
     ]
@@ -39497,13 +39436,6 @@
     "wow_classic",
     [
       "xptracker"
-    ]
-  ],
-  [
-    14910,
-    "wow_retail",
-    [
-      "XPBarNone"
     ]
   ],
   [
