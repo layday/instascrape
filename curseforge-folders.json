@@ -1066,13 +1066,6 @@
     ]
   ],
   [
-    67669,
-    "wow_classic",
-    [
-      "AQT"
-    ]
-  ],
-  [
     317378,
     "wow_retail",
     [
@@ -1336,14 +1329,7 @@
   ],
   [
     322782,
-    "wow_classic",
-    [
-      "Amalu Soundpack"
-    ]
-  ],
-  [
-    322782,
-    "wow_classic",
+    "wow_retail",
     [
       "Amalu Soundpack"
     ]
@@ -1351,6 +1337,13 @@
   [
     322782,
     "wow_retail",
+    [
+      "Amalu Soundpack"
+    ]
+  ],
+  [
+    322782,
+    "wow_classic",
     [
       "Amalu Soundpack"
     ]
@@ -6553,6 +6546,13 @@
     ]
   ],
   [
+    334677,
+    "wow_classic",
+    [
+      "BuffwatchClassic"
+    ]
+  ],
+  [
     1160,
     "wow_retail",
     [
@@ -6927,25 +6927,6 @@
   ],
   [
     72616,
-    "wow_classic",
-    [
-      "CT_BarMod",
-      "CT_BottomBar",
-      "CT_BuffMod",
-      "CT_Core",
-      "CT_ExpenseHistory",
-      "CT_MailMod",
-      "CT_MapMod",
-      "CT_PartyBuffs",
-      "CT_RaidAssist",
-      "CT_Timer",
-      "CT_UnitFrames",
-      "CT_Viewport",
-      "CT_Library"
-    ]
-  ],
-  [
-    72616,
     "wow_retail",
     [
       "CT_BarMod",
@@ -6962,6 +6943,25 @@
       "CT_Viewport",
       "CT_Library",
       "CT_RaidAssist_MTPlayers"
+    ]
+  ],
+  [
+    72616,
+    "wow_classic",
+    [
+      "CT_BarMod",
+      "CT_BottomBar",
+      "CT_BuffMod",
+      "CT_Core",
+      "CT_ExpenseHistory",
+      "CT_MailMod",
+      "CT_MapMod",
+      "CT_PartyBuffs",
+      "CT_RaidAssist",
+      "CT_Timer",
+      "CT_UnitFrames",
+      "CT_Viewport",
+      "CT_Library"
     ]
   ],
   [
@@ -14481,6 +14481,13 @@
     ]
   ],
   [
+    344950,
+    "wow_retail",
+    [
+      "FastAutoRepair"
+    ]
+  ],
+  [
     313283,
     "wow_retail",
     [
@@ -14881,14 +14888,14 @@
   ],
   [
     319425,
-    "wow_retail",
+    "wow_classic",
     [
       "FleecingTip"
     ]
   ],
   [
     319425,
-    "wow_classic",
+    "wow_retail",
     [
       "FleecingTip"
     ]
@@ -15557,6 +15564,13 @@
     "wow_retail",
     [
       "GarrisonDisenchant"
+    ]
+  ],
+  [
+    344889,
+    "wow_retail",
+    [
+      "GarrisonSwitch"
     ]
   ],
   [
@@ -17389,13 +17403,6 @@
     "wow_retail",
     [
       "GuildNoteChanges"
-    ]
-  ],
-  [
-    90114,
-    "wow_retail",
-    [
-      "GuildNoteSetter"
     ]
   ],
   [
@@ -20692,6 +20699,20 @@
     ]
   ],
   [
+    344438,
+    "wow_classic",
+    [
+      "Killfills_XP"
+    ]
+  ],
+  [
+    344438,
+    "wow_classic",
+    [
+      "Killfills_XP"
+    ]
+  ],
+  [
     62232,
     "wow_retail",
     [
@@ -21203,22 +21224,6 @@
     "wow_retail",
     [
       "LanguageDisplay"
-    ]
-  ],
-  [
-    14254,
-    "wow_retail",
-    [
-      "LargerMacroIconSelectionData",
-      "LargerMacroIconSelection"
-    ]
-  ],
-  [
-    14254,
-    "wow_retail",
-    [
-      "LargerMacroIconSelectionData",
-      "LargerMacroIconSelection"
     ]
   ],
   [
@@ -24804,13 +24809,6 @@
     ]
   ],
   [
-    43440,
-    "wow_retail",
-    [
-      "MiniLoot"
-    ]
-  ],
-  [
     20621,
     "wow_retail",
     [
@@ -26232,7 +26230,7 @@
   ],
   [
     101116,
-    "wow_retail",
+    "wow_classic",
     [
       "NameplateColors"
     ]
@@ -26445,13 +26443,6 @@
     "wow_retail",
     [
       "NeedToKnow"
-    ]
-  ],
-  [
-    344130,
-    "wow_classic",
-    [
-      "NeedsFoodBadly"
     ]
   ],
   [
@@ -27647,13 +27638,6 @@
     "wow_retail",
     [
       "PartyTom"
-    ]
-  ],
-  [
-    4646,
-    "wow_retail",
-    [
-      "Pawn"
     ]
   ],
   [
@@ -35354,13 +35338,6 @@
   ],
   [
     81080,
-    "wow_retail",
-    [
-      "TargetClassIcon"
-    ]
-  ],
-  [
-    81080,
     "wow_classic",
     [
       "TargetClassIcon"
@@ -35488,7 +35465,7 @@
   ],
   [
     8025,
-    "wow_retail",
+    "wow_classic",
     [
       "TellMeWhen_Options",
       "TellMeWhen"
@@ -35496,7 +35473,7 @@
   ],
   [
     8025,
-    "wow_classic",
+    "wow_retail",
     [
       "TellMeWhen_Options",
       "TellMeWhen"
@@ -35722,6 +35699,13 @@
     "wow_classic",
     [
       "TidyPlates_ThreatPlates"
+    ]
+  ],
+  [
+    344559,
+    "wow_classic",
+    [
+      "Threatrack"
     ]
   ],
   [
@@ -36050,14 +36034,14 @@
   ],
   [
     94732,
-    "wow_classic",
+    "wow_retail",
     [
       "TitanAttributesMulti"
     ]
   ],
   [
     94732,
-    "wow_retail",
+    "wow_classic",
     [
       "TitanAttributesMulti"
     ]
@@ -37610,6 +37594,14 @@
     ]
   ],
   [
+    37332,
+    "wow_classic",
+    [
+      "UnitFramesPlus_Options",
+      "UnitFramesPlus"
+    ]
+  ],
+  [
     267963,
     "wow_retail",
     [
@@ -38024,6 +38016,13 @@
     "wow_retail",
     [
       "Vortex_Currencies"
+    ]
+  ],
+  [
+    344584,
+    "wow_classic",
+    [
+      "VortexChat"
     ]
   ],
   [
@@ -38600,6 +38599,13 @@
     ]
   ],
   [
+    300055,
+    "wow_classic",
+    [
+      "WhereToGatherClassic"
+    ]
+  ],
+  [
     90563,
     "wow_retail",
     [
@@ -38947,7 +38953,7 @@
   ],
   [
     25256,
-    "wow_classic",
+    "wow_retail",
     [
       "WoWPro_Leveling",
       "WoWPro"
@@ -38955,7 +38961,7 @@
   ],
   [
     25256,
-    "wow_retail",
+    "wow_classic",
     [
       "WoWPro_Leveling",
       "WoWPro"
@@ -39304,13 +39310,6 @@
     "wow_classic",
     [
       "WowheadLink_Grabber"
-    ]
-  ],
-  [
-    326804,
-    "wow_retail",
-    [
-      "WowheadQuickLink"
     ]
   ],
   [
@@ -41391,6 +41390,13 @@
     "wow_retail",
     [
       "sFilter"
+    ]
+  ],
+  [
+    2957,
+    "wow_retail",
+    [
+      "sRaidFrames"
     ]
   ],
   [
