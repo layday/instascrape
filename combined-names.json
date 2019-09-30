@@ -21,6 +21,16 @@
     ]
   ],
   [
+    "#Shitlist",
+    [
+      "curse",
+      344967
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "$old!it",
     [
       "curse",
@@ -1080,6 +1090,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "AltMinder",
+    [
+      "curse",
+      2462
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -19163,7 +19183,8 @@
       14254
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -19991,6 +20012,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LibItems",
+    [
+      "curse",
+      344823
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -21382,6 +21414,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Mage Helper",
+    [
+      "curse",
+      344988
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -30219,7 +30261,8 @@
       2849
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -42593,8 +42636,7 @@
       "15431"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -42604,8 +42646,7 @@
       "15491"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -42615,8 +42656,7 @@
       "15492"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -42636,8 +42676,7 @@
       "15497"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -42657,8 +42696,7 @@
       "15621"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -43363,8 +43401,7 @@
       "18761"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -43434,8 +43471,7 @@
       "18952"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -43445,8 +43481,7 @@
       "18953"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -51951,8 +51986,7 @@
       "25071"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -53971,8 +54005,7 @@
       "25284"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -54803,6 +54836,16 @@
     [
       "wowi",
       "25369"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "EnemyNameplateClassColors",
+    [
+      "wowi",
+      "25370"
     ],
     [
       "classic"
