@@ -31182,6 +31182,13 @@
   ],
   [
     319411,
+    "wow_classic",
+    [
+      "ClassicQuestC"
+    ]
+  ],
+  [
+    319411,
     "wow_retail",
     [
       "QuestC"
@@ -41845,20 +41852,6 @@
   ],
   [
     320567,
-    "wow_classic",
-    [
-      "XPMultiBar"
-    ]
-  ],
-  [
-    320567,
-    "wow_retail",
-    [
-      "XPMultiBar"
-    ]
-  ],
-  [
-    320567,
     "wow_retail",
     [
       "XPMultiBar"
@@ -41867,6 +41860,20 @@
   [
     320567,
     "wow_classic",
+    [
+      "XPMultiBar"
+    ]
+  ],
+  [
+    320567,
+    "wow_classic",
+    [
+      "XPMultiBar"
+    ]
+  ],
+  [
+    320567,
+    "wow_retail",
     [
       "XPMultiBar"
     ]
