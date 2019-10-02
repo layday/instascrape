@@ -602,7 +602,8 @@
       54541
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -3768,7 +3769,8 @@
       3600
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -4963,6 +4965,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Broker Pet Happiness (Classic)",
+    [
+      "curse",
+      342504
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -6279,6 +6291,16 @@
     ]
   ],
   [
+    "ChaChing",
+    [
+      "curse",
+      324764
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ChampionCommander",
     [
       "curse",
@@ -6569,7 +6591,8 @@
       7116
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -6981,6 +7004,16 @@
     [
       "curse",
       323806
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicBlacklist",
+    [
+      "curse",
+      341978
     ],
     [
       "classic"
@@ -10132,6 +10165,16 @@
     ]
   ],
   [
+    "Did I Do It",
+    [
+      "curse",
+      345066
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Diminish (DR Tracker)",
     [
       "curse",
@@ -10551,6 +10594,16 @@
     [
       "curse",
       61276
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Drill Sergeant",
+    [
+      "curse",
+      341287
     ],
     [
       "retail"
@@ -12188,10 +12241,10 @@
     ]
   ],
   [
-    "Enhanced Raid Frame: Raid Icons",
+    "Enhanced Raid Frames",
     [
       "curse",
-      298563
+      298558
     ],
     [
       "retail"
@@ -16183,7 +16236,8 @@
       298530
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -16840,6 +16894,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Hide World Map Minimap Button",
+    [
+      "curse",
+      344084
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -18125,16 +18189,6 @@
     ]
   ],
   [
-    "Joanna's 1-60 Classic Horde Guide (Guidelime)",
-    [
-      "curse",
-      344239
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "John Cena Level Up",
     [
       "curse",
@@ -18764,7 +18818,7 @@
     ]
   ],
   [
-    "Kiwi Item Info v2.0.0",
+    "Kiwi Item Info",
     [
       "curse",
       342135
@@ -18944,6 +18998,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LFG Classic",
+    [
+      "curse",
+      342651
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -20178,6 +20242,16 @@
     ]
   ],
   [
+    "LibPubSub-1.0",
+    [
+      "curse",
+      55985
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "LibQTip-1.0",
     [
       "curse",
@@ -20255,6 +20329,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LibRecipes-1.0 (Classic)",
+    [
+      "curse",
+      342684
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -20511,6 +20595,16 @@
     ]
   ],
   [
+    "ListLooter",
+    [
+      "curse",
+      286508
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Listener",
     [
       "curse",
@@ -20566,6 +20660,16 @@
     [
       "curse",
       13340
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Livv",
+    [
+      "curse",
+      344998
     ],
     [
       "retail"
@@ -21731,6 +21835,16 @@
     ]
   ],
   [
+    "Mark of the Legion Helper",
+    [
+      "curse",
+      96232
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "MarkAssistant",
     [
       "curse",
@@ -22478,7 +22592,8 @@
       27758
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -22751,6 +22866,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "MinimapTrackingMenu_Classic",
+    [
+      "curse",
+      344161
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -24941,7 +25066,8 @@
       85814
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -25286,6 +25412,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "PallyPower",
+    [
+      "curse",
+      2703
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -25803,6 +25939,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "PetXP",
+    [
+      "curse",
+      345130
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -26893,7 +27039,7 @@
     ]
   ],
   [
-    "Quest Cinematic",
+    "Quest Cinematic (Retail & Classic)",
     [
       "curse",
       319411
@@ -26911,6 +27057,16 @@
     [
       "retail",
       "classic"
+    ]
+  ],
+  [
+    "Quest Group Finder (LFG-AG)",
+    [
+      "curse",
+      344147
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -27488,6 +27644,16 @@
     ]
   ],
   [
+    "Radar",
+    [
+      "curse",
+      342912
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "RageComic",
     [
       "curse",
@@ -27749,10 +27915,30 @@
     ]
   ],
   [
+    "Raider.IO LOD Database EU Alliance Raid",
+    [
+      "curse",
+      344282
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Raider.IO LOD Database EU Horde",
     [
       "curse",
       323960
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Raider.IO LOD Database EU Horde Raid",
+    [
+      "curse",
+      344281
     ],
     [
       "retail"
@@ -27769,10 +27955,30 @@
     ]
   ],
   [
+    "Raider.IO LOD Database KR Alliance Raid",
+    [
+      "curse",
+      344287
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Raider.IO LOD Database KR Horde",
     [
       "curse",
       323963
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Raider.IO LOD Database KR Horde Raid",
+    [
+      "curse",
+      344286
     ],
     [
       "retail"
@@ -27789,10 +27995,30 @@
     ]
   ],
   [
+    "Raider.IO LOD Database TW Alliance Raid",
+    [
+      "curse",
+      344289
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Raider.IO LOD Database TW Horde",
     [
       "curse",
       323965
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Raider.IO LOD Database TW Horde Raid",
+    [
+      "curse",
+      344288
     ],
     [
       "retail"
@@ -27809,10 +28035,30 @@
     ]
   ],
   [
+    "Raider.IO LOD Database US Alliance Raid",
+    [
+      "curse",
+      344285
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Raider.IO LOD Database US Horde",
     [
       "curse",
       323637
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Raider.IO LOD Database US Horde Raid",
+    [
+      "curse",
+      344284
     ],
     [
       "retail"
@@ -27956,6 +28202,36 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Rare Share: Core",
+    [
+      "curse",
+      345144
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Rare Share: Mechagon",
+    [
+      "curse",
+      326009
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Rare Share: Nazjatar",
+    [
+      "curse",
+      326159
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -31016,6 +31292,16 @@
     ]
   ],
   [
+    "SotA - DKP Addon",
+    [
+      "curse",
+      345172
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "SoulSort - Easy Soul Shard Management",
     [
       "curse",
@@ -31875,7 +32161,8 @@
       291838
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -32620,6 +32907,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TargetIt",
+    [
+      "curse",
+      345018
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -34660,7 +34957,8 @@
       46527
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -36186,6 +36484,16 @@
     ]
   ],
   [
+    "WoWQuoteClassic",
+    [
+      "curse",
+      344670
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "WoWTercuman",
     [
       "curse",
@@ -36445,7 +36753,8 @@
       101439
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -36934,6 +37243,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ZoneDetails",
+    [
+      "curse",
+      340319
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -37648,7 +37967,8 @@
       34001
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37678,7 +37998,8 @@
       34002
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37718,7 +38039,8 @@
       37982
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -54849,6 +55171,76 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Kiwi Item Info",
+    [
+      "wowi",
+      "25371"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicBlacklist",
+    [
+      "wowi",
+      "25372"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "NotForGnomes(NFG)",
+    [
+      "wowi",
+      "25373"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Kiwi Quick Pick",
+    [
+      "wowi",
+      "25374"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Squeenix Classic",
+    [
+      "wowi",
+      "25375"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ChaChing",
+    [
+      "wowi",
+      "25376"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "YarkoMods",
+    [
+      "wowi",
+      "25377"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
