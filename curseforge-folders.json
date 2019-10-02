@@ -183,16 +183,16 @@
   ],
   [
     267285,
-    "wow_retail",
+    "wow_classic",
     [
-      "AllTheThings"
+      "ATT-Classic"
     ]
   ],
   [
     267285,
-    "wow_classic",
+    "wow_retail",
     [
-      "ATT-Classic"
+      "AllTheThings"
     ]
   ],
   [
@@ -483,6 +483,34 @@
     ]
   ],
   [
+    5194,
+    "wow_retail",
+    [
+      "AckisRecipeList"
+    ]
+  ],
+  [
+    5194,
+    "wow_retail",
+    [
+      "AckisRecipeList"
+    ]
+  ],
+  [
+    5194,
+    "wow_retail",
+    [
+      "AckisRecipeList"
+    ]
+  ],
+  [
+    5194,
+    "wow_retail",
+    [
+      "AckisRecipeList"
+    ]
+  ],
+  [
     80460,
     "wow_retail",
     [
@@ -550,6 +578,13 @@
     "wow_retail",
     [
       "AckisRecipeList_Engineering"
+    ]
+  ],
+  [
+    80695,
+    "wow_retail",
+    [
+      "AckisRecipeList_Inscription"
     ]
   ],
   [
@@ -662,6 +697,13 @@
     "wow_retail",
     [
       "AddEmote"
+    ]
+  ],
+  [
+    54541,
+    "wow_retail",
+    [
+      "AddOnSkins"
     ]
   ],
   [
@@ -824,6 +866,13 @@
     ]
   ],
   [
+    297298,
+    "wow_retail",
+    [
+      "AdiBags_Battle_Pet_Items"
+    ]
+  ],
+  [
     294318,
     "wow_retail",
     [
@@ -858,6 +907,20 @@
     "wow_retail",
     [
       "AdiBags_Expansion_Trade_Goods"
+    ]
+  ],
+  [
+    310449,
+    "wow_retail",
+    [
+      "AdiBags_Fishing_Items"
+    ]
+  ],
+  [
+    325466,
+    "wow_retail",
+    [
+      "AdiBags_Mechagon_Tinkering"
     ]
   ],
   [
@@ -1636,6 +1699,14 @@
   ],
   [
     280790,
+    "wow_retail",
+    [
+      "AptechkaOptions",
+      "Aptechka"
+    ]
+  ],
+  [
+    280790,
     "wow_classic",
     [
       "AptechkaOptions",
@@ -1693,14 +1764,14 @@
   ],
   [
     302838,
-    "wow_classic",
+    "wow_retail",
     [
       "ATT"
     ]
   ],
   [
     302838,
-    "wow_retail",
+    "wow_classic",
     [
       "ATT"
     ]
@@ -1738,6 +1809,17 @@
     "wow_retail",
     [
       "ArkAutoLootBoP"
+    ]
+  ],
+  [
+    3651,
+    "wow_retail",
+    [
+      "ArkInventoryConfig",
+      "ArkInventoryRules_Example",
+      "ArkInventory",
+      "ArkInventoryRules",
+      "ArkInventorySearch"
     ]
   ],
   [
@@ -1888,10 +1970,24 @@
     ]
   ],
   [
+    49769,
+    "wow_retail",
+    [
+      "AskMrRobot"
+    ]
+  ],
+  [
     101741,
     "wow_retail",
     [
       "AsmountContest"
+    ]
+  ],
+  [
+    265199,
+    "wow_retail",
+    [
+      "AstralKeys"
     ]
   ],
   [
@@ -3330,6 +3426,13 @@
     ]
   ],
   [
+    313461,
+    "wow_retail",
+    [
+      "AzeriteTraitTooltips"
+    ]
+  ],
+  [
     334593,
     "wow_classic",
     [
@@ -3341,6 +3444,13 @@
     "wow_classic",
     [
       "AzeriteUI_Classic"
+    ]
+  ],
+  [
+    298648,
+    "wow_retail",
+    [
+      "AzeriteUI"
     ]
   ],
   [
@@ -3724,6 +3834,34 @@
     ]
   ],
   [
+    13469,
+    "wow_retail",
+    [
+      "BagSlots"
+    ]
+  ],
+  [
+    13469,
+    "wow_retail",
+    [
+      "BagSlots"
+    ]
+  ],
+  [
+    13469,
+    "wow_retail",
+    [
+      "BagSlots"
+    ]
+  ],
+  [
+    13469,
+    "wow_retail",
+    [
+      "BagSlots"
+    ]
+  ],
+  [
     342315,
     "wow_classic",
     [
@@ -3789,6 +3927,13 @@
   [
     7365,
     "wow_classic",
+    [
+      "Bagmeter"
+    ]
+  ],
+  [
+    7365,
+    "wow_retail",
     [
       "Bagmeter"
     ]
@@ -3907,7 +4052,7 @@
     334624,
     "wow_retail",
     [
-      "BagsBackgroundRemover"
+      "BagsFrameRemover"
     ]
   ],
   [
@@ -4296,6 +4441,20 @@
     ]
   ],
   [
+    48478,
+    "wow_retail",
+    [
+      "BattlePetBinds"
+    ]
+  ],
+  [
+    48478,
+    "wow_retail",
+    [
+      "BattlePetBinds"
+    ]
+  ],
+  [
     45935,
     "wow_retail",
     [
@@ -4398,6 +4557,13 @@
     "wow_retail",
     [
       "BattlegroundSpiritReleaser"
+    ]
+  ],
+  [
+    3600,
+    "wow_retail",
+    [
+      "BaudBag"
     ]
   ],
   [
@@ -5253,6 +5419,20 @@
     ]
   ],
   [
+    311273,
+    "wow_retail",
+    [
+      "BlindAssist"
+    ]
+  ],
+  [
+    311273,
+    "wow_retail",
+    [
+      "BlindAssist"
+    ]
+  ],
+  [
     102610,
     "wow_retail",
     [
@@ -5510,6 +5690,27 @@
     ]
   ],
   [
+    27075,
+    "wow_retail",
+    [
+      "Boomkinator"
+    ]
+  ],
+  [
+    27075,
+    "wow_retail",
+    [
+      "Boomkinator"
+    ]
+  ],
+  [
+    316016,
+    "wow_retail",
+    [
+      "BoostHelper"
+    ]
+  ],
+  [
     342067,
     "wow_classic",
     [
@@ -5585,6 +5786,13 @@
     ]
   ],
   [
+    67997,
+    "wow_retail",
+    [
+      "BossesKilled"
+    ]
+  ],
+  [
     299303,
     "wow_retail",
     [
@@ -5634,6 +5842,13 @@
     ]
   ],
   [
+    332836,
+    "wow_retail",
+    [
+      "BrewSpeak"
+    ]
+  ],
+  [
     301055,
     "wow_retail",
     [
@@ -5663,7 +5878,21 @@
   ],
   [
     332601,
+    "wow_retail",
+    [
+      "BrokerAnything"
+    ]
+  ],
+  [
+    332601,
     "wow_classic",
+    [
+      "BrokerAnything"
+    ]
+  ],
+  [
+    332601,
+    "wow_retail",
     [
       "BrokerAnything"
     ]
@@ -5938,7 +6167,21 @@
   ],
   [
     21712,
+    "wow_retail",
+    [
+      "Broker_BagFu"
+    ]
+  ],
+  [
+    21712,
     "wow_classic",
+    [
+      "Broker_BagFu"
+    ]
+  ],
+  [
+    21712,
+    "wow_retail",
     [
       "Broker_BagFu"
     ]
@@ -5955,6 +6198,20 @@
     "wow_retail",
     [
       "Broker_BagInfo"
+    ]
+  ],
+  [
+    86163,
+    "wow_retail",
+    [
+      "Broker_BattleRes"
+    ]
+  ],
+  [
+    86163,
+    "wow_retail",
+    [
+      "Broker_BattleRes"
     ]
   ],
   [
@@ -6155,6 +6412,13 @@
   ],
   [
     33086,
+    "wow_retail",
+    [
+      "Broker_MoneyFu"
+    ]
+  ],
+  [
+    33086,
     "wow_classic",
     [
       "Broker_MoneyFu"
@@ -6228,6 +6492,34 @@
     "wow_retail",
     [
       "Broker_ReoriginationArray"
+    ]
+  ],
+  [
+    46029,
+    "wow_retail",
+    [
+      "Broker_RestFu"
+    ]
+  ],
+  [
+    46029,
+    "wow_retail",
+    [
+      "Broker_RestFu"
+    ]
+  ],
+  [
+    46029,
+    "wow_retail",
+    [
+      "Broker_RestFu"
+    ]
+  ],
+  [
+    46029,
+    "wow_retail",
+    [
+      "Broker_RestFu"
     ]
   ],
   [
@@ -6441,6 +6733,13 @@
     ]
   ],
   [
+    296067,
+    "wow_retail",
+    [
+      "BuffOverlay"
+    ]
+  ],
+  [
     324912,
     "wow_classic",
     [
@@ -6487,6 +6786,13 @@
     "wow_retail",
     [
       "Buffy"
+    ]
+  ],
+  [
+    13344,
+    "wow_retail",
+    [
+      "!BugGrabber"
     ]
   ],
   [
@@ -6651,6 +6957,20 @@
     ]
   ],
   [
+    13591,
+    "wow_retail",
+    [
+      "ButtonBin"
+    ]
+  ],
+  [
+    13591,
+    "wow_retail",
+    [
+      "ButtonBin"
+    ]
+  ],
+  [
     25215,
     "wow_retail",
     [
@@ -6771,6 +7091,24 @@
     ]
   ],
   [
+    278727,
+    "wow_retail",
+    [
+      "CRaidFrame_AOEH",
+      "CRaidFrame_Options",
+      "CRaidFrame"
+    ]
+  ],
+  [
+    278727,
+    "wow_retail",
+    [
+      "CRaidFrame_AOEH",
+      "CRaidFrame_Options",
+      "CRaidFrame"
+    ]
+  ],
+  [
     339688,
     "wow_classic",
     [
@@ -6793,45 +7131,6 @@
     "wow_retail",
     [
       "CTABroker"
-    ]
-  ],
-  [
-    72616,
-    "wow_classic",
-    [
-      "CT_BarMod",
-      "CT_BottomBar",
-      "CT_BuffMod",
-      "CT_Core",
-      "CT_ExpenseHistory",
-      "CT_MailMod",
-      "CT_MapMod",
-      "CT_PartyBuffs",
-      "CT_RaidAssist",
-      "CT_Timer",
-      "CT_UnitFrames",
-      "CT_Viewport",
-      "CT_Library"
-    ]
-  ],
-  [
-    72616,
-    "wow_retail",
-    [
-      "CT_BarMod",
-      "CT_BottomBar",
-      "CT_BuffMod",
-      "CT_Core",
-      "CT_ExpenseHistory",
-      "CT_MailMod",
-      "CT_MapMod",
-      "CT_PartyBuffs",
-      "CT_RaidAssist",
-      "CT_Timer",
-      "CT_UnitFrames",
-      "CT_Viewport",
-      "CT_Library",
-      "CT_RaidAssist_MTPlayers"
     ]
   ],
   [
@@ -7101,6 +7400,13 @@
   ],
   [
     100924,
+    "wow_retail",
+    [
+      "Candy"
+    ]
+  ],
+  [
+    100924,
     "wow_classic",
     [
       "Candy"
@@ -7189,6 +7495,20 @@
     ]
   ],
   [
+    28460,
+    "wow_retail",
+    [
+      "Carbonite"
+    ]
+  ],
+  [
+    87979,
+    "wow_retail",
+    [
+      "Carbonite.Notes"
+    ]
+  ],
+  [
     87979,
     "wow_retail",
     [
@@ -7207,6 +7527,13 @@
     "wow_retail",
     [
       "Carbonite.Quests"
+    ]
+  ],
+  [
+    87980,
+    "wow_retail",
+    [
+      "Carbonite.Social"
     ]
   ],
   [
@@ -7459,6 +7786,20 @@
     "wow_retail",
     [
       "Cerberus"
+    ]
+  ],
+  [
+    324764,
+    "wow_classic",
+    [
+      "ChaChing"
+    ]
+  ],
+  [
+    300882,
+    "wow_retail",
+    [
+      "ChampionCommander"
     ]
   ],
   [
@@ -7742,6 +8083,48 @@
     ]
   ],
   [
+    7116,
+    "wow_retail",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_retail",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_retail",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_classic",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_classic",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_classic",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
     27585,
     "wow_retail",
     [
@@ -7896,10 +8279,17 @@
     ]
   ],
   [
-    4571,
+    103049,
     "wow_retail",
     [
-      "ClassTimer"
+      "ClassSpecStats"
+    ]
+  ],
+  [
+    103049,
+    "wow_retail",
+    [
+      "ClassSpecStats"
     ]
   ],
   [
@@ -7921,6 +8311,20 @@
     "wow_retail",
     [
       "ClassTimer"
+    ]
+  ],
+  [
+    4571,
+    "wow_retail",
+    [
+      "ClassTimer"
+    ]
+  ],
+  [
+    282389,
+    "wow_retail",
+    [
+      "ClassTrialTimer"
     ]
   ],
   [
@@ -8129,6 +8533,20 @@
     ]
   ],
   [
+    341978,
+    "wow_classic",
+    [
+      "ClassicBlacklist"
+    ]
+  ],
+  [
+    341978,
+    "wow_classic",
+    [
+      "ClassicBlacklist"
+    ]
+  ],
+  [
     322865,
     "wow_classic",
     [
@@ -8185,13 +8603,6 @@
     "wow_classic",
     [
       "ClassicGuide"
-    ]
-  ],
-  [
-    322889,
-    "wow_retail",
-    [
-      "ClassicLFG"
     ]
   ],
   [
@@ -8440,10 +8851,17 @@
     ]
   ],
   [
-    102174,
+    7617,
     "wow_retail",
     [
-      "CollectionShop"
+      "Collectinator"
+    ]
+  ],
+  [
+    7617,
+    "wow_retail",
+    [
+      "Collectinator"
     ]
   ],
   [
@@ -9019,6 +9437,29 @@
     ]
   ],
   [
+    266500,
+    "wow_retail",
+    [
+      "ContributionETA"
+    ]
+  ],
+  [
+    103018,
+    "wow_retail",
+    [
+      "ControlPanel_Options",
+      "ControlPanel"
+    ]
+  ],
+  [
+    103018,
+    "wow_retail",
+    [
+      "ControlPanel_Options",
+      "ControlPanel"
+    ]
+  ],
+  [
     103018,
     "wow_retail",
     [
@@ -9246,6 +9687,27 @@
   ],
   [
     13715,
+    "wow_retail",
+    [
+      "Cosplay"
+    ]
+  ],
+  [
+    13715,
+    "wow_retail",
+    [
+      "Cosplay"
+    ]
+  ],
+  [
+    13715,
+    "wow_retail",
+    [
+      "Cosplay"
+    ]
+  ],
+  [
+    13715,
     "wow_classic",
     [
       "Cosplay"
@@ -9343,6 +9805,20 @@
     [
       "Critline_AuraMonitor",
       "Critline"
+    ]
+  ],
+  [
+    13724,
+    "wow_retail",
+    [
+      "Cromulent"
+    ]
+  ],
+  [
+    13724,
+    "wow_retail",
+    [
+      "Cromulent"
     ]
   ],
   [
@@ -10328,25 +10804,6 @@
   ],
   [
     3358,
-    "wow_classic",
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    3358,
     "wow_retail",
     [
       "DBM-Core",
@@ -10360,6 +10817,25 @@
       "DBM-CrucibleofStorms",
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    3358,
+    "wow_classic",
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -10703,6 +11179,13 @@
     "wow_classic",
     [
       "DBM-SMGEventsPack"
+    ]
+  ],
+  [
+    18712,
+    "wow_retail",
+    [
+      "DBM-SpellTimers"
     ]
   ],
   [
@@ -11274,6 +11757,13 @@
     ]
   ],
   [
+    266951,
+    "wow_retail",
+    [
+      "DemoSkinTracker"
+    ]
+  ],
+  [
     92901,
     "wow_retail",
     [
@@ -11360,6 +11850,32 @@
     "wow_classic",
     [
       "Details_TinyThreat",
+      "Details"
+    ]
+  ],
+  [
+    61284,
+    "wow_retail",
+    [
+      "Details_DataStorage",
+      "Details_EncounterDetails",
+      "Details_RaidCheck",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "Details_Vanguard",
+      "Details"
+    ]
+  ],
+  [
+    61284,
+    "wow_retail",
+    [
+      "Details_DataStorage",
+      "Details_EncounterDetails",
+      "Details_RaidCheck",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "Details_Vanguard",
       "Details"
     ]
   ],
@@ -11457,6 +11973,13 @@
     ]
   ],
   [
+    100658,
+    "wow_retail",
+    [
+      "DiabolicUI"
+    ]
+  ],
+  [
     94516,
     "wow_retail",
     [
@@ -11508,11 +12031,10 @@
     ]
   ],
   [
-    92871,
-    "wow_retail",
+    345066,
+    "wow_classic",
     [
-      "Diminish_Options",
-      "Diminish"
+      "DidIDoIt"
     ]
   ],
   [
@@ -11529,6 +12051,21 @@
     [
       "Diminish_Options",
       "Diminish"
+    ]
+  ],
+  [
+    92871,
+    "wow_retail",
+    [
+      "Diminish_Options",
+      "Diminish"
+    ]
+  ],
+  [
+    102737,
+    "wow_retail",
+    [
+      "DingAnnouncer"
     ]
   ],
   [
@@ -11907,6 +12444,13 @@
     ]
   ],
   [
+    86355,
+    "wow_retail",
+    [
+      "DraenorTreasures"
+    ]
+  ],
+  [
     305138,
     "wow_retail",
     [
@@ -11935,10 +12479,17 @@
     ]
   ],
   [
-    61276,
+    93945,
     "wow_retail",
     [
-      "DressingRoomFunctions"
+      "DressUp"
+    ]
+  ],
+  [
+    7296,
+    "wow_retail",
+    [
+      "Dresser"
     ]
   ],
   [
@@ -11946,6 +12497,27 @@
     "wow_retail",
     [
       "DressingRoomFunctions"
+    ]
+  ],
+  [
+    341287,
+    "wow_retail",
+    [
+      "DrillSergeant"
+    ]
+  ],
+  [
+    341287,
+    "wow_retail",
+    [
+      "DrillSergeant"
+    ]
+  ],
+  [
+    341287,
+    "wow_retail",
+    [
+      "DrillSergeant"
     ]
   ],
   [
@@ -12285,6 +12857,13 @@
     "wow_classic",
     [
       "EKPlates"
+    ]
+  ],
+  [
+    301031,
+    "wow_retail",
+    [
+      "EMA"
     ]
   ],
   [
@@ -12653,6 +13232,20 @@
     ]
   ],
   [
+    2309,
+    "wow_retail",
+    [
+      "Elephant"
+    ]
+  ],
+  [
+    2309,
+    "wow_retail",
+    [
+      "Elephant"
+    ]
+  ],
+  [
     4289,
     "wow_classic",
     [
@@ -12752,7 +13345,7 @@
   ],
   [
     19981,
-    "wow_classic",
+    "wow_retail",
     [
       "ElkFriends"
     ]
@@ -12922,6 +13515,13 @@
     ]
   ],
   [
+    279831,
+    "wow_retail",
+    [
+      "ElvUI_BetterTalentFrame"
+    ]
+  ],
+  [
     303731,
     "wow_retail",
     [
@@ -12975,6 +13575,15 @@
     ]
   ],
   [
+    31954,
+    "wow_retail",
+    [
+      "ElvUI_ChatTweaks",
+      "ElvUI_ChatTweaks_Debug",
+      "ElvUI_ChatTweaks_Extra"
+    ]
+  ],
+  [
     99205,
     "wow_retail",
     [
@@ -12993,6 +13602,13 @@
     "wow_classic",
     [
       "ElvUI_CodeNameBlaze"
+    ]
+  ],
+  [
+    41214,
+    "wow_retail",
+    [
+      "ElvUI_Companions"
     ]
   ],
   [
@@ -13038,6 +13654,13 @@
     ]
   ],
   [
+    69207,
+    "wow_retail",
+    [
+      "ElvUI_EquipmentSetsDT"
+    ]
+  ],
+  [
     37961,
     "wow_retail",
     [
@@ -13066,6 +13689,13 @@
     ]
   ],
   [
+    322663,
+    "wow_retail",
+    [
+      "ElvUI_MicroMenuDatatext"
+    ]
+  ],
+  [
     336264,
     "wow_retail",
     [
@@ -13084,6 +13714,13 @@
     "wow_retail",
     [
       "ElvUI_InfoBar"
+    ]
+  ],
+  [
+    50157,
+    "wow_retail",
+    [
+      "ElvUI_ItemLevelDatatext"
     ]
   ],
   [
@@ -13171,6 +13808,13 @@
     ]
   ],
   [
+    40227,
+    "wow_retail",
+    [
+      "ElvUI_Professions"
+    ]
+  ],
+  [
     342089,
     "wow_classic",
     [
@@ -13182,6 +13826,13 @@
     "wow_retail",
     [
       "ElvUI_PDBC"
+    ]
+  ],
+  [
+    50698,
+    "wow_retail",
+    [
+      "ElvUI_RaidMarkers"
     ]
   ],
   [
@@ -13206,6 +13857,20 @@
     ]
   ],
   [
+    39618,
+    "wow_retail",
+    [
+      "ElvUI_SLE"
+    ]
+  ],
+  [
+    39618,
+    "wow_retail",
+    [
+      "ElvUI_SLE"
+    ]
+  ],
+  [
     88204,
     "wow_retail",
     [
@@ -13217,6 +13882,20 @@
     "wow_retail",
     [
       "ElvUI_SkullflowerTP"
+    ]
+  ],
+  [
+    40226,
+    "wow_retail",
+    [
+      "ElvUI_SystemDatatext"
+    ]
+  ],
+  [
+    40518,
+    "wow_retail",
+    [
+      "ElvUI_TitlesDatatext"
     ]
   ],
   [
@@ -14199,6 +14878,13 @@
   ],
   [
     325012,
+    "wow_retail",
+    [
+      "FPS_Counter"
+    ]
+  ],
+  [
+    325012,
     "wow_classic",
     [
       "FPS_Counter"
@@ -14247,6 +14933,13 @@
     "wow_retail",
     [
       "FadeObjectiveTracker"
+    ]
+  ],
+  [
+    29820,
+    "wow_retail",
+    [
+      "FakeAchievement"
     ]
   ],
   [
@@ -14384,7 +15077,7 @@
   ],
   [
     313283,
-    "wow_classic",
+    "wow_retail",
     [
       "FastGuildInvite"
     ]
@@ -14399,6 +15092,13 @@
   [
     313283,
     "wow_retail",
+    [
+      "FastGuildInvite"
+    ]
+  ],
+  [
+    313283,
+    "wow_classic",
     [
       "FastGuildInvite"
     ]
@@ -14706,7 +15406,28 @@
   ],
   [
     6079,
+    "wow_retail",
+    [
+      "Fizzle"
+    ]
+  ],
+  [
+    6079,
     "wow_classic",
+    [
+      "Fizzle"
+    ]
+  ],
+  [
+    6079,
+    "wow_retail",
+    [
+      "Fizzle"
+    ]
+  ],
+  [
+    6079,
+    "wow_retail",
     [
       "Fizzle"
     ]
@@ -14730,6 +15451,20 @@
     "wow_retail",
     [
       "FlappySyrac"
+    ]
+  ],
+  [
+    93965,
+    "wow_retail",
+    [
+      "FlashTaskBar"
+    ]
+  ],
+  [
+    93965,
+    "wow_retail",
+    [
+      "FlashTaskBar"
     ]
   ],
   [
@@ -14769,14 +15504,14 @@
   ],
   [
     319425,
-    "wow_classic",
+    "wow_retail",
     [
       "FleecingTip"
     ]
   ],
   [
     319425,
-    "wow_retail",
+    "wow_classic",
     [
       "FleecingTip"
     ]
@@ -14893,6 +15628,20 @@
       "FlyoutButtonCustom",
       "NoTaint_Glow",
       "TinyExtraBars_MacroTextHelpers"
+    ]
+  ],
+  [
+    13858,
+    "wow_retail",
+    [
+      "FocusInterruptSounds"
+    ]
+  ],
+  [
+    13858,
+    "wow_retail",
+    [
+      "FocusInterruptSounds"
     ]
   ],
   [
@@ -15101,6 +15850,13 @@
     ]
   ],
   [
+    43444,
+    "wow_retail",
+    [
+      "FriendListColors"
+    ]
+  ],
+  [
     25543,
     "wow_retail",
     [
@@ -15271,6 +16027,20 @@
   ],
   [
     20697,
+    "wow_retail",
+    [
+      "GTFO"
+    ]
+  ],
+  [
+    20697,
+    "wow_retail",
+    [
+      "GTFO"
+    ]
+  ],
+  [
+    20697,
     "wow_classic",
     [
       "GTFO"
@@ -15286,6 +16056,13 @@
   [
     94310,
     "wow_classic",
+    [
+      "GW2_UI"
+    ]
+  ],
+  [
+    94310,
+    "wow_retail",
     [
       "GW2_UI"
     ]
@@ -15811,14 +16588,14 @@
   ],
   [
     88009,
-    "wow_retail",
+    "wow_classic",
     [
       "GlobalIgnoreList"
     ]
   ],
   [
     88009,
-    "wow_classic",
+    "wow_retail",
     [
       "GlobalIgnoreList"
     ]
@@ -15949,6 +16726,20 @@
     "wow_retail",
     [
       "GnomTEC_Weather"
+    ]
+  ],
+  [
+    20555,
+    "wow_retail",
+    [
+      "Gnosis"
+    ]
+  ],
+  [
+    20555,
+    "wow_retail",
+    [
+      "Gnosis"
     ]
   ],
   [
@@ -16130,29 +16921,67 @@
   ],
   [
     28774,
-    "wow_retail",
+    "wow_classic",
     [
       "Grail-Achievements",
-      "Grail-Reputations",
+      "Grail-Reputations-_classic_",
+      "Grail-Reputations-_retail_",
       "Grail-When",
       "Grail-Rewards",
-      "Grail-Quests-deDE",
-      "Grail-Quests-enUS",
-      "Grail-Quests-esES",
-      "Grail-Quests-esMX",
-      "Grail-Quests-frFR",
-      "Grail-Quests-itIT",
-      "Grail-Quests-koKR",
-      "Grail-Quests-ptBR",
-      "Grail-Quests-ruRU",
-      "Grail-Quests-zhCN",
-      "Grail-Quests-zhTW",
+      "Grail-Quests-_classic_-deDE",
+      "Grail-Quests-_classic_-enUS",
+      "Grail-Quests-_classic_-esES",
+      "Grail-Quests-_classic_-esMX",
+      "Grail-Quests-_classic_-frFR",
+      "Grail-Quests-_classic_-itIT",
+      "Grail-Quests-_classic_-koKR",
+      "Grail-Quests-_classic_-ptBR",
+      "Grail-Quests-_classic_-ruRU",
+      "Grail-Quests-_classic_-zhCN",
+      "Grail-Quests-_classic_-zhTW",
+      "Grail-Quests-_classic_",
+      "Grail-Quests-_retail_-deDE",
+      "Grail-Quests-_retail_-enUS",
+      "Grail-Quests-_retail_-esES",
+      "Grail-Quests-_retail_-esMX",
+      "Grail-Quests-_retail_-frFR",
+      "Grail-Quests-_retail_-itIT",
+      "Grail-Quests-_retail_-koKR",
+      "Grail-Quests-_retail_-ptBR",
+      "Grail-Quests-_retail_-ruRU",
+      "Grail-Quests-_retail_-zhCN",
+      "Grail-Quests-_retail_-zhTW",
+      "Grail-Quests-_retail_",
+      "Grail-NPCs-_classic_-deDE",
+      "Grail-NPCs-_classic_-enUS",
+      "Grail-NPCs-_classic_-esES",
+      "Grail-NPCs-_classic_-esMX",
+      "Grail-NPCs-_classic_-frFR",
+      "Grail-NPCs-_classic_-itIT",
+      "Grail-NPCs-_classic_-koKR",
+      "Grail-NPCs-_classic_-ptBR",
+      "Grail-NPCs-_classic_-ruRU",
+      "Grail-NPCs-_classic_-zhCN",
+      "Grail-NPCs-_classic_-zhTW",
+      "Grail-NPCs-_classic_",
+      "Grail-NPCs-_retail_-deDE",
+      "Grail-NPCs-_retail_-enUS",
+      "Grail-NPCs-_retail_-esES",
+      "Grail-NPCs-_retail_-esMX",
+      "Grail-NPCs-_retail_-frFR",
+      "Grail-NPCs-_retail_-itIT",
+      "Grail-NPCs-_retail_-koKR",
+      "Grail-NPCs-_retail_-ptBR",
+      "Grail-NPCs-_retail_-ruRU",
+      "Grail-NPCs-_retail_-zhCN",
+      "Grail-NPCs-_retail_-zhTW",
+      "Grail-NPCs-_retail_",
       "Grail"
     ]
   ],
   [
     28774,
-    "wow_classic",
+    "wow_retail",
     [
       "Grail-Achievements",
       "Grail-Reputations-_classic_",
@@ -16233,6 +17062,13 @@
   ],
   [
     28032,
+    "wow_retail",
+    [
+      "GreenWall"
+    ]
+  ],
+  [
+    28032,
     "wow_classic",
     [
       "GreenWall"
@@ -16248,6 +17084,13 @@
   [
     336164,
     "wow_classic",
+    [
+      "GreyHandling"
+    ]
+  ],
+  [
+    336164,
+    "wow_retail",
     [
       "GreyHandling"
     ]
@@ -16470,6 +17313,20 @@
     ]
   ],
   [
+    28185,
+    "wow_retail",
+    [
+      "GridStatusRD_Cata"
+    ]
+  ],
+  [
+    28185,
+    "wow_retail",
+    [
+      "GridStatusRD_Cata"
+    ]
+  ],
+  [
     101130,
     "wow_retail",
     [
@@ -16481,6 +17338,34 @@
     "wow_retail",
     [
       "GridStatusRD_Legion"
+    ]
+  ],
+  [
+    43401,
+    "wow_retail",
+    [
+      "GridStatusRD_MoP"
+    ]
+  ],
+  [
+    43401,
+    "wow_retail",
+    [
+      "GridStatusRD_MoP"
+    ]
+  ],
+  [
+    90159,
+    "wow_retail",
+    [
+      "GridStatusRD_OldRaids"
+    ]
+  ],
+  [
+    90159,
+    "wow_retail",
+    [
+      "GridStatusRD_OldRaids"
     ]
   ],
   [
@@ -16493,6 +17378,27 @@
   [
     42578,
     "wow_classic",
+    [
+      "GridStatusRaidDebuff"
+    ]
+  ],
+  [
+    42578,
+    "wow_retail",
+    [
+      "GridStatusRaidDebuff"
+    ]
+  ],
+  [
+    42578,
+    "wow_retail",
+    [
+      "GridStatusRaidDebuff"
+    ]
+  ],
+  [
+    42578,
+    "wow_retail",
     [
       "GridStatusRaidDebuff"
     ]
@@ -17175,6 +18081,13 @@
     ]
   ],
   [
+    327409,
+    "wow_retail",
+    [
+      "GuildBankExport"
+    ]
+  ],
+  [
     19630,
     "wow_retail",
     [
@@ -17476,6 +18389,34 @@
     ]
   ],
   [
+    14154,
+    "wow_retail",
+    [
+      "HandyNotes"
+    ]
+  ],
+  [
+    14154,
+    "wow_retail",
+    [
+      "HandyNotes"
+    ]
+  ],
+  [
+    14154,
+    "wow_retail",
+    [
+      "HandyNotes"
+    ]
+  ],
+  [
+    14154,
+    "wow_retail",
+    [
+      "HandyNotes"
+    ]
+  ],
+  [
     276954,
     "wow_retail",
     [
@@ -17651,6 +18592,13 @@
     ]
   ],
   [
+    317860,
+    "wow_retail",
+    [
+      "HandyNotes_FerryNetwork"
+    ]
+  ],
+  [
     305235,
     "wow_retail",
     [
@@ -17781,6 +18729,20 @@
     "wow_retail",
     [
       "HandyNotes_LongForgottenHippogryph"
+    ]
+  ],
+  [
+    45566,
+    "wow_retail",
+    [
+      "HandyNotes_Lorewalkers"
+    ]
+  ],
+  [
+    45566,
+    "wow_retail",
+    [
+      "HandyNotes_Lorewalkers"
     ]
   ],
   [
@@ -17921,6 +18883,13 @@
     "wow_retail",
     [
       "HandyNotes_WitheredArmyTraining"
+    ]
+  ],
+  [
+    298530,
+    "wow_retail",
+    [
+      "HandyNotes_WorldMapButton"
     ]
   ],
   [
@@ -18509,6 +19478,27 @@
     "wow_retail",
     [
       "HeroLib",
+      "HeroCache"
+    ]
+  ],
+  [
+    103143,
+    "wow_retail",
+    [
+      "HeroLib",
+      "HeroRotation",
+      "HeroRotation_DeathKnight",
+      "HeroRotation_DemonHunter",
+      "HeroRotation_Druid",
+      "HeroRotation_Hunter",
+      "HeroRotation_Mage",
+      "HeroRotation_Monk",
+      "HeroRotation_Paladin",
+      "HeroRotation_Priest",
+      "HeroRotation_Rogue",
+      "HeroRotation_Shaman",
+      "HeroRotation_Warlock",
+      "HeroRotation_Warrior",
       "HeroCache"
     ]
   ],
@@ -19203,6 +20193,30 @@
     ]
   ],
   [
+    5394,
+    "wow_classic",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_retail",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_retail",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
     327561,
     "wow_retail",
     [
@@ -19214,6 +20228,20 @@
     "wow_retail",
     [
       "IcyVeinsStatPriority"
+    ]
+  ],
+  [
+    4479,
+    "wow_retail",
+    [
+      "Identity-2"
+    ]
+  ],
+  [
+    4479,
+    "wow_retail",
+    [
+      "Identity-2"
     ]
   ],
   [
@@ -19650,6 +20678,13 @@
     ]
   ],
   [
+    280284,
+    "wow_retail",
+    [
+      "InviteOnWhisper"
+    ]
+  ],
+  [
     304489,
     "wow_retail",
     [
@@ -19835,6 +20870,13 @@
     ]
   ],
   [
+    26949,
+    "wow_retail",
+    [
+      "Interrupted"
+    ]
+  ],
+  [
     317881,
     "wow_retail",
     [
@@ -19947,17 +20989,17 @@
     ]
   ],
   [
+    344146,
+    "wow_retail",
+    [
+      "JellyDepositLocations"
+    ]
+  ],
+  [
     341301,
     "wow_classic",
     [
       "JerkScript"
-    ]
-  ],
-  [
-    344239,
-    "wow_classic",
-    [
-      "Guidelime_JoanaGuideHorde1-60"
     ]
   ],
   [
@@ -20822,14 +21864,14 @@
   ],
   [
     95683,
-    "wow_retail",
+    "wow_classic",
     [
       "Kui_Nameplates_Elite"
     ]
   ],
   [
     95683,
-    "wow_classic",
+    "wow_retail",
     [
       "Kui_Nameplates_Elite"
     ]
@@ -20853,6 +21895,20 @@
     "wow_retail",
     [
       "Kui_SpellList_Config"
+    ]
+  ],
+  [
+    308768,
+    "wow_retail",
+    [
+      "Kui_Stanzilla"
+    ]
+  ],
+  [
+    308768,
+    "wow_retail",
+    [
+      "Kui_Stanzilla"
     ]
   ],
   [
@@ -20982,6 +22038,13 @@
     ]
   ],
   [
+    29638,
+    "wow_retail",
+    [
+      "LFRAdvanced"
+    ]
+  ],
+  [
     292771,
     "wow_retail",
     [
@@ -21049,6 +22112,13 @@
     "wow_retail",
     [
       "LPT Loot Roll"
+    ]
+  ],
+  [
+    29990,
+    "wow_retail",
+    [
+      "LUI"
     ]
   ],
   [
@@ -21161,6 +22231,13 @@
     ]
   ],
   [
+    290074,
+    "wow_retail",
+    [
+      "LazyCurve"
+    ]
+  ],
+  [
     302174,
     "wow_retail",
     [
@@ -21182,13 +22259,6 @@
     ]
   ],
   [
-    324034,
-    "wow_classic",
-    [
-      "Leatrix_Maps"
-    ]
-  ],
-  [
     322362,
     "wow_classic",
     [
@@ -21196,10 +22266,10 @@
     ]
   ],
   [
-    322362,
-    "wow_classic",
+    304659,
+    "wow_retail",
     [
-      "Leatrix_Plus"
+      "Leatrix_Sounds"
     ]
   ],
   [
@@ -21207,6 +22277,13 @@
     "wow_classic",
     [
       "Leatrix_Sounds"
+    ]
+  ],
+  [
+    324297,
+    "wow_retail",
+    [
+      "Leatrix_Tunes"
     ]
   ],
   [
@@ -21308,6 +22385,13 @@
     [
       "LegionInvasionTimer_Options",
       "LegionInvasionTimer"
+    ]
+  ],
+  [
+    101091,
+    "wow_retail",
+    [
+      "LegionTreasures"
     ]
   ],
   [
@@ -22235,6 +23319,13 @@
     ]
   ],
   [
+    14301,
+    "wow_retail",
+    [
+      "LibPeriodicTable-3.1"
+    ]
+  ],
+  [
     44326,
     "wow_retail",
     [
@@ -22288,6 +23379,20 @@
     "wow_classic",
     [
       "LibProfessions"
+    ]
+  ],
+  [
+    342783,
+    "wow_retail",
+    [
+      "LibProfessions"
+    ]
+  ],
+  [
+    55985,
+    "wow_classic",
+    [
+      "LibPubSub-1.0"
     ]
   ],
   [
@@ -22349,6 +23454,21 @@
     ]
   ],
   [
+    323772,
+    "wow_retail",
+    [
+      "LibRaiderIO",
+      "LibRaiderIO_Loader"
+    ]
+  ],
+  [
+    342336,
+    "wow_retail",
+    [
+      "LibRaiderIO_Loader"
+    ]
+  ],
+  [
     342336,
     "wow_retail",
     [
@@ -22388,6 +23508,13 @@
     "wow_classic",
     [
       "LibRecipes-1.0"
+    ]
+  ],
+  [
+    254113,
+    "wow_retail",
+    [
+      "LibRecipes-2.0"
     ]
   ],
   [
@@ -22685,6 +23812,27 @@
     ]
   ],
   [
+    47184,
+    "wow_retail",
+    [
+      "Liquorice"
+    ]
+  ],
+  [
+    47184,
+    "wow_retail",
+    [
+      "Liquorice"
+    ]
+  ],
+  [
+    286508,
+    "wow_retail",
+    [
+      "!ListLooter"
+    ]
+  ],
+  [
     100697,
     "wow_retail",
     [
@@ -22692,10 +23840,32 @@
     ]
   ],
   [
+    4462,
+    "wow_retail",
+    [
+      "LiteAssistBroker",
+      "LiteAssist"
+    ]
+  ],
+  [
     50424,
     "wow_retail",
     [
       "LiteBag"
+    ]
+  ],
+  [
+    50424,
+    "wow_retail",
+    [
+      "LiteBag"
+    ]
+  ],
+  [
+    30359,
+    "wow_retail",
+    [
+      "LiteMount"
     ]
   ],
   [
@@ -22731,6 +23901,13 @@
     "wow_retail",
     [
       "Livestock"
+    ]
+  ],
+  [
+    344998,
+    "wow_retail",
+    [
+      "Livv"
     ]
   ],
   [
@@ -22912,6 +24089,118 @@
     ]
   ],
   [
+    259706,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Bindings",
+      "LookingForGroup_Broker",
+      "LookingForGroup_CR",
+      "LookingForGroup_CRE",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Icon",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
+      "LookingForGroup_Options",
+      "LookingForGroup_PVP",
+      "LookingForGroup_Q",
+      "LookingForGroup_QJ",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "LookingForGroup_Solo",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    259706,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Bindings",
+      "LookingForGroup_Broker",
+      "LookingForGroup_CR",
+      "LookingForGroup_CRE",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Icon",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
+      "LookingForGroup_Options",
+      "LookingForGroup_PVP",
+      "LookingForGroup_Q",
+      "LookingForGroup_QJ",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "LookingForGroup_Solo",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    259706,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Bindings",
+      "LookingForGroup_Broker",
+      "LookingForGroup_CR",
+      "LookingForGroup_CRE",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Icon",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
+      "LookingForGroup_Options",
+      "LookingForGroup_PVP",
+      "LookingForGroup_Q",
+      "LookingForGroup_QJ",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "LookingForGroup_Solo",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    259706,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Bindings",
+      "LookingForGroup_Broker",
+      "LookingForGroup_CR",
+      "LookingForGroup_CRE",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Icon",
+      "LookingForGroup_LFDLFR",
+      "LookingForGroup_M+",
+      "LookingForGroup_Options",
+      "LookingForGroup_PVP",
+      "LookingForGroup_Q",
+      "LookingForGroup_QJ",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "LookingForGroup_Solo",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289757,
+    "wow_retail",
+    [
+      "LookingForGroup_AV_Options",
+      "LookingForGroup_AV"
+    ]
+  ],
+  [
+    289757,
+    "wow_retail",
+    [
+      "LookingForGroup_AV_Options",
+      "LookingForGroup_AV"
+    ]
+  ],
+  [
     289757,
     "wow_retail",
     [
@@ -22941,6 +24230,20 @@
     [
       "LookingForGroup_AV_Options",
       "LookingForGroup_AV"
+    ]
+  ],
+  [
+    322354,
+    "wow_retail",
+    [
+      "LookingForGroup_Barrels_o'_Fun"
+    ]
+  ],
+  [
+    314746,
+    "wow_retail",
+    [
+      "LookingForGroup_Blacklist_CN"
     ]
   ],
   [
@@ -22992,6 +24295,20 @@
     ]
   ],
   [
+    295140,
+    "wow_retail",
+    [
+      "LookingForGroup_CRE"
+    ]
+  ],
+  [
+    294371,
+    "wow_retail",
+    [
+      "LookingForGroup_Elite"
+    ]
+  ],
+  [
     294371,
     "wow_retail",
     [
@@ -23013,6 +24330,41 @@
     ]
   ],
   [
+    322237,
+    "wow_retail",
+    [
+      "LookingForGroup_Flags_EU"
+    ]
+  ],
+  [
+    323642,
+    "wow_retail",
+    [
+      "LookingForGroup_Flags_US"
+    ]
+  ],
+  [
+    317550,
+    "wow_retail",
+    [
+      "LookingForGroup_Ganking"
+    ]
+  ],
+  [
+    331888,
+    "wow_retail",
+    [
+      "LookingForGroup_Inspector"
+    ]
+  ],
+  [
+    331888,
+    "wow_retail",
+    [
+      "LookingForGroup_Inspector"
+    ]
+  ],
+  [
     293567,
     "wow_retail",
     [
@@ -23024,6 +24376,20 @@
     "wow_retail",
     [
       "LookingForGroup_InvasionPoint"
+    ]
+  ],
+  [
+    293567,
+    "wow_retail",
+    [
+      "LookingForGroup_InvasionPoint"
+    ]
+  ],
+  [
+    289771,
+    "wow_retail",
+    [
+      "LookingForGroup_LFDLFR"
     ]
   ],
   [
@@ -23048,6 +24414,20 @@
     ]
   ],
   [
+    324546,
+    "wow_retail",
+    [
+      "LookingForGroup_M+"
+    ]
+  ],
+  [
+    299459,
+    "wow_retail",
+    [
+      "LookingForGroup_PVP"
+    ]
+  ],
+  [
     299459,
     "wow_retail",
     [
@@ -23066,6 +24446,20 @@
     "wow_retail",
     [
       "LookingForGroup_PGF"
+    ]
+  ],
+  [
+    294372,
+    "wow_retail",
+    [
+      "LookingForGroup_PGF"
+    ]
+  ],
+  [
+    289756,
+    "wow_retail",
+    [
+      "LookingForGroup_QJ"
     ]
   ],
   [
@@ -23091,10 +24485,32 @@
     ]
   ],
   [
+    286074,
+    "wow_retail",
+    [
+      "LookingForGroup_RaiderIO",
+      "LibRaiderIO_Loader"
+    ]
+  ],
+  [
     268648,
     "wow_retail",
     [
       "LookingForGroup_RW"
+    ]
+  ],
+  [
+    268648,
+    "wow_retail",
+    [
+      "LookingForGroup_RW"
+    ]
+  ],
+  [
+    314001,
+    "wow_retail",
+    [
+      "LookingForGroup_Solo"
     ]
   ],
   [
@@ -23425,6 +24841,13 @@
     ]
   ],
   [
+    334197,
+    "wow_retail",
+    [
+      "Mama"
+    ]
+  ],
+  [
     14354,
     "wow_retail",
     [
@@ -23737,6 +25160,20 @@
   ],
   [
     8094,
+    "wow_retail",
+    [
+      "ManaPerc"
+    ]
+  ],
+  [
+    8094,
+    "wow_retail",
+    [
+      "ManaPerc"
+    ]
+  ],
+  [
+    8094,
     "wow_classic",
     [
       "ManaPerc"
@@ -23859,6 +25296,20 @@
     "wow_retail",
     [
       "MarcoPolo"
+    ]
+  ],
+  [
+    96232,
+    "wow_retail",
+    [
+      "MarkOfTheLegionHelper"
+    ]
+  ],
+  [
+    96232,
+    "wow_retail",
+    [
+      "MarkOfTheLegionHelper"
     ]
   ],
   [
@@ -24132,6 +25583,13 @@
     "wow_retail",
     [
       "Masque_Lybrial"
+    ]
+  ],
+  [
+    341408,
+    "wow_retail",
+    [
+      "Masque_Neuron"
     ]
   ],
   [
@@ -24494,6 +25952,106 @@
     ]
   ],
   [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "MeetingStone_Bindings",
+      "MeetingStone_Broker",
+      "MeetingStone_FW",
+      "MeetingStone_Icon",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "MeetingStone_Bindings",
+      "MeetingStone_Broker",
+      "MeetingStone_FW",
+      "MeetingStone_Icon",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_CR",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    289648,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_CR",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Options",
+      "LookingForGroup_Q",
+      "LookingForGroup_SF",
+      "LookingForGroup_Settings",
+      "MeetingStone",
+      "LookingForGroup"
+    ]
+  ],
+  [
     43972,
     "wow_retail",
     [
@@ -24558,6 +26116,20 @@
   ],
   [
     27758,
+    "wow_retail",
+    [
+      "Memoria"
+    ]
+  ],
+  [
+    27758,
+    "wow_retail",
+    [
+      "Memoria"
+    ]
+  ],
+  [
+    27758,
     "wow_classic",
     [
       "Memoria"
@@ -24614,10 +26186,39 @@
     ]
   ],
   [
+    282646,
+    "wow_retail",
+    [
+      "Meter_Broker",
+      "Meter_Icon",
+      "Meter_O",
+      "Meter_UI",
+      "Meter"
+    ]
+  ],
+  [
+    282646,
+    "wow_retail",
+    [
+      "Meter_Broker",
+      "Meter_Icon",
+      "Meter_O",
+      "Meter_UI",
+      "Meter"
+    ]
+  ],
+  [
     265581,
     "wow_retail",
     [
       "MethodAltManager"
+    ]
+  ],
+  [
+    288981,
+    "wow_retail",
+    [
+      "MethodDungeonTools"
     ]
   ],
   [
@@ -24717,6 +26318,13 @@
     "wow_retail",
     [
       "MiniCurrency"
+    ]
+  ],
+  [
+    43440,
+    "wow_retail",
+    [
+      "MiniLoot"
     ]
   ],
   [
@@ -24966,6 +26574,20 @@
     ]
   ],
   [
+    25121,
+    "wow_retail",
+    [
+      "MizusRaidTracker"
+    ]
+  ],
+  [
+    25121,
+    "wow_retail",
+    [
+      "MizusRaidTracker"
+    ]
+  ],
+  [
     1080,
     "wow_retail",
     [
@@ -25028,6 +26650,13 @@
       "MogIt_Ranged",
       "MogIt_TwoHanded",
       "MogIt"
+    ]
+  ],
+  [
+    300034,
+    "wow_retail",
+    [
+      "MogIt_GreenScreen"
     ]
   ],
   [
@@ -25280,6 +26909,13 @@
     ]
   ],
   [
+    86372,
+    "wow_retail",
+    [
+      "MountJournalEnhanced"
+    ]
+  ],
+  [
     256082,
     "wow_retail",
     [
@@ -25344,6 +26980,13 @@
     ]
   ],
   [
+    293280,
+    "wow_retail",
+    [
+      "MountsJournal"
+    ]
+  ],
+  [
     297450,
     "wow_retail",
     [
@@ -25355,6 +26998,13 @@
     "wow_retail",
     [
       "MouseOver"
+    ]
+  ],
+  [
+    95758,
+    "wow_retail",
+    [
+      "mousesonar"
     ]
   ],
   [
@@ -25600,6 +27250,26 @@
     ]
   ],
   [
+    256399,
+    "wow_retail",
+    [
+      "MusicBox_GameMusic",
+      "MusicBox_Icon",
+      "MusicBox_Options",
+      "MusicBox"
+    ]
+  ],
+  [
+    256399,
+    "wow_retail",
+    [
+      "MusicBox_GameMusic",
+      "MusicBox_Icon",
+      "MusicBox_Options",
+      "MusicBox"
+    ]
+  ],
+  [
     339674,
     "wow_classic",
     [
@@ -25619,6 +27289,13 @@
   ],
   [
     290830,
+    "wow_retail",
+    [
+      "Musician"
+    ]
+  ],
+  [
+    290830,
     "wow_classic",
     [
       "Musician"
@@ -25627,6 +27304,13 @@
   [
     306254,
     "wow_classic",
+    [
+      "MusicianList"
+    ]
+  ],
+  [
+    306254,
+    "wow_retail",
     [
       "MusicianList"
     ]
@@ -25771,6 +27455,13 @@
     "wow_retail",
     [
       "MyBigClock"
+    ]
+  ],
+  [
+    341693,
+    "wow_classic",
+    [
+      "MyChatAlert"
     ]
   ],
   [
@@ -26161,6 +27852,13 @@
     ]
   ],
   [
+    66866,
+    "wow_retail",
+    [
+      "NameplateCooldowns"
+    ]
+  ],
+  [
     300936,
     "wow_retail",
     [
@@ -26329,6 +28027,27 @@
     ]
   ],
   [
+    299093,
+    "wow_retail",
+    [
+      "NeatPlatesHub",
+      "NeatPlatesWidgets",
+      "NeatPlates_Alvara",
+      "NeatPlates_BlizzardPlates",
+      "NeatPlates_ClassicPlates",
+      "NeatPlates_Graphite",
+      "NeatPlates_Grey",
+      "NeatPlates_Neon",
+      "NeatPlates_Quatre",
+      "NeatPlates_Renaitre",
+      "NeatPlates_Roth",
+      "NeatPlates_Simple",
+      "NeatPlates_Slim_Horizontal",
+      "NeatPlates_Slim_Vertical",
+      "NeatPlates"
+    ]
+  ],
+  [
     334389,
     "wow_classic",
     [
@@ -26389,6 +28108,13 @@
     "wow_retail",
     [
       "NetherwingEggs"
+    ]
+  ],
+  [
+    279283,
+    "wow_retail",
+    [
+      "Neuron"
     ]
   ],
   [
@@ -27014,7 +28740,7 @@
   ],
   [
     85814,
-    "wow_retail",
+    "wow_classic",
     [
       "OmniBar"
     ]
@@ -27251,6 +28977,13 @@
     "wow_retail",
     [
       "Outfitter"
+    ]
+  ],
+  [
+    7749,
+    "wow_retail",
+    [
+      "Ovale"
     ]
   ],
   [
@@ -27560,14 +29293,14 @@
   ],
   [
     4646,
-    "wow_retail",
+    "wow_classic",
     [
       "Pawn"
     ]
   ],
   [
     4646,
-    "wow_classic",
+    "wow_retail",
     [
       "Pawn"
     ]
@@ -27863,6 +29596,13 @@
     ]
   ],
   [
+    90885,
+    "wow_retail",
+    [
+      "PetBattleFFVictory"
+    ]
+  ],
+  [
     277254,
     "wow_retail",
     [
@@ -28019,6 +29759,13 @@
     ]
   ],
   [
+    345130,
+    "wow_classic",
+    [
+      "PetXP"
+    ]
+  ],
+  [
     97449,
     "wow_retail",
     [
@@ -28160,6 +29907,20 @@
     ]
   ],
   [
+    7522,
+    "wow_retail",
+    [
+      "PitBull4"
+    ]
+  ],
+  [
+    7522,
+    "wow_retail",
+    [
+      "PitBull4"
+    ]
+  ],
+  [
     331518,
     "wow_classic",
     [
@@ -28218,6 +29979,20 @@
   [
     100547,
     "wow_classic",
+    [
+      "Plater"
+    ]
+  ],
+  [
+    100547,
+    "wow_retail",
+    [
+      "Plater"
+    ]
+  ],
+  [
+    100547,
+    "wow_retail",
     [
       "Plater"
     ]
@@ -28325,6 +30100,20 @@
     "wow_classic",
     [
       "Poisoner"
+    ]
+  ],
+  [
+    16997,
+    "wow_retail",
+    [
+      "Pokedex"
+    ]
+  ],
+  [
+    16997,
+    "wow_retail",
+    [
+      "Pokedex"
     ]
   ],
   [
@@ -28984,6 +30773,206 @@
     ]
   ],
   [
+    299984,
+    "wow_retail",
+    [
+      "QUI_Ace3",
+      "QUI_Actionbar",
+      "QUI_AddOns",
+      "QUI_Auction",
+      "QUI_Aura",
+      "QUI_Bag",
+      "QUI_Binding",
+      "QUI_Castbar",
+      "QUI_Character",
+      "QUI_Chat",
+      "QUI_Collections",
+      "QUI_Communities",
+      "QUI_DBM",
+      "QUI_EncounterJournal",
+      "QUI_GameMenu",
+      "QUI_Gossip",
+      "QUI_LFG",
+      "QUI_LuaError",
+      "QUI_Macro",
+      "QUI_Map",
+      "QUI_Merchant",
+      "QUI_Microbar",
+      "QUI_Minimap",
+      "QUI_MirrorTimer",
+      "QUI_Myslot",
+      "QUI_Nameplate",
+      "QUI_O",
+      "QUI_Objective",
+      "QUI_OrderHall",
+      "QUI_PVP",
+      "QUI_ReadyCheck",
+      "QUI_SBT",
+      "QUI_Social",
+      "QUI_SpellBook",
+      "QUI_StaticPopup",
+      "QUI_Status",
+      "QUI_System",
+      "QUI_Talent",
+      "QUI_TalkingHead",
+      "QUI_Tooltip",
+      "QUI_TradeSkill",
+      "QUI_UnitFrame",
+      "QUI_WowLua",
+      "QUI"
+    ]
+  ],
+  [
+    299984,
+    "wow_retail",
+    [
+      "QUI_Ace3",
+      "QUI_Actionbar",
+      "QUI_AddOns",
+      "QUI_Auction",
+      "QUI_Aura",
+      "QUI_Bag",
+      "QUI_Binding",
+      "QUI_Castbar",
+      "QUI_Character",
+      "QUI_Chat",
+      "QUI_Collections",
+      "QUI_Communities",
+      "QUI_DBM",
+      "QUI_EncounterJournal",
+      "QUI_GameMenu",
+      "QUI_Gossip",
+      "QUI_LFG",
+      "QUI_LuaError",
+      "QUI_Macro",
+      "QUI_Map",
+      "QUI_Merchant",
+      "QUI_Microbar",
+      "QUI_Minimap",
+      "QUI_MirrorTimer",
+      "QUI_Myslot",
+      "QUI_Nameplate",
+      "QUI_O",
+      "QUI_Objective",
+      "QUI_OrderHall",
+      "QUI_PVP",
+      "QUI_ReadyCheck",
+      "QUI_SBT",
+      "QUI_Social",
+      "QUI_SpellBook",
+      "QUI_StaticPopup",
+      "QUI_Status",
+      "QUI_System",
+      "QUI_Talent",
+      "QUI_TalkingHead",
+      "QUI_Tooltip",
+      "QUI_TradeSkill",
+      "QUI_UnitFrame",
+      "QUI_WowLua",
+      "QUI"
+    ]
+  ],
+  [
+    299984,
+    "wow_retail",
+    [
+      "QUI_Ace3",
+      "QUI_Actionbar",
+      "QUI_AddOns",
+      "QUI_Auction",
+      "QUI_Aura",
+      "QUI_Bag",
+      "QUI_Binding",
+      "QUI_Castbar",
+      "QUI_Character",
+      "QUI_Chat",
+      "QUI_Collections",
+      "QUI_Communities",
+      "QUI_DBM",
+      "QUI_EncounterJournal",
+      "QUI_GameMenu",
+      "QUI_Gossip",
+      "QUI_LFG",
+      "QUI_LuaError",
+      "QUI_Macro",
+      "QUI_Map",
+      "QUI_Merchant",
+      "QUI_Microbar",
+      "QUI_Minimap",
+      "QUI_MirrorTimer",
+      "QUI_Myslot",
+      "QUI_Nameplate",
+      "QUI_O",
+      "QUI_Objective",
+      "QUI_OrderHall",
+      "QUI_PVP",
+      "QUI_ReadyCheck",
+      "QUI_SBT",
+      "QUI_Social",
+      "QUI_SpellBook",
+      "QUI_StaticPopup",
+      "QUI_Status",
+      "QUI_System",
+      "QUI_Talent",
+      "QUI_TalkingHead",
+      "QUI_Tooltip",
+      "QUI_TradeSkill",
+      "QUI_UnitFrame",
+      "QUI_WowLua",
+      "QUI"
+    ]
+  ],
+  [
+    299984,
+    "wow_retail",
+    [
+      "QUI_Ace3",
+      "QUI_Actionbar",
+      "QUI_AddOns",
+      "QUI_Auction",
+      "QUI_Aura",
+      "QUI_Bag",
+      "QUI_Binding",
+      "QUI_Castbar",
+      "QUI_Character",
+      "QUI_Chat",
+      "QUI_Collections",
+      "QUI_Communities",
+      "QUI_DBM",
+      "QUI_EncounterJournal",
+      "QUI_GameMenu",
+      "QUI_Gossip",
+      "QUI_LFG",
+      "QUI_LuaError",
+      "QUI_Macro",
+      "QUI_Map",
+      "QUI_Merchant",
+      "QUI_Microbar",
+      "QUI_Minimap",
+      "QUI_MirrorTimer",
+      "QUI_Myslot",
+      "QUI_Nameplate",
+      "QUI_O",
+      "QUI_Objective",
+      "QUI_OrderHall",
+      "QUI_PVP",
+      "QUI_ReadyCheck",
+      "QUI_SBT",
+      "QUI_Social",
+      "QUI_SpellBook",
+      "QUI_StaticPopup",
+      "QUI_Status",
+      "QUI_System",
+      "QUI_Talent",
+      "QUI_TalkingHead",
+      "QUI_Tooltip",
+      "QUI_TradeSkill",
+      "QUI_UnitFrame",
+      "QUI_WowLua",
+      "QUI"
+    ]
+  ],
+  [
     335177,
     "wow_classic",
     [
@@ -29084,19 +31073,19 @@
   ],
   [
     319533,
-    "wow_classic",
+    "wow_retail",
     [
-      "Quafe_LFC",
-      "Quafe_MEKA_Classic",
+      "Quafe_Libs",
+      "Quafe_MEKA",
       "Quafe"
     ]
   ],
   [
     319533,
-    "wow_retail",
+    "wow_classic",
     [
-      "Quafe_Libs",
-      "Quafe_MEKA",
+      "Quafe_Libs_Classic",
+      "Quafe_MEKA_Classic",
       "Quafe"
     ]
   ],
@@ -29220,6 +31209,58 @@
     ]
   ],
   [
+    344147,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    344147,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    344147,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
+    ]
+  ],
+  [
+    344147,
+    "wow_retail",
+    [
+      "LookingForGroup_Auto",
+      "LookingForGroup_Event",
+      "LookingForGroup_Hook",
+      "LookingForGroup_Q",
+      "LookingForGroup_Settings",
+      "LookingForGroup_SF",
+      "LookingForGroup"
+    ]
+  ],
+  [
     334517,
     "wow_classic",
     [
@@ -29298,6 +31339,13 @@
     ]
   ],
   [
+    345166,
+    "wow_classic",
+    [
+      "QuestLogExperience"
+    ]
+  ],
+  [
     300702,
     "wow_retail",
     [
@@ -29337,6 +31385,13 @@
     "wow_retail",
     [
       "QuestPointer"
+    ]
+  ],
+  [
+    296929,
+    "wow_retail",
+    [
+      "QuestTogether"
     ]
   ],
   [
@@ -29600,6 +31655,13 @@
     "wow_retail",
     [
       "RBS"
+    ]
+  ],
+  [
+    39928,
+    "wow_retail",
+    [
+      "RCLootCouncil"
     ]
   ],
   [
@@ -29904,6 +31966,20 @@
     ]
   ],
   [
+    92060,
+    "wow_retail",
+    [
+      "RaidAssist"
+    ]
+  ],
+  [
+    92060,
+    "wow_retail",
+    [
+      "RaidAssist"
+    ]
+  ],
+  [
     297234,
     "wow_retail",
     [
@@ -30132,6 +32208,20 @@
     ]
   ],
   [
+    323963,
+    "wow_retail",
+    [
+      "RaiderIO_LOD_DB_KR_H"
+    ]
+  ],
+  [
+    323964,
+    "wow_retail",
+    [
+      "RaiderIO_LOD_DB_TW_A"
+    ]
+  ],
+  [
     323965,
     "wow_retail",
     [
@@ -30295,6 +32385,27 @@
     "wow_classic",
     [
       "Rank14LosSA-Classic"
+    ]
+  ],
+  [
+    345144,
+    "wow_retail",
+    [
+      "RareShare"
+    ]
+  ],
+  [
+    326009,
+    "wow_retail",
+    [
+      "RareShareMechagon"
+    ]
+  ],
+  [
+    326159,
+    "wow_retail",
+    [
+      "RareShareNazjatar"
     ]
   ],
   [
@@ -30634,10 +32745,38 @@
     ]
   ],
   [
+    280290,
+    "wow_retail",
+    [
+      "RecipeLinkFix"
+    ]
+  ],
+  [
     324032,
     "wow_retail",
     [
       "RecipesVendor"
+    ]
+  ],
+  [
+    4872,
+    "wow_retail",
+    [
+      "Recount"
+    ]
+  ],
+  [
+    4872,
+    "wow_retail",
+    [
+      "Recount"
+    ]
+  ],
+  [
+    4872,
+    "wow_retail",
+    [
+      "Recount"
     ]
   ],
   [
@@ -30827,6 +32966,13 @@
     "wow_classic",
     [
       "RememberYouAddon"
+    ]
+  ],
+  [
+    298933,
+    "wow_retail",
+    [
+      "Reminders"
     ]
   ],
   [
@@ -31494,6 +33640,20 @@
     "wow_retail",
     [
       "SaunanTaakseEmotes"
+    ]
+  ],
+  [
+    13998,
+    "wow_retail",
+    [
+      "SavedInstances"
+    ]
+  ],
+  [
+    13998,
+    "wow_retail",
+    [
+      "SavedInstances"
     ]
   ],
   [
@@ -32197,6 +34357,34 @@
     "wow_retail",
     [
       "SharedMediaAdditionalFonts"
+    ]
+  ],
+  [
+    14640,
+    "wow_retail",
+    [
+      "SharedMediaAdditionalFonts"
+    ]
+  ],
+  [
+    14640,
+    "wow_retail",
+    [
+      "SharedMediaAdditionalFonts"
+    ]
+  ],
+  [
+    60431,
+    "wow_retail",
+    [
+      "SharedMediaAdditionalSounds"
+    ]
+  ],
+  [
+    60431,
+    "wow_retail",
+    [
+      "SharedMediaAdditionalSounds"
     ]
   ],
   [
@@ -32977,6 +35165,34 @@
     ]
   ],
   [
+    14658,
+    "wow_retail",
+    [
+      "SimpleUnitFrames"
+    ]
+  ],
+  [
+    14658,
+    "wow_retail",
+    [
+      "SimpleUnitFrames"
+    ]
+  ],
+  [
+    14658,
+    "wow_retail",
+    [
+      "SimpleUnitFrames"
+    ]
+  ],
+  [
+    14658,
+    "wow_retail",
+    [
+      "SimpleUnitFrames"
+    ]
+  ],
+  [
     322815,
     "wow_classic",
     [
@@ -33009,6 +35225,20 @@
     "wow_retail",
     [
       "SimplyGInv"
+    ]
+  ],
+  [
+    82745,
+    "wow_retail",
+    [
+      "Simulationcraft"
+    ]
+  ],
+  [
+    82745,
+    "wow_retail",
+    [
+      "Simulationcraft"
     ]
   ],
   [
@@ -33079,6 +35309,41 @@
     "wow_retail",
     [
       "SkeletonKey"
+    ]
+  ],
+  [
+    25571,
+    "wow_retail",
+    [
+      "SkillHelper"
+    ]
+  ],
+  [
+    14660,
+    "wow_retail",
+    [
+      "Skillet"
+    ]
+  ],
+  [
+    14660,
+    "wow_retail",
+    [
+      "Skillet"
+    ]
+  ],
+  [
+    14660,
+    "wow_retail",
+    [
+      "Skillet"
+    ]
+  ],
+  [
+    14660,
+    "wow_retail",
+    [
+      "Skillet"
     ]
   ],
   [
@@ -33166,6 +35431,20 @@
     ]
   ],
   [
+    27342,
+    "wow_retail",
+    [
+      "SlaveGirl"
+    ]
+  ],
+  [
+    27342,
+    "wow_retail",
+    [
+      "SlaveGirl"
+    ]
+  ],
+  [
     303703,
     "wow_retail",
     [
@@ -33208,6 +35487,20 @@
     ]
   ],
   [
+    27356,
+    "wow_retail",
+    [
+      "SmartQuest"
+    ]
+  ],
+  [
+    27356,
+    "wow_retail",
+    [
+      "SmartQuest"
+    ]
+  ],
+  [
     335052,
     "wow_retail",
     [
@@ -33233,6 +35526,20 @@
     "wow_classic",
     [
       "SmartBuff"
+    ]
+  ],
+  [
+    20723,
+    "wow_retail",
+    [
+      "SmartError"
+    ]
+  ],
+  [
+    20723,
+    "wow_retail",
+    [
+      "SmartError"
     ]
   ],
   [
@@ -33520,6 +35827,13 @@
     "wow_retail",
     [
       "SortMyRaid"
+    ]
+  ],
+  [
+    345172,
+    "wow_classic",
+    [
+      "sota"
     ]
   ],
   [
@@ -33899,6 +36213,13 @@
     "wow_retail",
     [
       "SpellTracker"
+    ]
+  ],
+  [
+    319461,
+    "wow_retail",
+    [
+      "SpellstealMaster"
     ]
   ],
   [
@@ -34480,6 +36801,13 @@
     "wow_retail",
     [
       "Stopwatch"
+    ]
+  ],
+  [
+    291838,
+    "wow_retail",
+    [
+      "StoryTeller"
     ]
   ],
   [
@@ -35276,8 +37604,22 @@
     ]
   ],
   [
+    258204,
+    "wow_retail",
+    [
+      "TankMD"
+    ]
+  ],
+  [
     81080,
     "wow_classic",
+    [
+      "TargetClassIcon"
+    ]
+  ],
+  [
+    81080,
+    "wow_retail",
     [
       "TargetClassIcon"
     ]
@@ -35325,6 +37667,13 @@
     ]
   ],
   [
+    345018,
+    "wow_classic",
+    [
+      "TargetIt"
+    ]
+  ],
+  [
     22140,
     "wow_retail",
     [
@@ -35357,6 +37706,13 @@
     "wow_retail",
     [
       "TasteTheNaimbow"
+    ]
+  ],
+  [
+    333931,
+    "wow_retail",
+    [
+      "TaxiList"
     ]
   ],
   [
@@ -35746,6 +38102,13 @@
   [
     337415,
     "wow_classic",
+    [
+      "TimerBars"
+    ]
+  ],
+  [
+    337415,
+    "wow_retail",
     [
       "TimerBars"
     ]
@@ -36161,6 +38524,13 @@
     ]
   ],
   [
+    95571,
+    "wow_retail",
+    [
+      "TitanReputations"
+    ]
+  ],
+  [
     19375,
     "wow_retail",
     [
@@ -36246,21 +38616,21 @@
   ],
   [
     94529,
+    "wow_classic",
+    [
+      "TitanProfession"
+    ]
+  ],
+  [
+    94529,
+    "wow_classic",
+    [
+      "TitanProfession"
+    ]
+  ],
+  [
+    94529,
     "wow_retail",
-    [
-      "TitanProfession"
-    ]
-  ],
-  [
-    94529,
-    "wow_classic",
-    [
-      "TitanProfession"
-    ]
-  ],
-  [
-    94529,
-    "wow_classic",
     [
       "TitanProfession"
     ]
@@ -36483,6 +38853,13 @@
     ]
   ],
   [
+    18808,
+    "wow_retail",
+    [
+      "TomTom"
+    ]
+  ],
+  [
     313741,
     "wow_retail",
     [
@@ -36599,6 +38976,13 @@
     "wow_retail",
     [
       "TooltipRealmInfo"
+    ]
+  ],
+  [
+    287586,
+    "wow_retail",
+    [
+      "toon_status"
     ]
   ],
   [
@@ -37286,6 +39670,13 @@
     ]
   ],
   [
+    46527,
+    "wow_classic",
+    [
+      "TrufiGCD"
+    ]
+  ],
+  [
     1154,
     "wow_retail",
     [
@@ -37297,6 +39688,20 @@
     "wow_classic",
     [
       "TurnIn"
+    ]
+  ],
+  [
+    30007,
+    "wow_retail",
+    [
+      "Turninator"
+    ]
+  ],
+  [
+    30007,
+    "wow_retail",
+    [
+      "Turninator"
     ]
   ],
   [
@@ -37545,6 +39950,20 @@
     "wow_retail",
     [
       "UnleashedWrath"
+    ]
+  ],
+  [
+    21715,
+    "wow_retail",
+    [
+      "UnlimitedChatMessage"
+    ]
+  ],
+  [
+    21715,
+    "wow_retail",
+    [
+      "UnlimitedChatMessage"
     ]
   ],
   [
@@ -37916,6 +40335,13 @@
     ]
   ],
   [
+    93790,
+    "wow_retail",
+    [
+      "VoIPAnnouncer"
+    ]
+  ],
+  [
     83086,
     "wow_retail",
     [
@@ -37982,7 +40408,7 @@
   ],
   [
     7950,
-    "wow_retail",
+    "wow_classic",
     [
       "VuhDoOptions",
       "VuhDo"
@@ -37999,22 +40425,6 @@
   [
     7950,
     "wow_classic",
-    [
-      "VuhDoOptions",
-      "VuhDo"
-    ]
-  ],
-  [
-    7950,
-    "wow_classic",
-    [
-      "VuhDoOptions",
-      "VuhDo"
-    ]
-  ],
-  [
-    7950,
-    "wow_retail",
     [
       "VuhDoOptions",
       "VuhDo"
@@ -38707,14 +41117,14 @@
   ],
   [
     30118,
-    "wow_retail",
+    "wow_classic",
     [
       "Wholly"
     ]
   ],
   [
     30118,
-    "wow_classic",
+    "wow_retail",
     [
       "Wholly"
     ]
@@ -38829,6 +41239,13 @@
     "wow_retail",
     [
       "WoWChallenger"
+    ]
+  ],
+  [
+    6060,
+    "wow_retail",
+    [
+      "WowDings"
     ]
   ],
   [
@@ -38974,6 +41391,15 @@
     102055,
     "wow_retail",
     [
+      "WoWQuote2"
+    ]
+  ],
+  [
+    344670,
+    "wow_classic",
+    [
+      "QuoteMediaClassicSounds",
+      "QuoteMediaGermanSounds",
       "WoWQuote2"
     ]
   ],
@@ -39160,6 +41586,20 @@
     ]
   ],
   [
+    100610,
+    "wow_retail",
+    [
+      "WorldQuestTracker"
+    ]
+  ],
+  [
+    100610,
+    "wow_retail",
+    [
+      "WorldQuestTracker"
+    ]
+  ],
+  [
     100436,
     "wow_retail",
     [
@@ -39246,9 +41686,23 @@
   ],
   [
     101439,
+    "wow_retail",
+    [
+      "WowheadLink_Grabber"
+    ]
+  ],
+  [
+    101439,
     "wow_classic",
     [
       "WowheadLink_Grabber"
+    ]
+  ],
+  [
+    326804,
+    "wow_retail",
+    [
+      "WowheadQuickLink"
     ]
   ],
   [
@@ -39447,7 +41901,21 @@
   ],
   [
     14910,
+    "wow_retail",
+    [
+      "XPBarNone"
+    ]
+  ],
+  [
+    14910,
     "wow_classic",
+    [
+      "XPBarNone"
+    ]
+  ],
+  [
+    14910,
+    "wow_retail",
     [
       "XPBarNone"
     ]
@@ -39695,6 +42163,50 @@
   [
     85876,
     "wow_classic",
+    [
+      "ZPerl_ArcaneBar",
+      "ZPerl_CustomHighlight",
+      "ZPerl_Options",
+      "ZPerl_Party",
+      "ZPerl_PartyPet",
+      "ZPerl_Player",
+      "ZPerl_PlayerBuffs",
+      "ZPerl_PlayerPet",
+      "ZPerl_RaidAdmin",
+      "ZPerl_RaidFrames",
+      "ZPerl_RaidHelper",
+      "ZPerl_RaidMonitor",
+      "ZPerl_RaidPets",
+      "ZPerl_Target",
+      "ZPerl_TargetTarget",
+      "ZPerl"
+    ]
+  ],
+  [
+    85876,
+    "wow_retail",
+    [
+      "ZPerl_ArcaneBar",
+      "ZPerl_CustomHighlight",
+      "ZPerl_Options",
+      "ZPerl_Party",
+      "ZPerl_PartyPet",
+      "ZPerl_Player",
+      "ZPerl_PlayerBuffs",
+      "ZPerl_PlayerPet",
+      "ZPerl_RaidAdmin",
+      "ZPerl_RaidFrames",
+      "ZPerl_RaidHelper",
+      "ZPerl_RaidMonitor",
+      "ZPerl_RaidPets",
+      "ZPerl_Target",
+      "ZPerl_TargetTarget",
+      "ZPerl"
+    ]
+  ],
+  [
+    85876,
+    "wow_retail",
     [
       "ZPerl_ArcaneBar",
       "ZPerl_CustomHighlight",
@@ -40090,6 +42602,24 @@
     "wow_retail",
     [
       "chatmover"
+    ]
+  ],
+  [
+    273656,
+    "wow_retail",
+    [
+      "cnbnpoints_lfg",
+      "cnbnpoints_options",
+      "cnbnpoints"
+    ]
+  ],
+  [
+    273656,
+    "wow_retail",
+    [
+      "cnbnpoints_lfg",
+      "cnbnpoints_options",
+      "cnbnpoints"
     ]
   ],
   [
@@ -40550,6 +43080,13 @@
     "wow_classic",
     [
       "iLocation"
+    ]
+  ],
+  [
+    34990,
+    "wow_retail",
+    [
+      "iLvLr"
     ]
   ],
   [
