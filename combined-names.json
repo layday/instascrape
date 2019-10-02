@@ -27045,7 +27045,8 @@
       319411
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -55241,6 +55242,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "RotateMinimapFix",
+    [
+      "wowi",
+      "25378"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
