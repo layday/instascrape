@@ -5080,6 +5080,26 @@
     ]
   ],
   [
+    "Broker: MicroClock",
+    [
+      "curse",
+      55986
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Broker: TimeToExecute",
+    [
+      "curse",
+      65794
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BrokerDualSpec",
     [
       "curse",
@@ -5388,7 +5408,8 @@
       270315
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -13508,7 +13529,7 @@
     ]
   ],
   [
-    "Focused",
+    "Focused_",
     [
       "curse",
       344402
@@ -14543,6 +14564,16 @@
     ]
   ],
   [
+    "GoldSellerBlocker",
+    [
+      "curse",
+      345240
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GoldTaker",
     [
       "curse",
@@ -15443,6 +15474,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Guild Name On Hover",
+    [
+      "curse",
+      345192
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -16425,6 +16466,16 @@
     [
       "curse",
       302430
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Handynotes BFA Jelly",
+    [
+      "curse",
+      345228
     ],
     [
       "retail"
@@ -18828,6 +18879,16 @@
     ]
   ],
   [
+    "Kiwi Quick Pick",
+    [
+      "curse",
+      345127
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "KiwiPlates",
     [
       "curse",
@@ -18853,6 +18914,16 @@
     [
       "curse",
       342348
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Klappbar",
+    [
+      "curse",
+      344693
     ],
     [
       "classic"
@@ -24076,6 +24147,16 @@
     ]
   ],
   [
+    "NFG",
+    [
+      "curse",
+      345024
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "NPC RP Gossip Text Re-enabler",
     [
       "curse",
@@ -28186,6 +28267,17 @@
     ]
   ],
   [
+    "RangeColors",
+    [
+      "curse",
+      19011
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "RangeDisplay",
     [
       "curse",
@@ -29156,6 +29248,16 @@
     ]
   ],
   [
+    "RotateMinimapFix",
+    [
+      "curse",
+      345255
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Rotation Builder",
     [
       "curse",
@@ -29721,6 +29823,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "SellCrap",
+    [
+      "curse",
+      345367
+    ],
+    [
       "classic"
     ]
   ],
@@ -32461,6 +32573,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Svens Bam Addon",
+    [
+      "curse",
+      345315
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -42487,6 +42609,16 @@
     [
       "wowi",
       "13270"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "RangeColors",
+    [
+      "wowi",
+      "13334"
     ],
     [
       "retail"
@@ -55249,6 +55381,36 @@
     [
       "wowi",
       "25378"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Historia Classic",
+    [
+      "wowi",
+      "25379"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "RangeColors Classic",
+    [
+      "wowi",
+      "25380"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "EasyMail Classic",
+    [
+      "wowi",
+      "25381"
     ],
     [
       "classic"
