@@ -1984,13 +1984,6 @@
     ]
   ],
   [
-    265199,
-    "wow_retail",
-    [
-      "AstralKeys"
-    ]
-  ],
-  [
     301668,
     "wow_retail",
     [
@@ -2821,6 +2814,14 @@
     [
       "Broker_Auditor",
       "Auditor3"
+    ]
+  ],
+  [
+    334069,
+    "wow_retail",
+    [
+      "AuraFramesConfig",
+      "AuraFrames"
     ]
   ],
   [
@@ -6068,6 +6069,13 @@
     ]
   ],
   [
+    345245,
+    "wow_classic",
+    [
+      "Broker_ClassicTracking"
+    ]
+  ],
+  [
     28733,
     "wow_retail",
     [
@@ -6100,6 +6108,20 @@
     "wow_retail",
     [
       "Broker_GotMail"
+    ]
+  ],
+  [
+    55986,
+    "wow_classic",
+    [
+      "Broker_MicroClock"
+    ]
+  ],
+  [
+    65794,
+    "wow_classic",
+    [
+      "Broker_TimeToExecute"
     ]
   ],
   [
@@ -6592,6 +6614,13 @@
   [
     270315,
     "wow_retail",
+    [
+      "Broker_TSMProfile"
+    ]
+  ],
+  [
+    270315,
+    "wow_classic",
     [
       "Broker_TSMProfile"
     ]
@@ -8596,6 +8625,13 @@
     "wow_classic",
     [
       "ClassicCodex"
+    ]
+  ],
+  [
+    345382,
+    "wow_classic",
+    [
+      "ClassicGearSet"
     ]
   ],
   [
@@ -13422,14 +13458,21 @@
   ],
   [
     2398,
-    "wow_retail",
+    "wow_classic",
     [
       "ElkBuffBars"
     ]
   ],
   [
     2398,
-    "wow_retail",
+    "wow_classic",
+    [
+      "ElkBuffBars"
+    ]
+  ],
+  [
+    2398,
+    "wow_classic",
     [
       "ElkBuffBars"
     ]
@@ -13630,13 +13673,6 @@
     "wow_retail",
     [
       "ElvUI_DTBars2"
-    ]
-  ],
-  [
-    101590,
-    "wow_retail",
-    [
-      "ElvUI_Enhanced"
     ]
   ],
   [
@@ -15077,7 +15113,7 @@
   ],
   [
     313283,
-    "wow_retail",
+    "wow_classic",
     [
       "FastGuildInvite"
     ]
@@ -15099,6 +15135,13 @@
   [
     313283,
     "wow_classic",
+    [
+      "FastGuildInvite"
+    ]
+  ],
+  [
+    313283,
+    "wow_retail",
     [
       "FastGuildInvite"
     ]
@@ -16358,13 +16401,6 @@
     ]
   ],
   [
-    101055,
-    "wow_retail",
-    [
-      "GearHelper"
-    ]
-  ],
-  [
     309332,
     "wow_retail",
     [
@@ -16834,6 +16870,13 @@
     ]
   ],
   [
+    345240,
+    "wow_classic",
+    [
+      "GoldSellerBlocker"
+    ]
+  ],
+  [
     317761,
     "wow_retail",
     [
@@ -17084,13 +17127,6 @@
   [
     336164,
     "wow_classic",
-    [
-      "GreyHandling"
-    ]
-  ],
-  [
-    336164,
-    "wow_retail",
     [
       "GreyHandling"
     ]
@@ -17913,6 +17949,13 @@
     ]
   ],
   [
+    345192,
+    "wow_classic",
+    [
+      "GuildNameOnHover"
+    ]
+  ],
+  [
     90042,
     "wow_retail",
     [
@@ -18127,6 +18170,13 @@
     "wow_retail",
     [
       "GuildGreet"
+    ]
+  ],
+  [
+    340063,
+    "wow_classic",
+    [
+      "GuildHelperClassic"
     ]
   ],
   [
@@ -19173,6 +19223,13 @@
     ]
   ],
   [
+    345228,
+    "wow_retail",
+    [
+      "HandyNotes_BFA_Jelly"
+    ]
+  ],
+  [
     326989,
     "wow_retail",
     [
@@ -20178,30 +20235,6 @@
   ],
   [
     5394,
-    "wow_classic",
-    [
-      "IceHUD_Options",
-      "IceHUD"
-    ]
-  ],
-  [
-    5394,
-    "wow_classic",
-    [
-      "IceHUD_Options",
-      "IceHUD"
-    ]
-  ],
-  [
-    5394,
-    "wow_classic",
-    [
-      "IceHUD_Options",
-      "IceHUD"
-    ]
-  ],
-  [
-    5394,
     "wow_retail",
     [
       "IceHUD_Options",
@@ -20211,6 +20244,30 @@
   [
     5394,
     "wow_retail",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_classic",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_classic",
+    [
+      "IceHUD_Options",
+      "IceHUD"
+    ]
+  ],
+  [
+    5394,
+    "wow_classic",
     [
       "IceHUD_Options",
       "IceHUD"
@@ -21694,6 +21751,13 @@
     ]
   ],
   [
+    345127,
+    "wow_classic",
+    [
+      "KiwiQuickPick"
+    ]
+  ],
+  [
     95612,
     "wow_retail",
     [
@@ -21748,6 +21812,13 @@
     [
       "KkthnxUI_Config",
       "KkthnxUI"
+    ]
+  ],
+  [
+    344693,
+    "wow_classic",
+    [
+      "Klappa"
     ]
   ],
   [
@@ -22249,6 +22320,13 @@
     "wow_retail",
     [
       "Leaderchange"
+    ]
+  ],
+  [
+    324034,
+    "wow_classic",
+    [
+      "Leatrix_Maps"
     ]
   ],
   [
@@ -25707,6 +25785,14 @@
     ]
   ],
   [
+    2618,
+    "wow_classic",
+    [
+      "MasterTradeSkills",
+      "ReagentData"
+    ]
+  ],
+  [
     301799,
     "wow_retail",
     [
@@ -26212,13 +26298,6 @@
     "wow_retail",
     [
       "MethodAltManager"
-    ]
-  ],
-  [
-    288981,
-    "wow_retail",
-    [
-      "MethodDungeonTools"
     ]
   ],
   [
@@ -27696,6 +27775,20 @@
     ]
   ],
   [
+    345024,
+    "wow_classic",
+    [
+      "NotForGnomes"
+    ]
+  ],
+  [
+    345024,
+    "wow_classic",
+    [
+      "NotForGnomes"
+    ]
+  ],
+  [
     84929,
     "wow_classic",
     [
@@ -28008,27 +28101,6 @@
   [
     299093,
     "wow_classic",
-    [
-      "NeatPlatesHub",
-      "NeatPlatesWidgets",
-      "NeatPlates_Alvara",
-      "NeatPlates_BlizzardPlates",
-      "NeatPlates_ClassicPlates",
-      "NeatPlates_Graphite",
-      "NeatPlates_Grey",
-      "NeatPlates_Neon",
-      "NeatPlates_Quatre",
-      "NeatPlates_Renaitre",
-      "NeatPlates_Roth",
-      "NeatPlates_Simple",
-      "NeatPlates_Slim_Horizontal",
-      "NeatPlates_Slim_Vertical",
-      "NeatPlates"
-    ]
-  ],
-  [
-    299093,
-    "wow_retail",
     [
       "NeatPlatesHub",
       "NeatPlatesWidgets",
@@ -30068,6 +30140,13 @@
     ]
   ],
   [
+    325146,
+    "wow_retail",
+    [
+      "PocketPortals"
+    ]
+  ],
+  [
     273694,
     "wow_retail",
     [
@@ -30084,6 +30163,13 @@
   [
     5778,
     "wow_retail",
+    [
+      "Poisoner"
+    ]
+  ],
+  [
+    5778,
+    "wow_classic",
     [
       "Poisoner"
     ]
@@ -31182,16 +31268,16 @@
   ],
   [
     319411,
-    "wow_classic",
+    "wow_retail",
     [
-      "ClassicQuestC"
+      "QuestC"
     ]
   ],
   [
     319411,
-    "wow_retail",
+    "wow_classic",
     [
-      "QuestC"
+      "ClassicQuestC"
     ]
   ],
   [
@@ -31613,13 +31699,6 @@
     "wow_retail",
     [
       "QuikEmotes"
-    ]
-  ],
-  [
-    320971,
-    "wow_retail",
-    [
-      "QuikTells"
     ]
   ],
   [
@@ -32353,6 +32432,20 @@
     "wow_retail",
     [
       "RandomSay"
+    ]
+  ],
+  [
+    19011,
+    "wow_retail",
+    [
+      "RangeColors"
+    ]
+  ],
+  [
+    19011,
+    "wow_classic",
+    [
+      "RangeColors"
     ]
   ],
   [
@@ -33403,6 +33496,20 @@
     ]
   ],
   [
+    345276,
+    "wow_classic",
+    [
+      "RosterFilter"
+    ]
+  ],
+  [
+    345255,
+    "wow_classic",
+    [
+      "RotateMinimapFix"
+    ]
+  ],
+  [
     28564,
     "wow_retail",
     [
@@ -34003,6 +34110,13 @@
     "wow_classic",
     [
       "SellPricePerUnit"
+    ]
+  ],
+  [
+    345367,
+    "wow_classic",
+    [
+      "SellCrap"
     ]
   ],
   [
@@ -37220,6 +37334,13 @@
     "wow_retail",
     [
       "SuuBossMods"
+    ]
+  ],
+  [
+    345315,
+    "wow_classic",
+    [
+      "SvensBamAddon"
     ]
   ],
   [
