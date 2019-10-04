@@ -4575,6 +4575,13 @@
     ]
   ],
   [
+    3600,
+    "wow_classic",
+    [
+      "BaudBag"
+    ]
+  ],
+  [
     4292,
     "wow_retail",
     [
@@ -7180,6 +7187,25 @@
       "CT_Viewport",
       "CT_Library",
       "CT_RaidAssist_MTPlayers"
+    ]
+  ],
+  [
+    72616,
+    "wow_classic",
+    [
+      "CT_BarMod",
+      "CT_BottomBar",
+      "CT_BuffMod",
+      "CT_Core",
+      "CT_ExpenseHistory",
+      "CT_MailMod",
+      "CT_MapMod",
+      "CT_PartyBuffs",
+      "CT_RaidAssist",
+      "CT_Timer",
+      "CT_UnitFrames",
+      "CT_Viewport",
+      "CT_Library"
     ]
   ],
   [
@@ -15211,7 +15237,7 @@
   ],
   [
     88756,
-    "wow_retail",
+    "wow_classic",
     [
       "FavoriteContacts"
     ]
@@ -15813,13 +15839,6 @@
     "wow_retail",
     [
       "FrameStackGlobalizer"
-    ]
-  ],
-  [
-    13863,
-    "wow_retail",
-    [
-      "FramesResized"
     ]
   ],
   [
@@ -19560,27 +19579,6 @@
     ]
   ],
   [
-    103143,
-    "wow_retail",
-    [
-      "HeroLib",
-      "HeroRotation",
-      "HeroRotation_DeathKnight",
-      "HeroRotation_DemonHunter",
-      "HeroRotation_Druid",
-      "HeroRotation_Hunter",
-      "HeroRotation_Mage",
-      "HeroRotation_Monk",
-      "HeroRotation_Paladin",
-      "HeroRotation_Priest",
-      "HeroRotation_Rogue",
-      "HeroRotation_Shaman",
-      "HeroRotation_Warlock",
-      "HeroRotation_Warrior",
-      "HeroCache"
-    ]
-  ],
-  [
     86131,
     "wow_retail",
     [
@@ -22344,6 +22342,13 @@
     ]
   ],
   [
+    322362,
+    "wow_classic",
+    [
+      "Leatrix_Plus"
+    ]
+  ],
+  [
     304659,
     "wow_retail",
     [
@@ -23261,13 +23266,6 @@
     "wow_retail",
     [
       "LibItems"
-    ]
-  ],
-  [
-    14294,
-    "wow_retail",
-    [
-      "LibJostle-3.0"
     ]
   ],
   [
@@ -26482,20 +26480,6 @@
     [
       "MinimapButtonFrame_SkinPack",
       "MinimapButtonFrame"
-    ]
-  ],
-  [
-    301149,
-    "wow_retail",
-    [
-      "MinimapRangeExtender"
-    ]
-  ],
-  [
-    301149,
-    "wow_retail",
-    [
-      "MinimapRangeExtender"
     ]
   ],
   [
@@ -30664,14 +30648,14 @@
   ],
   [
     91766,
-    "wow_classic",
+    "wow_retail",
     [
       "ProspectBarLives"
     ]
   ],
   [
     91766,
-    "wow_retail",
+    "wow_classic",
     [
       "ProspectBarLives"
     ]
@@ -40091,6 +40075,8 @@
     "wow_classic",
     [
       "UnitFramesPlus_Options",
+      "UnitFramesPlus_Cooldown",
+      "UnitFramesPlus_MobHealth",
       "UnitFramesPlus"
     ]
   ],
