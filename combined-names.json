@@ -13529,7 +13529,7 @@
     ]
   ],
   [
-    "Focused_",
+    "Focused",
     [
       "curse",
       344402
@@ -28518,6 +28518,16 @@
     ]
   ],
   [
+    "ReagentCount",
+    [
+      "curse",
+      345322
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Real Mob Health",
     [
       "curse",
@@ -31439,6 +31449,16 @@
     [
       "curse",
       341754
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Soulstone notifier 1UP",
+    [
+      "curse",
+      345414
     ],
     [
       "classic"
@@ -55411,6 +55431,16 @@
     [
       "wowi",
       "25381"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ReagentCount",
+    [
+      "wowi",
+      "25382"
     ],
     [
       "classic"
