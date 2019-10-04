@@ -5059,30 +5059,6 @@
   ],
   [
     2382,
-    "wow_classic",
-    [
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs"
-    ]
-  ],
-  [
-    2382,
-    "wow_classic",
-    [
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs"
-    ]
-  ],
-  [
-    2382,
     "wow_retail",
     [
       "BigWigs_Core",
@@ -5108,6 +5084,30 @@
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
+      "BigWigs"
+    ]
+  ],
+  [
+    2382,
+    "wow_classic",
+    [
+      "BigWigs_Core",
+      "BigWigs_Options",
+      "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs"
+    ]
+  ],
+  [
+    2382,
+    "wow_classic",
+    [
+      "BigWigs_Core",
+      "BigWigs_Options",
+      "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
       "BigWigs"
     ]
   ],
@@ -14914,7 +14914,7 @@
   ],
   [
     325012,
-    "wow_retail",
+    "wow_classic",
     [
       "FPS_Counter"
     ]
@@ -32747,6 +32747,20 @@
     ]
   ],
   [
+    345322,
+    "wow_classic",
+    [
+      "ReagentCount"
+    ]
+  ],
+  [
+    345322,
+    "wow_classic",
+    [
+      "ReagentCount"
+    ]
+  ],
+  [
     338835,
     "wow_classic",
     [
@@ -35976,6 +35990,13 @@
     "wow_classic",
     [
       "SoulSpeak"
+    ]
+  ],
+  [
+    345414,
+    "wow_classic",
+    [
+      "ONEUP"
     ]
   ],
   [
