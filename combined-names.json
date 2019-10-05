@@ -13874,6 +13874,16 @@
     ]
   ],
   [
+    "GPS - Coordinate Based Player Tracking",
+    [
+      "curse",
+      345468
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GSE: Gnome Sequencer Enhanced : Advanced Macros",
     [
       "curse",
@@ -17033,6 +17043,16 @@
     [
       "curse",
       90403
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "HidePrestige",
+    [
+      "curse",
+      345505
     ],
     [
       "retail"
@@ -37227,6 +37247,17 @@
     ]
   ],
   [
+    "YarkoMods",
+    [
+      "curse",
+      345429
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Yarrr",
     [
       "curse",
@@ -37306,6 +37337,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ZFTrash",
+    [
+      "curse",
+      345543
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -45834,8 +45875,7 @@
       "22886"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -55442,6 +55482,16 @@
     [
       "wowi",
       "25382"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Target ClassIc on",
+    [
+      "wowi",
+      "25384"
     ],
     [
       "classic"
