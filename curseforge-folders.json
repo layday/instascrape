@@ -2576,6 +2576,13 @@
     ]
   ],
   [
+    18234,
+    "wow_classic",
+    [
+      "auc-advanced-searcher-pawn"
+    ]
+  ],
+  [
     336518,
     "wow_classic",
     [
@@ -7837,6 +7844,13 @@
     ]
   ],
   [
+    324878,
+    "wow_classic",
+    [
+      "CensusPlusClassic"
+    ]
+  ],
+  [
     274928,
     "wow_retail",
     [
@@ -8121,20 +8135,6 @@
     "wow_retail",
     [
       "TomCats-ChildrensWeek"
-    ]
-  ],
-  [
-    7116,
-    "wow_retail",
-    [
-      "Chinchilla"
-    ]
-  ],
-  [
-    7116,
-    "wow_retail",
-    [
-      "Chinchilla"
     ]
   ],
   [
@@ -9919,13 +9919,6 @@
     ]
   ],
   [
-    296820,
-    "wow_retail",
-    [
-      "CrossRP"
-    ]
-  ],
-  [
     102408,
     "wow_retail",
     [
@@ -10866,25 +10859,6 @@
   ],
   [
     3358,
-    "wow_retail",
-    [
-      "DBM-Core",
-      "DBM-Brawlers",
-      "DBM-DMF",
-      "DBM-GUI",
-      "DBM-WorldEvents",
-      "DBM-Party-BfA",
-      "DBM-Azeroth-BfA",
-      "DBM-Uldir",
-      "DBM-CrucibleofStorms",
-      "DBM-ZuldazarRaid",
-      "DBM-EternalPalace",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    3358,
     "wow_classic",
     [
       "DBM-Core",
@@ -10898,6 +10872,25 @@
       "DBM-Onyxia",
       "DBM-Naxx",
       "DBM-ZG",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    3358,
+    "wow_retail",
+    [
+      "DBM-Core",
+      "DBM-Brawlers",
+      "DBM-DMF",
+      "DBM-GUI",
+      "DBM-WorldEvents",
+      "DBM-Party-BfA",
+      "DBM-Azeroth-BfA",
+      "DBM-Uldir",
+      "DBM-CrucibleofStorms",
+      "DBM-ZuldazarRaid",
+      "DBM-EternalPalace",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -13982,13 +13975,6 @@
     ]
   ],
   [
-    300361,
-    "wow_retail",
-    [
-      "ElvUI_WindTools"
-    ]
-  ],
-  [
     281526,
     "wow_retail",
     [
@@ -14185,13 +14171,6 @@
     "wow_retail",
     [
       "EmoteReply"
-    ]
-  ],
-  [
-    100713,
-    "wow_retail",
-    [
-      "EmoteSplitter"
     ]
   ],
   [
@@ -16049,6 +16028,13 @@
     "wow_classic",
     [
       "GOT_Shame_Death_Sound"
+    ]
+  ],
+  [
+    345468,
+    "wow_classic",
+    [
+      "GPS"
     ]
   ],
   [
@@ -19793,6 +19779,13 @@
     "wow_retail",
     [
       "HidePVP"
+    ]
+  ],
+  [
+    345505,
+    "wow_retail",
+    [
+      "HidePrestige"
     ]
   ],
   [
@@ -23906,13 +23899,6 @@
     "wow_retail",
     [
       "!ListLooter"
-    ]
-  ],
-  [
-    100697,
-    "wow_retail",
-    [
-      "Listener"
     ]
   ],
   [
@@ -31252,16 +31238,23 @@
   ],
   [
     319411,
-    "wow_retail",
+    "wow_classic",
     [
-      "QuestC"
+      "ClassicQuestC"
     ]
   ],
   [
     319411,
-    "wow_classic",
+    "wow_retail",
     [
-      "ClassicQuestC"
+      "QuestC_PL"
+    ]
+  ],
+  [
+    319411,
+    "wow_retail",
+    [
+      "QuestC"
     ]
   ],
   [
@@ -37489,13 +37482,6 @@
     ]
   ],
   [
-    101494,
-    "wow_retail",
-    [
-      "TRP3CurrentlyFrame"
-    ]
-  ],
-  [
     297044,
     "wow_retail",
     [
@@ -38382,6 +38368,13 @@
     "wow_retail",
     [
       "TipTacTalents"
+    ]
+  ],
+  [
+    345445,
+    "wow_classic",
+    [
+      "TitanClassicReputation"
     ]
   ],
   [
@@ -42225,6 +42218,20 @@
     ]
   ],
   [
+    345429,
+    "wow_retail",
+    [
+      "YarkoMods"
+    ]
+  ],
+  [
+    345429,
+    "wow_classic",
+    [
+      "YarkoMods"
+    ]
+  ],
+  [
     102375,
     "wow_retail",
     [
@@ -42318,54 +42325,17 @@
     ]
   ],
   [
-    85876,
-    "wow_retail",
-    [
-      "ZPerl_ArcaneBar",
-      "ZPerl_CustomHighlight",
-      "ZPerl_Options",
-      "ZPerl_Party",
-      "ZPerl_PartyPet",
-      "ZPerl_Player",
-      "ZPerl_PlayerBuffs",
-      "ZPerl_PlayerPet",
-      "ZPerl_RaidAdmin",
-      "ZPerl_RaidFrames",
-      "ZPerl_RaidHelper",
-      "ZPerl_RaidMonitor",
-      "ZPerl_RaidPets",
-      "ZPerl_Target",
-      "ZPerl_TargetTarget",
-      "ZPerl"
-    ]
-  ],
-  [
-    85876,
-    "wow_retail",
-    [
-      "ZPerl_ArcaneBar",
-      "ZPerl_CustomHighlight",
-      "ZPerl_Options",
-      "ZPerl_Party",
-      "ZPerl_PartyPet",
-      "ZPerl_Player",
-      "ZPerl_PlayerBuffs",
-      "ZPerl_PlayerPet",
-      "ZPerl_RaidAdmin",
-      "ZPerl_RaidFrames",
-      "ZPerl_RaidHelper",
-      "ZPerl_RaidMonitor",
-      "ZPerl_RaidPets",
-      "ZPerl_Target",
-      "ZPerl_TargetTarget",
-      "ZPerl"
-    ]
-  ],
-  [
     100476,
     "wow_retail",
     [
       "ZTargetMe"
+    ]
+  ],
+  [
+    345543,
+    "wow_classic",
+    [
+      "ZFTrash"
     ]
   ],
   [
