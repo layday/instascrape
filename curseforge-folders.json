@@ -952,13 +952,6 @@
     ]
   ],
   [
-    102880,
-    "wow_retail",
-    [
-      "AdiBags_Lowlevel"
-    ]
-  ],
-  [
     24545,
     "wow_retail",
     [
@@ -984,13 +977,6 @@
     "wow_classic",
     [
       "AdiBags_PT3Filter"
-    ]
-  ],
-  [
-    299152,
-    "wow_retail",
-    [
-      "AdiBags_TSM"
     ]
   ],
   [
@@ -1147,13 +1133,6 @@
     "wow_retail",
     [
       "AlamoReeburth"
-    ]
-  ],
-  [
-    13390,
-    "wow_retail",
-    [
-      "AlarArtRemover"
     ]
   ],
   [
@@ -2612,14 +2591,14 @@
   ],
   [
     336627,
-    "wow_classic",
+    "wow_retail",
     [
       "AuctionBuddy"
     ]
   ],
   [
     336627,
-    "wow_retail",
+    "wow_classic",
     [
       "AuctionBuddy"
     ]
@@ -3959,7 +3938,7 @@
   ],
   [
     1592,
-    "wow_classic",
+    "wow_retail",
     [
       "Bagnon_Config",
       "Bagnon_GuildBank",
@@ -3970,7 +3949,7 @@
   ],
   [
     1592,
-    "wow_retail",
+    "wow_classic",
     [
       "Bagnon_Config",
       "Bagnon_GuildBank",
@@ -4621,38 +4600,6 @@
     "wow_classic",
     [
       "BaudMark"
-    ]
-  ],
-  [
-    20695,
-    "wow_retail",
-    [
-      "Bazooka_Options",
-      "Bazooka"
-    ]
-  ],
-  [
-    20695,
-    "wow_retail",
-    [
-      "Bazooka_Options",
-      "Bazooka"
-    ]
-  ],
-  [
-    20695,
-    "wow_retail",
-    [
-      "Bazooka_Options",
-      "Bazooka"
-    ]
-  ],
-  [
-    20695,
-    "wow_retail",
-    [
-      "Bazooka_Options",
-      "Bazooka"
     ]
   ],
   [
@@ -6265,34 +6212,6 @@
     ]
   ],
   [
-    27492,
-    "wow_retail",
-    [
-      "Broker_Compass"
-    ]
-  ],
-  [
-    27492,
-    "wow_retail",
-    [
-      "Broker_Compass"
-    ]
-  ],
-  [
-    27492,
-    "wow_retail",
-    [
-      "Broker_Compass"
-    ]
-  ],
-  [
-    27492,
-    "wow_retail",
-    [
-      "Broker_Compass"
-    ]
-  ],
-  [
     16142,
     "wow_retail",
     [
@@ -6486,13 +6405,6 @@
     "wow_retail",
     [
       "Broker_Portals"
-    ]
-  ],
-  [
-    24548,
-    "wow_retail",
-    [
-      "Broker_ProfessionsMenu"
     ]
   ],
   [
@@ -7433,20 +7345,6 @@
     ]
   ],
   [
-    100617,
-    "wow_retail",
-    [
-      "CanIMogIt"
-    ]
-  ],
-  [
-    100617,
-    "wow_retail",
-    [
-      "CanIMogIt"
-    ]
-  ],
-  [
     20987,
     "wow_retail",
     [
@@ -7862,13 +7760,6 @@
     "wow_classic",
     [
       "ChaChing"
-    ]
-  ],
-  [
-    300882,
-    "wow_retail",
-    [
-      "ChampionCommander"
     ]
   ],
   [
@@ -9618,38 +9509,6 @@
     ]
   ],
   [
-    13712,
-    "wow_retail",
-    [
-      "CooldownToGo_Options",
-      "CooldownToGo"
-    ]
-  ],
-  [
-    13712,
-    "wow_retail",
-    [
-      "CooldownToGo_Options",
-      "CooldownToGo"
-    ]
-  ],
-  [
-    13712,
-    "wow_retail",
-    [
-      "CooldownToGo_Options",
-      "CooldownToGo"
-    ]
-  ],
-  [
-    13712,
-    "wow_retail",
-    [
-      "CooldownToGo_Options",
-      "CooldownToGo"
-    ]
-  ],
-  [
     102320,
     "wow_retail",
     [
@@ -10367,14 +10226,6 @@
     "wow_retail",
     [
       "DHTimers"
-    ]
-  ],
-  [
-    15406,
-    "wow_retail",
-    [
-      "DHUD_Options",
-      "DHUD"
     ]
   ],
   [
@@ -15090,14 +14941,14 @@
   ],
   [
     282961,
-    "wow_classic",
+    "wow_retail",
     [
       "Farmer"
     ]
   ],
   [
     282961,
-    "wow_retail",
+    "wow_classic",
     [
       "Farmer"
     ]
@@ -16183,6 +16034,13 @@
     "wow_classic",
     [
       "GalvinUnitBarsClassic"
+    ]
+  ],
+  [
+    344968,
+    "wow_classic",
+    [
+      "GambleClassic"
     ]
   ],
   [
@@ -18129,13 +17987,6 @@
     ]
   ],
   [
-    327409,
-    "wow_retail",
-    [
-      "GuildBankExport"
-    ]
-  ],
-  [
     19630,
     "wow_retail",
     [
@@ -18875,13 +18726,6 @@
     "wow_retail",
     [
       "HandyNotes_SuramarTelemancy"
-    ]
-  ],
-  [
-    335327,
-    "wow_retail",
-    [
-      "HandyNotes_TimelessIsle"
     ]
   ],
   [
@@ -20845,20 +20689,6 @@
     ]
   ],
   [
-    30899,
-    "wow_retail",
-    [
-      "ILD-Arkinventory",
-      "ILD-Baggins",
-      "ILD-Bagnon",
-      "ILD-Blizzard",
-      "ILD-Combuctor",
-      "ILD-Litebag",
-      "ILD-Onebag3",
-      "ItemLevelDisplay"
-    ]
-  ],
-  [
     255171,
     "wow_retail",
     [
@@ -21020,13 +20850,6 @@
     "wow_retail",
     [
       "Jani'sTrash"
-    ]
-  ],
-  [
-    86172,
-    "wow_retail",
-    [
-      "Jeeves"
     ]
   ],
   [
@@ -23545,20 +23368,6 @@
     ]
   ],
   [
-    14305,
-    "wow_retail",
-    [
-      "LibRangeCheck-2.0"
-    ]
-  ],
-  [
-    14305,
-    "wow_retail",
-    [
-      "LibRangeCheck-2.0"
-    ]
-  ],
-  [
     83224,
     "wow_retail",
     [
@@ -25150,13 +24959,6 @@
     ]
   ],
   [
-    97081,
-    "wow_retail",
-    [
-      "MailCommander"
-    ]
-  ],
-  [
     35808,
     "wow_retail",
     [
@@ -26630,13 +26432,6 @@
     ]
   ],
   [
-    25121,
-    "wow_retail",
-    [
-      "MizusRaidTracker"
-    ]
-  ],
-  [
     1080,
     "wow_retail",
     [
@@ -27145,13 +26940,6 @@
     "wow_retail",
     [
       "MrNiceGuy"
-    ]
-  ],
-  [
-    85383,
-    "wow_retail",
-    [
-      "MrFish"
     ]
   ],
   [
@@ -27742,13 +27530,6 @@
     "wow_retail",
     [
       "NDui"
-    ]
-  ],
-  [
-    345024,
-    "wow_classic",
-    [
-      "NotForGnomes"
     ]
   ],
   [
@@ -28973,13 +28754,6 @@
     ]
   ],
   [
-    103097,
-    "wow_retail",
-    [
-      "OrderHallCommander"
-    ]
-  ],
-  [
     102673,
     "wow_retail",
     [
@@ -29666,13 +29440,6 @@
     ]
   ],
   [
-    85128,
-    "wow_retail",
-    [
-      "PetCare"
-    ]
-  ],
-  [
     95227,
     "wow_retail",
     [
@@ -29747,38 +29514,6 @@
     "wow_retail",
     [
       "PetStableSpecCache"
-    ]
-  ],
-  [
-    19895,
-    "wow_retail",
-    [
-      "PetTimeToLive_Options",
-      "PetTimeToLive"
-    ]
-  ],
-  [
-    19895,
-    "wow_retail",
-    [
-      "PetTimeToLive_Options",
-      "PetTimeToLive"
-    ]
-  ],
-  [
-    19895,
-    "wow_retail",
-    [
-      "PetTimeToLive_Options",
-      "PetTimeToLive"
-    ]
-  ],
-  [
-    19895,
-    "wow_retail",
-    [
-      "PetTimeToLive_Options",
-      "PetTimeToLive"
     ]
   ],
   [
@@ -29993,6 +29728,13 @@
   [
     298171,
     "wow_retail",
+    [
+      "PizzaPerSecond"
+    ]
+  ],
+  [
+    298171,
+    "wow_classic",
     [
       "PizzaPerSecond"
     ]
@@ -31129,19 +30871,19 @@
   ],
   [
     319533,
-    "wow_retail",
+    "wow_classic",
     [
-      "Quafe_Libs",
-      "Quafe_MEKA",
+      "Quafe_Libs_Classic",
+      "Quafe_MEKA_Classic",
       "Quafe"
     ]
   ],
   [
     319533,
-    "wow_classic",
+    "wow_retail",
     [
-      "Quafe_Libs_Classic",
-      "Quafe_MEKA_Classic",
+      "Quafe_Libs",
+      "Quafe_MEKA",
       "Quafe"
     ]
   ],
@@ -32426,38 +32168,6 @@
     ]
   ],
   [
-    14570,
-    "wow_retail",
-    [
-      "RangeDisplay_Options",
-      "RangeDisplay"
-    ]
-  ],
-  [
-    14570,
-    "wow_retail",
-    [
-      "RangeDisplay_Options",
-      "RangeDisplay"
-    ]
-  ],
-  [
-    14570,
-    "wow_retail",
-    [
-      "RangeDisplay_Options",
-      "RangeDisplay"
-    ]
-  ],
-  [
-    14570,
-    "wow_retail",
-    [
-      "RangeDisplay_Options",
-      "RangeDisplay"
-    ]
-  ],
-  [
     341442,
     "wow_classic",
     [
@@ -32796,6 +32506,20 @@
   [
     3624,
     "wow_retail",
+    [
+      "Recap"
+    ]
+  ],
+  [
+    3624,
+    "wow_retail",
+    [
+      "Recap"
+    ]
+  ],
+  [
+    3624,
+    "wow_classic",
     [
       "Recap"
     ]
@@ -34035,14 +33759,14 @@
   ],
   [
     258721,
-    "wow_classic",
+    "wow_retail",
     [
       "SeamoreSpheres"
     ]
   ],
   [
     258721,
-    "wow_retail",
+    "wow_classic",
     [
       "SeamoreSpheres"
     ]
@@ -34854,13 +34578,6 @@
     "wow_retail",
     [
       "SimcDungeonJournal"
-    ]
-  ],
-  [
-    294032,
-    "wow_retail",
-    [
-      "SimpleArmory"
     ]
   ],
   [
@@ -38749,14 +38466,14 @@
   ],
   [
     94529,
-    "wow_classic",
+    "wow_retail",
     [
       "TitanProfession"
     ]
   ],
   [
     94529,
-    "wow_retail",
+    "wow_classic",
     [
       "TitanProfession"
     ]
@@ -41561,28 +41278,28 @@
   ],
   [
     296474,
-    "wow_classic",
+    "wow_retail",
     [
       "WoWpoPolsku_Bubbles"
     ]
   ],
   [
     296474,
-    "wow_retail",
+    "wow_classic",
     [
       "WoWpoPolsku_Bubbles"
     ]
   ],
   [
     34192,
-    "wow_classic",
+    "wow_retail",
     [
       "WoWpoPolsku_Quests"
     ]
   ],
   [
     34192,
-    "wow_retail",
+    "wow_classic",
     [
       "WoWpoPolsku_Quests"
     ]
@@ -41810,13 +41527,6 @@
     "wow_retail",
     [
       "WowPaint"
-    ]
-  ],
-  [
-    101439,
-    "wow_retail",
-    [
-      "WowheadLink_Grabber"
     ]
   ],
   [
@@ -42225,13 +41935,6 @@
     ]
   ],
   [
-    345429,
-    "wow_classic",
-    [
-      "YarkoMods"
-    ]
-  ],
-  [
     102375,
     "wow_retail",
     [
@@ -42420,6 +42123,20 @@
     "wow_classic",
     [
       "ZoneDetails"
+    ]
+  ],
+  [
+    345031,
+    "wow_classic",
+    [
+      "ZoneInfoClassic"
+    ]
+  ],
+  [
+    345031,
+    "wow_classic",
+    [
+      "ZoneInfoClassic"
     ]
   ],
   [
@@ -43502,6 +43219,13 @@
   [
     299385,
     "wow_retail",
+    [
+      "miStats"
+    ]
+  ],
+  [
+    299385,
+    "wow_classic",
     [
       "miStats"
     ]
