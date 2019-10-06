@@ -13989,6 +13989,16 @@
     ]
   ],
   [
+    "Gamble Classic",
+    [
+      "curse",
+      344968
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GarbageProtector",
     [
       "curse",
@@ -26233,7 +26243,8 @@
       298171
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -28625,7 +28636,8 @@
       3624
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37253,8 +37265,7 @@
       345429
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -38509,7 +38520,8 @@
       299385
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -44152,7 +44164,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests 80200 2019-09-22",
+    "WoWpoPolsku-Quests 80205 2019-10-05",
     [
       "wowi",
       "19315"
@@ -47049,6 +47061,18 @@
       "23770"
     ],
     [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Cauldron_Bindings",
+    [
+      "wowi",
+      "23771"
+    ],
+    [
+      "retail",
       "classic"
     ]
   ],
@@ -49462,7 +49486,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles 80200 2019-09-22",
+    "WoWpoPolsku-Bubbles 80205 2019-10-05",
     [
       "wowi",
       "24692"
@@ -53582,7 +53606,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests Classic 2019-09-22",
+    "WoWpoPolsku-Quests Classic 2019-10-05",
     [
       "wowi",
       "25184"
@@ -53632,7 +53656,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles Classic 2019-09-22",
+    "WoWpoPolsku-Bubbles Classic 2019-10-05",
     [
       "wowi",
       "25189"
@@ -55492,6 +55516,26 @@
     [
       "wowi",
       "25384"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Nameplate EliteDragon",
+    [
+      "wowi",
+      "25385"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Glues for classic Elvui and other ui's thats dark.",
+    [
+      "wowi",
+      "25387"
     ],
     [
       "classic"
