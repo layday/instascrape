@@ -12100,6 +12100,16 @@
     ]
   ],
   [
+    "Emote Splitter [Classic]",
+    [
+      "curse",
+      339979
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "EmoteLDB",
     [
       "curse",
@@ -14161,6 +14171,16 @@
     ]
   ],
   [
+    "GatherTrackingReminder",
+    [
+      "curse",
+      345645
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GearHelper",
     [
       "curse",
@@ -15160,6 +15180,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GrumVisionClassic",
+    [
+      "curse",
+      345653
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -19354,6 +19384,16 @@
     ]
   ],
   [
+    "LargerSelfAuras",
+    [
+      "curse",
+      345647
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "LastRep",
     [
       "curse",
@@ -20714,6 +20754,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Listener [Classic]",
+    [
+      "curse",
+      345669
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -22341,6 +22391,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "MassDisenchanter",
+    [
+      "curse",
+      345668
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -24290,6 +24350,16 @@
     ]
   ],
   [
+    "Nameplate EliteDragon",
+    [
+      "curse",
+      345662
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Nameplate Scrolling Combat Text",
     [
       "curse",
@@ -24390,6 +24460,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "NaxxChatAlarm",
+    [
+      "curse",
+      345449
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -30728,6 +30809,16 @@
     ]
   ],
   [
+    "SimpleAssist",
+    [
+      "curse",
+      327411
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "SimpleAutoCombatLog",
     [
       "curse",
@@ -32171,6 +32262,16 @@
     ]
   ],
   [
+    "StatRack",
+    [
+      "curse",
+      345723
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "StatusBars2",
     [
       "curse",
@@ -32390,6 +32491,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Suggest Invite for Classic",
+    [
+      "curse",
+      345519
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -48668,7 +48779,8 @@
       "24450"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -51971,8 +52083,7 @@
       "25009"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -55532,10 +55643,20 @@
     ]
   ],
   [
-    "Glues for classic Elvui and other ui's thats dark.",
+    "Glues",
     [
       "wowi",
       "25387"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "FlightSink",
+    [
+      "wowi",
+      "25388"
     ],
     [
       "classic"
