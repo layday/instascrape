@@ -1743,14 +1743,14 @@
   ],
   [
     302838,
-    "wow_retail",
+    "wow_classic",
     [
       "ATT"
     ]
   ],
   [
     302838,
-    "wow_classic",
+    "wow_retail",
     [
       "ATT"
     ]
@@ -3403,13 +3403,6 @@
     "wow_retail",
     [
       "AzeritePowerWeights"
-    ]
-  ],
-  [
-    296427,
-    "wow_retail",
-    [
-      "AzeriteTooltip"
     ]
   ],
   [
@@ -8051,7 +8044,21 @@
   ],
   [
     7116,
-    "wow_classic",
+    "wow_retail",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_retail",
+    [
+      "Chinchilla"
+    ]
+  ],
+  [
+    7116,
+    "wow_retail",
     [
       "Chinchilla"
     ]
@@ -8598,6 +8605,13 @@
     "wow_classic",
     [
       "ClassicThreatMeter"
+    ]
+  ],
+  [
+    336870,
+    "wow_classic",
+    [
+      "ClassicUA"
     ]
   ],
   [
@@ -10710,25 +10724,6 @@
   ],
   [
     3358,
-    "wow_classic",
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    3358,
     "wow_retail",
     [
       "DBM-Core",
@@ -10742,6 +10737,25 @@
       "DBM-CrucibleofStorms",
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    3358,
+    "wow_classic",
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -14025,6 +14039,13 @@
     ]
   ],
   [
+    339979,
+    "wow_classic",
+    [
+      "EmoteSplitter"
+    ]
+  ],
+  [
     2441,
     "wow_retail",
     [
@@ -16264,6 +16285,13 @@
     ]
   ],
   [
+    345645,
+    "wow_classic",
+    [
+      "GatherTrackingReminder"
+    ]
+  ],
+  [
     309332,
     "wow_retail",
     [
@@ -16625,6 +16653,13 @@
     "wow_retail",
     [
       "GnomTEC_Weather"
+    ]
+  ],
+  [
+    20555,
+    "wow_retail",
+    [
+      "Gnosis"
     ]
   ],
   [
@@ -17494,6 +17529,13 @@
     "wow_retail",
     [
       "GroupfinderFlags"
+    ]
+  ],
+  [
+    345653,
+    "wow_classic",
+    [
+      "GrumVisionClassic"
     ]
   ],
   [
@@ -22095,6 +22137,13 @@
     ]
   ],
   [
+    345647,
+    "wow_classic",
+    [
+      "LargerSelfAuras"
+    ]
+  ],
+  [
     302742,
     "wow_retail",
     [
@@ -22382,6 +22431,20 @@
     "wow_retail",
     [
       "LibActionButton-1.0"
+    ]
+  ],
+  [
+    345720,
+    "wow_classic",
+    [
+      "LibAddonCompat-1.0"
+    ]
+  ],
+  [
+    345720,
+    "wow_classic",
+    [
+      "LibAddonCompat-1.0"
     ]
   ],
   [
@@ -23708,6 +23771,13 @@
     "wow_retail",
     [
       "!ListLooter"
+    ]
+  ],
+  [
+    345669,
+    "wow_classic",
+    [
+      "Listener"
     ]
   ],
   [
@@ -25545,6 +25615,13 @@
     "wow_retail",
     [
       "Masque_Gm_Sr"
+    ]
+  ],
+  [
+    345668,
+    "wow_classic",
+    [
+      "MassDisenchanter"
     ]
   ],
   [
@@ -27633,6 +27710,13 @@
     ]
   ],
   [
+    345662,
+    "wow_classic",
+    [
+      "NamePlateEliteDragon"
+    ]
+  ],
+  [
     269544,
     "wow_retail",
     [
@@ -27742,6 +27826,13 @@
     "wow_retail",
     [
       "Navigator"
+    ]
+  ],
+  [
+    345449,
+    "wow_classic",
+    [
+      "NaxxChatAlarm"
     ]
   ],
   [
@@ -28405,6 +28496,13 @@
     "wow_retail",
     [
       "OPie"
+    ]
+  ],
+  [
+    345682,
+    "wow_classic",
+    [
+      "OSBCP_Easy_Healer_Classic"
     ]
   ],
   [
@@ -30871,19 +30969,19 @@
   ],
   [
     319533,
-    "wow_classic",
+    "wow_retail",
     [
-      "Quafe_Libs_Classic",
-      "Quafe_MEKA_Classic",
+      "Quafe_Libs",
+      "Quafe_MEKA",
       "Quafe"
     ]
   ],
   [
     319533,
-    "wow_retail",
+    "wow_classic",
     [
-      "Quafe_Libs",
-      "Quafe_MEKA",
+      "Quafe_Libs_Classic",
+      "Quafe_MEKA_Classic",
       "Quafe"
     ]
   ],
@@ -30983,13 +31081,6 @@
     "wow_classic",
     [
       "ClassicQuestC"
-    ]
-  ],
-  [
-    319411,
-    "wow_retail",
-    [
-      "QuestC_PL"
     ]
   ],
   [
@@ -34798,6 +34889,20 @@
     ]
   ],
   [
+    327411,
+    "wow_retail",
+    [
+      "SimpleAssist"
+    ]
+  ],
+  [
+    327411,
+    "wow_retail",
+    [
+      "SimpleAssist"
+    ]
+  ],
+  [
     336636,
     "wow_classic",
     [
@@ -35201,20 +35306,6 @@
     "wow_classic",
     [
       "Skillet-Classic"
-    ]
-  ],
-  [
-    14661,
-    "wow_retail",
-    [
-      "Skinner"
-    ]
-  ],
-  [
-    14661,
-    "wow_retail",
-    [
-      "Skinner"
     ]
   ],
   [
@@ -36528,6 +36619,13 @@
     ]
   ],
   [
+    345723,
+    "wow_retail",
+    [
+      "StatRack"
+    ]
+  ],
+  [
     16412,
     "wow_retail",
     [
@@ -36762,6 +36860,13 @@
     "wow_retail",
     [
       "SufferMythicVectis"
+    ]
+  ],
+  [
+    345519,
+    "wow_classic",
+    [
+      "SuggestInvite"
     ]
   ],
   [
@@ -37049,6 +37154,13 @@
     "wow_retail",
     [
       "SuuBossMods"
+    ]
+  ],
+  [
+    345315,
+    "wow_classic",
+    [
+      "SvensBamAddon"
     ]
   ],
   [
