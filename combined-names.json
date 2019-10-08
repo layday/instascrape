@@ -6950,6 +6950,16 @@
     ]
   ],
   [
+    "Classic Raid Tracker",
+    [
+      "curse",
+      344365
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic Target Helper",
     [
       "curse",
@@ -21633,6 +21643,16 @@
     ]
   ],
   [
+    "MacroMakerClassic",
+    [
+      "curse",
+      345333
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "MacroPoster",
     [
       "curse",
@@ -21779,7 +21799,8 @@
       308483
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -25664,7 +25685,8 @@
       101768
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -26293,6 +26315,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Pit's SpellAnnouncer",
+    [
+      "curse",
+      345951
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -27473,7 +27505,8 @@
       5130
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -42398,6 +42431,16 @@
     ]
   ],
   [
+    "AntiDaze",
+    [
+      "wowi",
+      "11586"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Select",
     [
       "wowi",
@@ -44051,7 +44094,8 @@
       "18775"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -55553,7 +55597,7 @@
     ]
   ],
   [
-    "ChaChing",
+    "ChaChing V 2.0.0",
     [
       "wowi",
       "25376"
@@ -55657,6 +55701,26 @@
     [
       "wowi",
       "25388"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "PictureThis Classic",
+    [
+      "wowi",
+      "25389"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Titan Panel Classic [Reputation]",
+    [
+      "wowi",
+      "25390"
     ],
     [
       "classic"
