@@ -14,9 +14,10 @@ if TYPE_CHECKING:
 
 USER_AGENT = 'instawow (https://github.com/layday/instawow)'
 
-curseforge_slugs_name = 'curseforge-slugs.json'     # v1
-curseforge_folders_name = 'curseforge-folders.json' # v1
-combined_names_name = 'combined-names.json'         # v1
+curseforge_slugs_name = 'curseforge-slugs-v2.json'      # v2
+# curseforge_folders_name = 'curseforge-folders.json'   # removed
+combined_folders_name = 'combined-folders.json'         # v1
+combined_names_name = 'combined-names-v2.json'          # v2
 
 dump_indented = partial(json.dumps, indent=2)
 
@@ -60,39 +61,54 @@ def upload(repo: 'Repository', filename: str, data: str) -> None:
     mutate_file(f'Update {filename}', data, branch='data')
 
 
-def main() -> None:
-    curseforge_catalogue = list(scrape_curseforge_catalogue())
-    tukui_retail_catalogue, tukui_classic_catalogue = scrape_tukui_catalogue()
-    wowi_catalogue = scrape_wowi_catalogue()
+def get_curseforge_compatibility(latest_files: List[dict]) -> Generator[str, None, None]:
+    if any(v.startswith('8.') for f in latest_files for v in f['gameVersion']):
+        yield 'retail'
+    if any(f['gameVersionFlavor'] == 'wow_classic' for f in latest_files):
+        yield 'classic'
 
-    curseforge_slugs = {a['slug']: a['id'] for a in curseforge_catalogue}
-    curseforge_folders = [
-        (f['projectId'],
-         f['gameVersionFlavor'],
-         [m['foldername'] for m in f['modules']])
-        for a in curseforge_catalogue
-        for f in a['latestFiles']
-        # Ignore lib-less uploads
-        if not f['isAlternate']
-        # Ignore files predating BfA or Classic
-        and f['gameVersionFlavor'] == 'wow_classic'
-        or any(v.startswith('8.') for v in f['gameVersion'])]
 
-    def get_curseforge_compatibility(addon):
-        if any(v['gameVersion'].startswith('8.') for v in addon['gameVersionLatestFiles']):
+def get_wowi_compatibility(addon: dict) -> Generator[str, None, None]:
+    compatibility = addon['UICompatibility']
+    if compatibility:
+        if any(v['version'].startswith('8.') for v in compatibility):
             yield 'retail'
-        if any(v['gameVersionFlavor'] == 'wow_classic' for v in addon['gameVersionLatestFiles']):
+        if any(v['name'] == 'WoW Classic' for v in compatibility):
             yield 'classic'
 
-    def get_wowi_compatibility(addon):
-        if addon['UICompatibility']:
-            if any(v['version'].startswith('8.') for v in addon['UICompatibility']):
-                yield 'retail'
-            if any(v['name'] == 'WoW Classic' for v in addon['UICompatibility']):
-                yield 'classic'
+
+def main() -> None:
+    github = Github(os.environ['MORPH_GITHUB_ACCESS_TOKEN'], user_agent=USER_AGENT)
+    repo = github.get_repo('layday/instascrape')
+
+    curseforge_catalogue = list(scrape_curseforge_catalogue())
+    (tukui_retail_catalogue,
+     tukui_classic_catalogue) = scrape_tukui_catalogue()
+    wowi_catalogue = scrape_wowi_catalogue()
+
+    curseforge_slugs = {a['slug']: str(a['id']) for a in curseforge_catalogue}
+    upload(repo, curseforge_slugs_name, dump_indented(curseforge_slugs))
+
+    folders = chain(
+        ((('curse', str(f['projectId'])),
+          list(get_curseforge_compatibility([f])) or ['retail'],
+          [m['foldername'] for m in f['modules']])
+         for a in curseforge_catalogue
+         for f in a['latestFiles']
+         # Ignore lib-less uploads
+         if not f['exposeAsAlternative']
+         # Ignore files predating BfA or Classic
+         and f['gameVersionFlavor'] == 'wow_classic'
+         or any(v.startswith('8.') for v in f['gameVersion'])),
+        ((('wowi', a['UID']),
+          list(get_wowi_compatibility(a)) or ['retail'],
+          a['UIDir'])
+         for a in wowi_catalogue),)
+    combined_folders = list(folders)
+    upload(repo, combined_folders_name, dump_indented(combined_folders))
 
     names = chain(
-        ((a['name'], ('curse', a['id']), list(get_curseforge_compatibility(a)))
+        ((a['name'], ('curse', str(a['id'])), list(get_curseforge_compatibility(a['latestFiles'])))
          for a in curseforge_catalogue),
         ((a['name'], ('tukui', a['id']), ['retail'])
          for a in tukui_retail_catalogue),
@@ -101,11 +117,6 @@ def main() -> None:
         ((a['UIName'], ('wowi', a['UID']), list(get_wowi_compatibility(a)))
          for a in wowi_catalogue),)
     combined_names = list(filter(itemgetter(2), names))
-
-    github = Github(os.environ['MORPH_GITHUB_ACCESS_TOKEN'], user_agent=USER_AGENT)
-    repo = github.get_repo('layday/instascrape')
-    upload(repo, curseforge_slugs_name, dump_indented(curseforge_slugs))
-    upload(repo, curseforge_folders_name, dump_indented(curseforge_folders))
     upload(repo, combined_names_name, dump_indented(combined_names))
 
 
