@@ -1246,16 +1246,6 @@
     ]
   ],
   [
-    "Angry Keystones",
-    [
-      "curse",
-      "102522"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Angry Notes",
     [
       "curse",
@@ -12399,6 +12389,16 @@
     ]
   ],
   [
+    "Ewy Rat",
+    [
+      "curse",
+      "345706"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ExaltedPlus",
     [
       "curse",
@@ -14000,6 +14000,16 @@
     [
       "curse",
       "30711"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "GatherTrackingReminder",
+    [
+      "curse",
+      "346151"
     ],
     [
       "classic"
@@ -19457,6 +19467,16 @@
     ]
   ],
   [
+    "LibAboutPanel-2.0",
+    [
+      "curse",
+      "102269"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "LibAceConfigAPI",
     [
       "curse",
@@ -23959,7 +23979,7 @@
     ]
   ],
   [
-    "NFG",
+    "NFG - TargetHelper",
     [
       "curse",
       "345024"
@@ -45643,6 +45663,17 @@
     ]
   ],
   [
+    "Auto Guild Message",
+    [
+      "wowi",
+      "22855"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Target Class Icon",
     [
       "wowi",
@@ -48187,7 +48218,8 @@
       "24356"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -55174,7 +55206,7 @@
     ]
   ],
   [
-    "NotForGnomes(NFG)",
+    "NFG - TargetHelper",
     [
       "wowi",
       "25373"
