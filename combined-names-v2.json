@@ -2652,6 +2652,16 @@
     ]
   ],
   [
+    "Avyr Raid Tools",
+    [
+      "curse",
+      "345851"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AzCastBar",
     [
       "curse",
@@ -6102,6 +6112,16 @@
     ]
   ],
   [
+    "CatchwordAlert",
+    [
+      "curse",
+      "347357"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Cecile_MeterOverlay",
     [
       "curse",
@@ -6290,6 +6310,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Chat Whitelist",
+    [
+      "curse",
+      "347362"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -7510,16 +7540,6 @@
     [
       "curse",
       "336087"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Comix",
-    [
-      "curse",
-      "95233"
     ],
     [
       "retail"
@@ -9787,7 +9807,8 @@
       "257636"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -10063,13 +10084,14 @@
     ]
   ],
   [
-    "Diminish (DR Tracker)",
+    "Diminish DR Tracker (Classic & Retail)",
     [
       "curse",
       "92871"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -10852,6 +10874,16 @@
     ]
   ],
   [
+    "EZ Mount",
+    [
+      "curse",
+      "345585"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "EZCoordinates",
     [
       "curse",
@@ -10917,16 +10949,6 @@
     [
       "curse",
       "21817"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Easy Mount",
-    [
-      "curse",
-      "326756"
     ],
     [
       "retail"
@@ -13309,18 +13331,7 @@
       "3531"
     ],
     [
-      "retail",
       "classic"
-    ]
-  ],
-  [
-    "FloFlyout",
-    [
-      "curse",
-      "36314"
-    ],
-    [
-      "retail"
     ]
   ],
   [
@@ -13340,7 +13351,6 @@
       "3906"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -17640,6 +17650,17 @@
     ]
   ],
   [
+    "Instance Reset Announcer",
+    [
+      "curse",
+      "347334"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Instance Watch",
     [
       "curse",
@@ -18137,6 +18158,16 @@
     [
       "curse",
       "297779"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Journey Calendar",
+    [
+      "curse",
+      "346190"
     ],
     [
       "retail"
@@ -18803,6 +18834,16 @@
     ]
   ],
   [
+    "Konfer Suicide Kings (KSK) for Classic WoW",
+    [
+      "curse",
+      "347330"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "KonferSK (Suicide Kings)",
     [
       "curse",
@@ -18962,6 +19003,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LFGHelper",
+    [
+      "curse",
+      "346276"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -21572,7 +21623,8 @@
       "6573"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -21631,6 +21683,16 @@
     [
       "curse",
       "340579"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ManaTimerClassic",
+    [
+      "curse",
+      "346006"
     ],
     [
       "classic"
@@ -22427,6 +22489,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "MeepMerp",
+    [
+      "curse",
+      "258375"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -24214,13 +24287,12 @@
     ]
   ],
   [
-    "NaxxChatAlarm",
+    "NaxxChatAlarm Classic",
     [
       "curse",
       "345449"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -29318,16 +29390,6 @@
     [
       "curse",
       "35256"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "SaunanTaakseEmotes",
-    [
-      "curse",
-      "295875"
     ],
     [
       "retail"
@@ -34889,6 +34951,16 @@
     ]
   ],
   [
+    "TruePath",
+    [
+      "curse",
+      "346224"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "TrufiGCD",
     [
       "curse",
@@ -36378,7 +36450,8 @@
       "279801"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37026,7 +37099,8 @@
       "345429"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -40610,6 +40684,16 @@
     ]
   ],
   [
+    "Simple Raid Target Icons",
+    [
+      "wowi",
+      "5353"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ChatScroll",
     [
       "wowi",
@@ -41984,6 +42068,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TargetingIcons",
+    [
+      "wowi",
+      "11333"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -53240,16 +53334,6 @@
     ]
   ],
   [
-    "GroupCalendar",
-    [
-      "wowi",
-      "25167"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Choose Mount",
     [
       "wowi",
@@ -55373,6 +55457,37 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Diminish (DR Tracker) Classic",
+    [
+      "wowi",
+      "25391"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "LibAboutPanel-2.0",
+    [
+      "wowi",
+      "25392"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Artemis",
+    [
+      "wowi",
+      "25393"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
