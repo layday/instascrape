@@ -3310,6 +3310,18 @@
   [
     [
       "curse",
+      "345851"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "AvyrRaidTools"
+    ]
+  ],
+  [
+    [
+      "curse",
       "4888"
     ],
     [
@@ -5047,6 +5059,23 @@
       "2382"
     ],
     [
+      "classic"
+    ],
+    [
+      "BigWigs_Core",
+      "BigWigs_Options",
+      "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "2382"
+    ],
+    [
       "retail"
     ],
     [
@@ -5058,23 +5087,6 @@
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
-      "BigWigs"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "2382"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
       "BigWigs"
     ]
   ],
@@ -7608,6 +7620,18 @@
   [
     [
       "curse",
+      "347357"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "CatchwordAlert"
+    ]
+  ],
+  [
+    [
+      "curse",
       "55075"
     ],
     [
@@ -7853,6 +7877,18 @@
     ],
     [
       "ChatWatch"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347362"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Chat Whitelist"
     ]
   ],
   [
@@ -9326,18 +9362,6 @@
     ],
     [
       "SharedMedia_Rybus"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "95233"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "Comix"
     ]
   ],
   [
@@ -12239,7 +12263,8 @@
       "257636"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Dejunk"
@@ -12602,7 +12627,8 @@
       "92871"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Diminish_Options",
@@ -13590,6 +13616,18 @@
   [
     [
       "curse",
+      "345585"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ezmount"
+    ]
+  ],
+  [
+    [
+      "curse",
       "323745"
     ],
     [
@@ -13670,18 +13708,6 @@
     ],
     [
       "EzGInv"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "326756"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "EMMount"
     ]
   ],
   [
@@ -16638,23 +16664,10 @@
       "3531"
     ],
     [
-      "retail",
       "classic"
     ],
     [
       "FloAspectBar"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "36314"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "FloFlyout"
     ]
   ],
   [
@@ -16675,7 +16688,6 @@
       "3906"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -22062,6 +22074,19 @@
   [
     [
       "curse",
+      "347334"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "InstanceResetAnnouncer"
+    ]
+  ],
+  [
+    [
+      "curse",
       "319815"
     ],
     [
@@ -22684,6 +22709,18 @@
       "Journal_Standalone",
       "Journal_TotalRP3",
       "Journal"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346190"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "JourneyCalendar"
     ]
   ],
   [
@@ -23511,6 +23548,18 @@
   [
     [
       "curse",
+      "347330"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "KKonferSK"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20448"
     ],
     [
@@ -23703,6 +23752,18 @@
     ],
     [
       "LFGHUD"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346276"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LFGHelper"
     ]
   ],
   [
@@ -26904,7 +26965,8 @@
       "6573"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "MailNotifier"
@@ -26982,6 +27044,18 @@
     ],
     [
       "ManaPercent"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346006"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ManaTimerClassic"
     ]
   ],
   [
@@ -27936,6 +28010,19 @@
   [
     [
       "curse",
+      "258375"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "MeepMerp"
+    ]
+  ],
+  [
+    [
+      "curse",
       "289648"
     ],
     [
@@ -27967,27 +28054,6 @@
     ],
     [
       "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "MeetingStone",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289648"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_CR",
       "LookingForGroup_Event",
       "LookingForGroup_Hook",
       "LookingForGroup_Options",
@@ -30191,7 +30257,6 @@
       "345449"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -36571,18 +36636,6 @@
     ],
     [
       "SatchelScanner"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "295875"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SaunanTaakseEmotes"
     ]
   ],
   [
@@ -43395,6 +43448,18 @@
   [
     [
       "curse",
+      "346224"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TruePath"
+    ]
+  ],
+  [
+    [
+      "curse",
       "46527"
     ],
     [
@@ -43768,9 +43833,10 @@
       "classic"
     ],
     [
-      "UnitFramesPlus_Options",
       "UnitFramesPlus_Cooldown",
       "UnitFramesPlus_MobHealth",
+      "UnitFramesPlus_Options",
+      "UnitFramesPlus_Threat",
       "UnitFramesPlus"
     ]
   ],
@@ -45284,7 +45350,8 @@
       "279801"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "WoWGatheringNodes"
@@ -46088,7 +46155,8 @@
       "345429"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "YarkoMods"
@@ -50294,7 +50362,7 @@
       "5353"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "SimpleRaidTargetIcons"
@@ -59747,10 +59815,10 @@
       "11333"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "TargetingIcons"
+      "TargetingIcons_V3.6"
     ]
   ],
   [
@@ -129315,18 +129383,6 @@
   [
     [
       "wowi",
-      "25167"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "GroupCalendar"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "25168"
     ],
     [
@@ -131943,6 +131999,44 @@
     ],
     [
       "TitanClassicReputation"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25391"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Diminish",
+      "Diminish_Options"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25392"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LibAboutPanel-2.0"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25393"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Artemis"
     ]
   ]
 ]
