@@ -11385,30 +11385,6 @@
       "3358"
     ],
     [
-      "retail"
-    ],
-    [
-      "DBM-Core",
-      "DBM-Brawlers",
-      "DBM-DMF",
-      "DBM-GUI",
-      "DBM-WorldEvents",
-      "DBM-Party-BfA",
-      "DBM-Azeroth-BfA",
-      "DBM-Uldir",
-      "DBM-CrucibleofStorms",
-      "DBM-ZuldazarRaid",
-      "DBM-EternalPalace",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
       "classic"
     ],
     [
@@ -12264,18 +12240,6 @@
     ],
     [
       "retail",
-      "classic"
-    ],
-    [
-      "Dejunk"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "340077"
-    ],
-    [
       "classic"
     ],
     [
@@ -36641,6 +36605,18 @@
   [
     [
       "curse",
+      "295875"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SaunanTaakseEmotes"
+    ]
+  ],
+  [
+    [
+      "curse",
       "13998"
     ],
     [
@@ -40959,6 +40935,18 @@
     ],
     [
       "TargetPercent"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346308"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TargetingIcons_V3.6"
     ]
   ],
   [
@@ -54896,7 +54884,8 @@
       "DBM-Uldir",
       "DBM-CrucibleofStorms",
       "DBM-ZuldazarRaid",
-      "DBM-EternalPalace"
+      "DBM-EternalPalace",
+      "DBM-Nyalotha"
     ]
   ],
   [
