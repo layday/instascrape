@@ -962,7 +962,7 @@
     ]
   ],
   [
-    "Aiue's Quest Tracker",
+    "Aiue's Quest Tracker (AQT)",
     [
       "curse",
       "67669"
@@ -6112,7 +6112,7 @@
     ]
   ],
   [
-    "CatchwordAlert",
+    "CatchwordAlert for BfA",
     [
       "curse",
       "347357"
@@ -9808,16 +9808,6 @@
     ],
     [
       "retail",
-      "classic"
-    ]
-  ],
-  [
-    "Dejunk (Classic)",
-    [
-      "curse",
-      "340077"
-    ],
-    [
       "classic"
     ]
   ],
@@ -29396,6 +29386,16 @@
     ]
   ],
   [
+    "SaunanTaakseEmotes",
+    [
+      "curse",
+      "295875"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "SavedInstances",
     [
       "curse",
@@ -32916,6 +32916,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Targeting Icons",
+    [
+      "curse",
+      "346308"
+    ],
+    [
       "classic"
     ]
   ],
