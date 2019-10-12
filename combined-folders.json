@@ -2378,6 +2378,25 @@
   [
     [
       "curse",
+      "326516"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AtlasLootClassic_Crafting",
+      "AtlasLootClassic_DungeonsAndRaids",
+      "AtlasLootClassic_PvP",
+      "AtlasLootClassic_Collections",
+      "AtlasLootClassic_Factions",
+      "AtlasLootClassic_Options",
+      "AtlasLootClassic_Data",
+      "AtlasLootClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "340018"
     ],
     [
@@ -7805,6 +7824,18 @@
     ],
     [
       "CharacterStatsClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347603"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CharacterTooltip"
     ]
   ],
   [
@@ -32422,18 +32453,6 @@
   [
     [
       "curse",
-      "345951"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "SpellAnnouncer"
-    ]
-  ],
-  [
-    [
-      "curse",
       "7522"
     ],
     [
@@ -39176,6 +39195,18 @@
   [
     [
       "curse",
+      "345951"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SpellAnnouncer"
+    ]
+  ],
+  [
+    [
+      "curse",
       "61571"
     ],
     [
@@ -43785,10 +43816,10 @@
       "classic"
     ],
     [
+      "UnitFramesPlus_Cooldown",
       "UnitFramesPlus_MobHealth",
       "UnitFramesPlus_Options",
       "UnitFramesPlus_Threat",
-      "UnitFramesPlus_Cooldown",
       "UnitFramesPlus"
     ]
   ],
@@ -129552,7 +129583,8 @@
       "AtlasLootClassic_PvP",
       "AtlasLootClassic_Collections",
       "AtlasLootClassic_Factions",
-      "AtlasLootClassic_Options"
+      "AtlasLootClassic_Options",
+      "AtlasLootClassic_Data"
     ]
   ],
   [
