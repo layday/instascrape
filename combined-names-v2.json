@@ -6253,6 +6253,16 @@
     ]
   ],
   [
+    "CharacterTooltip",
+    [
+      "curse",
+      "347603"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Chat LFG",
     [
       "curse",
@@ -26081,16 +26091,6 @@
     ]
   ],
   [
-    "Pit's SpellAnnouncer",
-    [
-      "curse",
-      "345951"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "PitBull Unit Frames 4.0",
     [
       "curse",
@@ -31473,6 +31473,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "SpellAnnouncer Classic",
+    [
+      "curse",
+      "345951"
+    ],
+    [
+      "classic"
     ]
   ],
   [
