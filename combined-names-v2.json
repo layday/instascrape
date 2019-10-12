@@ -1226,16 +1226,6 @@
     ]
   ],
   [
-    "Angry Assignments",
-    [
-      "curse",
-      "67138"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Angry Boss Reminders",
     [
       "curse",
@@ -3613,16 +3603,6 @@
     ]
   ],
   [
-    "Battle.net Friend Alert",
-    [
-      "curse",
-      "86309"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "BattleCursorClip",
     [
       "curse",
@@ -5445,16 +5425,6 @@
     ]
   ],
   [
-    "BugGrabber",
-    [
-      "curse",
-      "13344"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "BugSack",
     [
       "curse",
@@ -6283,6 +6253,16 @@
     ]
   ],
   [
+    "Chat LFG",
+    [
+      "curse",
+      "345052"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Chat Loot Icons",
     [
       "curse",
@@ -6853,6 +6833,16 @@
     [
       "curse",
       "344365"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Classic Raider Profiler",
+    [
+      "curse",
+      "347555"
     ],
     [
       "classic"
@@ -13976,6 +13966,16 @@
     ]
   ],
   [
+    "GatherMate2 World Map Toggle",
+    [
+      "curse",
+      "347492"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GatherMate2_Data - Carbonite Edition",
     [
       "curse",
@@ -16603,26 +16603,6 @@
     ]
   ],
   [
-    "HeroLib",
-    [
-      "curse",
-      "271528"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "HeroRotation",
-    [
-      "curse",
-      "103143"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "HeroicRaidReady",
     [
       "curse",
@@ -16723,16 +16703,6 @@
     ]
   ],
   [
-    "Hide Clean Up Bags Button",
-    [
-      "curse",
-      "86621"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Hide General In Raid",
     [
       "curse",
@@ -16760,6 +16730,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Hide Join / Leave Notification",
+    [
+      "curse",
+      "346139"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -16829,7 +16809,8 @@
       "18700"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -19203,6 +19184,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Larger Chat Input",
+    [
+      "curse",
+      "347442"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -24277,7 +24269,7 @@
     ]
   ],
   [
-    "NaxxChatAlarm Classic",
+    "NaxxChatAlarm Classic ",
     [
       "curse",
       "345449"
@@ -24393,16 +24385,6 @@
     [
       "curse",
       "100767"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Neuron",
-    [
-      "curse",
-      "279283"
     ],
     [
       "retail"
@@ -28893,16 +28875,6 @@
     ]
   ],
   [
-    "RestockShop",
-    [
-      "curse",
-      "72809"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Return Buff Tracker",
     [
       "curse",
@@ -30861,7 +30833,8 @@
       "26308"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -31470,6 +31443,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "SpeedyMount",
+    [
+      "curse",
+      "345831"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -41186,6 +41169,16 @@
     [
       "wowi",
       "8306"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Chinchilla Minimap",
+    [
+      "wowi",
+      "8394"
     ],
     [
       "retail"
@@ -55498,6 +55491,26 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GreyOnCooldown",
+    [
+      "wowi",
+      "25395"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "GreyOnCooldown Classic",
+    [
+      "wowi",
+      "25396"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
