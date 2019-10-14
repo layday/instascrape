@@ -75,10 +75,10 @@ def upload(repo: 'Repository', contents: List['ContentFile'], filename: str, dat
 
 @tuplefy
 def get_curseforge_compatibility(latest_files: List[dict]) -> Generator[str, None, None]:
-    if any(v.startswith('8.') for f in latest_files for v in f['gameVersion']):
-        yield 'retail'
-    if any(f['gameVersionFlavor'] == 'wow_classic' for f in latest_files):
-        yield 'classic'
+    for version_prefix, flavour in ('8.', 'retail'), ('1.13.', 'classic'):
+        if (any(v.startswith(version_prefix) for f in latest_files for v in f['gameVersion'])
+                or any(f['gameVersionFlavor'] == f'wow_{flavour}' for f in latest_files)):
+            yield flavour
 
 
 @tuplefy
