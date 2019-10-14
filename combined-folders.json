@@ -1957,6 +1957,18 @@
   [
     [
       "curse",
+      "342531"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Armory"
+    ]
+  ],
+  [
+    [
+      "curse",
       "311977"
     ],
     [
@@ -4966,6 +4978,18 @@
   [
     [
       "curse",
+      "346322"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BetterLFG"
+    ]
+  ],
+  [
+    [
+      "curse",
       "28599"
     ],
     [
@@ -6701,6 +6725,30 @@
   [
     [
       "curse",
+      "347881"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuffBlock"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347888"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuffCount"
+    ]
+  ],
+  [
+    [
+      "curse",
       "324912"
     ],
     [
@@ -7817,6 +7865,18 @@
   [
     [
       "curse",
+      "347603"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CharacterTooltip"
+    ]
+  ],
+  [
+    [
+      "curse",
       "338856"
     ],
     [
@@ -7829,13 +7889,14 @@
   [
     [
       "curse",
-      "347603"
+      "347753"
     ],
     [
+      "retail",
       "classic"
     ],
     [
-      "CharacterTooltip"
+      "ChatCopyPaste"
     ]
   ],
   [
@@ -8320,18 +8381,6 @@
     ],
     [
       "ClassIcons"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "103049"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ClassSpecStats"
     ]
   ],
   [
@@ -8995,6 +9044,30 @@
   [
     [
       "curse",
+      "50466"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "CloudyPetCollected"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "50464"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "CloudyTooltipMod"
+    ]
+  ],
+  [
+    [
+      "curse",
       "60238"
     ],
     [
@@ -9014,6 +9087,18 @@
     ],
     [
       "CloudyTweaks"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "50465"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "CloudyUnitInfo"
     ]
   ],
   [
@@ -11404,30 +11489,6 @@
       "3358"
     ],
     [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
       "retail"
     ],
     [
@@ -11443,6 +11504,30 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -13142,6 +13227,19 @@
   [
     [
       "curse",
+      "347532"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "DrinkIt"
+    ]
+  ],
+  [
+    [
+      "curse",
       "325496"
     ],
     [
@@ -13206,12 +13304,12 @@
       "24230"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "DuelResponse_Blacklist",
-      "DuelResponse_Whisper",
-      "DuelResponse"
+      "DuelResponse_Blacklist_Classic",
+      "DuelResponse_Classic",
+      "DuelResponse_Whisper_Classic"
     ]
   ],
   [
@@ -13220,12 +13318,12 @@
       "24230"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "DuelResponse_Blacklist_Classic",
-      "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic"
+      "DuelResponse_Blacklist",
+      "DuelResponse_Whisper",
+      "DuelResponse"
     ]
   ],
   [
@@ -16163,7 +16261,6 @@
       "327765"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -18240,6 +18337,19 @@
   [
     [
       "curse",
+      "347570"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "GreyOnCooldown"
+    ]
+  ],
+  [
+    [
+      "curse",
       "317016"
     ],
     [
@@ -20006,18 +20116,6 @@
   [
     [
       "curse",
-      "45644"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "HandyNotes_LostAndFound"
-    ]
-  ],
-  [
-    [
-      "curse",
       "327568"
     ],
     [
@@ -20218,18 +20316,6 @@
     ],
     [
       "HandyNotes_DraenorTreasures"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "102768"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "HandyNotes_DungeonLocations"
     ]
   ],
   [
@@ -24404,18 +24490,6 @@
   [
     [
       "curse",
-      "102010"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibAppropriateItems-1.0"
-    ]
-  ],
-  [
-    [
-      "curse",
       "100638"
     ],
     [
@@ -28183,6 +28257,19 @@
   [
     [
       "curse",
+      "347453"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "MGSSounds"
+    ]
+  ],
+  [
+    [
+      "curse",
       "282646"
     ],
     [
@@ -28621,18 +28708,6 @@
     ],
     [
       "MithUI"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "25121"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "MizusRaidTracker"
     ]
   ],
   [
@@ -30776,6 +30851,19 @@
     ],
     [
       "Note"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347690"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Notepad"
     ]
   ],
   [
@@ -36248,6 +36336,30 @@
   [
     [
       "curse",
+      "255155"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Rotacast"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347597"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RotacastClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "345255"
     ],
     [
@@ -37871,7 +37983,8 @@
       "30509"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "SimpleInterruptAnnounce_Config",
@@ -37994,7 +38107,8 @@
       "30985"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "SimpleTauntAnnounce_Config",
@@ -39043,6 +39157,29 @@
       "SpartanUI_Style_Minimal",
       "SpartanUI_Style_Transparent",
       "SpartanUI_Style_Fel",
+      "SpartanUI_Style_War",
+      "SpartanUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "4575"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "SpartanUI_Artwork",
+      "SpartanUI_FilmEffects",
+      "SpartanUI_PartyFrames",
+      "SpartanUI_PlayerFrames",
+      "SpartanUI_RaidFrames",
+      "SpartanUI_SpinCam",
+      "SpartanUI_Style_Fel",
+      "SpartanUI_Style_Minimal",
+      "SpartanUI_Style_Transparent",
       "SpartanUI_Style_War",
       "SpartanUI"
     ]
@@ -41088,6 +41225,18 @@
     ],
     [
       "!ThaiFont_Share"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346116"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Thaliz"
     ]
   ],
   [
@@ -43373,7 +43522,7 @@
       "20506"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "tribloot"
@@ -43645,6 +43794,18 @@
     ],
     [
       "TzTanaanBonus"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347747"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "UIHiddenTextRemover"
     ]
   ],
   [
@@ -43967,6 +44128,30 @@
     ],
     [
       "VanasKoS"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "345990"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "VanguardDKP"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "345990"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "VanguardRaidRecorder"
     ]
   ],
   [
@@ -64758,7 +64943,7 @@
       "13337"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Recap"
@@ -128664,7 +128849,6 @@
       "25105"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -131740,7 +131924,6 @@
       "classic"
     ],
     [
-      "",
       "SpellbookAbridged"
     ]
   ],
@@ -132046,6 +132229,54 @@
     ],
     [
       "GreyOnCooldown"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25397"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SnickersBOP"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25398"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "tradeDispenser"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25399"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BankItems"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25400"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Recap"
     ]
   ]
 ]
