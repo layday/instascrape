@@ -1560,6 +1560,16 @@
     ]
   ],
   [
+    "Armory (Classic)",
+    [
+      "curse",
+      "342531"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Armory Link",
     [
       "curse",
@@ -3980,6 +3990,16 @@
     ]
   ],
   [
+    "BetterLFG",
+    [
+      "curse",
+      "346322"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BetterPowerBarAlt",
     [
       "curse",
@@ -5385,6 +5405,26 @@
     ]
   ],
   [
+    "BuffBlock",
+    [
+      "curse",
+      "347881"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "BuffCount",
+    [
+      "curse",
+      "347888"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BuffEnoughClassic",
     [
       "curse",
@@ -6243,6 +6283,16 @@
     ]
   ],
   [
+    "Character Tooltip",
+    [
+      "curse",
+      "347603"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "CharacterStatsClassic",
     [
       "curse",
@@ -6253,12 +6303,13 @@
     ]
   ],
   [
-    "CharacterTooltip",
+    "Chat Copy Paste",
     [
       "curse",
-      "347603"
+      "347753"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -6661,16 +6712,6 @@
     [
       "curse",
       "103037"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ClassSpecStats",
-    [
-      "curse",
-      "103049"
     ],
     [
       "retail"
@@ -7224,6 +7265,26 @@
     ]
   ],
   [
+    "Cloudy Pet Collected",
+    [
+      "curse",
+      "50466"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Cloudy Tooltip Mod",
+    [
+      "curse",
+      "50464"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Cloudy TradeSkill",
     [
       "curse",
@@ -7238,6 +7299,16 @@
     [
       "curse",
       "51819"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Cloudy Unit Info",
+    [
+      "curse",
+      "50465"
     ],
     [
       "retail"
@@ -10064,7 +10135,7 @@
     ]
   ],
   [
-    "Did I Do It",
+    "Did I Do It Classic",
     [
       "curse",
       "345066"
@@ -10507,6 +10578,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "DrinkIT",
+    [
+      "curse",
+      "347532"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -12917,7 +12999,6 @@
       "327765"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -14573,6 +14654,17 @@
     ]
   ],
   [
+    "GreyOnCooldown",
+    [
+      "curse",
+      "347570"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "GreyScrap",
     [
       "curse",
@@ -16006,16 +16098,6 @@
     ]
   ],
   [
-    "HandyNotes: Lost and Found (Pandaria Treasures)",
-    [
-      "curse",
-      "45644"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "HandyNotes: Mechagon & Nazjatar",
     [
       "curse",
@@ -16181,16 +16263,6 @@
     [
       "curse",
       "86352"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "HandyNotes_DungeonLocations",
-    [
-      "curse",
-      "102768"
     ],
     [
       "retail"
@@ -19560,16 +19632,6 @@
     ]
   ],
   [
-    "LibAppropriateItems-1.0",
-    [
-      "curse",
-      "102010"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "LibArtifactData-1.0",
     [
       "curse",
@@ -22627,6 +22689,17 @@
     ]
   ],
   [
+    "Metal Gear Sounds",
+    [
+      "curse",
+      "347453"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Meter",
     [
       "curse",
@@ -22986,16 +23059,6 @@
     [
       "curse",
       "311392"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Mizus RaidTracker",
-    [
-      "curse",
-      "25121"
     ],
     [
       "retail"
@@ -24279,7 +24342,7 @@
     ]
   ],
   [
-    "NaxxChatAlarm Classic ",
+    "NaxxChatAlarm LFG LFM Classic ",
     [
       "curse",
       "345449"
@@ -24729,6 +24792,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Notepad",
+    [
+      "curse",
+      "347690"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -29087,6 +29161,26 @@
     ]
   ],
   [
+    "RotaCast",
+    [
+      "curse",
+      "255155"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "RotaCast Classic",
+    [
+      "curse",
+      "347597"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "RotateMinimapFix",
     [
       "curse",
@@ -30387,7 +30481,8 @@
       "30509"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -30489,7 +30584,8 @@
       "30985"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -33044,6 +33140,16 @@
     ]
   ],
   [
+    "Thaliz - Rez dem deads!",
+    [
+      "curse",
+      "346116"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Thanker",
     [
       "curse",
@@ -34909,7 +35015,7 @@
       "20506"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -35134,6 +35240,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "UI Hidden Text Remover",
+    [
+      "curse",
+      "347747"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -35388,6 +35504,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Vanguard Raid Recorder",
+    [
+      "curse",
+      "345990"
+    ],
+    [
       "classic"
     ]
   ],
@@ -42607,13 +42733,13 @@
     ]
   ],
   [
-    "Recap Classic",
+    "Recap",
     [
       "wowi",
       "13337"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -52771,7 +52897,6 @@
       "25105"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -55518,6 +55643,46 @@
     [
       "wowi",
       "25396"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "SnickersBOP - For Demonic Runes (and other bop items)",
+    [
+      "wowi",
+      "25397"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "tradeDispenser-classic",
+    [
+      "wowi",
+      "25398"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "BankItems Classic",
+    [
+      "wowi",
+      "25399"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Recap Classic",
+    [
+      "wowi",
+      "25400"
     ],
     [
       "classic"
