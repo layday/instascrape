@@ -22731,6 +22731,16 @@
     ]
   ],
   [
+    "ExtraTooltip",
+    [
+      "curse",
+      "347815"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Exxark-DPS",
     [
       "curse",
@@ -38154,6 +38164,17 @@
     [
       "curse",
       "271486"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Lockbox Mailer",
+    [
+      "curse",
+      "347683"
     ],
     [
       "retail",
@@ -70308,6 +70329,16 @@
     ]
   ],
   [
+    "alaGearMan",
+    [
+      "curse",
+      "347869"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "alaTalentEmu",
     [
       "curse",
@@ -87126,7 +87157,7 @@
       "25078"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
