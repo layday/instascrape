@@ -28993,6 +28993,18 @@
   [
     [
       "curse",
+      "347815"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ExtraTooltip"
+    ]
+  ],
+  [
+    [
+      "curse",
       "100348"
     ],
     [
@@ -48295,6 +48307,19 @@
     ],
     [
       "LockboxCracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347683"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LockboxMailer"
     ]
   ],
   [
@@ -77618,7 +77643,7 @@
       "classic"
     ],
     [
-      "TargetingIcons_V3.6"
+      "TargetingIcons_Classic"
     ]
   ],
   [
@@ -89012,6 +89037,18 @@
     ],
     [
       "alaEGuild"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347869"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "alaGearMan"
     ]
   ],
   [
@@ -104614,7 +104651,7 @@
       "classic"
     ],
     [
-      "TargetingIcons_V3.6"
+      "TargetingIcons_Classic"
     ]
   ],
   [
@@ -173140,7 +173177,7 @@
       "25078"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "BetterVendorPrice"
