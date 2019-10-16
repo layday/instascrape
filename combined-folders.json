@@ -689,18 +689,6 @@
   [
     [
       "curse",
-      "340892"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "AbyssUIClassicRaw"
-    ]
-  ],
-  [
-    [
-      "curse",
       "89712"
     ],
     [
@@ -2192,6 +2180,18 @@
     ],
     [
       "Ahoy"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348167"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AimedShotCastbarClassic"
     ]
   ],
   [
@@ -4756,24 +4756,6 @@
       "AtlasLoot_WorldEvents",
       "AtlasLoot_WrathoftheLichKing",
       "AtlasLoot"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "326516"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "AtlasLootClassic_Crafting",
-      "AtlasLootClassic_DungeonsAndRaids",
-      "AtlasLootClassic_PvP",
-      "AtlasLootClassic_Collections",
-      "AtlasLootClassic_Factions",
-      "AtlasLootClassic_Options",
-      "AtlasLootClassic"
     ]
   ],
   [
@@ -9101,6 +9083,18 @@
     ],
     [
       "BetterArchaeologyUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347977"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BetterAuraTracker"
     ]
   ],
   [
@@ -16570,6 +16564,18 @@
   [
     [
       "curse",
+      "347982"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicArmory"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20612"
     ],
     [
@@ -16955,6 +16961,18 @@
     ],
     [
       "ClassicLevelUp"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "347961"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicRageLog"
     ]
   ],
   [
@@ -20043,7 +20061,8 @@
       "304324"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DBM-VPLannaNOFX"
@@ -20055,7 +20074,8 @@
       "294266"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DBM-VPLanna"
@@ -20936,18 +20956,6 @@
     ],
     [
       "DagAssist"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "340972"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DagAssistClassic"
     ]
   ],
   [
@@ -21947,6 +21955,30 @@
       "3358"
     ],
     [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
       "retail"
     ],
     [
@@ -21962,30 +21994,6 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -23638,6 +23646,18 @@
   [
     [
       "curse",
+      "347444"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DingGrats"
+    ]
+  ],
+  [
+    [
+      "curse",
       "102737"
     ],
     [
@@ -25093,6 +25113,19 @@
     ],
     [
       "DynamicCam"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "342259"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "DynamicCam-Classic"
     ]
   ],
   [
@@ -31491,6 +31524,18 @@
   [
     [
       "curse",
+      "348056"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicFriendBtn"
+    ]
+  ],
+  [
+    [
+      "curse",
       "32260"
     ],
     [
@@ -32312,6 +32357,18 @@
     ],
     [
       "GameDouble"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348188"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GamerMaps"
     ]
   ],
   [
@@ -52638,6 +52695,18 @@
   [
     [
       "curse",
+      "348168"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MigsAutoInvite"
+    ]
+  ],
+  [
+    [
+      "curse",
       "2450"
     ],
     [
@@ -55489,6 +55558,18 @@
   [
     [
       "curse",
+      "348048"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LFGFilter"
+    ]
+  ],
+  [
+    [
+      "curse",
       "257025"
     ],
     [
@@ -56827,6 +56908,18 @@
     ],
     [
       "NoRaidLootFrames"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348154"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "NoRealFriends"
     ]
   ],
   [
@@ -60176,6 +60269,18 @@
     ],
     [
       "PetXP"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348145"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PetXPBar"
     ]
   ],
   [
@@ -63728,6 +63833,30 @@
     ],
     [
       "QuestsChanged"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348102"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ArenaSound"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348102"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "QueueSound"
     ]
   ],
   [
@@ -67371,6 +67500,18 @@
   [
     [
       "curse",
+      "348072"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RepByZone"
+    ]
+  ],
+  [
+    [
+      "curse",
       "25107"
     ],
     [
@@ -67657,6 +67798,18 @@
     ],
     [
       "RestockShop"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348032"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RetailUI"
     ]
   ],
   [
@@ -68950,6 +69103,19 @@
     ],
     [
       "SaunanTaakseEmotes"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348059"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "SausageRolls"
     ]
   ],
   [
@@ -76108,6 +76274,18 @@
   [
     [
       "curse",
+      "348196"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SunnArtPackHexakill"
+    ]
+  ],
+  [
+    [
+      "curse",
       "102474"
     ],
     [
@@ -77437,6 +77615,18 @@
     ],
     [
       "TankPoints"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348158"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TankWarningsClassic"
     ]
   ],
   [
@@ -83799,6 +83989,18 @@
   [
     [
       "curse",
+      "348027"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "VendorTrashManager"
+    ]
+  ],
+  [
+    [
+      "curse",
       "93484"
     ],
     [
@@ -87021,6 +87223,19 @@
     ],
     [
       "Worth"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348079"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Worthless"
     ]
   ],
   [
@@ -146997,18 +147212,6 @@
   [
     [
       "wowi",
-      "21499"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "eCastingBar"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "21500"
     ],
     [
@@ -147064,18 +147267,6 @@
     ],
     [
       "Broker_Group"
-    ]
-  ],
-  [
-    [
-      "wowi",
-      "21505"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SpamGuard"
     ]
   ],
   [
@@ -150361,18 +150552,6 @@
     ],
     [
       "PetBattleReporter"
-    ]
-  ],
-  [
-    [
-      "wowi",
-      "21969"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ChatMOD"
     ]
   ],
   [
@@ -153962,18 +154141,6 @@
   [
     [
       "wowi",
-      "22534"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "KillingStreaks"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "22535"
     ],
     [
@@ -155851,18 +156018,6 @@
     ],
     [
       "JackdawOptions"
-    ]
-  ],
-  [
-    [
-      "wowi",
-      "22833"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ChatMod2"
     ]
   ],
   [
@@ -171351,7 +171506,7 @@
       "24910"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "WeakAuras",
@@ -171782,19 +171937,6 @@
     ],
     [
       "EKMinimap"
-    ]
-  ],
-  [
-    [
-      "wowi",
-      "24944"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "WeakAuras",
-      "WeakAurasOptions"
     ]
   ],
   [
@@ -176941,6 +177083,80 @@
     ],
     [
       "Recap"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25401"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TitanRecap"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25402"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "ChatLink-1.0"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25403"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DPS_Tracker"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25404"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "EsfandPing"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25405"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TankWarningsClassic"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25406"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Database",
+      "Libs"
     ]
   ]
 ]
