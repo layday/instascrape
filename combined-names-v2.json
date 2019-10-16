@@ -564,16 +564,6 @@
     ]
   ],
   [
-    "AbyssUIClassicRaw",
-    [
-      "curse",
-      "340892"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Acac\u00efa Boss Mods",
     [
       "curse",
@@ -1769,6 +1759,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Aimed Shot Castbar Classic",
+    [
+      "curse",
+      "348167"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -7245,6 +7245,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Better Aura Tracker",
+    [
+      "curse",
+      "347977"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -13113,6 +13123,16 @@
     ]
   ],
   [
+    "Classic Armory",
+    [
+      "curse",
+      "347982"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic Auto Complete",
     [
       "curse",
@@ -13434,6 +13454,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ClassicRageLog",
+    [
+      "curse",
+      "347961"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -15860,17 +15890,19 @@
       "304324"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
-    "DBM Voice Pack - Lanna \ub77c\ub098 (Korean Female) BfA",
+    "DBM Voice Pack - Lanna \ub77c\ub098 (Korean Female)",
     [
       "curse",
       "294266"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -18565,6 +18597,16 @@
     ]
   ],
   [
+    "Ding! Grats",
+    [
+      "curse",
+      "347444"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Ding-Announcer",
     [
       "curse",
@@ -19693,6 +19735,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "DynamicCam (Classic)",
+    [
+      "curse",
+      "342259"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -24774,6 +24827,16 @@
     ]
   ],
   [
+    "FriendBtn",
+    [
+      "curse",
+      "348056"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "FriendXP",
     [
       "curse",
@@ -25488,6 +25551,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GamerMaps",
+    [
+      "curse",
+      "348188"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -41530,6 +41603,16 @@
     ]
   ],
   [
+    "MigsAutoInvite",
+    [
+      "curse",
+      "348168"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "MikScrollingBattleText",
     [
       "curse",
@@ -43817,6 +43900,16 @@
     ]
   ],
   [
+    "Mythic Plus LFG Filter",
+    [
+      "curse",
+      "348048"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Mythic Plus Run Calc",
     [
       "curse",
@@ -44851,6 +44944,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "No Real Friends",
+    [
+      "curse",
+      "348154"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -47526,6 +47629,16 @@
     ]
   ],
   [
+    "PetXPBar",
+    [
+      "curse",
+      "348145"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Peters Interface Addon (PIA)",
     [
       "curse",
@@ -50171,6 +50284,16 @@
     [
       "curse",
       "86759"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Queue Sound",
+    [
+      "curse",
+      "348102"
     ],
     [
       "retail"
@@ -52988,6 +53111,16 @@
     ]
   ],
   [
+    "RepByZone",
+    [
+      "curse",
+      "348072"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "RepCalc (Reputation Bars)",
     [
       "curse",
@@ -53219,6 +53352,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Retail UI",
+    [
+      "curse",
+      "348032"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -54279,6 +54422,17 @@
     [
       "curse",
       "295875"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "SausageRolls",
+    [
+      "curse",
+      "348059"
     ],
     [
       "retail",
@@ -59996,6 +60150,16 @@
     ]
   ],
   [
+    "SunnArtPack - Hexakill UI",
+    [
+      "curse",
+      "348196"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "SunnArtPack - Legion",
     [
       "curse",
@@ -61030,6 +61194,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TankWarningsClassic",
+    [
+      "curse",
+      "348158"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -66227,6 +66401,16 @@
     ]
   ],
   [
+    "VendorTrashManager",
+    [
+      "curse",
+      "348027"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Vendorer",
     [
       "curse",
@@ -68782,6 +68966,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Worthless",
+    [
+      "curse",
+      "348079"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -80399,6 +80594,16 @@
     ]
   ],
   [
+    "EmoteLib",
+    [
+      "wowi",
+      "22739"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Old Main Menu Micro Button",
     [
       "wowi",
@@ -85679,7 +85884,7 @@
       "24910"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -86007,16 +86212,6 @@
     [
       "wowi",
       "24943"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "WeakAuras 2 Classic",
-    [
-      "wowi",
-      "24944"
     ],
     [
       "classic"
@@ -90206,6 +90401,67 @@
     [
       "wowi",
       "25400"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Titan Recap Classic",
+    [
+      "wowi",
+      "25401"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ChatLink-1.0",
+    [
+      "wowi",
+      "25402"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "DPS_Tracker",
+    [
+      "wowi",
+      "25403"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "EsfandPing",
+    [
+      "wowi",
+      "25404"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "TankWarningsClassic",
+    [
+      "wowi",
+      "25405"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "GamerMaps",
+    [
+      "wowi",
+      "25406"
     ],
     [
       "classic"
