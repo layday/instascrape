@@ -4690,6 +4690,16 @@
     ]
   ],
   [
+    "AutoInvitation for BfA",
+    [
+      "curse",
+      "348252"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AutoInvites",
     [
       "curse",
@@ -30964,6 +30974,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Hide Player`s Arrow",
+    [
+      "curse",
+      "348256"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -57393,6 +57413,16 @@
     ]
   ],
   [
+    "SlashFour",
+    [
+      "curse",
+      "348250"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "SlashIn ( /in )",
     [
       "curse",
@@ -66307,6 +66337,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Vendetta Kill Points",
+    [
+      "curse",
+      "348086"
+    ],
+    [
+      "classic"
     ]
   ],
   [
