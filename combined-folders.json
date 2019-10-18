@@ -355,10 +355,11 @@
       "323266"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
-      "AGT"
+      "AutomaticGoblinTherapist"
     ]
   ],
   [
@@ -395,6 +396,18 @@
     ],
     [
       "!AHCompat"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348328"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AHQuery"
     ]
   ],
   [
@@ -5049,6 +5062,18 @@
   [
     [
       "curse",
+      "347402"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AuctionLite-classic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "36952"
     ],
     [
@@ -8876,6 +8901,19 @@
     ],
     [
       "BearForceOne"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348348"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "BecomeMyFriend"
     ]
   ],
   [
@@ -16948,6 +16986,18 @@
     ],
     [
       "ClassicGuide"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348415"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicInterrupt"
     ]
   ],
   [
@@ -27630,6 +27680,19 @@
     ],
     [
       "EmoteLDB"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "74020"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "EmoteLib"
     ]
   ],
   [
@@ -40180,6 +40243,18 @@
     ],
     [
       "HonorInfoPanel"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348370"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "honorspy"
     ]
   ],
   [
@@ -55262,7 +55337,7 @@
       "retail"
     ],
     [
-      "MyAtunements"
+      "MyAlliedRaces"
     ]
   ],
   [
@@ -59587,6 +59662,18 @@
   [
     [
       "curse",
+      "348294"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Personal Resource Display"
+    ]
+  ],
+  [
+    [
+      "curse",
       "334578"
     ],
     [
@@ -62486,6 +62573,18 @@
     ],
     [
       "PrydazSaves"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348326"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PugLoot"
     ]
   ],
   [
@@ -155472,7 +155571,8 @@
       "22739"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "EmoteLib"
@@ -157998,11 +158098,10 @@
       "23151"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
-      "AGT"
+      "AutomaticGoblinTherapist"
     ]
   ],
   [
@@ -177205,6 +177304,31 @@
     [
       "Database",
       "Libs"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25407"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RepByZone"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25408"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "BecomeMyFriend"
     ]
   ]
 ]
