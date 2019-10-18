@@ -298,7 +298,8 @@
       "323266"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -329,6 +330,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "AHQuery",
+    [
+      "curse",
+      "348328"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -4002,6 +4013,16 @@
     ]
   ],
   [
+    "AuctionLite-classic",
+    [
+      "curse",
+      "347402"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AuctionLite: Improved Search",
     [
       "curse",
@@ -7075,6 +7096,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Become My Friend",
+    [
+      "curse",
+      "348348"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -13446,6 +13478,16 @@
     ]
   ],
   [
+    "ClassicInterrupt",
+    [
+      "curse",
+      "348415"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClassicLFG",
     [
       "curse",
@@ -15894,7 +15936,7 @@
     ]
   ],
   [
-    "DBM Voice Pack - Lanna NOFX (Korean Female) BfA",
+    "DBM Voice Pack - Lanna NOFX (Korean Female)",
     [
       "curse",
       "304324"
@@ -21682,6 +21724,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "EmoteLib",
+    [
+      "curse",
+      "74020"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -31657,6 +31710,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "HonorSpy",
+    [
+      "curse",
+      "348370"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -43648,7 +43711,7 @@
     ]
   ],
   [
-    "MyAtunements",
+    "MyAlliedRaces",
     [
       "curse",
       "312482"
@@ -47097,6 +47160,16 @@
     ]
   ],
   [
+    "Personal Resource Display",
+    [
+      "curse",
+      "348294"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Personal Roll Loot Classic",
     [
       "curse",
@@ -49309,6 +49382,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "PugLoot",
+    [
+      "curse",
+      "348326"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -80640,7 +80723,8 @@
       "22739"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -81012,8 +81096,7 @@
       "23151"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -90226,7 +90309,7 @@
     ]
   ],
   [
-    "ChaChing V 2.0.0",
+    "ChaChing V 2.0.5",
     [
       "wowi",
       "25376"
@@ -90504,6 +90587,27 @@
       "25406"
     ],
     [
+      "classic"
+    ]
+  ],
+  [
+    "RepByZone",
+    [
+      "wowi",
+      "25407"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Become My Friend",
+    [
+      "wowi",
+      "25408"
+    ],
+    [
+      "retail",
       "classic"
     ]
   ]
