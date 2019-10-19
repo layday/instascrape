@@ -1367,7 +1367,8 @@
       "20830"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "AddEmote"
@@ -6960,6 +6961,18 @@
     [
       "BFAInvasionTimer_Options",
       "BFAInvasionTimer"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348354"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BFFilter"
     ]
   ],
   [
@@ -14098,7 +14111,8 @@
       "72616"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "CT_BarMod",
@@ -20887,6 +20901,18 @@
   [
     [
       "curse",
+      "348393"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DPS_Tracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20187"
     ],
     [
@@ -20965,7 +20991,8 @@
       "45982"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DWMRepColoredBars"
@@ -49219,6 +49246,18 @@
   [
     [
       "curse",
+      "26785"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LootMagic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "32397"
     ],
     [
@@ -54827,6 +54866,30 @@
   [
     [
       "curse",
+      "4493"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MrBuffMan"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "4493"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MrBuffManCustom"
+    ]
+  ],
+  [
+    [
+      "curse",
       "85383"
     ],
     [
@@ -55760,6 +55823,18 @@
     ],
     [
       "MythicPlus GuildBest"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348449"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MythicPlusDrop"
     ]
   ],
   [
@@ -61407,7 +61482,8 @@
       "65814"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Poisoner_Masque"
@@ -64782,6 +64858,19 @@
     ],
     [
       "RPBS"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "21967"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "RPHelm"
     ]
   ],
   [
@@ -71271,6 +71360,18 @@
   [
     [
       "curse",
+      "348425"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ShowMoney"
+    ]
+  ],
+  [
+    [
+      "curse",
       "256294"
     ],
     [
@@ -77275,7 +77376,8 @@
       "3250"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "TTell"
@@ -85823,6 +85925,19 @@
     ],
     [
       "Whisp"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "2266"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "WhispList"
     ]
   ],
   [
@@ -96727,7 +96842,8 @@
       "6797"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "WhispList"
@@ -177302,8 +177418,7 @@
       "classic"
     ],
     [
-      "Database",
-      "Libs"
+      "GamerMaps"
     ]
   ],
   [
@@ -177329,6 +177444,18 @@
     ],
     [
       "BecomeMyFriend"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25409"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibSHA1"
     ]
   ]
 ]
