@@ -6461,6 +6461,16 @@
     ]
   ],
   [
+    "BanishSoul",
+    [
+      "curse",
+      "348321"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Bank's Watch",
     [
       "curse",
@@ -11551,7 +11561,8 @@
       "35224"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -14471,7 +14482,8 @@
       "95233"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -17784,16 +17796,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "DeathLUL",
-    [
-      "curse",
-      "341338"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -28473,7 +28475,6 @@
       "336882"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -34097,6 +34098,16 @@
     ]
   ],
   [
+    "KEKW On Death",
+    [
+      "curse",
+      "341338"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "KRaidTools",
     [
       "curse",
@@ -36450,6 +36461,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LibArray",
+    [
+      "curse",
+      "345638"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -46672,7 +46694,6 @@
       "2703"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -49991,6 +50012,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Quest Crier",
+    [
+      "curse",
+      "348615"
+    ],
+    [
       "classic"
     ]
   ],
@@ -77200,16 +77231,6 @@
     ]
   ],
   [
-    "DurabilityStatus from Cosmos",
-    [
-      "wowi",
-      "11427"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "CounterCraft",
     [
       "wowi",
@@ -86299,16 +86320,6 @@
     ]
   ],
   [
-    "MonkeyQuest Classic (DaMaGepy edition)",
-    [
-      "wowi",
-      "24930"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Immersion Classic",
     [
       "wowi",
@@ -86594,16 +86605,6 @@
     [
       "wowi",
       "24962"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Z-Perl UnitFrames (quickfix)",
-    [
-      "wowi",
-      "24963"
     ],
     [
       "classic"
@@ -90717,6 +90718,46 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "C_B_PetBars+",
+    [
+      "wowi",
+      "25410"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "LibPrism-1.0",
+    [
+      "wowi",
+      "25411"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Astroids Guild Tools",
+    [
+      "wowi",
+      "25412"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "TopGun",
+    [
+      "wowi",
+      "25413"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
