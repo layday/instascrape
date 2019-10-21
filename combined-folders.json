@@ -8139,6 +8139,18 @@
   [
     [
       "curse",
+      "348321"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "BanishSoul"
+    ]
+  ],
+  [
+    [
+      "curse",
       "275688"
     ],
     [
@@ -14549,7 +14561,8 @@
       "35224"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "CancelFormForCrafting"
@@ -18219,7 +18232,8 @@
       "95233"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Comix"
@@ -22044,30 +22058,6 @@
       "3358"
     ],
     [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
       "retail"
     ],
     [
@@ -22083,6 +22073,30 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -22579,18 +22593,6 @@
     ],
     [
       "DeathFxBeGone"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "341338"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DeathLUL"
     ]
   ],
   [
@@ -36150,7 +36152,6 @@
       "336882"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -43259,6 +43260,18 @@
   [
     [
       "curse",
+      "341338"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DeathLUL"
+    ]
+  ],
+  [
+    [
+      "curse",
       "340961"
     ],
     [
@@ -46204,6 +46217,19 @@
     ],
     [
       "LibAppropriateItems-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "345638"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LibArray"
     ]
   ],
   [
@@ -59048,7 +59074,6 @@
       "2703"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -63470,6 +63495,18 @@
     ],
     [
       "QuestCompletist"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348615"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QuestCrier"
     ]
   ],
   [
@@ -172029,21 +172066,6 @@
   [
     [
       "wowi",
-      "24930"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "MonkeyBuddy",
-      "MonkeyLibrary",
-      "MonkeyQuest",
-      "MonkeyQuestLog"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "24931"
     ],
     [
@@ -172396,27 +172418,6 @@
     [
       "MikScrollingBattleText",
       "MSBTOptions"
-    ]
-  ],
-  [
-    [
-      "wowi",
-      "24963"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "ZPerl",
-      "ZPerl_CustomHighlight",
-      "ZPerl_Options",
-      "ZPerl_Party",
-      "ZPerl_PartyPet",
-      "ZPerl_Player",
-      "ZPerl_PlayerBuffs",
-      "ZPerl_PlayerPet",
-      "ZPerl_Target",
-      "ZPerl_TargetTarget"
     ]
   ],
   [
@@ -177456,6 +177457,54 @@
     ],
     [
       "LibSHA1"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25410"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "__C_B_PetBars"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25411"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibPrism-1.0"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25412"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AstroidsGuildTools"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25413"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TopGun"
     ]
   ]
 ]
