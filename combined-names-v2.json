@@ -1144,6 +1144,7 @@
       "325109"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -3563,6 +3564,16 @@
     ]
   ],
   [
+    "Astroids Guild Tools",
+    [
+      "curse",
+      "348652"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Async (AdaptiveSync)",
     [
       "curse",
@@ -4239,6 +4250,16 @@
     ]
   ],
   [
+    "Auto Ammo",
+    [
+      "curse",
+      "348625"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Auto Busy",
     [
       "curse",
@@ -4296,6 +4317,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Auto Loot Assist",
+    [
+      "curse",
+      "348712"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -11521,7 +11553,8 @@
       "20987"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -12329,6 +12362,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Chat Observer",
+    [
+      "curse",
+      "348512"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -13565,6 +13608,16 @@
     [
       "curse",
       "336512"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicTooltipItemLevel",
+    [
+      "curse",
+      "348595"
     ],
     [
       "classic"
@@ -17007,6 +17060,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Damnation",
+    [
+      "curse",
+      "348708"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -23231,6 +23294,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "FarmLog (Classic)",
+    [
+      "curse",
+      "348833"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -30933,6 +31006,16 @@
     ]
   ],
   [
+    "Hide Error Text",
+    [
+      "curse",
+      "348796"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Hide Garrison Mining Nodes",
     [
       "curse",
@@ -37129,6 +37212,17 @@
     ]
   ],
   [
+    "LibHealComm-4.0",
+    [
+      "curse",
+      "20376"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "LibHijackMinimap-1.0",
     [
       "curse",
@@ -40059,6 +40153,16 @@
     ]
   ],
   [
+    "Make People Greet Again!",
+    [
+      "curse",
+      "348371"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Make Tab Targeting Great Again",
     [
       "curse",
@@ -41608,6 +41712,17 @@
     ]
   ],
   [
+    "MessageClassifier",
+    [
+      "curse",
+      "348875"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "MessageToaster",
     [
       "curse",
@@ -42806,6 +42921,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "MoonscarletsChatScanner",
+    [
+      "curse",
+      "348868"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -50594,6 +50719,16 @@
     [
       "curse",
       "19373"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "QuickChat for BfA",
+    [
+      "curse",
+      "348692"
     ],
     [
       "retail"
@@ -61790,6 +61925,16 @@
     ]
   ],
   [
+    "TellBunny",
+    [
+      "curse",
+      "348895"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "TellMeWhen",
     [
       "curse",
@@ -61855,6 +62000,16 @@
     [
       "curse",
       "27494"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "TextureAtlasViewer",
+    [
+      "curse",
+      "348853"
     ],
     [
       "retail"
@@ -62185,6 +62340,16 @@
     [
       "curse",
       "338498"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ThreatWatch Classic",
+    [
+      "curse",
+      "348879"
     ],
     [
       "classic"
@@ -64393,6 +64558,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TopGun",
+    [
+      "curse",
+      "348706"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -69204,6 +69379,16 @@
     [
       "curse",
       "89072"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "WorthIt",
+    [
+      "curse",
+      "348878"
     ],
     [
       "retail"
@@ -90755,6 +90940,26 @@
     [
       "wowi",
       "25413"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Texture Atlas Viewer",
+    [
+      "wowi",
+      "25415"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "MoonscarletsChatScanner",
+    [
+      "wowi",
+      "25416"
     ],
     [
       "classic"
