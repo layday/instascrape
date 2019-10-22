@@ -1417,6 +1417,7 @@
       "325109"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -4480,6 +4481,18 @@
   [
     [
       "curse",
+      "348652"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AstroidsGuildTools"
+    ]
+  ],
+  [
+    [
+      "curse",
       "301668"
     ],
     [
@@ -5376,6 +5389,18 @@
   [
     [
       "curse",
+      "348625"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Auto Ammo"
+    ]
+  ],
+  [
+    [
+      "curse",
       "32361"
     ],
     [
@@ -5443,6 +5468,19 @@
     ],
     [
       "AutoGossip"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348712"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "AutoLootAssist"
     ]
   ],
   [
@@ -14513,7 +14551,8 @@
       "20987"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "CantHealYou"
@@ -15597,6 +15636,18 @@
     ],
     [
       "ChatNotifications"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348512"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ChatObserver"
     ]
   ],
   [
@@ -17098,6 +17149,18 @@
     ],
     [
       "ClassicThreatMeter"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348595"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicTooltipItemLevel"
     ]
   ],
   [
@@ -21467,6 +21530,18 @@
     ],
     [
       "DamageFontChanger"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348708"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Damnation"
     ]
   ],
   [
@@ -29588,6 +29663,18 @@
     ],
     [
       "FarmIt2"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348833"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FarmLog"
     ]
   ],
   [
@@ -39259,6 +39346,18 @@
   [
     [
       "curse",
+      "348796"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HideErrorText"
+    ]
+  ],
+  [
+    [
+      "curse",
       "89005"
     ],
     [
@@ -47043,6 +47142,19 @@
   [
     [
       "curse",
+      "20376"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LibHealComm-4.0"
+    ]
+  ],
+  [
+    [
+      "curse",
       "92912"
     ],
     [
@@ -50698,6 +50810,18 @@
   [
     [
       "curse",
+      "348371"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MakePeopleGreetAgain"
+    ]
+  ],
+  [
+    [
+      "curse",
       "103153"
     ],
     [
@@ -52696,6 +52820,19 @@
   [
     [
       "curse",
+      "348875"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "MessageClassifier"
+    ]
+  ],
+  [
+    [
+      "curse",
       "97244"
     ],
     [
@@ -54224,6 +54361,18 @@
     ],
     [
       "MoonTime"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348868"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MoonscarletsChatScanner"
     ]
   ],
   [
@@ -64229,6 +64378,18 @@
     ],
     [
       "QuickWarnings"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348692"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "QuickChat"
     ]
   ],
   [
@@ -78341,6 +78502,18 @@
   [
     [
       "curse",
+      "348895"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TellBunny"
+    ]
+  ],
+  [
+    [
+      "curse",
       "8025"
     ],
     [
@@ -78422,6 +78595,18 @@
     ],
     [
       "TextureBrowser"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348853"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TextureAtlasViewer"
     ]
   ],
   [
@@ -78821,6 +79006,18 @@
     ],
     [
       "TidyPlates_ThreatPlates"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348879"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ThreatWatch"
     ]
   ],
   [
@@ -81525,6 +81722,18 @@
     ],
     [
       "TopFit"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348706"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TopGun"
     ]
   ],
   [
@@ -87522,6 +87731,18 @@
     ],
     [
       "Worth"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348878"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "WIT"
     ]
   ],
   [
@@ -177505,6 +177726,30 @@
     ],
     [
       "TopGun"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25415"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TextureAtlasViewer"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25416"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MoonscarletsChatScanner"
     ]
   ]
 ]
