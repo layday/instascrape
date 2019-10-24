@@ -123,6 +123,18 @@
   [
     [
       "curse",
+      "349130"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Maekor-Overpower-Alert"
+    ]
+  ],
+  [
+    [
+      "curse",
       "427"
     ],
     [
@@ -3146,7 +3158,6 @@
       "16978"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -9736,6 +9747,27 @@
   [
     [
       "curse",
+      "2382"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "BigWigs_Core",
+      "BigWigs_Options",
+      "BigWigs_Plugins",
+      "BigWigs_Azeroth",
+      "BigWigs_Uldir",
+      "BigWigs_BattleOfDazaralor",
+      "BigWigs_CrucibleOfStorms",
+      "BigWigs_EternalPalace",
+      "BigWigs_Nyalotha",
+      "BigWigs"
+    ]
+  ],
+  [
+    [
+      "curse",
       "307976"
     ],
     [
@@ -14187,6 +14219,7 @@
       "72616"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -16790,6 +16823,18 @@
   [
     [
       "curse",
+      "348978"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHeals"
+    ]
+  ],
+  [
+    [
+      "curse",
       "264469"
     ],
     [
@@ -17004,6 +17049,18 @@
     [
       "ClassicCensusPlus",
       "ImprovedOptionsFrames"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348918"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicChatFilter"
     ]
   ],
   [
@@ -22133,6 +22190,30 @@
       "3358"
     ],
     [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
       "retail"
     ],
     [
@@ -22148,30 +22229,6 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -26063,7 +26120,8 @@
       "15597"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "EasyMail"
@@ -32469,6 +32527,18 @@
   [
     [
       "curse",
+      "348909"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "GagHellYeahBrotherSoundpack"
+    ]
+  ],
+  [
+    [
+      "curse",
       "78454"
     ],
     [
@@ -36744,18 +36814,6 @@
   [
     [
       "curse",
-      "43785"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "GuildTracker"
-    ]
-  ],
-  [
-    [
-      "curse",
       "339242"
     ],
     [
@@ -36763,6 +36821,18 @@
     ],
     [
       "GuildTooltip"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "43785"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "GuildTracker"
     ]
   ],
   [
@@ -42663,6 +42733,7 @@
       "336695"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -48584,6 +48655,18 @@
   [
     [
       "curse",
+      "348989"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LocalWhispers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "87572"
     ],
     [
@@ -49387,7 +49470,8 @@
       "26785"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "LootMagic"
@@ -50659,6 +50743,20 @@
     ],
     [
       "MagnetButtons"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "308483"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "MagnetButtons",
+      "DoIt!"
     ]
   ],
   [
@@ -60251,6 +60349,18 @@
   [
     [
       "curse",
+      "349030"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "PetBattleInfo"
+    ]
+  ],
+  [
+    [
+      "curse",
       "45645"
     ],
     [
@@ -65835,6 +65945,18 @@
   [
     [
       "curse",
+      "349048"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RaidLedger"
+    ]
+  ],
+  [
+    [
+      "curse",
       "304758"
     ],
     [
@@ -65891,6 +66013,18 @@
     ],
     [
       "RaidSlackCheck"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348974"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RaidSummon"
     ]
   ],
   [
@@ -79640,6 +79774,18 @@
   [
     [
       "curse",
+      "349049"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TinyTotemTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "22824"
     ],
     [
@@ -81887,6 +82033,18 @@
   [
     [
       "curse",
+      "348976"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TotemDismiss"
+    ]
+  ],
+  [
+    [
+      "curse",
       "95095"
     ],
     [
@@ -82727,6 +82885,18 @@
     ],
     [
       "TradeSkillUIImproved"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348948"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TradeSkillWhisperLookup"
     ]
   ],
   [
@@ -163023,18 +163193,6 @@
   [
     [
       "wowi",
-      "23756"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "CharoHappyFlight"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "23759"
     ],
     [
@@ -169456,7 +169614,8 @@
       "24623"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Guild_Roster_Manager"
