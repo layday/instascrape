@@ -101,6 +101,16 @@
     ]
   ],
   [
+    "(Classic) Maekor Overpower Alert",
+    [
+      "curse",
+      "349130"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "/rl",
     [
       "curse",
@@ -2506,7 +2516,6 @@
       "16978"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -13312,6 +13321,16 @@
     ]
   ],
   [
+    "Classic Heals",
+    [
+      "curse",
+      "348978"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic PVP Flagging",
     [
       "curse",
@@ -13487,6 +13506,16 @@
     [
       "curse",
       "339981"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicChatFilter",
+    [
+      "curse",
+      "348918"
     ],
     [
       "classic"
@@ -20476,7 +20505,8 @@
       "15597"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -25644,6 +25674,16 @@
     ]
   ],
   [
+    "Gag-HellYeahBrother",
+    [
+      "curse",
+      "348909"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Gag_Ankylos",
     [
       "curse",
@@ -28955,6 +28995,16 @@
     ]
   ],
   [
+    "Guild Tooltip",
+    [
+      "curse",
+      "339242"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Guild Tracker",
     [
       "curse",
@@ -28962,16 +29012,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Guild and Faction Tooltip",
-    [
-      "curse",
-      "339242"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -33645,6 +33685,7 @@
       "336695"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -38424,6 +38465,16 @@
     ]
   ],
   [
+    "Local Whispers",
+    [
+      "curse",
+      "348989"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Localized Groups",
     [
       "curse",
@@ -39043,7 +39094,8 @@
       "26785"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -47631,6 +47683,16 @@
     ]
   ],
   [
+    "PetBattleInfo",
+    [
+      "curse",
+      "349030"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "PetBattleJunkie",
     [
       "curse",
@@ -51838,6 +51900,16 @@
     ]
   ],
   [
+    "RaidLedger",
+    [
+      "curse",
+      "349048"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "RaidLootRoller",
     [
       "curse",
@@ -51886,6 +51958,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "RaidSummon-classic",
+    [
+      "curse",
+      "348974"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -62839,6 +62921,16 @@
     ]
   ],
   [
+    "TinyTotemTimers",
+    [
+      "curse",
+      "349049"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "TinyXStats",
     [
       "curse",
@@ -64691,6 +64783,16 @@
     ]
   ],
   [
+    "Totem Dismiss",
+    [
+      "curse",
+      "348976"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "TotemFilter",
     [
       "curse",
@@ -65381,6 +65483,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TradeSkillWhisperLookup",
+    [
+      "curse",
+      "348948"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -84353,7 +84465,8 @@
       "24623"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
