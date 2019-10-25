@@ -9396,6 +9396,18 @@
   [
     [
       "curse",
+      "349223"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BetterCastbar2"
+    ]
+  ],
+  [
+    [
+      "curse",
       "342234"
     ],
     [
@@ -9620,6 +9632,18 @@
     ],
     [
       "BigDickClub"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349169"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BigBrainTanking"
     ]
   ],
   [
@@ -14209,32 +14233,6 @@
       "CT_Timer",
       "CT_UnitFrames",
       "CT_Viewport",
-      "CT_Library",
-      "CT_RaidAssist_MTPlayers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "72616"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "CT_BarMod",
-      "CT_BottomBar",
-      "CT_BuffMod",
-      "CT_Core",
-      "CT_ExpenseHistory",
-      "CT_MailMod",
-      "CT_MapMod",
-      "CT_PartyBuffs",
-      "CT_RaidAssist",
-      "CT_Timer",
-      "CT_UnitFrames",
-      "CT_Viewport",
       "CT_Library"
     ]
   ],
@@ -16467,6 +16465,18 @@
     ],
     [
       "Classannouncer"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349229"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Class Color HP Bar"
     ]
   ],
   [
@@ -25247,7 +25257,8 @@
       "15596"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DurabilityStatus"
@@ -40814,18 +40825,6 @@
     ],
     [
       "I_Hear_You_RealID"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "26385"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "I_Hear_You_RealIDConv"
     ]
   ],
   [
@@ -62443,6 +62442,18 @@
   [
     [
       "curse",
+      "349158"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PreyStation"
+    ]
+  ],
+  [
+    [
+      "curse",
       "302033"
     ],
     [
@@ -65952,6 +65963,19 @@
     ],
     [
       "RaidLedger"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349157"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "RaidLogger"
     ]
   ],
   [
@@ -78737,7 +78761,8 @@
       "348853"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "TextureAtlasViewer"
@@ -93096,6 +93121,18 @@
   [
     [
       "curse",
+      "349226"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "out of range 2.0"
+    ]
+  ],
+  [
+    [
+      "curse",
       "35637"
     ],
     [
@@ -93575,6 +93612,19 @@
     ],
     [
       "targetassist"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349175"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BagBrother",
+      "tdBag2"
     ]
   ],
   [
@@ -144262,10 +144312,11 @@
       "20806"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
-      "Properity"
+      "Immersion"
     ]
   ],
   [
@@ -177374,7 +177425,7 @@
       "classic"
     ],
     [
-      "SpellbookAbridged"
+      "SpellBookAbridged"
     ]
   ],
   [
@@ -177893,7 +177944,8 @@
       "25415"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "TextureAtlasViewer"
@@ -177909,6 +177961,31 @@
     ],
     [
       "MoonscarletsChatScanner"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25419"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Immersion"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25420"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DurabilityStatus"
     ]
   ]
 ]
