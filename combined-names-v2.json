@@ -7506,6 +7506,16 @@
     ]
   ],
   [
+    "BetterCastbar2",
+    [
+      "curse",
+      "349223"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BetterChatSounds",
     [
       "curse",
@@ -7693,6 +7703,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "BigBrainTanking",
+    [
+      "curse",
+      "349169"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -13026,6 +13046,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Class Color HP Bar",
+    [
+      "curse",
+      "349229"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -19831,7 +19861,8 @@
       "15596"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -32153,16 +32184,6 @@
     [
       "curse",
       "24386"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "I Hear You Real ID Conversation",
-    [
-      "curse",
-      "26385"
     ],
     [
       "retail"
@@ -49255,6 +49276,16 @@
     ]
   ],
   [
+    "PreyStation",
+    [
+      "curse",
+      "349158"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Pride - Personal Achievements",
     [
       "curse",
@@ -50181,7 +50212,7 @@
     ]
   ],
   [
-    "Quest Cinematic (Retail & Classic)",
+    "Quest Cinematic (Retail & Classic & FF XIV)",
     [
       "curse",
       "319411"
@@ -51910,6 +51941,17 @@
     ]
   ],
   [
+    "RaidLogger (Classic)",
+    [
+      "curse",
+      "349157"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "RaidLootRoller",
     [
       "curse",
@@ -51961,7 +52003,7 @@
     ]
   ],
   [
-    "RaidSummon-classic",
+    "RaidSummon",
     [
       "curse",
       "348974"
@@ -62094,7 +62136,8 @@
       "348853"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -73549,6 +73592,16 @@
     ]
   ],
   [
+    "out of range 2.0",
+    [
+      "curse",
+      "349226"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "pNameplates",
     [
       "curse",
@@ -73940,6 +73993,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "tdBag2",
+    [
+      "curse",
+      "349175"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -77222,16 +77285,6 @@
     ]
   ],
   [
-    "CooldownWatch",
-    [
-      "wowi",
-      "10395"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "DemonDaemon",
     [
       "wowi",
@@ -77339,6 +77392,16 @@
     [
       "wowi",
       "10855"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Urban Achiever",
+    [
+      "wowi",
+      "10867"
     ],
     [
       "retail"
@@ -80031,6 +80094,17 @@
     [
       "wowi",
       "20805"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Properity",
+    [
+      "wowi",
+      "20806"
     ],
     [
       "retail",
@@ -91065,7 +91139,8 @@
       "25415"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -91073,6 +91148,27 @@
     [
       "wowi",
       "25416"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Patch for Immersion (Quest Cinematic)",
+    [
+      "wowi",
+      "25419"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "DurabilityStatus Classic",
+    [
+      "wowi",
+      "25420"
     ],
     [
       "classic"
