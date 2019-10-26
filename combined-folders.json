@@ -6455,7 +6455,8 @@
       "21024"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "AutoVendor"
@@ -16833,6 +16834,18 @@
   [
     [
       "curse",
+      "349302"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHealingAssignments"
+    ]
+  ],
+  [
+    [
+      "curse",
       "348978"
     ],
     [
@@ -20837,6 +20850,18 @@
   [
     [
       "curse",
+      "349286"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DC-TotalHealerMana"
+    ]
+  ],
+  [
+    [
+      "curse",
       "101606"
     ],
     [
@@ -21189,6 +21214,18 @@
     ],
     [
       "DagAssist"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "340972"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DagAssistClassic"
     ]
   ],
   [
@@ -26535,6 +26572,20 @@
     ],
     [
       "retail"
+    ],
+    [
+      "Ellipsis_Options",
+      "Ellipsis"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349249"
+    ],
+    [
+      "retail",
+      "classic"
     ],
     [
       "Ellipsis_Options",
@@ -34150,7 +34201,8 @@
       "36062"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GnomTEC_Badge",
@@ -47888,6 +47940,30 @@
     ],
     [
       "LibS2kFactionalItems-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348450"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibSHA1"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348450"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibSHA1-1.0"
     ]
   ],
   [
@@ -82922,6 +82998,18 @@
     ],
     [
       "TradeSkillWhisperLookup"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349245"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TradeStone"
     ]
   ],
   [
@@ -174088,6 +174176,7 @@
       "25085"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -177887,7 +177976,7 @@
       "retail"
     ],
     [
-      "LibSHA1"
+      "LibSHA1-1.0"
     ]
   ],
   [
@@ -177986,6 +178075,18 @@
     ],
     [
       "DurabilityStatus"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25421"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "NPCsMarkers"
     ]
   ]
 ]
