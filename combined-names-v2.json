@@ -5132,7 +5132,8 @@
       "21024"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -13351,6 +13352,16 @@
     ]
   ],
   [
+    "Classic Healing Assignments",
+    [
+      "curse",
+      "349302"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic Heals",
     [
       "curse",
@@ -16535,6 +16546,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "DC-TotalHealerMana",
+    [
+      "curse",
+      "349286"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -20864,6 +20885,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Ellipsis (Multi-Target DoT Timers) Continued",
+    [
+      "curse",
+      "349249"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -26937,7 +26969,8 @@
       "36062"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37836,6 +37869,16 @@
     [
       "curse",
       "93850"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "LibSHA1",
+    [
+      "curse",
+      "348450"
     ],
     [
       "retail"
@@ -65539,6 +65582,16 @@
     ]
   ],
   [
+    "TradeStone",
+    [
+      "curse",
+      "349245"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Tradeskill Profit",
     [
       "curse",
@@ -75281,10 +75334,10 @@
     ]
   ],
   [
-    "MelloUI",
+    "MelloUI: Revisited",
     [
       "tukui",
-      "122"
+      "146"
     ],
     [
       "retail"
@@ -77585,6 +77638,16 @@
     [
       "wowi",
       "11426"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "DurabilityStatus from Cosmos",
+    [
+      "wowi",
+      "11427"
     ],
     [
       "retail"
@@ -80820,6 +80883,16 @@
     [
       "wowi",
       "22011"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Myslot",
+    [
+      "wowi",
+      "22015"
     ],
     [
       "retail"
@@ -88008,6 +88081,7 @@
       "25085"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -91172,6 +91246,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "NPCMsMarkers",
+    [
+      "wowi",
+      "25421"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
