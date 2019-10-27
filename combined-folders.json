@@ -581,6 +581,18 @@
   [
     [
       "curse",
+      "349425"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AT_Raid_Export"
+    ]
+  ],
+  [
+    [
+      "curse",
       "22046"
     ],
     [
@@ -25701,18 +25713,6 @@
     ],
     [
       "EQDing"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "301511"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ES_Interrupt"
     ]
   ],
   [
@@ -56464,6 +56464,18 @@
   [
     [
       "curse",
+      "349374"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "NPCsMarkers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "261826"
     ],
     [
@@ -68323,6 +68335,19 @@
     ],
     [
       "ReputationColors"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349354"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "ReputationWatcher"
     ]
   ],
   [
@@ -133360,7 +133385,8 @@
       "19099"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "ProgressBar"
