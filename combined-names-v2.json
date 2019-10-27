@@ -474,6 +474,16 @@
     ]
   ],
   [
+    "AT Raid Export",
+    [
+      "curse",
+      "349425"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ATeam",
     [
       "curse",
@@ -20183,16 +20193,6 @@
     [
       "curse",
       "28015"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ES_Interrupt",
-    [
-      "curse",
-      "301511"
     ],
     [
       "retail"
@@ -44570,6 +44570,16 @@
     ]
   ],
   [
+    "NPCsMarkers",
+    [
+      "curse",
+      "349374"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Name2Chat",
     [
       "curse",
@@ -53754,6 +53764,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Reputation Watcher",
+    [
+      "curse",
+      "349354"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -76236,6 +76257,16 @@
     ]
   ],
   [
+    "TradeSkillInfo",
+    [
+      "wowi",
+      "5473"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AutoBar",
     [
       "wowi",
@@ -79469,7 +79500,8 @@
       "19099"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -91250,7 +91282,7 @@
     ]
   ],
   [
-    "NPCMsMarkers",
+    "NPCsMarkers",
     [
       "wowi",
       "25421"
