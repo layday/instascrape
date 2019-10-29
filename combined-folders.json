@@ -9409,6 +9409,19 @@
   [
     [
       "curse",
+      "349698"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "BetterBuffDuration"
+    ]
+  ],
+  [
+    [
+      "curse",
       "349223"
     ],
     [
@@ -17457,7 +17470,8 @@
       "70783"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Click Menu"
@@ -22249,30 +22263,6 @@
       "3358"
     ],
     [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
       "retail"
     ],
     [
@@ -22288,6 +22278,30 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -23774,6 +23788,18 @@
     ],
     [
       "Devian"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349763"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Devil LDB Professions"
     ]
   ],
   [
@@ -25718,6 +25744,18 @@
   [
     [
       "curse",
+      "349711"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ES_Tradeskill"
+    ]
+  ],
+  [
+    [
+      "curse",
       "17234"
     ],
     [
@@ -27150,10 +27188,10 @@
       "47763"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "ElvUI_NutsAndBolts_Classic"
+      "ElvUI_NutsAndBolts"
     ]
   ],
   [
@@ -27162,10 +27200,10 @@
       "47763"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "ElvUI_NutsAndBolts"
+      "ElvUI_NutsAndBolts_Classic"
     ]
   ],
   [
@@ -34951,6 +34989,18 @@
     ],
     [
       "GreySeller"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349264"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GreybeardsCasino"
     ]
   ],
   [
@@ -46141,6 +46191,18 @@
   [
     [
       "curse",
+      "349435"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LejonAddon"
+    ]
+  ],
+  [
+    [
+      "curse",
       "95019"
     ],
     [
@@ -46329,6 +46391,18 @@
     ],
     [
       "_LiarsDice"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "97288"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibDFramework-1.0"
     ]
   ],
   [
@@ -46874,18 +46948,6 @@
     ],
     [
       "LibDDI-1.0"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "97288"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibDFramework-1.0"
     ]
   ],
   [
@@ -79380,6 +79442,18 @@
   [
     [
       "curse",
+      "349715"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TidyMinimap_Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "21409"
     ],
     [
@@ -81447,7 +81521,8 @@
       "20417"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "ToggleNames"
@@ -93386,6 +93461,19 @@
     ],
     [
       "protwarbar"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349611"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "qrcode-wow"
     ]
   ],
   [
@@ -155769,7 +155857,7 @@
       "22660"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "Click Menu"
@@ -174009,8 +174097,8 @@
       "classic"
     ],
     [
-      "Details",
-      "Details_TinyThreat"
+      "Details_TinyThreat",
+      "Details"
     ]
   ],
   [
@@ -178114,6 +178202,18 @@
     ],
     [
       "NPCsMarkers"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25422"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHeals"
     ]
   ]
 ]
