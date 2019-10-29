@@ -7517,6 +7517,17 @@
     ]
   ],
   [
+    "BetterBuffDuration",
+    [
+      "curse",
+      "349698"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "BetterCastbar2",
     [
       "curse",
@@ -13862,7 +13873,8 @@
       "70783"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -18704,6 +18716,16 @@
     ]
   ],
   [
+    "Devil LDB Professions",
+    [
+      "curse",
+      "349763"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "DewdropLib",
     [
       "curse",
@@ -20193,6 +20215,16 @@
     [
       "curse",
       "28015"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "ES_Tradeskill",
+    [
+      "curse",
+      "349711"
     ],
     [
       "retail"
@@ -27527,6 +27559,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Greybeards Casino",
+    [
+      "curse",
+      "349264"
+    ],
+    [
       "classic"
     ]
   ],
@@ -36390,6 +36432,16 @@
     ]
   ],
   [
+    "Lejon Addon",
+    [
+      "curse",
+      "349435"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Leri",
     [
       "curse",
@@ -36545,6 +36597,16 @@
     [
       "curse",
       "95275"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Lib Details! Framework",
+    [
+      "curse",
+      "97288"
     ],
     [
       "retail"
@@ -37000,16 +37062,6 @@
     [
       "curse",
       "27889"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LibDFramework",
-    [
-      "curse",
-      "97288"
     ],
     [
       "retail"
@@ -62626,6 +62678,16 @@
     ]
   ],
   [
+    "Tidy Minimap Classic",
+    [
+      "curse",
+      "349715"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Tidy Plates",
     [
       "curse",
@@ -64303,7 +64365,8 @@
       "20417"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -73797,6 +73860,17 @@
     ]
   ],
   [
+    "qrcode",
+    [
+      "curse",
+      "349611"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "quantify",
     [
       "curse",
@@ -81249,7 +81323,7 @@
       "22660"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -91289,6 +91363,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Classic Heals",
+    [
+      "wowi",
+      "25422"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
