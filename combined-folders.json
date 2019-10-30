@@ -24292,6 +24292,19 @@
   [
     [
       "curse",
+      "348033"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "DoIt!"
+    ]
+  ],
+  [
+    [
+      "curse",
       "86294"
     ],
     [
@@ -50885,20 +50898,6 @@
   [
     [
       "curse",
-      "308483"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "MagnetButtons",
-      "DoIt!"
-    ]
-  ],
-  [
-    [
-      "curse",
       "92914"
     ],
     [
@@ -63155,6 +63154,18 @@
     ],
     [
       "PullScream"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349781"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Pulse"
     ]
   ],
   [
@@ -156100,10 +156111,9 @@
       "22700"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "!Beautycase",
       "oUF",
       "oUF_Bob"
     ]
@@ -178214,6 +178224,18 @@
     ],
     [
       "ClassicHeals"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25423"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MaxCamera"
     ]
   ]
 ]
