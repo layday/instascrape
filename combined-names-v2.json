@@ -19120,6 +19120,17 @@
     ]
   ],
   [
+    "DoIt!",
+    [
+      "curse",
+      "348033"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "DoaschHero",
     [
       "curse",
@@ -49821,6 +49832,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Pulse Classic",
+    [
+      "curse",
+      "349781"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -81367,13 +81388,13 @@
     ]
   ],
   [
-    "oUF_Bob",
+    "oUF_Bob for Classic WoW",
     [
       "wowi",
       "22700"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -91370,6 +91391,16 @@
     [
       "wowi",
       "25422"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "MaxCamera",
+    [
+      "wowi",
+      "25423"
     ],
     [
       "classic"
