@@ -10775,6 +10775,16 @@
     ]
   ],
   [
+    "Buff'o'mat",
+    [
+      "curse",
+      "349856"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BuffBlock",
     [
       "curse",
@@ -11344,6 +11354,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "C_B_PetBars+",
+    [
+      "curse",
+      "349700"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -21797,6 +21817,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "ElvUI_RayUI",
+    [
+      "curse",
+      "349794"
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -41496,6 +41526,16 @@
     ]
   ],
   [
+    "MaxCamera",
+    [
+      "curse",
+      "349790"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "MaxDps Death Knight",
     [
       "curse",
@@ -50762,6 +50802,16 @@
     ]
   ],
   [
+    "QuestTrackerMover",
+    [
+      "curse",
+      "349798"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "QuestWatchSort",
     [
       "curse",
@@ -59249,7 +59299,7 @@
     ]
   ],
   [
-    "SpellAnnouncer Classic",
+    "SpellAnnounce Classic",
     [
       "curse",
       "345951"
@@ -67912,6 +67962,16 @@
     ]
   ],
   [
+    "Warlock Healthstone Tracker",
+    [
+      "curse",
+      "349620"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "WarlockReminder",
     [
       "curse",
@@ -69636,6 +69696,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "WorldBuffTracker",
+    [
+      "curse",
+      "349844"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -73525,7 +73595,16 @@
       "257916"
     ],
     [
-      "retail",
+      "retail"
+    ]
+  ],
+  [
+    "npcGenerator To Total RP 3 Classic",
+    [
+      "curse",
+      "349864"
+    ],
+    [
       "classic"
     ]
   ],
@@ -75001,6 +75080,16 @@
     ]
   ],
   [
+    "Custom Tags",
+    [
+      "tukui",
+      "147"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "DecUI",
     [
       "tukui",
@@ -75841,6 +75930,16 @@
     ]
   ],
   [
+    "Custom Tags",
+    [
+      "tukui",
+      "30"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DSM Classic",
     [
       "tukui",
@@ -75855,26 +75954,6 @@
     [
       "tukui",
       "2"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "ElvUI Aura Bars Mover Classic",
-    [
-      "tukui",
-      "20"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "ElvUI Extra Action Bars",
-    [
-      "tukui",
-      "28"
     ],
     [
       "classic"
@@ -78459,7 +78538,7 @@
       "14339"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -90359,13 +90438,13 @@
     ]
   ],
   [
-    "Dejunk (Classic)",
+    "Dejunk",
     [
       "wowi",
       "25313"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -91401,6 +91480,26 @@
     [
       "wowi",
       "25423"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Super Status Tracking Bar",
+    [
+      "wowi",
+      "25424"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "WorldBuffTracker",
+    [
+      "wowi",
+      "25425"
     ],
     [
       "classic"
