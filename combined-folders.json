@@ -13575,6 +13575,18 @@
   [
     [
       "curse",
+      "349856"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "buffOmat"
+    ]
+  ],
+  [
+    [
+      "curse",
       "347881"
     ],
     [
@@ -14299,6 +14311,18 @@
       "CUI_Config",
       "CUI_WorldmapMarkers",
       "CUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349700"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "__C_B_PetBars"
     ]
   ],
   [
@@ -27775,6 +27799,18 @@
     ],
     [
       "ElvUI_QuestXP_Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349794"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ElvUI_RayUI"
     ]
   ],
   [
@@ -52516,6 +52552,18 @@
   [
     [
       "curse",
+      "349790"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MaxCamera"
+    ]
+  ],
+  [
+    [
+      "curse",
       "258275"
     ],
     [
@@ -64433,6 +64481,18 @@
   [
     [
       "curse",
+      "349798"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "QuestTrackerMover"
+    ]
+  ],
+  [
+    [
+      "curse",
       "102126"
     ],
     [
@@ -75207,7 +75267,7 @@
       "classic"
     ],
     [
-      "SpellAnnouncer"
+      "SpellAnnouncerClassic"
     ]
   ],
   [
@@ -85872,6 +85932,19 @@
   [
     [
       "curse",
+      "349620"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WarlockHealthstoneTracker_BlizzUI",
+      "WarlockHealthstoneTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "17934"
     ],
     [
@@ -88041,6 +88114,18 @@
     ],
     [
       "WorldBossTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349844"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WorldBuffTracker"
     ]
   ],
   [
@@ -92957,7 +93042,18 @@
       "257916"
     ],
     [
-      "retail",
+      "retail"
+    ],
+    [
+      "npcGToTRP3"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349864"
+    ],
+    [
       "classic"
     ],
     [
@@ -113098,7 +113194,7 @@
       "14339"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "Aptechka",
@@ -176969,7 +177065,7 @@
       "25313"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Dejunk"
@@ -178236,6 +178332,30 @@
     ],
     [
       "MaxCamera"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25424"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SuperStatusTrackingBar"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25425"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WorldBuffTracker"
     ]
   ]
 ]
