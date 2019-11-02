@@ -5252,6 +5252,7 @@
       "Auc-Stat-StdDev",
       "BeanCounter",
       "Enchantrix",
+      "Enchantrix-Barker",
       "Informant",
       "Auc-Util-FixAH",
       "SlideBar",
@@ -10562,6 +10563,18 @@
   [
     [
       "curse",
+      "349997"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BlackList"
+    ]
+  ],
+  [
+    [
+      "curse",
       "90447"
     ],
     [
@@ -10822,7 +10835,8 @@
       "317953"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "BlockSpam"
@@ -17764,6 +17778,18 @@
     ],
     [
       "Cod_Do_Batter"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349762"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Coins"
     ]
   ],
   [
@@ -52770,6 +52796,19 @@
   [
     [
       "curse",
+      "349813"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "McR_Greet"
+    ]
+  ],
+  [
+    [
+      "curse",
       "299986"
     ],
     [
@@ -54559,6 +54598,19 @@
     ],
     [
       "MonolithDKP"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349952"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "MonolithDKP_Bidhook"
     ]
   ],
   [
@@ -62918,6 +62970,7 @@
       "342943"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -71360,7 +71413,8 @@
       "57737"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "SharedMedia_ClassicalFonts"
@@ -78178,6 +78232,18 @@
     ],
     [
       "TalentAutoSwitch"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350094"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TalentMaster"
     ]
   ],
   [
@@ -87388,7 +87454,8 @@
       "17279"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "WoWTexasHoldem"
@@ -89072,7 +89139,8 @@
       "14931"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Xparky"
@@ -92968,7 +93036,8 @@
       "301801"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "newChatBar"
@@ -99138,6 +99207,7 @@
       "Auc-Util-FixAH",
       "BeanCounter",
       "Enchantrix",
+      "Enchantrix-Barker",
       "Informant",
       "SlideBar",
       "Stubby",
@@ -153764,7 +153834,8 @@
       "22318"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "SharedMedia_ClassicalFonts"
@@ -178356,6 +178427,31 @@
     ],
     [
       "WorldBuffTracker"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25426"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "buffOmat"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25427"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "GFW_FeedOMatic"
     ]
   ]
 ]
