@@ -8420,6 +8420,16 @@
     ]
   ],
   [
+    "BlackList Classic",
+    [
+      "curse",
+      "349997"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Blackhand Marks & Bombs",
     [
       "curse",
@@ -8628,7 +8638,8 @@
       "317953"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -14116,6 +14127,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Coins",
+    [
+      "curse",
+      "349762"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -41698,6 +41719,17 @@
     ]
   ],
   [
+    "McR Greet",
+    [
+      "curse",
+      "349813"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "MeToo",
     [
       "curse",
@@ -43069,6 +43101,17 @@
       "335947"
     ],
     [
+      "classic"
+    ]
+  ],
+  [
+    "Monolith DKP Bidframe",
+    [
+      "curse",
+      "349952"
+    ],
+    [
+      "retail",
       "classic"
     ]
   ],
@@ -49658,6 +49701,7 @@
       "342943"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -50802,7 +50846,7 @@
     ]
   ],
   [
-    "QuestTrackerMover",
+    "QuestTrackerMover for BfA",
     [
       "curse",
       "349798"
@@ -51607,7 +51651,7 @@
     ]
   ],
   [
-    "RUF - Raeli's Unit Frames",
+    "RUF",
     [
       "curse",
       "283389"
@@ -56225,7 +56269,8 @@
       "57737"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -61651,6 +61696,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Talent Master",
+    [
+      "curse",
+      "350094"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -69130,7 +69185,8 @@
       "17279"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -70413,7 +70469,8 @@
       "14931"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -73543,7 +73600,8 @@
       "301801"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -81232,7 +81290,8 @@
       "22318"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -82075,16 +82134,6 @@
     [
       "wowi",
       "23300"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "WhoHas Fan Update for 8.0",
-    [
-      "wowi",
-      "23301"
     ],
     [
       "retail"
@@ -91502,6 +91551,27 @@
       "25425"
     ],
     [
+      "classic"
+    ]
+  ],
+  [
+    "Buff'o'mat",
+    [
+      "wowi",
+      "25426"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Feed-O-Matic",
+    [
+      "wowi",
+      "25427"
+    ],
+    [
+      "retail",
       "classic"
     ]
   ]
