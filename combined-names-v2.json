@@ -1322,16 +1322,6 @@
     ]
   ],
   [
-    "AdiBags - Expansion Trade Goods",
-    [
-      "curse",
-      "302145"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "AdiBags - Fishing Items",
     [
       "curse",
@@ -41553,6 +41543,7 @@
       "349790"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -80886,7 +80877,8 @@
       "21596"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -91531,6 +91523,7 @@
       "25423"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -91572,6 +91565,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "StatBlock_Quests Classic",
+    [
+      "wowi",
+      "25428"
+    ],
+    [
       "classic"
     ]
   ]
