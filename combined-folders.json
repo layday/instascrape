@@ -1643,18 +1643,6 @@
   [
     [
       "curse",
-      "302145"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "AdiBags_Expansion_Trade_Goods"
-    ]
-  ],
-  [
-    [
-      "curse",
       "310449"
     ],
     [
@@ -52581,6 +52569,7 @@
       "349790"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -149228,7 +149217,8 @@
       "21596"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "RaidFrameReSizer"
@@ -178399,6 +178389,7 @@
       "25423"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -178452,6 +178443,18 @@
     ],
     [
       "GFW_FeedOMatic"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25428"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "StatBlock_Quests"
     ]
   ]
 ]
