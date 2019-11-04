@@ -25295,6 +25295,18 @@
   [
     [
       "curse",
+      "350366"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DungeonMaps"
+    ]
+  ],
+  [
+    [
+      "curse",
       "308723"
     ],
     [
@@ -37376,6 +37388,18 @@
   [
     [
       "curse",
+      "350206"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GuildTooltip"
+    ]
+  ],
+  [
+    [
+      "curse",
       "301230"
     ],
     [
@@ -46382,6 +46406,18 @@
     ],
     [
       "LevelLogger"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "327235"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LevelSquish"
     ]
   ],
   [
@@ -66223,6 +66259,7 @@
       "349048"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -85993,7 +86030,6 @@
       "classic"
     ],
     [
-      "WarlockHealthstoneTracker_BlizzUI",
       "WarlockHealthstoneTracker"
     ]
   ],
@@ -94175,6 +94211,18 @@
     ],
     [
       "unitscan"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350107"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "upne"
     ]
   ],
   [
@@ -178455,6 +178503,29 @@
     ],
     [
       "StatBlock_Quests"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25429"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ArenaEnemyFrame",
+      "Buttons",
+      "Calendar",
+      "CastingBar",
+      "CharacterFrame",
+      "CHATFRAME",
+      "MAINMENUBAR",
+      "Minimap",
+      "TargetingFrame",
+      "TimeManager",
+      "Tooltips",
+      "WORLDMAP"
     ]
   ]
 ]
