@@ -19879,6 +19879,16 @@
     ]
   ],
   [
+    "DungeonMaps",
+    [
+      "curse",
+      "350366"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DungeonRoleShortageHelper",
     [
       "curse",
@@ -29464,6 +29474,16 @@
     ]
   ],
   [
+    "GuildTooltip",
+    [
+      "curse",
+      "350206"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Guildie Note 3",
     [
       "curse",
@@ -36589,6 +36609,16 @@
     [
       "curse",
       "29521"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "LevelSquish",
+    [
+      "curse",
+      "327235"
     ],
     [
       "retail"
@@ -52149,6 +52179,7 @@
       "349048"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -74450,6 +74481,16 @@
     [
       "curse",
       "341823"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "upne-mod",
+    [
+      "curse",
+      "350107"
     ],
     [
       "classic"
