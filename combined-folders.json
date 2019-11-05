@@ -135,6 +135,91 @@
   [
     [
       "curse",
+      "350473"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) Auto Reset Instance"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350323"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "(D) Hide Gryphons"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350430"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB BFA"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350431"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB Legion"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350434"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB MOP"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350433"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB WOD"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349763"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB Professions"
+    ]
+  ],
+  [
+    [
+      "curse",
       "427"
     ],
     [
@@ -5493,6 +5578,20 @@
     ],
     [
       "AutoLootAssist"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350454"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "AutoOpenItemsSettings",
+      "AutoOpenItems"
     ]
   ],
   [
@@ -15784,6 +15883,18 @@
   [
     [
       "curse",
+      "350504"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ChatFilter"
+    ]
+  ],
+  [
+    [
+      "curse",
       "347362"
     ],
     [
@@ -16981,6 +17092,18 @@
   [
     [
       "curse",
+      "350193"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicRogueCalc"
+    ]
+  ],
+  [
+    [
+      "curse",
       "340121"
     ],
     [
@@ -17292,6 +17415,18 @@
     ],
     [
       "ClassicTooltipItemLevel"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350482"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicTravelPoints"
     ]
   ],
   [
@@ -23826,18 +23961,6 @@
     ],
     [
       "Devian"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "349763"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "Devil LDB Professions"
     ]
   ],
   [
@@ -44759,6 +44882,19 @@
   [
     [
       "curse",
+      "350500"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "KiwiFarm"
+    ]
+  ],
+  [
+    [
+      "curse",
       "95612"
     ],
     [
@@ -57982,6 +58118,18 @@
   [
     [
       "curse",
+      "321505"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "NonIntrusiveQuestText"
+    ]
+  ],
+  [
+    [
+      "curse",
       "87640"
     ],
     [
@@ -69634,6 +69782,18 @@
     ],
     [
       "SFLoot"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350331"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SILV"
     ]
   ],
   [
@@ -86031,6 +86191,18 @@
     ],
     [
       "WarlockHealthstoneTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350138"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WarlockHealthstoneTracker_BlizzUI"
     ]
   ],
   [
@@ -178526,6 +178698,18 @@
       "TimeManager",
       "Tooltips",
       "WORLDMAP"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25430"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicTravelPoints"
     ]
   ]
 ]
