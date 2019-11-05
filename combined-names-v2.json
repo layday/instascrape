@@ -111,6 +111,77 @@
     ]
   ],
   [
+    "(D) Auto Reset Instance",
+    [
+      "curse",
+      "350473"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) Hide Gryphons",
+    [
+      "curse",
+      "350323"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "(D) LDB - Currencies BFA",
+    [
+      "curse",
+      "350430"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) LDB - Currencies Legion",
+    [
+      "curse",
+      "350431"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) LDB - Currencies MOP",
+    [
+      "curse",
+      "350434"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) LDB - Currencies WOD",
+    [
+      "curse",
+      "350433"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) LDB - Professions",
+    [
+      "curse",
+      "349763"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "/rl",
     [
       "curse",
@@ -4333,6 +4404,17 @@
     [
       "curse",
       "348712"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Auto Open Item",
+    [
+      "curse",
+      "350454"
     ],
     [
       "retail",
@@ -12487,6 +12569,16 @@
     ]
   ],
   [
+    "Chat Watcher",
+    [
+      "curse",
+      "350504"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Chat Whitelist",
     [
       "curse",
@@ -13474,6 +13566,16 @@
     ]
   ],
   [
+    "Classic Rogue Calculator",
+    [
+      "curse",
+      "350193"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic Target Helper",
     [
       "curse",
@@ -13730,6 +13832,16 @@
     [
       "curse",
       "348595"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicTravelPoints",
+    [
+      "curse",
+      "350482"
     ],
     [
       "classic"
@@ -18741,16 +18853,6 @@
     [
       "curse",
       "96408"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Devil LDB Professions",
-    [
-      "curse",
-      "349763"
     ],
     [
       "retail"
@@ -35278,6 +35380,17 @@
     ]
   ],
   [
+    "KiwiFarm",
+    [
+      "curse",
+      "350500"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "KiwiPlates",
     [
       "curse",
@@ -45814,6 +45927,16 @@
     ]
   ],
   [
+    "Non-intrusive quest text",
+    [
+      "curse",
+      "321505"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Northern Ale",
     [
       "curse",
@@ -54834,6 +54957,16 @@
     [
       "curse",
       "103271"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "SILV",
+    [
+      "curse",
+      "350331"
     ],
     [
       "retail"
@@ -68049,6 +68182,16 @@
     ]
   ],
   [
+    "Warlock Healthstone Tracker - BlizzUI",
+    [
+      "curse",
+      "350138"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "WarlockReminder",
     [
       "curse",
@@ -76355,16 +76498,6 @@
     [
       "wowi",
       "4729"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Geist",
-    [
-      "wowi",
-      "4766"
     ],
     [
       "retail"
@@ -91614,6 +91747,16 @@
     [
       "wowi",
       "25428"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicTravelPoints",
+    [
+      "wowi",
+      "25430"
     ],
     [
       "classic"
