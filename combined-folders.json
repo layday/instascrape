@@ -160,6 +160,18 @@
   [
     [
       "curse",
+      "350553"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB BC"
+    ]
+  ],
+  [
+    [
+      "curse",
       "350430"
     ],
     [
@@ -172,6 +184,18 @@
   [
     [
       "curse",
+      "350552"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB Cataclysm"
+    ]
+  ],
+  [
+    [
+      "curse",
       "350431"
     ],
     [
@@ -179,6 +203,18 @@
     ],
     [
       "(D) LDB Legion"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350554"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "(D) LDB Lich King"
     ]
   ],
   [
@@ -1526,7 +1562,6 @@
       "325109"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -8991,6 +9026,32 @@
     ],
     [
       "BaudMark"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "5253"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "beql",
+      "FuBar_beqlFu",
+      "Titanbeql"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "5253"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "beql"
     ]
   ],
   [
@@ -25806,6 +25867,18 @@
   [
     [
       "curse",
+      "350446"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "EPGP-Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "262472"
     ],
     [
@@ -26852,18 +26925,6 @@
     ],
     [
       "ElvUI_Armory"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "91690"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ElvUI_AuraBarsMovers"
     ]
   ],
   [
@@ -41701,7 +41762,8 @@
       "30888"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "ImprovedLootFrame"
@@ -57021,6 +57083,18 @@
   [
     [
       "curse",
+      "350503"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Narcoleptic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "22820"
     ],
     [
@@ -67522,6 +67596,21 @@
       "RazerNaga_Encounter",
       "RazerNaga_XP",
       "RazerNaga"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350498"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "BestInSlotRedux_BfaDungeons",
+      "BestInSlotRedux_BfaRaids",
+      "BestInSlotRedux_BfaWorld",
+      "BestInSlotRedux"
     ]
   ],
   [
@@ -178710,6 +178799,18 @@
     ],
     [
       "ClassicTravelPoints"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25431"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "NoBoost"
     ]
   ]
 ]
