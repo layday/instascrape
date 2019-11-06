@@ -132,6 +132,16 @@
     ]
   ],
   [
+    "(D) LDB - Currencies BC",
+    [
+      "curse",
+      "350553"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "(D) LDB - Currencies BFA",
     [
       "curse",
@@ -142,10 +152,30 @@
     ]
   ],
   [
+    "(D) LDB - Currencies Cataclysm",
+    [
+      "curse",
+      "350552"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "(D) LDB - Currencies Legion",
     [
       "curse",
       "350431"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "(D) LDB - Currencies Lich King",
+    [
+      "curse",
+      "350554"
     ],
     [
       "retail"
@@ -1235,7 +1265,6 @@
       "325109"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -7167,6 +7196,17 @@
     [
       "curse",
       "5168"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Bayi's Extended Questlog",
+    [
+      "curse",
+      "5253"
     ],
     [
       "retail",
@@ -20305,6 +20345,16 @@
     ]
   ],
   [
+    "EPGP-Classic",
+    [
+      "curse",
+      "350446"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "EPGPAutoStandby",
     [
       "curse",
@@ -21110,16 +21160,6 @@
     [
       "curse",
       "47901"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ElvUI AuraBars Movers",
-    [
-      "curse",
-      "91690"
     ],
     [
       "retail"
@@ -32881,7 +32921,8 @@
       "30888"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -45034,6 +45075,16 @@
     ]
   ],
   [
+    "Narcoleptic",
+    [
+      "curse",
+      "350503"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Nas",
     [
       "curse",
@@ -53114,6 +53165,16 @@
     [
       "curse",
       "20499"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Razhints BIS-lista",
+    [
+      "curse",
+      "350498"
     ],
     [
       "retail"
@@ -91760,6 +91821,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "NoBoost",
+    [
+      "wowi",
+      "25431"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
