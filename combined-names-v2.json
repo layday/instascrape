@@ -7475,7 +7475,7 @@
     ]
   ],
   [
-    "Better Aura Tracker",
+    "Better Aura Tracker Classic",
     [
       "curse",
       "347977"
@@ -26355,6 +26355,16 @@
     ]
   ],
   [
+    "GatherMate2 Data Wowhead classic",
+    [
+      "curse",
+      "350035"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GatherMate2 World Map Toggle",
     [
       "curse",
@@ -44014,7 +44024,7 @@
     ]
   ],
   [
-    "MudmenItemColors",
+    "MudmenItemColors and MORE",
     [
       "curse",
       "342743"
@@ -45125,7 +45135,7 @@
     ]
   ],
   [
-    "NaxxChatAlarm LFG LFM Classic ",
+    "NaxxChatAlarm LFG LFM Auto Post+Chat Filter ",
     [
       "curse",
       "345449"
@@ -81395,16 +81405,6 @@
     [
       "wowi",
       "22086"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "BigWigs_Classic",
-    [
-      "wowi",
-      "22095"
     ],
     [
       "retail"
