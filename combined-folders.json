@@ -9920,26 +9920,7 @@
       "BigWigs_Plugins",
       "BigWigs_Onyxia",
       "BigWigs_MoltenCore",
-      "BigWigs"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "2382"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Azeroth",
-      "BigWigs_Uldir",
-      "BigWigs_BattleOfDazaralor",
-      "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace",
+      "BigWigs_World",
       "BigWigs"
     ]
   ],
@@ -22497,6 +22478,30 @@
       "3358"
     ],
     [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
       "retail"
     ],
     [
@@ -22512,30 +22517,6 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -33352,6 +33333,18 @@
     ],
     [
       "GatherMate2"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350035"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GatherMate2_Data"
     ]
   ],
   [
@@ -96515,7 +96508,8 @@
       "BigWigs_Uldir",
       "BigWigs_BattleOfDazaralor",
       "BigWigs_CrucibleOfStorms",
-      "BigWigs_EternalPalace"
+      "BigWigs_EternalPalace",
+      "BigWigs_Nyalotha"
     ]
   ],
   [
