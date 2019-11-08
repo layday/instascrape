@@ -14679,7 +14679,8 @@
       "90581"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "CalmDownandGamble"
@@ -37584,6 +37585,19 @@
     ],
     [
       "guildienote3"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350686"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "guildienote4"
     ]
   ],
   [
@@ -175924,7 +175938,7 @@
       "classic"
     ],
     [
-      "WoWpoPolsku_Bubbles"
+      "WoWpoPolsku_Quests"
     ]
   ],
   [
