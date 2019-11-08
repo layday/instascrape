@@ -11667,7 +11667,8 @@
       "90581"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -29646,6 +29647,17 @@
     ]
   ],
   [
+    "Guildie Note 4",
+    [
+      "curse",
+      "350686"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "GuildieNote",
     [
       "curse",
@@ -45135,7 +45147,7 @@
     ]
   ],
   [
-    "NaxxChatAlarm LFG LFM Auto Post+Chat Filter ",
+    "Naxx Chat Alarm LFG LFM Auto Post+Chat Filter ",
     [
       "curse",
       "345449"
@@ -75364,6 +75376,16 @@
     ]
   ],
   [
+    "Buff Highlight",
+    [
+      "tukui",
+      "148"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Cecile_MeterOverlay",
     [
       "tukui",
@@ -80073,7 +80095,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests 80205 2019-10-05",
+    "WoWpoPolsku-Quests 80205 2019-11-04",
     [
       "wowi",
       "19315"
@@ -85422,7 +85444,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles 80205 2019-10-05",
+    "WoWpoPolsku-Bubbles 80205 2019-11-06",
     [
       "wowi",
       "24692"
@@ -89501,7 +89523,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests Classic 2019-10-05",
+    "WoWpoPolsku-Quests Classic 2019-11-07",
     [
       "wowi",
       "25184"
@@ -89551,7 +89573,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles Classic 2019-10-05",
+    "WoWpoPolsku-Bubbles Classic 2019-11-07",
     [
       "wowi",
       "25189"
