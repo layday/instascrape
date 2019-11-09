@@ -8570,7 +8570,8 @@
       "86927"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Bartender4_BuffHider"
@@ -15726,6 +15727,19 @@
     ],
     [
       "ChartMe"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350813"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "ChatAssistant"
     ]
   ],
   [
@@ -25308,7 +25322,8 @@
       "101766"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DugiWorkshop"
@@ -34456,7 +34471,8 @@
       "88417"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GnomTEC"
@@ -34468,7 +34484,8 @@
       "74237"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GnomTEC_Assistant"
@@ -34480,7 +34497,8 @@
       "36064"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GnomTEC_Babel"
@@ -34537,7 +34555,8 @@
       "59552"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GnomTEC_NPCEmote"
@@ -60063,6 +60082,18 @@
   [
     [
       "curse",
+      "350790"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PartyPetFrames"
+    ]
+  ],
+  [
+    [
+      "curse",
       "258666"
     ],
     [
@@ -66065,6 +66096,18 @@
   [
     [
       "curse",
+      "350826"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RaidGUIDs"
+    ]
+  ],
+  [
+    [
+      "curse",
       "98718"
     ],
     [
@@ -66501,7 +66544,6 @@
       "349157"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -74672,6 +74714,18 @@
     ],
     [
       "Snowflake"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350620"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SnuuAuction"
     ]
   ],
   [
@@ -160840,7 +160894,7 @@
       "23319"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "Bartender4_BuffHider"
@@ -164802,8 +164856,7 @@
       "23875"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "BlizzMove"
@@ -178819,6 +178872,18 @@
     ],
     [
       "NoBoost"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25433"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PartyPetFrames"
     ]
   ]
 ]
