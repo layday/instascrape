@@ -6823,7 +6823,8 @@
       "86927"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -12456,6 +12457,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Chat Assistant",
+    [
+      "curse",
+      "350813"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -19908,7 +19920,8 @@
       "101766"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -27186,7 +27199,8 @@
       "88417"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -27196,7 +27210,8 @@
       "74237"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -27206,7 +27221,8 @@
       "36064"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -27247,7 +27263,8 @@
       "59552"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -47504,6 +47521,16 @@
     ]
   ],
   [
+    "Party Pet Frames",
+    [
+      "curse",
+      "350790"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "PartyAbilityBars",
     [
       "curse",
@@ -50640,7 +50667,7 @@
     ]
   ],
   [
-    "Quest Cinematic (Retail & Classic & FF XIV)",
+    "Quest Cinematic (Retail & Classic)",
     [
       "curse",
       "319411"
@@ -52069,6 +52096,16 @@
     ]
   ],
   [
+    "Raid GUIDs (for ONY)",
+    [
+      "curse",
+      "350826"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Raid Lock Report",
     [
       "curse",
@@ -52386,7 +52423,6 @@
       "349157"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -58886,6 +58922,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "SnuuAuction",
+    [
+      "curse",
+      "350620"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -82399,6 +82445,16 @@
     ]
   ],
   [
+    "Bartender4 Buff Hider",
+    [
+      "wowi",
+      "23319"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "RollHistory",
     [
       "wowi",
@@ -83158,8 +83214,7 @@
       "23875"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -91853,6 +91908,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Party Pet Frames",
+    [
+      "wowi",
+      "25433"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
