@@ -26786,7 +26786,8 @@
       "1447"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -42900,7 +42901,8 @@
       "25121"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -46987,6 +46989,16 @@
     ]
   ],
   [
+    "Oro Transparent Chat Bubbles",
+    [
+      "curse",
+      "350911"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Otis",
     [
       "curse",
@@ -47172,6 +47184,16 @@
     [
       "curse",
       "65430"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "PHIL - Fellow Item Level (SILV)",
+    [
+      "curse",
+      "350331"
     ],
     [
       "retail"
@@ -52096,7 +52118,7 @@
     ]
   ],
   [
-    "Raid GUIDs (for ONY)",
+    "Raid GUIDs (for ONYX tactic)",
     [
       "curse",
       "350826"
@@ -55076,16 +55098,6 @@
     [
       "curse",
       "103271"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "SILV",
-    [
-      "curse",
-      "350331"
     ],
     [
       "retail"
@@ -68585,6 +68597,16 @@
     ]
   ],
   [
+    "WeaponTrainers",
+    [
+      "curse",
+      "350876"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "WebDKP",
     [
       "curse",
@@ -74823,6 +74845,16 @@
     [
       "curse",
       "338631"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "vossi auction scanner",
+    [
+      "curse",
+      "348688"
     ],
     [
       "classic"
