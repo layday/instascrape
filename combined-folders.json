@@ -33916,7 +33916,8 @@
       "1447"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GetDKP"
@@ -54281,7 +54282,8 @@
       "25121"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "MizusRaidTracker"
@@ -59429,6 +59431,18 @@
   [
     [
       "curse",
+      "350911"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TransparentChatBubbles"
+    ]
+  ],
+  [
+    [
+      "curse",
       "49489"
     ],
     [
@@ -59656,6 +59670,30 @@
     ],
     [
       "PortraitCombatTextOff"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350331"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SILV"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350331"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "PHIL"
     ]
   ],
   [
@@ -69920,18 +69958,6 @@
     ],
     [
       "SFLoot"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "350331"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SILV"
     ]
   ],
   [
@@ -86715,6 +86741,18 @@
   [
     [
       "curse",
+      "350876"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WeaponTrainers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "2728"
     ],
     [
@@ -94617,6 +94655,18 @@
     ],
     [
       "vUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348688"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "VossiAuctionScan"
     ]
   ],
   [
