@@ -6208,7 +6208,8 @@
       "13471"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -26490,6 +26491,16 @@
     ]
   ],
   [
+    "Gear to Gear Planner",
+    [
+      "curse",
+      "351050"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Gear4Moo",
     [
       "curse",
@@ -31143,6 +31154,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Hemlock Poison Helper",
+    [
+      "curse",
+      "350985"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -37639,6 +37660,17 @@
     [
       "curse",
       "20376"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "LibHighvalue",
+    [
+      "curse",
+      "351188"
     ],
     [
       "retail",
@@ -45859,6 +45891,16 @@
     ]
   ],
   [
+    "NoItsNot",
+    [
+      "curse",
+      "302699"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "NoMoreGryphons",
     [
       "curse",
@@ -52118,7 +52160,7 @@
     ]
   ],
   [
-    "Raid GUIDs (for ONYX tactic)",
+    "Raid GUIDs",
     [
       "curse",
       "350826"
@@ -61377,6 +61419,16 @@
     ]
   ],
   [
+    "SupplyBag",
+    [
+      "curse",
+      "350444"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Suppress Right Click",
     [
       "curse",
@@ -67259,6 +67311,16 @@
     ]
   ],
   [
+    "ValhallaGuildTools",
+    [
+      "curse",
+      "350996"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Valor",
     [
       "curse",
@@ -70585,6 +70647,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "XPperMIN",
+    [
+      "curse",
+      "351198"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -91947,6 +92019,56 @@
     [
       "wowi",
       "25433"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Hemlock Poison Helper",
+    [
+      "wowi",
+      "25434"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "SOTA - DKP and Raid Queue Addon",
+    [
+      "wowi",
+      "25435"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "MessageClassifier",
+    [
+      "wowi",
+      "25436"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Thaliz - One-button resurrection",
+    [
+      "wowi",
+      "25437"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Classic Healing Assignments",
+    [
+      "wowi",
+      "25438"
     ],
     [
       "classic"
