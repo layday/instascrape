@@ -7781,7 +7781,8 @@
       "13471"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Baggins"
@@ -27793,10 +27794,10 @@
       "97581"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI_Classic"
     ]
   ],
   [
@@ -27805,10 +27806,10 @@
       "97581"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI"
     ]
   ],
   [
@@ -33497,6 +33498,18 @@
     ],
     [
       "GearGrinder"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351050"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Gear to Gear Planner"
     ]
   ],
   [
@@ -39505,6 +39518,18 @@
     ],
     [
       "HelyaAssist"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350985"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Hemlock"
     ]
   ],
   [
@@ -47658,6 +47683,19 @@
     ],
     [
       "LibHealComm-4.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351188"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LibHighvalue"
     ]
   ],
   [
@@ -58023,6 +58061,18 @@
     ],
     [
       "NoGuild"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "302699"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "NoItsNot"
     ]
   ],
   [
@@ -77835,6 +77885,18 @@
   [
     [
       "curse",
+      "350444"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SupplyBag"
+    ]
+  ],
+  [
+    [
+      "curse",
       "91992"
     ],
     [
@@ -85011,6 +85073,18 @@
   [
     [
       "curse",
+      "350996"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ValhallaGuildTools"
+    ]
+  ],
+  [
+    [
+      "curse",
       "96359"
     ],
     [
@@ -89275,6 +89349,18 @@
     ],
     [
       "XPTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351198"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "XPperMIN"
     ]
   ],
   [
@@ -169034,9 +169120,7 @@
       "retail"
     ],
     [
-      "AddOns",
-      "RaidFrame",
-      "TargetingFrame"
+      "EmyaraMod"
     ]
   ],
   [
@@ -178934,6 +179018,66 @@
     ],
     [
       "PartyPetFrames"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25434"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Hemlock"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25435"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "sota"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25436"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MessageClassifier"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25437"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Thaliz"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25438"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHealingAssignments"
     ]
   ]
 ]
