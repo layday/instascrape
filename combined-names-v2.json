@@ -13781,16 +13781,6 @@
     ]
   ],
   [
-    "ClassicCodex",
-    [
-      "curse",
-      "334559"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "ClassicGearSet",
     [
       "curse",
@@ -13866,6 +13856,16 @@
     [
       "curse",
       "323802"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicStats",
+    [
+      "curse",
+      "345674"
     ],
     [
       "classic"
@@ -31692,6 +31692,16 @@
     [
       "curse",
       "335781"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "HideChatInviteSpam",
+    [
+      "curse",
+      "351258"
     ],
     [
       "classic"
