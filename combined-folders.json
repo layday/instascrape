@@ -17345,18 +17345,6 @@
   [
     [
       "curse",
-      "334559"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "ClassicCodex"
-    ]
-  ],
-  [
-    [
-      "curse",
       "345382"
     ],
     [
@@ -17449,6 +17437,18 @@
     ],
     [
       "ClassicSpellActivations"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "345674"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicStats"
     ]
   ],
   [
@@ -40172,6 +40172,18 @@
     ],
     [
       "HideBugReport"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351258"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HideChatInviteSpam"
     ]
   ],
   [
