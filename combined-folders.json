@@ -1919,6 +1919,18 @@
   [
     [
       "curse",
+      "351282"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdiBags_ItemRack"
+    ]
+  ],
+  [
+    [
+      "curse",
       "339087"
     ],
     [
@@ -14129,6 +14141,18 @@
   [
     [
       "curse",
+      "351325"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuyThatStuff"
+    ]
+  ],
+  [
+    [
+      "curse",
       "2590"
     ],
     [
@@ -14340,34 +14364,6 @@
     ],
     [
       "CRD"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "278727"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "CRaidFrame_AOEH",
-      "CRaidFrame_Options",
-      "CRaidFrame"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "339688"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "CRaidFrame_AOEH",
-      "CRaidFrame_Options",
-      "CRaidFrame"
     ]
   ],
   [
@@ -17345,6 +17341,18 @@
   [
     [
       "curse",
+      "351302"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicCodex"
+    ]
+  ],
+  [
+    [
+      "curse",
       "345382"
     ],
     [
@@ -19233,19 +19241,6 @@
     ],
     [
       "ControlFreak"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "103018"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ControlPanel_Options",
-      "ControlPanel"
     ]
   ],
   [
@@ -40845,6 +40840,18 @@
   [
     [
       "curse",
+      "351320"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HolyStats"
+    ]
+  ],
+  [
+    [
+      "curse",
       "28998"
     ],
     [
@@ -42094,6 +42101,18 @@
     ],
     [
       "retail"
+    ],
+    [
+      "Ingredient"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351271"
+    ],
+    [
+      "classic"
     ],
     [
       "Ingredient"
@@ -43593,6 +43612,7 @@
       "JojoMonk_JosukeHigashikata",
       "JojoMonk_JotaroKujo",
       "JojoMonk_DioBrando",
+      "JojoMonk_GiornoGiovanna",
       "JojoMonk"
     ]
   ],
@@ -46915,18 +46935,6 @@
   [
     [
       "curse",
-      "258946"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibArtifactTraits"
-    ]
-  ],
-  [
-    [
-      "curse",
       "292843"
     ],
     [
@@ -47884,30 +47892,6 @@
   [
     [
       "curse",
-      "289649"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibLFGActivity-enUS"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289650"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibLFGActivity-zhCN"
-    ]
-  ],
-  [
-    [
-      "curse",
       "94595"
     ],
     [
@@ -48243,31 +48227,6 @@
     ],
     [
       "LibRaces-1.0"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323772"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibRaiderIO",
-      "LibRaiderIO_Loader"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "342336"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LibRaiderIO_Loader"
     ]
   ],
   [
@@ -49416,311 +49375,6 @@
     ],
     [
       "LookingForSatchels"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "259706"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_CR",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_M+",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "259706"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_CR",
-      "LookingForGroup_CRE",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_LFDLFR",
-      "LookingForGroup_M+",
-      "LookingForGroup_Options",
-      "LookingForGroup_PVP",
-      "LookingForGroup_Q",
-      "LookingForGroup_QJ",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup_Solo",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289757"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_AV_Options",
-      "LookingForGroup_AV"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "322354"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Barrels_o'_Fun"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "314746"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Blacklist_CN"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "306348"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Bindings",
-      "LookingForGroup_Broker",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Icon",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "295140"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_CRE"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "294371"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Elite"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "322237"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Flags_EU"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323642"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Flags_US"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "317550"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Ganking"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "331888"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Inspector"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "293567"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_InvasionPoint"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289771"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_LFDLFR"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "324546"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_M+"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "299459"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_PVP"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "294372"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_PGF"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289756"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_QJ"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "286074"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_RaiderIO"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "286074"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_RaiderIO",
-      "LibRaiderIO_Loader"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "268648"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_RW"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "314001"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Solo"
     ]
   ],
   [
@@ -53182,71 +52836,6 @@
   [
     [
       "curse",
-      "289648"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "MeetingStone",
-      "MeetingStone_Bindings",
-      "MeetingStone_Broker",
-      "MeetingStone_FW",
-      "MeetingStone_Icon",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289648"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "MeetingStone",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "289648"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_CR",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Options",
-      "LookingForGroup_Q",
-      "LookingForGroup_SF",
-      "LookingForGroup_Settings",
-      "MeetingStone",
-      "LookingForGroup"
-    ]
-  ],
-  [
-    [
-      "curse",
       "43972"
     ],
     [
@@ -53499,22 +53088,6 @@
     ],
     [
       "MGSSounds"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "282646"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "Meter_Broker",
-      "Meter_Icon",
-      "Meter_O",
-      "Meter_UI",
-      "Meter"
     ]
   ],
   [
@@ -55938,47 +55511,6 @@
     ],
     [
       "mdgz"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "256399"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "MusicBox_GameMusic",
-      "MusicBox_Icon",
-      "MusicBox_Options",
-      "MusicBox"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "339674"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "MusicBox_Icon",
-      "MusicBox_Options",
-      "MusicBox"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "256421"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "MusicBox_GameMusicEMP"
     ]
   ],
   [
@@ -64067,108 +63599,6 @@
   [
     [
       "curse",
-      "299984"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "QUI_Ace3",
-      "QUI_Actionbar",
-      "QUI_AddOns",
-      "QUI_Auction",
-      "QUI_Aura",
-      "QUI_Bag",
-      "QUI_Binding",
-      "QUI_Castbar",
-      "QUI_Character",
-      "QUI_Chat",
-      "QUI_Collections",
-      "QUI_Communities",
-      "QUI_DBM",
-      "QUI_EncounterJournal",
-      "QUI_GameMenu",
-      "QUI_Gossip",
-      "QUI_LFG",
-      "QUI_LuaError",
-      "QUI_Macro",
-      "QUI_Map",
-      "QUI_Merchant",
-      "QUI_Microbar",
-      "QUI_Minimap",
-      "QUI_MirrorTimer",
-      "QUI_Myslot",
-      "QUI_Nameplate",
-      "QUI_O",
-      "QUI_Objective",
-      "QUI_OrderHall",
-      "QUI_PVP",
-      "QUI_ReadyCheck",
-      "QUI_SBT",
-      "QUI_Social",
-      "QUI_SpellBook",
-      "QUI_StaticPopup",
-      "QUI_Status",
-      "QUI_System",
-      "QUI_Talent",
-      "QUI_TalkingHead",
-      "QUI_Tooltip",
-      "QUI_TradeSkill",
-      "QUI_UnitFrame",
-      "QUI_WowLua",
-      "QUI"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "335177"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "QUI_Ace3",
-      "QUI_Actionbar",
-      "QUI_AddOns",
-      "QUI_Auction",
-      "QUI_Aura",
-      "QUI_Bag",
-      "QUI_Castbar",
-      "QUI_Chat",
-      "QUI_Collections",
-      "QUI_DBM",
-      "QUI_EncounterJournal",
-      "QUI_GameMenu",
-      "QUI_LFG",
-      "QUI_LuaError",
-      "QUI_Macro",
-      "QUI_Merchant",
-      "QUI_Microbar",
-      "QUI_Minimap",
-      "QUI_MirrorTimer",
-      "QUI_Myslot",
-      "QUI_Nameplate",
-      "QUI_O",
-      "QUI_OrderHall",
-      "QUI_ReadyCheck",
-      "QUI_SBT",
-      "QUI_Social",
-      "QUI_StaticPopup",
-      "QUI_Status",
-      "QUI_System",
-      "QUI_Talent",
-      "QUI_TalkingHead",
-      "QUI_Tooltip",
-      "QUI_TradeSkill",
-      "QUI_UnitFrame",
-      "QUI_WowLua",
-      "QUI"
-    ]
-  ],
-  [
-    [
-      "curse",
       "43655"
     ],
     [
@@ -64425,24 +63855,6 @@
     ],
     [
       "QuestCrier"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344147"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_Auto",
-      "LookingForGroup_Event",
-      "LookingForGroup_Hook",
-      "LookingForGroup_Q",
-      "LookingForGroup_Settings",
-      "LookingForGroup_SF",
-      "LookingForGroup"
     ]
   ],
   [
@@ -66842,210 +66254,6 @@
     ],
     [
       "tRP3_RDotIO"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323958"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_EU_A"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344282"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_EU_A_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323960"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_EU_H"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344281"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_EU_H_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323961"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_KR_A"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344287"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_KR_A_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323963"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_KR_H"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344286"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_KR_H_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323964"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_TW_A"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344289"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_TW_A_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323965"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_TW_H"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344288"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_TW_H_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323957"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_US_A"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344285"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_US_A_R"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323637"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LookingForGroup_RaiderIO_DB_US_H"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "323637"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_US_H"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "344284"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "RaiderIO_LOD_DB_US_H_R"
     ]
   ],
   [
@@ -77096,19 +76304,6 @@
     ],
     [
       "StreamBuddy"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "277590"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "StringExporter_Options",
-      "StringExporter"
     ]
   ],
   [
@@ -88706,30 +87901,6 @@
   [
     [
       "curse",
-      "342413"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "worldmind"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "298577"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "worldmind"
-    ]
-  ],
-  [
-    [
-      "curse",
       "89132"
     ],
     [
@@ -91335,20 +90506,6 @@
     ],
     [
       "clcppb"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "273656"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "cnbnpoints_lfg",
-      "cnbnpoints_options",
-      "cnbnpoints"
     ]
   ],
   [
