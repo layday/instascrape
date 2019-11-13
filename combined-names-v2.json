@@ -1552,6 +1552,16 @@
     ]
   ],
   [
+    "AdiBags_ItemRack",
+    [
+      "curse",
+      "351282"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AdiBags_Keystone",
     [
       "curse",
@@ -11241,6 +11251,16 @@
     ]
   ],
   [
+    "Buy That Stuff",
+    [
+      "curse",
+      "351325"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BuyEmAll",
     [
       "curse",
@@ -11408,26 +11428,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "CRaidFrame",
-    [
-      "curse",
-      "278727"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "CRaidFrame Classic",
-    [
-      "curse",
-      "339688"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -13781,6 +13781,16 @@
     ]
   ],
   [
+    "ClassicCodex",
+    [
+      "curse",
+      "351302"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClassicGearSet",
     [
       "curse",
@@ -15305,16 +15315,6 @@
     [
       "curse",
       "15495"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ControlPanel",
-    [
-      "curse",
-      "103018"
     ],
     [
       "retail"
@@ -32210,6 +32210,16 @@
     ]
   ],
   [
+    "HolyStats",
+    [
+      "curse",
+      "351320"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Homing Digeon",
     [
       "curse",
@@ -33215,6 +33225,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Ingredient For Classic",
+    [
+      "curse",
+      "351271"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -37042,16 +37062,6 @@
     ]
   ],
   [
-    "LibArtifactTraits",
-    [
-      "curse",
-      "258946"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "LibAuras",
     [
       "curse",
@@ -37831,26 +37841,6 @@
     ]
   ],
   [
-    "LibLFGActivity-enUS",
-    [
-      "curse",
-      "289649"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LibLFGActivity-zhCN",
-    [
-      "curse",
-      "289650"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "LibLatency",
     [
       "curse",
@@ -38129,26 +38119,6 @@
     [
       "curse",
       "269683"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LibRaiderIO",
-    [
-      "curse",
-      "323772"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LibRaiderIO Loader",
-    [
-      "curse",
-      "342336"
     ],
     [
       "retail"
@@ -39106,206 +39076,6 @@
     [
       "curse",
       "88851"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup (LFG)",
-    [
-      "curse",
-      "259706"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Alterac Valley",
-    [
-      "curse",
-      "289757"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Barrels o' Fun",
-    [
-      "curse",
-      "322354"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Blacklist CN",
-    [
-      "curse",
-      "314746"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Classic",
-    [
-      "curse",
-      "306348"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "LookingForGroup Cross Realm Enhancement",
-    [
-      "curse",
-      "295140"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Elite",
-    [
-      "curse",
-      "294371"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Flags EU",
-    [
-      "curse",
-      "322237"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Flags US",
-    [
-      "curse",
-      "323642"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Ganking",
-    [
-      "curse",
-      "317550"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Inspector",
-    [
-      "curse",
-      "331888"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Invasion Point",
-    [
-      "curse",
-      "293567"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup LFD/LFR",
-    [
-      "curse",
-      "289771"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup M+",
-    [
-      "curse",
-      "324546"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup PVP",
-    [
-      "curse",
-      "299459"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Premade Groups Filter",
-    [
-      "curse",
-      "294372"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Quick Join",
-    [
-      "curse",
-      "289756"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Raider.IO",
-    [
-      "curse",
-      "286074"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Realm Whitelist",
-    [
-      "curse",
-      "268648"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup Solo",
-    [
-      "curse",
-      "314001"
     ],
     [
       "retail"
@@ -42048,16 +41818,6 @@
     ]
   ],
   [
-    "Meeting Stone (\u96c6\u5408\u77f3)",
-    [
-      "curse",
-      "289648"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Mega Damage",
     [
       "curse",
@@ -42269,16 +42029,6 @@
     [
       "retail",
       "classic"
-    ]
-  ],
-  [
-    "Meter",
-    [
-      "curse",
-      "282646"
-    ],
-    [
-      "retail"
     ]
   ],
   [
@@ -44211,36 +43961,6 @@
     [
       "curse",
       "304331"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "MusicBox",
-    [
-      "curse",
-      "256399"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "MusicBox Classic",
-    [
-      "curse",
-      "339674"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "MusicBox GameMusic EMP",
-    [
-      "curse",
-      "256421"
     ],
     [
       "retail"
@@ -47242,7 +46962,7 @@
     ]
   ],
   [
-    "PHIL - Fellow Item Level (SILV)",
+    "PHIL - Fellow Item Level",
     [
       "curse",
       "350331"
@@ -50567,26 +50287,6 @@
     ]
   ],
   [
-    "QUI",
-    [
-      "curse",
-      "299984"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "QUI Classic",
-    [
-      "curse",
-      "335177"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Qbrick's Holy Power Bar",
     [
       "curse",
@@ -50770,16 +50470,6 @@
     ],
     [
       "classic"
-    ]
-  ],
-  [
-    "Quest Group Finder (LFG-AG)",
-    [
-      "curse",
-      "344147"
-    ],
-    [
-      "retail"
     ]
   ],
   [
@@ -52626,166 +52316,6 @@
     [
       "curse",
       "316956"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database EU Alliance",
-    [
-      "curse",
-      "323958"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database EU Alliance Raid",
-    [
-      "curse",
-      "344282"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database EU Horde",
-    [
-      "curse",
-      "323960"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database EU Horde Raid",
-    [
-      "curse",
-      "344281"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database KR Alliance",
-    [
-      "curse",
-      "323961"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database KR Alliance Raid",
-    [
-      "curse",
-      "344287"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database KR Horde",
-    [
-      "curse",
-      "323963"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database KR Horde Raid",
-    [
-      "curse",
-      "344286"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database TW Alliance",
-    [
-      "curse",
-      "323964"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database TW Alliance Raid",
-    [
-      "curse",
-      "344289"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database TW Horde",
-    [
-      "curse",
-      "323965"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database TW Horde Raid",
-    [
-      "curse",
-      "344288"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database US Alliance",
-    [
-      "curse",
-      "323957"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database US Alliance Raid",
-    [
-      "curse",
-      "344285"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database US Horde",
-    [
-      "curse",
-      "323637"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Raider.IO LOD Database US Horde Raid",
-    [
-      "curse",
-      "344284"
     ],
     [
       "retail"
@@ -60819,16 +60349,6 @@
     [
       "curse",
       "99417"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "StringExport",
-    [
-      "curse",
-      "277590"
     ],
     [
       "retail"
@@ -70173,26 +69693,6 @@
     ]
   ],
   [
-    "Worldmind Classic",
-    [
-      "curse",
-      "342413"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "WorldmindUI",
-    [
-      "curse",
-      "298577"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Wormhole Centrifuge Helper",
     [
       "curse",
@@ -72205,16 +71705,6 @@
     [
       "curse",
       "43953"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "cnbnpoints",
-    [
-      "curse",
-      "273656"
     ],
     [
       "retail"
