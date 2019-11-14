@@ -16131,6 +16131,19 @@
   [
     [
       "curse",
+      "351387"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "ChatLinkIcons"
+    ]
+  ],
+  [
+    [
+      "curse",
       "100057"
     ],
     [
@@ -23773,6 +23786,19 @@
   [
     [
       "curse",
+      "351391"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "DetailedDurability"
+    ]
+  ],
+  [
+    [
+      "curse",
       "309125"
     ],
     [
@@ -29634,6 +29660,30 @@
     ],
     [
       "Exxark-DPS"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351447"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "EzToggle"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351449"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "EzToggle"
     ]
   ],
   [
@@ -43607,12 +43657,12 @@
       "retail"
     ],
     [
+      "JojoMonk_DioBrando",
+      "JojoMonk_GiornoGiovanna",
       "JojoMonk_JonathanJoestar",
       "JojoMonk_JosephJoestar",
       "JojoMonk_JosukeHigashikata",
       "JojoMonk_JotaroKujo",
-      "JojoMonk_DioBrando",
-      "JojoMonk_GiornoGiovanna",
       "JojoMonk"
     ]
   ],
@@ -44524,7 +44574,8 @@
       "3306"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "KHunterTimers"
@@ -69451,6 +69502,18 @@
   [
     [
       "curse",
+      "351452"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Salvationed"
+    ]
+  ],
+  [
+    [
+      "curse",
       "327045"
     ],
     [
@@ -89851,6 +89914,19 @@
     ],
     [
       "[MEC's]-Sightless_Eye"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351386"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "TrainAll"
     ]
   ],
   [
@@ -170558,7 +170634,9 @@
       "retail"
     ],
     [
-      "oUF_alekk"
+      "fonts",
+      "libs",
+      "textures"
     ]
   ],
   [
