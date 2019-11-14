@@ -12785,6 +12785,17 @@
     ]
   ],
   [
+    "ChatLinkIcons",
+    [
+      "curse",
+      "351387"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "ChatLog",
     [
       "curse",
@@ -18782,6 +18793,17 @@
     ]
   ],
   [
+    "Detailed Durability",
+    [
+      "curse",
+      "351391"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Details! Combined",
     [
       "curse",
@@ -23295,6 +23317,26 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "EzToggle",
+    [
+      "curse",
+      "351447"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "EzToggle Classic",
+    [
+      "curse",
+      "351449"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -35124,7 +35166,8 @@
       "3306"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -54876,6 +54919,16 @@
     ]
   ],
   [
+    "Salvationed",
+    [
+      "curse",
+      "351452"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "SamyTotemTimers",
     [
       "curse",
@@ -71188,6 +71241,17 @@
     ]
   ],
   [
+    "[SDP] TrainAll",
+    [
+      "curse",
+      "351386"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "[rp:tags]",
     [
       "curse",
@@ -85344,16 +85408,6 @@
     ]
   ],
   [
-    "oUF_Alekk (Fan Update)",
-    [
-      "wowi",
-      "24736"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Reminders",
     [
       "wowi",
@@ -91018,7 +91072,7 @@
     ]
   ],
   [
-    "ChaChing V 2.0.5",
+    "ChaChing V 2.5.1",
     [
       "wowi",
       "25376"
@@ -91260,7 +91314,7 @@
     ]
   ],
   [
-    "DPS_Tracker",
+    "DPS_Tracker V1.5.1",
     [
       "wowi",
       "25403"
