@@ -43973,10 +43973,10 @@
   [
     [
       "curse",
-      "87944"
+      "339809"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "!KalielsTracker"
@@ -43985,10 +43985,10 @@
   [
     [
       "curse",
-      "339809"
+      "87944"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "!KalielsTracker"
@@ -64706,6 +64706,19 @@
     ],
     [
       "QuickLayer"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351514"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "QuickLeave"
     ]
   ],
   [
@@ -89999,6 +90012,18 @@
     ],
     [
       "_NPCScan.Overlay.Broker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351482"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "aMageSpellsReport"
     ]
   ],
   [
