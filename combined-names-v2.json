@@ -16930,7 +16930,7 @@
     ]
   ],
   [
-    "DPS_Tracker",
+    "DPS_Tracker V1.5.1",
     [
       "curse",
       "348393"
@@ -34696,6 +34696,16 @@
     ]
   ],
   [
+    "Kaliel's Quest Tracker (Classic)",
+    [
+      "curse",
+      "339809"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Kaliel's Tracker",
     [
       "curse",
@@ -34703,16 +34713,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Kaliel's Tracker (Classic)",
-    [
-      "curse",
-      "339809"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -51156,6 +51156,17 @@
       "340142"
     ],
     [
+      "classic"
+    ]
+  ],
+  [
+    "QuickLeave",
+    [
+      "curse",
+      "351514"
+    ],
+    [
+      "retail",
       "classic"
     ]
   ],
@@ -71312,6 +71323,16 @@
     ]
   ],
   [
+    "aMageSpellsReport",
+    [
+      "curse",
+      "351482"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ag_UnitFrames",
     [
       "curse",
@@ -82638,6 +82659,16 @@
     [
       "wowi",
       "23702"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "iPlayerFrame",
+    [
+      "wowi",
+      "23707"
     ],
     [
       "retail"
