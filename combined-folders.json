@@ -1775,6 +1775,18 @@
   [
     [
       "curse",
+      "351282"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdiBags-ItemRackSets"
+    ]
+  ],
+  [
+    [
+      "curse",
       "325466"
     ],
     [
@@ -1914,18 +1926,6 @@
     ],
     [
       "AdiBags_Herbalism"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "351282"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "AdiBags_ItemRack"
     ]
   ],
   [
@@ -58106,6 +58106,19 @@
     ],
     [
       "NugMiniPet"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351554"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "NugPlateAuras"
     ]
   ],
   [
@@ -178350,6 +178363,18 @@
     ],
     [
       "ClassicHealingAssignments"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25439"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "NugPlateAuras"
     ]
   ]
 ]
