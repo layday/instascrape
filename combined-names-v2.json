@@ -1432,6 +1432,16 @@
     ]
   ],
   [
+    "AdiBags - ItemRackSets",
+    [
+      "curse",
+      "351282"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AdiBags - Mechagon Tinkering",
     [
       "curse",
@@ -1549,16 +1559,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "AdiBags_ItemRack",
-    [
-      "curse",
-      "351282"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -42607,7 +42607,7 @@
     ]
   ],
   [
-    "Missing Power (Mana, Energy, Rage)",
+    "Missing Power (Mana, Energy, Rage) + Five Second Rule + Next Energy Tick",
     [
       "curse",
       "341275"
@@ -46039,6 +46039,17 @@
     ]
   ],
   [
+    "NugPlateAuras",
+    [
+      "curse",
+      "351554"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "NugRunning",
     [
       "curse",
@@ -47066,7 +47077,7 @@
     ]
   ],
   [
-    "PVPLUL",
+    "PVPLUL - Laughter when killing the enemy",
     [
       "curse",
       "341453"
@@ -91654,6 +91665,16 @@
     [
       "wowi",
       "25438"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "NugPlateAuras",
+    [
+      "wowi",
+      "25439"
     ],
     [
       "classic"
