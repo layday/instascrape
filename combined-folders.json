@@ -23864,12 +23864,42 @@
   [
     [
       "curse",
+      "61284"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Details_DataStorage",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "Details"
+    ]
+  ],
+  [
+    [
+      "curse",
       "338524"
     ],
     [
       "classic"
     ],
     [
+      "Details_TinyThreat",
+      "Details"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "338524"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Details_DataStorage",
+      "Details_Streamer",
       "Details_TinyThreat",
       "Details"
     ]
@@ -39648,6 +39678,19 @@
     ],
     [
       "Hermes-UI",
+      "Hermes"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351516"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
       "Hermes"
     ]
   ],
@@ -66693,6 +66736,18 @@
     ],
     [
       "Rank14LosSA-Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351477"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RankClassic"
     ]
   ],
   [
@@ -177862,7 +177917,7 @@
       "25393"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "Artemis"
@@ -178375,6 +178430,42 @@
     ],
     [
       "NugPlateAuras"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25440"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FarmingBar"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25442"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicCodex"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25443"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Examiner"
     ]
   ]
 ]
