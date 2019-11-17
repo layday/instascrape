@@ -31279,6 +31279,17 @@
     ]
   ],
   [
+    "Hermes/CommonOrcish",
+    [
+      "curse",
+      "351516"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "HeroLib",
     [
       "curse",
@@ -52638,6 +52649,16 @@
     ]
   ],
   [
+    "RankClassic",
+    [
+      "curse",
+      "351477"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Rap Sheet",
     [
       "curse",
@@ -59297,7 +59318,7 @@
     ]
   ],
   [
-    "SpellAnnounce Classic",
+    "SpellAnnouncer Classic",
     [
       "curse",
       "345951"
@@ -75266,16 +75287,6 @@
     [
       "tukui",
       "46"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ElvUI ExtraActionBars",
-    [
-      "tukui",
-      "18"
     ],
     [
       "retail"
@@ -91271,7 +91282,7 @@
       "25393"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -91675,6 +91686,36 @@
     [
       "wowi",
       "25439"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "FarmingBar",
+    [
+      "wowi",
+      "25440"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicCodex",
+    [
+      "wowi",
+      "25442"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Examiner Classic (Fan update)",
+    [
+      "wowi",
+      "25443"
     ],
     [
       "classic"
