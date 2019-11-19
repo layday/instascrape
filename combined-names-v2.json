@@ -1392,6 +1392,16 @@
     ]
   ],
   [
+    "AdiBags - BOEOverlay",
+    [
+      "curse",
+      "351762"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AdiBags - BankStack",
     [
       "curse",
@@ -1419,6 +1429,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "AdiBags - ClassicItemLevel",
+    [
+      "curse",
+      "351754"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -1479,6 +1499,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "AdiBags - UnusableItemOverlay",
+    [
+      "curse",
+      "351755"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -4000,6 +4030,16 @@
     ]
   ],
   [
+    "Attack Power Display",
+    [
+      "curse",
+      "351776"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Attesor Universal Language",
     [
       "curse",
@@ -4508,6 +4548,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Auto Restocker",
+    [
+      "curse",
+      "351604"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -13229,6 +13279,16 @@
     ]
   ],
   [
+    "Civilian Warning",
+    [
+      "curse",
+      "351907"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClamStacker",
     [
       "curse",
@@ -15697,6 +15757,16 @@
     ]
   ],
   [
+    "CraftCooldown",
+    [
+      "curse",
+      "351691"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "CraftFromInventory",
     [
       "curse",
@@ -16927,16 +16997,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "DPS_Tracker V1.5.1",
-    [
-      "curse",
-      "348393"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -22090,6 +22150,16 @@
     ]
   ],
   [
+    "Elvin Cooldowns",
+    [
+      "curse",
+      "351740"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Elvui MicroMenu Datatext",
     [
       "curse",
@@ -23731,6 +23801,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "FarmingBar",
+    [
+      "curse",
+      "351688"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -32280,6 +32360,37 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Honor Kills Counter",
+    [
+      "curse",
+      "2526"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Honor Tracker",
+    [
+      "curse",
+      "351773"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "HonorAssist",
+    [
+      "curse",
+      "351804"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -42862,6 +42973,16 @@
     ]
   ],
   [
+    "Mog Assistant",
+    [
+      "curse",
+      "351855"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "MogCollector.com ItemCollector",
     [
       "curse",
@@ -44242,6 +44363,7 @@
       "341693"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -44280,6 +44402,16 @@
     [
       "curse",
       "29470"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "MyLootList",
+    [
+      "curse",
+      "346262"
     ],
     [
       "retail"
@@ -49019,7 +49151,8 @@
       "336240"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -51936,7 +52069,7 @@
     ]
   ],
   [
-    "Raid GUIDs",
+    "Raid GUID's",
     [
       "curse",
       "350826"
@@ -67991,6 +68124,16 @@
     ]
   ],
   [
+    "Warhawk",
+    [
+      "curse",
+      "350438"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Waritko Cash Flow Monitor",
     [
       "curse",
@@ -70256,7 +70399,7 @@
     ]
   ],
   [
-    "XPperMIN",
+    "XPperMIN include Re-follow",
     [
       "curse",
       "351198"
@@ -71048,6 +71191,16 @@
     [
       "curse",
       "293805"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Zygor DataText (ZDT)",
+    [
+      "curse",
+      "351942"
     ],
     [
       "retail"
@@ -85718,7 +85871,7 @@
       "24771"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -91125,7 +91278,7 @@
     ]
   ],
   [
-    "ChaChing V 2.5.1",
+    "ChaChing V 3.0",
     [
       "wowi",
       "25376"
@@ -91367,7 +91520,7 @@
     ]
   ],
   [
-    "DPS_Tracker V1.5.1",
+    "DPS_Tracker V2.0",
     [
       "wowi",
       "25403"
@@ -91729,6 +91882,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "MyChatAlert",
+    [
+      "wowi",
+      "25445"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
