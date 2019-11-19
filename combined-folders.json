@@ -1719,6 +1719,18 @@
   [
     [
       "curse",
+      "351762"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdiBags-BOEOverlay"
+    ]
+  ],
+  [
+    [
+      "curse",
       "341171"
     ],
     [
@@ -1758,6 +1770,18 @@
       "AdiBags_ByExpansion_WoW",
       "AdiBags_ByExpansion_Wrath",
       "AdiBags_ByExpansion"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351754"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdiBags-ClassicItemLevel"
     ]
   ],
   [
@@ -1830,6 +1854,18 @@
     ],
     [
       "AdiBags_TackleBox"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351755"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdiBags-UnusableItemOverlay"
     ]
   ],
   [
@@ -5035,6 +5071,18 @@
   [
     [
       "curse",
+      "351776"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "apd"
+    ]
+  ],
+  [
+    [
+      "curse",
       "340473"
     ],
     [
@@ -5699,6 +5747,18 @@
     ],
     [
       "AutoRes"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351604"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Restocker"
     ]
   ],
   [
@@ -15494,7 +15554,7 @@
       "classic"
     ],
     [
-      "ChaChing"
+      "DPS_Tracker"
     ]
   ],
   [
@@ -16671,6 +16731,18 @@
     ],
     [
       "CityHelm"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351907"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CivilianWarning"
     ]
   ],
   [
@@ -19724,6 +19796,18 @@
   [
     [
       "curse",
+      "351691"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CraftCooldown"
+    ]
+  ],
+  [
+    [
+      "curse",
       "273437"
     ],
     [
@@ -21330,18 +21414,6 @@
     ],
     [
       "DPSTacho"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "348393"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DPS_Tracker"
     ]
   ],
   [
@@ -23870,9 +23942,9 @@
       "classic"
     ],
     [
+      "Details_TinyThreat",
       "Details_DataStorage",
       "Details_Streamer",
-      "Details_TinyThreat",
       "Details"
     ]
   ],
@@ -23898,9 +23970,9 @@
       "classic"
     ],
     [
+      "Details_TinyThreat",
       "Details_DataStorage",
       "Details_Streamer",
-      "Details_TinyThreat",
       "Details"
     ]
   ],
@@ -28147,6 +28219,18 @@
   [
     [
       "curse",
+      "351740"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "!ElvinCDs"
+    ]
+  ],
+  [
+    [
+      "curse",
       "103035"
     ],
     [
@@ -30214,6 +30298,18 @@
     ],
     [
       "FarmHud"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351688"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FarmingBar"
     ]
   ],
   [
@@ -40952,6 +41048,43 @@
     ],
     [
       "HomingDigeon"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "2526"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "HKCounter"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351773"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HonorTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351804"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HonorAssist"
     ]
   ],
   [
@@ -54157,6 +54290,18 @@
   [
     [
       "curse",
+      "351855"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MogAssistant"
+    ]
+  ],
+  [
+    [
+      "curse",
       "100134"
     ],
     [
@@ -55882,6 +56027,7 @@
       "341693"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -55934,6 +56080,18 @@
     ],
     [
       "MyLilPony"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346262"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MyLootList"
     ]
   ],
   [
@@ -62001,7 +62159,8 @@
       "336240"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "PoisonCharges"
@@ -85773,6 +85932,18 @@
   [
     [
       "curse",
+      "350438"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Warhawk"
+    ]
+  ],
+  [
+    [
+      "curse",
       "28979"
     ],
     [
@@ -89693,6 +89864,18 @@
     ],
     [
       "Zum"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351942"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ZygorDataText"
     ]
   ],
   [
@@ -171040,7 +171223,7 @@
       "24771"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "AuctionFaster"
@@ -178478,6 +178661,18 @@
     ],
     [
       "SessionsMessenger"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25445"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MyChatAlert"
     ]
   ]
 ]
