@@ -21065,6 +21065,16 @@
     ]
   ],
   [
+    "ElFramo 3",
+    [
+      "curse",
+      "351701"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Elementarist",
     [
       "curse",
@@ -27194,6 +27204,16 @@
     ]
   ],
   [
+    "GlancingMeter",
+    [
+      "curse",
+      "351803"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "GlassHUD",
     [
       "curse",
@@ -28688,6 +28708,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Group Calendar for Classic",
+    [
+      "curse",
+      "351800"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -32363,6 +32393,16 @@
     ]
   ],
   [
+    "Honor DR Tracker",
+    [
+      "curse",
+      "352067"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Honor Kills Counter",
     [
       "curse",
@@ -34957,6 +34997,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Karmarang",
+    [
+      "curse",
+      "352007"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -39595,6 +39645,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Lootr",
+    [
+      "curse",
+      "349656"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -46858,6 +46919,16 @@
     ]
   ],
   [
+    "OpenDKP",
+    [
+      "curse",
+      "352052"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "OpenDefaultBag",
     [
       "curse",
@@ -52621,6 +52692,16 @@
     ]
   ],
   [
+    "Random Dungeon Generator.",
+    [
+      "curse",
+      "351984"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Random Hearthstone Toy",
     [
       "curse",
@@ -55345,6 +55426,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ScepCalendar Classic",
+    [
+      "curse",
+      "352017"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -65937,6 +66028,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Tradies",
+    [
+      "curse",
+      "351997"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -91889,6 +91990,17 @@
     [
       "wowi",
       "25445"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Classic Achievements",
+    [
+      "wowi",
+      "25446"
     ],
     [
       "classic"
