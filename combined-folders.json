@@ -21359,6 +21359,18 @@
   [
     [
       "curse",
+      "352080"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DKPUnity"
+    ]
+  ],
+  [
+    [
+      "curse",
       "87642"
     ],
     [
@@ -30419,6 +30431,18 @@
     ],
     [
       "FastID"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352070"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "FastMarks"
     ]
   ],
   [
@@ -50088,19 +50112,6 @@
   [
     [
       "curse",
-      "349656"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Lootr"
-    ]
-  ],
-  [
-    [
-      "curse",
       "281960"
     ],
     [
@@ -64266,6 +64277,19 @@
     ],
     [
       "QuestProgressSound"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352043"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "QuestQuery"
     ]
   ],
   [
@@ -85891,6 +85915,18 @@
     ],
     [
       "wanderersgambling"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352100"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Wanderlust Key Roller"
     ]
   ],
   [
@@ -178807,6 +178843,42 @@
     ],
     [
       "ClassicAchievements"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25447"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ClearSight"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25448"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "D2Minimap"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25449"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TimeInCombat"
     ]
   ]
 ]
