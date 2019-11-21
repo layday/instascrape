@@ -16950,6 +16950,16 @@
     ]
   ],
   [
+    "DKPUnity Addon",
+    [
+      "curse",
+      "352080"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DKRot",
     [
       "curse",
@@ -23899,6 +23909,16 @@
     [
       "curse",
       "42242"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "FastMarks for BfA",
+    [
+      "curse",
+      "352070"
     ],
     [
       "retail"
@@ -39648,17 +39668,6 @@
     ]
   ],
   [
-    "Lootr",
-    [
-      "curse",
-      "349656"
-    ],
-    [
-      "retail",
-      "classic"
-    ]
-  ],
-  [
     "Lootsturm Light",
     [
       "curse",
@@ -50789,6 +50798,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Quest Query",
+    [
+      "curse",
+      "352043"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -68079,6 +68099,16 @@
     [
       "curse",
       "261947"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Wanderlust Key Roller",
+    [
+      "curse",
+      "352100"
     ],
     [
       "retail"
@@ -92001,6 +92031,36 @@
     [
       "wowi",
       "25446"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClearSight",
+    [
+      "wowi",
+      "25447"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "D2Minimap",
+    [
+      "wowi",
+      "25448"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "TimeInCombat",
+    [
+      "wowi",
+      "25449"
     ],
     [
       "classic"
