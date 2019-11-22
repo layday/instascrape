@@ -7464,6 +7464,18 @@
   [
     [
       "curse",
+      "352156"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BRDEscortFarm"
+    ]
+  ],
+  [
+    [
+      "curse",
       "282539"
     ],
     [
@@ -8773,6 +8785,18 @@
     ],
     [
       "BastasTools"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "350616"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BastionEPGP"
     ]
   ],
   [
@@ -41138,6 +41162,18 @@
   [
     [
       "curse",
+      "352187"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HPH"
+    ]
+  ],
+  [
+    [
+      "curse",
       "351773"
     ],
     [
@@ -65280,7 +65316,8 @@
       "327260"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "QuoteMediaBroStudios"
@@ -80358,6 +80395,30 @@
   [
     [
       "curse",
+      "5285"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TitanDefense"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "5285"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TitanClassicDefense"
+    ]
+  ],
+  [
+    [
+      "curse",
       "339483"
     ],
     [
@@ -80594,18 +80655,6 @@
     ],
     [
       "TitanCurrency"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "5285"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TitanDefense"
     ]
   ],
   [
@@ -84952,6 +85001,18 @@
     ],
     [
       "VKP"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352160"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "vendie"
     ]
   ],
   [
@@ -99992,10 +100053,10 @@
       "8281"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "TitanDefense"
+      "TitanClassicDefense"
     ]
   ],
   [
@@ -114118,6 +114179,18 @@
     ],
     [
       "notetote"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "14572"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Iloot_addon_classic_1.04"
     ]
   ],
   [
@@ -174642,7 +174715,6 @@
       "25085"
     ],
     [
-      "retail",
       "classic"
     ],
     [
