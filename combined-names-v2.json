@@ -5941,6 +5941,16 @@
     ]
   ],
   [
+    "BRD Escort Farm",
+    [
+      "curse",
+      "352156"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BT MediaPack",
     [
       "curse",
@@ -6989,6 +6999,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "BastionEPGP",
+    [
+      "curse",
+      "350616"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -32434,6 +32454,16 @@
     ]
   ],
   [
+    "Honor Per Hour",
+    [
+      "curse",
+      "352187"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Honor Tracker",
     [
       "curse",
@@ -42799,7 +42829,7 @@
     ]
   ],
   [
-    "Missing Power (Mana, Energy, Rage) + Five Second Rule + Next Energy Tick",
+    "Missing Power (Five Second Rule + Next Energy Tick)",
     [
       "curse",
       "341275"
@@ -51614,7 +51644,8 @@
       "327260"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -63565,6 +63596,17 @@
     ]
   ],
   [
+    "Titan Panel Classic [Defense]",
+    [
+      "curse",
+      "5285"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Titan Panel Classic [Guild]",
     [
       "curse",
@@ -63760,16 +63802,6 @@
     [
       "curse",
       "18742"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Titan Panel [Defense]",
-    [
-      "curse",
-      "5285"
     ],
     [
       "retail"
@@ -67369,6 +67401,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Vendie",
+    [
+      "curse",
+      "352160"
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -77237,6 +77279,16 @@
     ]
   ],
   [
+    "Titan Panel Classic [Defense]",
+    [
+      "wowi",
+      "8281"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Reported!",
     [
       "wowi",
@@ -78946,6 +78998,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Iloot",
+    [
+      "wowi",
+      "14572"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -88636,7 +88698,6 @@
       "25085"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
