@@ -4348,16 +4348,6 @@
     ]
   ],
   [
-    "AuraInfo",
-    [
-      "curse",
-      "88831"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Auracle (De)Buff Monitor",
     [
       "curse",
@@ -13902,6 +13892,16 @@
     ]
   ],
   [
+    "ClassicHealPrediction",
+    [
+      "curse",
+      "351332"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClassicInterrupt",
     [
       "curse",
@@ -18939,6 +18939,16 @@
     [
       "curse",
       "79620"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Details!: Explosive Orbs (plugin)",
+    [
+      "curse",
+      "352367"
     ],
     [
       "retail"
@@ -25231,6 +25241,16 @@
     ]
   ],
   [
+    "ForHonor!",
+    [
+      "curse",
+      "352351"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Forager",
     [
       "curse",
@@ -28859,6 +28879,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GroupCalendar Classic",
+    [
+      "curse",
+      "352305"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -33114,7 +33144,8 @@
       "89861"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -39196,16 +39227,6 @@
     ]
   ],
   [
-    "LockboxHelper",
-    [
-      "curse",
-      "92138"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "LockedOut",
     [
       "curse",
@@ -42422,16 +42443,6 @@
     [
       "curse",
       "31873"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "MillHelper",
-    [
-      "curse",
-      "89271"
     ],
     [
       "retail"
@@ -46114,6 +46125,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Notation",
+    [
+      "curse",
+      "352260"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -50195,16 +50216,6 @@
     ]
   ],
   [
-    "ProspectHelper",
-    [
-      "curse",
-      "92123"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "ProspectORE",
     [
       "curse",
@@ -50432,6 +50443,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "PvP Tracker",
+    [
+      "curse",
+      "352250"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -65350,6 +65371,16 @@
     ]
   ],
   [
+    "TotemStatus",
+    [
+      "curse",
+      "352247"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "TotemTimers",
     [
       "curse",
@@ -65772,26 +65803,6 @@
     ]
   ],
   [
-    "TradeSkillMaster_Accounting",
-    [
-      "curse",
-      "29790"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Additions",
-    [
-      "curse",
-      "54601"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "TradeSkillMaster_AppHelper",
     [
       "curse",
@@ -65800,26 +65811,6 @@
     [
       "retail",
       "classic"
-    ]
-  ],
-  [
-    "TradeSkillMaster_AuctionDB",
-    [
-      "curse",
-      "27351"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Auctioning",
-    [
-      "curse",
-      "27360"
-    ],
-    [
-      "retail"
     ]
   ],
   [
@@ -65843,40 +65834,10 @@
     ]
   ],
   [
-    "TradeSkillMaster_Crafting",
-    [
-      "curse",
-      "27182"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Destroying",
-    [
-      "curse",
-      "27987"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "TradeSkillMaster_GuildSorter",
     [
       "curse",
       "73501"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Mailing",
-    [
-      "curse",
-      "27352"
     ],
     [
       "retail"
@@ -65897,16 +65858,6 @@
     [
       "curse",
       "50116"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Shopping",
-    [
-      "curse",
-      "27261"
     ],
     [
       "retail"
@@ -65947,36 +65898,6 @@
     [
       "curse",
       "92493"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Vendoring",
-    [
-      "curse",
-      "88699"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_Warehousing",
-    [
-      "curse",
-      "35451"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "TradeSkillMaster_WoWuction",
-    [
-      "curse",
-      "38733"
     ],
     [
       "retail"
@@ -67107,16 +67028,6 @@
     [
       "curse",
       "102287"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Unskilled Guildies Matter",
-    [
-      "curse",
-      "265039"
     ],
     [
       "retail"
@@ -71685,6 +71596,16 @@
     [
       "curse",
       "351482"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "aPVPName1s2s",
+    [
+      "curse",
+      "352404"
     ],
     [
       "classic"
@@ -92122,6 +92043,16 @@
     [
       "wowi",
       "25449"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "aPVPName1s2s",
+    [
+      "wowi",
+      "25450"
     ],
     [
       "classic"
