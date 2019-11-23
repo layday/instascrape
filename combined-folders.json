@@ -5508,18 +5508,6 @@
   [
     [
       "curse",
-      "88831"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "AuraInfo"
-    ]
-  ],
-  [
-    [
-      "curse",
       "17295"
     ],
     [
@@ -17486,6 +17474,18 @@
   [
     [
       "curse",
+      "351332"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHealPrediction"
+    ]
+  ],
+  [
+    [
+      "curse",
       "348415"
     ],
     [
@@ -24034,6 +24034,18 @@
     ],
     [
       "Details_ChartViewer"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352367"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Details_ExplosiveOrbs"
     ]
   ],
   [
@@ -32030,6 +32042,18 @@
   [
     [
       "curse",
+      "352351"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ForHonor"
+    ]
+  ],
+  [
+    [
+      "curse",
       "306822"
     ],
     [
@@ -36616,6 +36640,18 @@
     ],
     [
       "GroupAuras"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352305"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GroupCalendarClassic"
     ]
   ],
   [
@@ -41997,7 +42033,8 @@
       "89861"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "IgnoreEnemyEmotes"
@@ -49546,18 +49583,6 @@
   [
     [
       "curse",
-      "92138"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "LockboxHelper"
-    ]
-  ],
-  [
-    [
-      "curse",
       "274882"
     ],
     [
@@ -53593,18 +53618,6 @@
     ],
     [
       "MillButton"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "89271"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "MillHelper"
     ]
   ],
   [
@@ -58229,6 +58242,18 @@
     ],
     [
       "NotMyFault"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352260"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Notation"
     ]
   ],
   [
@@ -63479,18 +63504,6 @@
   [
     [
       "curse",
-      "92123"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ProspectHelper"
-    ]
-  ],
-  [
-    [
-      "curse",
       "68152"
     ],
     [
@@ -63774,6 +63787,18 @@
     ],
     [
       "PvPTemplates"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352250"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "PvP Tracker"
     ]
   ],
   [
@@ -82512,6 +82537,18 @@
   [
     [
       "curse",
+      "352247"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TotemStatus"
+    ]
+  ],
+  [
+    [
+      "curse",
       "6384"
     ],
     [
@@ -83032,30 +83069,6 @@
   [
     [
       "curse",
-      "29790"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Accounting"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "54601"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Additions"
-    ]
-  ],
-  [
-    [
-      "curse",
       "83317"
     ],
     [
@@ -83064,30 +83077,6 @@
     ],
     [
       "TradeSkillMaster_AppHelper"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "27351"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_AuctionDB"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "27360"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Auctioning"
     ]
   ],
   [
@@ -83117,30 +83106,6 @@
   [
     [
       "curse",
-      "27182"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Crafting"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "27987"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Destroying"
-    ]
-  ],
-  [
-    [
-      "curse",
       "73501"
     ],
     [
@@ -83148,18 +83113,6 @@
     ],
     [
       "TradeSkillMaster_GuildSorter"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "27352"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Mailing"
     ]
   ],
   [
@@ -83184,18 +83137,6 @@
     ],
     [
       "TradeSkillMaster_PriceReply"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "27261"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Shopping"
     ]
   ],
   [
@@ -83244,42 +83185,6 @@
     ],
     [
       "TradeSkillMaster_Vendor"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "88699"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Vendoring"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "35451"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_Warehousing"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "38733"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "TradeSkillMaster_WoWuction"
     ]
   ],
   [
@@ -84640,18 +84545,6 @@
     ],
     [
       "UnsheathMove"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "265039"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "UnskilledGuildiesMatter"
     ]
   ],
   [
@@ -90493,6 +90386,18 @@
     ],
     [
       "aMageSpellsReport"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352404"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "aPVPName1s2s"
     ]
   ],
   [
@@ -178951,6 +178856,18 @@
     ],
     [
       "TimeInCombat"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25450"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "aPVPName1s2s"
     ]
   ]
 ]
