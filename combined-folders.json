@@ -1076,6 +1076,18 @@
   [
     [
       "curse",
+      "351866"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AchchazusRaidplaner"
+    ]
+  ],
+  [
+    [
+      "curse",
       "13383"
     ],
     [
@@ -17486,6 +17498,18 @@
   [
     [
       "curse",
+      "352465"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HonorTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "348415"
     ],
     [
@@ -23169,6 +23193,18 @@
     ],
     [
       "DeathSounds"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352489"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DeathTimer"
     ]
   ],
   [
@@ -30366,6 +30402,7 @@
       "351688"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -44470,6 +44507,7 @@
       "classic"
     ],
     [
+      "ChatThrottleLib",
       "Karmarang"
     ]
   ],
@@ -45221,7 +45259,8 @@
       "62232"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "KillingBlow_Enhanced"
@@ -77748,6 +77787,18 @@
   [
     [
       "curse",
+      "352514"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Swahiliwood"
+    ]
+  ],
+  [
+    [
+      "curse",
       "88884"
     ],
     [
@@ -78857,6 +78908,18 @@
     ],
     [
       "TargetingIcons_Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "346308"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TargetingIcons_Retail"
     ]
   ],
   [
@@ -154731,7 +154794,7 @@
       "22424"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "KillingBlow_Enhanced"
@@ -178755,6 +178818,7 @@
       "25440"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -178880,6 +178944,43 @@
     ],
     [
       "ClassicHealPrediction"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25453"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "LibDeflate"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25454"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Gossip_Collector"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25455"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Bubble_Collector"
     ]
   ]
 ]
