@@ -887,6 +887,16 @@
     ]
   ],
   [
+    "Achchazus Raidplaner",
+    [
+      "curse",
+      "351866"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Acheron",
     [
       "curse",
@@ -13902,6 +13912,16 @@
     ]
   ],
   [
+    "ClassicHonorTracker",
+    [
+      "curse",
+      "352465"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClassicInterrupt",
     [
       "curse",
@@ -18276,6 +18296,16 @@
     [
       "curse",
       "102406"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "DeathTimer",
+    [
+      "curse",
+      "352489"
     ],
     [
       "retail"
@@ -23860,6 +23890,7 @@
       "351688"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -35663,7 +35694,8 @@
       "62232"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -61463,6 +61495,16 @@
     ]
   ],
   [
+    "Swahiliwood",
+    [
+      "curse",
+      "352514"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "SwapCheck",
     [
       "curse",
@@ -62368,6 +62410,7 @@
       "346308"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -81635,7 +81678,7 @@
       "22424"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -91964,6 +92007,7 @@
       "25440"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -92066,6 +92110,37 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "LibDeflate",
+    [
+      "wowi",
+      "25453"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Gossip-Collector",
+    [
+      "wowi",
+      "25454"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Bubble-Collector",
+    [
+      "wowi",
+      "25455"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
