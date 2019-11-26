@@ -2065,6 +2065,18 @@
   [
     [
       "curse",
+      "352600"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "AdiBags_Transmog"
+    ]
+  ],
+  [
+    [
+      "curse",
       "68441"
     ],
     [
@@ -13657,18 +13669,6 @@
   [
     [
       "curse",
-      "336400"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "BtWLoadouts"
-    ]
-  ],
-  [
-    [
-      "curse",
       "280369"
     ],
     [
@@ -13739,6 +13739,18 @@
     ],
     [
       "BtWQuestsLegion"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352555"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Bubble_Collector"
     ]
   ],
   [
@@ -13883,6 +13895,18 @@
     ],
     [
       "BuffEnoughClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352620"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuffTimers"
     ]
   ],
   [
@@ -16755,6 +16779,18 @@
     ],
     [
       "CityHelm"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352574"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CivTarget"
     ]
   ],
   [
@@ -35317,6 +35353,18 @@
   [
     [
       "curse",
+      "352554"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Gossip_Collector"
+    ]
+  ],
+  [
+    [
+      "curse",
       "7053"
     ],
     [
@@ -41965,6 +42013,18 @@
     [
       "IceHUD_Options",
       "IceHUD"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352495"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Icecreamer"
     ]
   ],
   [
@@ -57337,18 +57397,6 @@
   [
     [
       "curse",
-      "344130"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "NeedsFoodBadly"
-    ]
-  ],
-  [
-    [
-      "curse",
       "54081"
     ],
     [
@@ -70134,18 +70182,6 @@
   [
     [
       "curse",
-      "301716"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SavedInstancesSync"
-    ]
-  ],
-  [
-    [
-      "curse",
       "86143"
     ],
     [
@@ -73222,18 +73258,6 @@
   [
     [
       "curse",
-      "301556"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SimpleRecruitment"
-    ]
-  ],
-  [
-    [
-      "curse",
       "14654"
     ],
     [
@@ -74956,6 +74980,18 @@
     ],
     [
       "Sounds4Chat"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352565"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Soundscape"
     ]
   ],
   [
@@ -83950,6 +83986,18 @@
     ],
     [
       "TurnInEverything"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352617"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TurnTheHeadOff"
     ]
   ],
   [
@@ -94593,18 +94641,6 @@
     ],
     [
       "whoaUnitFrames"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "338841"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "whoaUnitFrames_Classic"
     ]
   ],
   [
