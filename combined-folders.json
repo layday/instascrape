@@ -39817,7 +39817,8 @@
       "14169"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "HellbenderDKP"
@@ -48354,7 +48355,8 @@
       "16727"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "LibKarma-1.0"
@@ -66307,7 +66309,8 @@
       "14232"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "RaidTracker"
@@ -79180,7 +79183,8 @@
       "66"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "TellTrack"
@@ -179017,6 +179021,42 @@
     ],
     [
       "Bubble_Collector"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25457"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TellTrack"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25458"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RaidTracker"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25459"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MountSteps"
     ]
   ]
 ]
