@@ -31385,7 +31385,8 @@
       "14169"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -38205,7 +38206,8 @@
       "16727"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -52400,7 +52402,8 @@
       "14232"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -62631,7 +62634,8 @@
       "66"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -92171,6 +92175,36 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Tell Track Classic",
+    [
+      "wowi",
+      "25457"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Raid Tracker Classic",
+    [
+      "wowi",
+      "25458"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "MountSteps",
+    [
+      "wowi",
+      "25459"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
