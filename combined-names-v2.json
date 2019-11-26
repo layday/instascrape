@@ -1674,6 +1674,16 @@
     ]
   ],
   [
+    "AdiBags_Transmog",
+    [
+      "curse",
+      "352600"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AdiButtonAuras",
     [
       "curse",
@@ -10870,16 +10880,6 @@
     ]
   ],
   [
-    "BtWLoadouts",
-    [
-      "curse",
-      "336400"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "BtWQuests",
     [
       "curse",
@@ -10914,6 +10914,16 @@
     [
       "curse",
       "297374"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Bubble-Collector",
+    [
+      "curse",
+      "352555"
     ],
     [
       "retail"
@@ -11034,6 +11044,16 @@
     [
       "curse",
       "324912"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "BuffTimers",
+    [
+      "curse",
+      "352620"
     ],
     [
       "classic"
@@ -13296,6 +13316,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "CivTarget",
+    [
+      "curse",
+      "352574"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -27875,6 +27905,16 @@
     ]
   ],
   [
+    "Gossip-Collector",
+    [
+      "curse",
+      "352554"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Gossipmonger",
     [
       "curse",
@@ -33084,6 +33124,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Icecreamer",
+    [
+      "curse",
+      "352495"
+    ],
+    [
       "classic"
     ]
   ],
@@ -45379,16 +45429,6 @@
     ]
   ],
   [
-    "NeedsFoodBadly",
-    [
-      "curse",
-      "344130"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "NeedyGreedy",
     [
       "curse",
@@ -55422,16 +55462,6 @@
     ]
   ],
   [
-    "SavedInstancesSync",
-    [
-      "curse",
-      "301716"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Say CC",
     [
       "curse",
@@ -57875,16 +57905,6 @@
     ]
   ],
   [
-    "SimpleRecruitment",
-    [
-      "curse",
-      "301556"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "SimpleSelfRebuff",
     [
       "curse",
@@ -59267,6 +59287,16 @@
     [
       "curse",
       "86296"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Soundscape",
+    [
+      "curse",
+      "352565"
     ],
     [
       "retail"
@@ -66536,6 +66566,16 @@
     [
       "curse",
       "19078"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "TurnTheHeadOff",
+    [
+      "curse",
+      "352617"
     ],
     [
       "retail"
@@ -74948,16 +74988,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "whoa UnitFrames (for WoW Classic)",
-    [
-      "curse",
-      "338841"
-    ],
-    [
-      "classic"
     ]
   ],
   [
