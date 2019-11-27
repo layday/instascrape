@@ -39558,6 +39558,18 @@
   [
     [
       "curse",
+      "352582"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HealCommClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "314094"
     ],
     [
@@ -64350,22 +64362,11 @@
       "319411"
     ],
     [
+      "retail",
       "classic"
     ],
     [
-      "ClassicQuestC"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "319411"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "QuestC"
+      "QuestC_Verticle"
     ]
   ],
   [
@@ -70106,6 +70107,18 @@
     ],
     [
       "Sappable"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352786"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SappableClassic"
     ]
   ],
   [
@@ -94674,6 +94687,18 @@
   [
     [
       "curse",
+      "338841"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "whoaUnitFrames_Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "94725"
     ],
     [
@@ -104503,7 +104528,8 @@
       "10440"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "NugRunning",
