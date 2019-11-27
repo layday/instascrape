@@ -31165,6 +31165,16 @@
     ]
   ],
   [
+    "HealCommClassic",
+    [
+      "curse",
+      "352582"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Healer Mana Only",
     [
       "curse",
@@ -55403,6 +55413,16 @@
     ]
   ],
   [
+    "SappableClassic",
+    [
+      "curse",
+      "352786"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Sapped!",
     [
       "curse",
@@ -75015,6 +75035,16 @@
     ]
   ],
   [
+    "whoa UnitFrames (for WoW Classic)",
+    [
+      "curse",
+      "338841"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "wotefiauto",
     [
       "curse",
@@ -77998,7 +78028,8 @@
       "10440"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
