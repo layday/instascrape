@@ -24041,15 +24041,12 @@
       "61284"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "Details_DataStorage",
-      "Details_EncounterDetails",
-      "Details_RaidCheck",
-      "Details_Streamer",
       "Details_TinyThreat",
-      "Details_Vanguard",
+      "Details_DataStorage",
+      "Details_Streamer",
       "Details"
     ]
   ],
@@ -24059,12 +24056,15 @@
       "61284"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "Details_TinyThreat",
       "Details_DataStorage",
+      "Details_EncounterDetails",
+      "Details_RaidCheck",
       "Details_Streamer",
+      "Details_TinyThreat",
+      "Details_Vanguard",
       "Details"
     ]
   ],
@@ -38571,6 +38571,18 @@
   [
     [
       "curse",
+      "352950"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Handynotes_Pandaria"
+    ]
+  ],
+  [
+    [
+      "curse",
       "18149"
     ],
     [
@@ -43674,6 +43686,18 @@
     ],
     [
       "ItemScore"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352828"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ItemSurveyClassic"
     ]
   ],
   [
@@ -58132,6 +58156,18 @@
   [
     [
       "curse",
+      "352827"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "NoMoreBlizzardGroupUI"
+    ]
+  ],
+  [
+    [
+      "curse",
       "102793"
     ],
     [
@@ -64346,14 +64382,13 @@
   [
     [
       "curse",
-      "3607"
+      "319411"
     ],
     [
-      "retail",
       "classic"
     ],
     [
-      "QuestAnnounce"
+      "Queso Classic"
     ]
   ],
   [
@@ -64362,11 +64397,23 @@
       "319411"
     ],
     [
+      "retail"
+    ],
+    [
+      "Queso"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3607"
+    ],
+    [
       "retail",
       "classic"
     ],
     [
-      "QuestC_Verticle"
+      "QuestAnnounce"
     ]
   ],
   [
@@ -171025,7 +171072,7 @@
       "24716"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "NugCast"
@@ -178957,7 +179004,6 @@
       "25445"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -179107,6 +179153,18 @@
     ],
     [
       "MountSteps"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25460"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BastionEPGP"
     ]
   ]
 ]
