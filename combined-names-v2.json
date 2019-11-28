@@ -23924,7 +23924,7 @@
     ]
   ],
   [
-    "FarmingBar",
+    "Farming Bar",
     [
       "curse",
       "351688"
@@ -30393,6 +30393,16 @@
     ]
   ],
   [
+    "HandyNotes Pandaria",
+    [
+      "curse",
+      "352950"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "HandyNotes Special NPCs Etc",
     [
       "curse",
@@ -32576,7 +32586,7 @@
     ]
   ],
   [
-    "Honor Per Hour",
+    "Honor Per Hour (Classic)",
     [
       "curse",
       "352187"
@@ -34465,6 +34475,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ItemSurveyClassic",
+    [
+      "curse",
+      "352828"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -46032,6 +46052,16 @@
     ]
   ],
   [
+    "NoMoreBlizzardGroupUI",
+    [
+      "curse",
+      "352827"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "NoMoreGryphons",
     [
       "curse",
@@ -50863,10 +50893,10 @@
     ]
   ],
   [
-    "Quest Announce 3",
+    "Queso (Retail & Classic)",
     [
       "curse",
-      "3607"
+      "319411"
     ],
     [
       "retail",
@@ -50874,10 +50904,10 @@
     ]
   ],
   [
-    "Quest Cinematic (Retail & Classic)",
+    "Quest Announce 3",
     [
       "curse",
-      "319411"
+      "3607"
     ],
     [
       "retail",
@@ -66616,7 +66646,7 @@
     ]
   ],
   [
-    "TurnTheHeadOff",
+    "TurnTheHeadOff for BfA",
     [
       "curse",
       "352617"
@@ -85722,7 +85752,7 @@
       "24716"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -92133,7 +92163,6 @@
       "25445"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -92253,6 +92282,16 @@
     [
       "wowi",
       "25459"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "BastionEPGP",
+    [
+      "wowi",
+      "25460"
     ],
     [
       "classic"
