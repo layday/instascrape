@@ -369,7 +369,8 @@
       "74749"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -1881,7 +1882,8 @@
       "18964"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -13691,6 +13693,16 @@
     ]
   ],
   [
+    "Classic Loot Assistant",
+    [
+      "curse",
+      "352405"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic PVP Flagging",
     [
       "curse",
@@ -13936,6 +13948,16 @@
     [
       "curse",
       "334543"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ClassicHealAssignments",
+    [
+      "curse",
+      "352992"
     ],
     [
       "classic"
@@ -15667,6 +15689,17 @@
     [
       "curse",
       "298607"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
+    "Coords",
+    [
+      "curse",
+      "5299"
     ],
     [
       "retail",
@@ -23566,7 +23599,8 @@
       "305470"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -29496,6 +29530,16 @@
     ]
   ],
   [
+    "Guild Loot Tracker",
+    [
+      "curse",
+      "352821"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Guild Lottery and Raffle",
     [
       "curse",
@@ -33196,6 +33240,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "IconMarks",
+    [
+      "curse",
+      "352995"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37427,6 +37482,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "LibAddonUtils",
+    [
+      "curse",
+      "352953"
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -44387,17 +44452,6 @@
     ]
   ],
   [
-    "Musician",
-    [
-      "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
-    ]
-  ],
-  [
     "MusicianList",
     [
       "curse",
@@ -45481,6 +45535,16 @@
     ]
   ],
   [
+    "NeedsFoodBadly",
+    [
+      "curse",
+      "344130"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "NeedyGreedy",
     [
       "curse",
@@ -45728,6 +45792,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Nicolas Bernier",
+    [
+      "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -63395,6 +63470,16 @@
     [
       "curse",
       "266166"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "TimePerLevel",
+    [
+      "curse",
+      "352437"
     ],
     [
       "retail"
