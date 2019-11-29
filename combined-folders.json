@@ -440,7 +440,8 @@
       "74749"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "AFK_fullscreen"
@@ -2322,7 +2323,8 @@
       "18964"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Afflicted"
@@ -17231,6 +17233,18 @@
   [
     [
       "curse",
+      "352405"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicLootAssistant"
+    ]
+  ],
+  [
+    [
+      "curse",
       "264469"
     ],
     [
@@ -17529,6 +17543,18 @@
     ],
     [
       "ClassicGuide"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352992"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicHealAssignments"
     ]
   ],
   [
@@ -19679,6 +19705,19 @@
     ],
     [
       "Coordinates"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "5299"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Coords"
     ]
   ],
   [
@@ -29986,7 +30025,8 @@
       "305470"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "FFLU"
@@ -37419,6 +37459,18 @@
   [
     [
       "curse",
+      "352821"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "guild-loot-tracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20458"
     ],
     [
@@ -42098,6 +42150,19 @@
     ],
     [
       "iciclesCounter"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352995"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "IconMarks"
     ]
   ],
   [
@@ -47401,6 +47466,18 @@
     ],
     [
       "LibAddonCompat-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352953"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibAddonUtils"
     ]
   ],
   [
@@ -56049,19 +56126,6 @@
   [
     [
       "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Musician"
-    ]
-  ],
-  [
-    [
-      "curse",
       "306254"
     ],
     [
@@ -57459,6 +57523,18 @@
   [
     [
       "curse",
+      "344130"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "NeedsFoodBadly"
+    ]
+  ],
+  [
+    [
+      "curse",
       "54081"
     ],
     [
@@ -57766,6 +57842,19 @@
     ],
     [
       "NickTag-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Musician"
     ]
   ],
   [
@@ -80131,6 +80220,18 @@
     ],
     [
       "TimeInQueue"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352437"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TimePerLevel"
     ]
   ],
   [
@@ -178157,7 +178258,7 @@
       "classic"
     ],
     [
-      "SpellBookAbridged"
+      "SpellbookAbridged"
     ]
   ],
   [
