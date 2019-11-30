@@ -77,6 +77,7 @@
       "344967"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -44452,6 +44453,17 @@
     ]
   ],
   [
+    "Musician",
+    [
+      "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "MusicianList",
     [
       "curse",
@@ -45792,17 +45804,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Nicolas Bernier",
-    [
-      "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
     ]
   ],
   [
@@ -51247,6 +51248,16 @@
     [
       "curse",
       "338986"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "QuestHerald",
+    [
+      "curse",
+      "351758"
     ],
     [
       "classic"
@@ -75572,6 +75583,26 @@
     ]
   ],
   [
+    "",
+    [
+      "tukui",
+      "150"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "",
+    [
+      "tukui",
+      "151"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AddOnSkins",
     [
       "tukui",
@@ -79886,7 +79917,8 @@
       "17929"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -92008,7 +92040,7 @@
     ]
   ],
   [
-    "Patch for Immersion (Quest Cinematic)",
+    "Patch for Immersion (Queso)",
     [
       "wowi",
       "25419"
