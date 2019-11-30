@@ -90,6 +90,7 @@
       "344967"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -56126,6 +56127,19 @@
   [
     [
       "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Musician"
+    ]
+  ],
+  [
+    [
+      "curse",
       "306254"
     ],
     [
@@ -57842,19 +57856,6 @@
     ],
     [
       "NickTag-1.0"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Musician"
     ]
   ],
   [
@@ -64474,10 +64475,11 @@
       "319411"
     ],
     [
+      "retail",
       "classic"
     ],
     [
-      "Queso Classic"
+      "Queso Brie"
     ]
   ],
   [
@@ -64831,6 +64833,18 @@
     ],
     [
       "QuestGuru"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351758"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QuestHerald"
     ]
   ],
   [
@@ -127228,7 +127242,8 @@
       "17929"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Breakables"
