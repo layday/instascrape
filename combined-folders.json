@@ -12283,7 +12283,8 @@
       "28006"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "BrokerPack"
@@ -54305,7 +54306,8 @@
       "22761"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_MiscHelper"
@@ -95302,7 +95304,8 @@
       "39076"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Bags"
@@ -95314,7 +95317,8 @@
       "22760"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Coords"
@@ -95326,7 +95330,8 @@
       "39075"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Friends"
@@ -95350,7 +95355,8 @@
       "39074"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Infoclock"
@@ -95362,7 +95368,8 @@
       "39073"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Mailbox"
@@ -95374,7 +95381,8 @@
       "39054"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Money"
@@ -95386,7 +95394,8 @@
       "39023"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Repair"
@@ -95422,7 +95431,8 @@
       "290291"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_itemsdb"
@@ -116854,7 +116864,8 @@
       "15431"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Coords"
@@ -117022,7 +117033,8 @@
       "15491"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Repair"
@@ -117034,7 +117046,8 @@
       "15492"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_MiscHelper"
@@ -117070,7 +117083,8 @@
       "15497"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Infoclock"
@@ -117481,7 +117495,8 @@
       "15621"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Money"
@@ -131709,7 +131724,8 @@
       "18761"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Friends"
@@ -133091,7 +133107,8 @@
       "18952"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Bags"
@@ -133103,7 +133120,8 @@
       "18953"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "BrokerPack"
@@ -143304,7 +143322,8 @@
       "20501"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_Mailbox"
@@ -170291,7 +170310,8 @@
       "24579"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "zz_itemsdb"
@@ -179281,6 +179301,18 @@
     ],
     [
       "BastionEPGP"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25461"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LibAddonUtils"
     ]
   ]
 ]
