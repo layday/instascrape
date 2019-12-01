@@ -9790,7 +9790,8 @@
       "28006"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -43016,7 +43017,8 @@
       "22761"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75468,7 +75470,8 @@
       "39076"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75478,7 +75481,8 @@
       "22760"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75488,7 +75492,8 @@
       "39075"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75508,7 +75513,8 @@
       "39074"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75518,7 +75524,8 @@
       "39073"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75528,7 +75535,8 @@
       "39054"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75538,7 +75546,8 @@
       "39023"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75568,7 +75577,8 @@
       "290291"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79392,7 +79402,8 @@
       "15431"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79402,7 +79413,8 @@
       "15491"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79412,7 +79424,8 @@
       "15492"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79432,7 +79445,8 @@
       "15497"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79452,7 +79466,8 @@
       "15621"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -80158,7 +80173,8 @@
       "18761"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -80229,7 +80245,8 @@
       "18952"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -80239,7 +80256,8 @@
       "18953"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -80790,7 +80808,8 @@
       "20501"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -85334,7 +85353,8 @@
       "24579"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -92412,6 +92432,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "LibAddonUtils",
+    [
+      "wowi",
+      "25461"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
