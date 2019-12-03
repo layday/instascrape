@@ -24083,21 +24083,6 @@
       "61284"
     ],
     [
-      "classic"
-    ],
-    [
-      "Details_TinyThreat",
-      "Details_DataStorage",
-      "Details_Streamer",
-      "Details"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "61284"
-    ],
-    [
       "retail"
     ],
     [
@@ -24113,6 +24098,21 @@
   [
     [
       "curse",
+      "61284"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Details_DataStorage",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "Details"
+    ]
+  ],
+  [
+    [
+      "curse",
       "338524"
     ],
     [
@@ -24132,9 +24132,9 @@
       "classic"
     ],
     [
-      "Details_TinyThreat",
       "Details_DataStorage",
       "Details_Streamer",
+      "Details_TinyThreat",
       "Details"
     ]
   ],
@@ -25311,6 +25311,18 @@
     ],
     [
       "DressingRoomFunctions"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353364"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DressingSlots"
     ]
   ],
   [
@@ -34219,6 +34231,18 @@
     ],
     [
       "Geppetto"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353349"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GermanPvPNameFix"
     ]
   ],
   [
@@ -50342,6 +50366,31 @@
   [
     [
       "curse",
+      "22783"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LootTrain-Manager",
+      "LootTrain"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "22783"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LootTrain"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20869"
     ],
     [
@@ -64270,7 +64319,7 @@
       "retail"
     ],
     [
-      "QTR_Quests"
+      "WoWinEnglish_Quests"
     ]
   ],
   [
@@ -64480,18 +64529,6 @@
     [
       "retail",
       "classic"
-    ],
-    [
-      "Queso Brie"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "319411"
-    ],
-    [
-      "retail"
     ],
     [
       "Queso"
@@ -72410,6 +72447,18 @@
     ],
     [
       "ShowQuestId"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353401"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ShowQuestXP"
     ]
   ],
   [
@@ -83191,6 +83240,18 @@
   [
     [
       "curse",
+      "353327"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TrackingSwitcher"
+    ]
+  ],
+  [
+    [
+      "curse",
       "304464"
     ],
     [
@@ -87733,6 +87794,18 @@
     ],
     [
       "SpellTranslator"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353297"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "WoW_String_Repair"
     ]
   ],
   [
@@ -179314,6 +179387,30 @@
     ],
     [
       "LibAddonUtils"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25462"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Icons"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25463"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicGuildLaunchProfiler"
     ]
   ]
 ]
