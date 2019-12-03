@@ -19929,6 +19929,16 @@
     ]
   ],
   [
+    "DressingSlots",
+    [
+      "curse",
+      "353364"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "DressupDeluxe",
     [
       "curse",
@@ -27038,6 +27048,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GermanPvPNameFix",
+    [
+      "curse",
+      "353349"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -39858,6 +39878,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LootTrain",
+    [
+      "curse",
+      "22783"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -57269,6 +57300,16 @@
     ]
   ],
   [
+    "ShowQuestXP",
+    [
+      "curse",
+      "353401"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ShowSpec",
     [
       "curse",
@@ -65908,6 +65949,16 @@
     ]
   ],
   [
+    "Tracking Switcher",
+    [
+      "curse",
+      "353327"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Trackster",
     [
       "curse",
@@ -69563,6 +69614,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "WoW 1d String Repair Classic",
+    [
+      "curse",
+      "353297"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -92423,6 +92484,26 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Clean Icons - Mechagnome Edition Classic",
+    [
+      "wowi",
+      "25462"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Classic GuildLaunch Profiler",
+    [
+      "wowi",
+      "25463"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
