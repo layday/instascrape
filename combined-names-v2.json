@@ -14018,6 +14018,16 @@
     ]
   ],
   [
+    "ClassicProfessionFilter",
+    [
+      "curse",
+      "353572"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ClassicRageLog",
     [
       "curse",
@@ -22977,6 +22987,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ErrorDKP",
+    [
+      "curse",
+      "353472"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -33700,16 +33720,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Ingredient For Classic",
-    [
-      "curse",
-      "351271"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -74133,6 +74143,16 @@
     ]
   ],
   [
+    "nakaGold",
+    [
+      "curse",
+      "353573"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "ncHoverBind",
     [
       "curse",
@@ -80454,7 +80474,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests 80205 2019-11-04",
+    "WoWpoPolsku-Quests 80205 2019-12-03",
     [
       "wowi",
       "19315"
@@ -89892,7 +89912,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests Classic 2019-11-07",
+    "WoWpoPolsku-Quests Classic 2019-12-03",
     [
       "wowi",
       "25184"
