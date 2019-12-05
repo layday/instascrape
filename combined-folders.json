@@ -7957,39 +7957,6 @@
       "1592"
     ],
     [
-      "retail"
-    ],
-    [
-      "Bagnon_Config",
-      "Bagnon_GuildBank",
-      "Bagnon_VoidStorage",
-      "Bagnon",
-      "BagBrother"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "1592"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Bagnon_Config",
-      "Bagnon_VoidStorage",
-      "Bagnon_GuildBank",
-      "Bagnon",
-      "BagBrother"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "1592"
-    ],
-    [
       "retail",
       "classic"
     ],
@@ -21069,6 +21036,18 @@
   [
     [
       "curse",
+      "353611"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DBM-VPLazyCrazyJoe"
+    ]
+  ],
+  [
+    [
+      "curse",
       "269924"
     ],
     [
@@ -25505,6 +25484,18 @@
     ],
     [
       "DruidHealing"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353686"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Druidism"
     ]
   ],
   [
@@ -31100,6 +31091,18 @@
     ],
     [
       "Filtr"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353674"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FindGUID"
     ]
   ],
   [
@@ -45864,6 +45867,18 @@
   [
     [
       "curse",
+      "353676"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "KreicUI"
+    ]
+  ],
+  [
+    [
+      "curse",
       "258615"
     ],
     [
@@ -55738,6 +55753,18 @@
     ],
     [
       "MouseoverRaidIcons"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353636"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MovableBags"
     ]
   ],
   [
@@ -88300,19 +88327,6 @@
     ],
     [
       "WoWpoPolsku_Books"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "296474"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "WoWpoPolsku_Bubbles"
     ]
   ],
   [
@@ -179435,6 +179449,18 @@
     ],
     [
       "ClassicGuildLaunchProfiler"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25464"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Bang_Bang_Classic"
     ]
   ]
 ]
