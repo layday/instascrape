@@ -16741,6 +16741,16 @@
     ]
   ],
   [
+    "DBM Voicepack LazyCrazyJoe",
+    [
+      "curse",
+      "353611"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "DBM Voicepack Mununyu (\ubb34\ub274\ub274) Korean",
     [
       "curse",
@@ -20075,6 +20085,16 @@
     [
       "curse",
       "302889"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Druidism",
+    [
+      "curse",
+      "353686"
     ],
     [
       "retail"
@@ -24468,6 +24488,16 @@
     [
       "curse",
       "344440"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "FindGUID",
+    [
+      "curse",
+      "353674"
     ],
     [
       "classic"
@@ -36182,6 +36212,16 @@
     ]
   ],
   [
+    "KreicUI",
+    [
+      "curse",
+      "353676"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Krosus Assist",
     [
       "curse",
@@ -44132,6 +44172,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Movable Bags",
+    [
+      "curse",
+      "353636"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -70001,17 +70051,6 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles",
-    [
-      "curse",
-      "296474"
-    ],
-    [
-      "retail",
-      "classic"
-    ]
-  ],
-  [
     "WoWpoPolsku-Quests (cont. Quest Translator)",
     [
       "curse",
@@ -85844,7 +85883,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles 80205 2019-11-06",
+    "WoWpoPolsku-Bubbles 80205 2019-12-04",
     [
       "wowi",
       "24692"
@@ -89962,7 +90001,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles Classic 2019-11-07",
+    "WoWpoPolsku-Bubbles Classic 2019-12-04",
     [
       "wowi",
       "25189"
@@ -92521,6 +92560,16 @@
     [
       "wowi",
       "25463"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Bang! Bang! Classic",
+    [
+      "wowi",
+      "25464"
     ],
     [
       "classic"
