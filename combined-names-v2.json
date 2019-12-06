@@ -25056,6 +25056,16 @@
     ]
   ],
   [
+    "FlightDanger-Classic",
+    [
+      "curse",
+      "353684"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "FlightHUD",
     [
       "curse",
@@ -26918,6 +26928,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GearQuipper",
+    [
+      "curse",
+      "353762"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -56778,6 +56798,16 @@
     ]
   ],
   [
+    "Share Items",
+    [
+      "curse",
+      "353766"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Share The Rare (Hunter Helper)",
     [
       "curse",
@@ -65053,6 +65083,17 @@
     ]
   ],
   [
+    "Tofu",
+    [
+      "curse",
+      "353717"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "Toggle All Sound",
     [
       "curse",
@@ -70051,6 +70092,17 @@
     ]
   ],
   [
+    "WoWpoPolsku-Bubbles",
+    [
+      "curse",
+      "296474"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "WoWpoPolsku-Quests (cont. Quest Translator)",
     [
       "curse",
@@ -75035,6 +75087,16 @@
     [
       "curse",
       "15594"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "toggleObjectives",
+    [
+      "curse",
+      "353605"
     ],
     [
       "retail"
@@ -92573,6 +92635,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Dungeon Entrances",
+    [
+      "wowi",
+      "25465"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
