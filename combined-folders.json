@@ -31771,6 +31771,18 @@
   [
     [
       "curse",
+      "353684"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FlightDanger"
+    ]
+  ],
+  [
+    [
+      "curse",
       "5452"
     ],
     [
@@ -34028,6 +34040,18 @@
       "GearOptimizer_Warlock",
       "GearOptimizer_Warrior",
       "GearOptimizer"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353762"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GearQuipper"
     ]
   ],
   [
@@ -44723,8 +44747,8 @@
       "classic"
     ],
     [
-      "ChatThrottleLib",
-      "Karmarang"
+      "Karmarang",
+      "ChatThrottleLib"
     ]
   ],
   [
@@ -71800,6 +71824,18 @@
   [
     [
       "curse",
+      "353766"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ShareItems"
+    ]
+  ],
+  [
+    [
+      "curse",
       "273378"
     ],
     [
@@ -82129,6 +82165,19 @@
   [
     [
       "curse",
+      "353717"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Tofu"
+    ]
+  ],
+  [
+    [
+      "curse",
       "85760"
     ],
     [
@@ -88327,6 +88376,19 @@
     ],
     [
       "WoWpoPolsku_Books"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "296474"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "WoWpoPolsku_Bubbles"
     ]
   ],
   [
@@ -94666,6 +94728,18 @@
     ],
     [
       "tekticles"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353605"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "HideObjectives"
     ]
   ],
   [
@@ -179461,6 +179535,18 @@
     ],
     [
       "Bang_Bang_Classic"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25465"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DungeonEntrances"
     ]
   ]
 ]
