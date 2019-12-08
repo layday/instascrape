@@ -25550,6 +25550,17 @@
     ]
   ],
   [
+    "FrameRangeFade",
+    [
+      "curse",
+      "353969"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "FrameSelect",
     [
       "curse",
@@ -49843,6 +49854,16 @@
     ]
   ],
   [
+    "PortraitDamageText",
+    [
+      "curse",
+      "353970"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Post Money",
     [
       "curse",
@@ -50360,6 +50381,16 @@
     [
       "curse",
       "77415"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Profession Material Tracker",
+    [
+      "curse",
+      "353313"
     ],
     [
       "retail"
@@ -71654,7 +71685,6 @@
       "335193"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -72034,16 +72064,6 @@
     [
       "curse",
       "351482"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "aPVPName1s2s",
-    [
-      "curse",
-      "352404"
     ],
     [
       "classic"
@@ -77672,6 +77692,7 @@
       "8281"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -82669,6 +82690,16 @@
     ]
   ],
   [
+    "PartyCastingBars (Fan's Update)",
+    [
+      "wowi",
+      "23148"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AGT - Automatic Goblin Therapist",
     [
       "wowi",
@@ -82703,6 +82734,16 @@
     [
       "wowi",
       "23166"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "PortraitDamageText",
+    [
+      "wowi",
+      "23198"
     ],
     [
       "retail"
@@ -82806,6 +82847,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "FrameRangeFade",
+    [
+      "wowi",
+      "23275"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
