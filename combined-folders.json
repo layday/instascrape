@@ -32383,6 +32383,19 @@
   [
     [
       "curse",
+      "353969"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "FrameRangeFade"
+    ]
+  ],
+  [
+    [
+      "curse",
       "311935"
     ],
     [
@@ -62970,6 +62983,18 @@
   [
     [
       "curse",
+      "353970"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "PortraitDamageText"
+    ]
+  ],
+  [
+    [
+      "curse",
       "281315"
     ],
     [
@@ -63644,6 +63669,18 @@
     ],
     [
       "PLG"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353313"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ProfessionMaterialTracker"
     ]
   ],
   [
@@ -90400,7 +90437,6 @@
       "335193"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -90888,18 +90924,6 @@
     ],
     [
       "aMageSpellsReport"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "352404"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "aPVPName1s2s"
     ]
   ],
   [
@@ -100492,6 +100516,7 @@
       "8281"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -160798,7 +160823,8 @@
       "23275"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "FrameRangeFade"
