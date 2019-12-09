@@ -20564,19 +20564,6 @@
   [
     [
       "curse",
-      "318150"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "[D4KiR] D4KiRs HUD"
-    ]
-  ],
-  [
-    [
-      "curse",
       "28576"
     ],
     [
@@ -21347,6 +21334,19 @@
     ],
     [
       "DHTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "318150"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "D4KiR DHUD"
     ]
   ],
   [
@@ -28118,10 +28118,10 @@
       "97581"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "ElvUI_BenikUI_Classic"
+      "ElvUI_BenikUI"
     ]
   ],
   [
@@ -28130,10 +28130,10 @@
       "97581"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "ElvUI_BenikUI"
+      "ElvUI_BenikUI_Classic"
     ]
   ],
   [
@@ -39744,7 +39744,7 @@
       "classic"
     ],
     [
-      "[D4KiR] Healer Protection"
+      "D4KiR Healer Protection"
     ]
   ],
   [
@@ -54449,7 +54449,7 @@
       "classic"
     ],
     [
-      "[D4KiR] Missing Power"
+      "D4KiR Missing Power"
     ]
   ],
   [
