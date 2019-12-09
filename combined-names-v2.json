@@ -16387,17 +16387,6 @@
     ]
   ],
   [
-    "D4KiRs HUD",
-    [
-      "curse",
-      "318150"
-    ],
-    [
-      "retail",
-      "classic"
-    ]
-  ],
-  [
     "DArcBinds",
     [
       "curse",
@@ -17002,6 +16991,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "DHUD",
+    [
+      "curse",
+      "318150"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
