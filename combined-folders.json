@@ -25623,7 +25623,8 @@
       "34311"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "DugisGuideViewerZ"
@@ -25700,6 +25701,18 @@
     ],
     [
       "DungeonDifficulty"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354059"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DungeonEntrances"
     ]
   ],
   [
@@ -50430,6 +50443,18 @@
   [
     [
       "curse",
+      "354087"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LootTables"
+    ]
+  ],
+  [
+    [
+      "curse",
       "22783"
     ],
     [
@@ -50510,6 +50535,19 @@
     ],
     [
       "Lootlog"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "349656"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Lootr"
     ]
   ],
   [
@@ -59973,6 +60011,18 @@
   [
     [
       "curse",
+      "354101"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "OverheadCombo"
+    ]
+  ],
+  [
+    [
+      "curse",
       "79864"
     ],
     [
@@ -60714,6 +60764,7 @@
       "338690"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -66646,6 +66697,18 @@
   [
     [
       "curse",
+      "354100"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "RaidTrapAudioLibrary"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20921"
     ],
     [
@@ -69219,6 +69282,18 @@
   [
     [
       "curse",
+      "354113"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ReturnTargetIconBar"
+    ]
+  ],
+  [
+    [
+      "curse",
       "17018"
     ],
     [
@@ -70228,6 +70303,30 @@
     ],
     [
       "SRZ_IgnoreU"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "18962"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SSPVP3"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "18962"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "SSPVP"
     ]
   ],
   [
@@ -75902,6 +76001,18 @@
     ],
     [
       "retail"
+    ],
+    [
+      "SpellBinding"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353778"
+    ],
+    [
+      "classic"
     ],
     [
       "SpellBinding"
@@ -90929,6 +91040,18 @@
   [
     [
       "curse",
+      "352404"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "aPVPName1s2s"
+    ]
+  ],
+  [
+    [
+      "curse",
       "4938"
     ],
     [
@@ -91759,6 +91882,30 @@
     ],
     [
       "dingshot"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "28081"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Drash_QuestCompleteSound"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "28081"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DrashQuestCompleteSound"
     ]
   ],
   [
@@ -143836,7 +143983,7 @@
       "20540"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "DugisGuideViewerZ"
@@ -179077,6 +179224,7 @@
       "classic"
     ],
     [
+      "Queso",
       "Immersion"
     ]
   ],
