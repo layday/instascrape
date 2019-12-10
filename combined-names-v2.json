@@ -20179,7 +20179,8 @@
       "34311"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -20238,6 +20239,16 @@
     [
       "curse",
       "86007"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Dungeon Entrances",
+    [
+      "curse",
+      "354059"
     ],
     [
       "retail"
@@ -39962,6 +39973,16 @@
     ]
   ],
   [
+    "LootTables Classic",
+    [
+      "curse",
+      "354087"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "LootTrain",
     [
       "curse",
@@ -40020,6 +40041,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Lootr",
+    [
+      "curse",
+      "349656"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -47544,6 +47576,16 @@
     ]
   ],
   [
+    "OverheadCombo",
+    [
+      "curse",
+      "354101"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Overkill's Automaton",
     [
       "curse",
@@ -48156,6 +48198,7 @@
       "338690"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -52708,6 +52751,16 @@
     ]
   ],
   [
+    "Raid Trap Audio Library",
+    [
+      "curse",
+      "354100"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "RaidAchievement",
     [
       "curse",
@@ -54701,6 +54754,16 @@
     ]
   ],
   [
+    "Return Target Icon Bar",
+    [
+      "curse",
+      "354113"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Revelation",
     [
       "curse",
@@ -55531,6 +55594,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "SSPVP",
+    [
+      "curse",
+      "18962"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -60027,6 +60101,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "SpellBinding Classic",
+    [
+      "curse",
+      "353778"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -72070,6 +72154,16 @@
     ]
   ],
   [
+    "aPVPName1s2s",
+    [
+      "curse",
+      "352404"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "ag_UnitFrames",
     [
       "curse",
@@ -72730,6 +72824,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "drashQuestCompleteSound",
+    [
+      "curse",
+      "28081"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -75956,26 +76061,6 @@
     ]
   ],
   [
-    "ElvUI AuraBars Movers",
-    [
-      "tukui",
-      "62"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ElvUI CastBarOverlay",
-    [
-      "tukui",
-      "13"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "ElvUI ChannelAlerts",
     [
       "tukui",
@@ -76056,16 +76141,6 @@
     ]
   ],
   [
-    "ElvUI SplitBag",
-    [
-      "tukui",
-      "113"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "ElvUI UnitFramePlugin",
     [
       "tukui",
@@ -76080,16 +76155,6 @@
     [
       "tukui",
       "81"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "ElvUI VisualAuraTimers",
-    [
-      "tukui",
-      "20"
     ],
     [
       "retail"
@@ -76320,16 +76385,6 @@
     [
       "tukui",
       "6"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "LookingForGroup",
-    [
-      "tukui",
-      "68"
     ],
     [
       "retail"
@@ -81063,7 +81118,7 @@
       "20540"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
