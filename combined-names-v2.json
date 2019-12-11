@@ -5589,6 +5589,7 @@
       "334593"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -7022,6 +7023,7 @@
       "350616"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -8454,7 +8456,8 @@
       "292583"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -11032,6 +11035,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "BuffCheck3",
+    [
+      "curse",
+      "354300"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -13716,6 +13729,16 @@
     ]
   ],
   [
+    "Classic Profession Filter",
+    [
+      "curse",
+      "353572"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Classic Quest Chinese Translator",
     [
       "curse",
@@ -14015,16 +14038,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "ClassicProfessionFilter",
-    [
-      "curse",
-      "353572"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -22726,6 +22739,7 @@
       "340120"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -24431,6 +24445,7 @@
       "333490"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -27203,6 +27218,16 @@
     ]
   ],
   [
+    "Get To The Point",
+    [
+      "curse",
+      "18997"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "GetDKP for EQdkp-Plus",
     [
       "curse",
@@ -27531,7 +27556,6 @@
       "338644"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -35400,6 +35424,16 @@
     ],
     [
       "retail",
+      "classic"
+    ]
+  ],
+  [
+    "KaymonsCloset",
+    [
+      "curse",
+      "354296"
+    ],
+    [
       "classic"
     ]
   ],
@@ -55850,6 +55884,16 @@
     ]
   ],
   [
+    "SavedInstancesSync",
+    [
+      "curse",
+      "301716"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Say CC",
     [
       "curse",
@@ -58690,6 +58734,7 @@
       "339820"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -60110,6 +60155,7 @@
       "353778"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -66594,6 +66640,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TranqRotate",
+    [
+      "curse",
+      "353296"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -78443,8 +78499,7 @@
       "10440"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -79301,7 +79356,8 @@
       "13797"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -88279,7 +88335,7 @@
     ]
   ],
   [
-    "Modern AlternatePowerBar",
+    "Classic AlternatePowerBar",
     [
       "wowi",
       "24978"
@@ -89926,7 +89982,7 @@
       "25159"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -90066,7 +90122,7 @@
       "25176"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -90156,7 +90212,7 @@
       "25185"
     ],
     [
-      "classic"
+      "retail"
     ]
   ],
   [
