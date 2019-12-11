@@ -7029,6 +7029,7 @@
       "334593"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -8776,6 +8777,7 @@
       "350616"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -10560,7 +10562,8 @@
       "292583"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Bing"
@@ -13843,6 +13846,18 @@
     ],
     [
       "BuffBroker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354300"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuffCheck3"
     ]
   ],
   [
@@ -17227,6 +17242,18 @@
   [
     [
       "curse",
+      "353572"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicProfessionFilter"
+    ]
+  ],
+  [
+    [
+      "curse",
       "338617"
     ],
     [
@@ -17586,18 +17613,6 @@
     ],
     [
       "ClassicLevelUp"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "353572"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "ClassicProfessionFilter"
     ]
   ],
   [
@@ -28872,6 +28887,7 @@
       "340120"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -31016,6 +31032,7 @@
       "333490"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -34410,6 +34427,18 @@
   [
     [
       "curse",
+      "18997"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "GetToThePoint"
+    ]
+  ],
+  [
+    [
+      "curse",
       "1447"
     ],
     [
@@ -34859,7 +34888,6 @@
       "338644"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -44816,6 +44844,18 @@
       "LibDeflate",
       "Ace3",
       "LibBrazier"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354296"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "KaymonsCloset"
     ]
   ],
   [
@@ -70311,18 +70351,7 @@
       "18962"
     ],
     [
-      "retail"
-    ],
-    [
-      "SSPVP3"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "18962"
-    ],
-    [
+      "retail",
       "classic"
     ],
     [
@@ -70618,6 +70647,18 @@
     ],
     [
       "SavedInstances"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "301716"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "SavedInstancesSync"
     ]
   ],
   [
@@ -74205,6 +74246,7 @@
       "339820"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -76012,6 +76054,7 @@
       "353778"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -84003,6 +84046,18 @@
     ],
     [
       "TrainingGrounds"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "353296"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TranqRotate"
     ]
   ],
   [
@@ -105082,8 +105137,7 @@
       "10440"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "NugRunning",
@@ -112970,7 +113024,8 @@
       "13797"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Bing"
@@ -157152,7 +157207,8 @@
     ],
     [
       "oUF",
-      "oUF_Bob"
+      "oUF_Bob",
+      "!Beautycase"
     ]
   ],
   [
@@ -174232,7 +174288,7 @@
       "classic"
     ],
     [
-      "ModernAlternatePowerBar"
+      "ClassicAlternatePowerBar"
     ]
   ],
   [
@@ -176234,7 +176290,7 @@
       "25159"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "AuctionDB"
@@ -176402,7 +176458,7 @@
       "25176"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "FieldGuide"
@@ -176510,7 +176566,7 @@
       "25185"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "AtlasLootClassic",
@@ -179224,8 +179280,8 @@
       "classic"
     ],
     [
-      "Queso",
-      "Immersion"
+      "Immersion",
+      "Queso"
     ]
   ],
   [
