@@ -34734,6 +34734,16 @@
     ]
   ],
   [
+    "JPostal",
+    [
+      "curse",
+      "354337"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "JSHB 4 - Formerly JS' Hunter Bar",
     [
       "curse",
@@ -37098,7 +37108,8 @@
       "298842"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37118,7 +37129,8 @@
       "94855"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37138,7 +37150,8 @@
       "304659"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -37158,7 +37171,8 @@
       "324297"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -44641,17 +44655,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Musician",
-    [
-      "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
     ]
   ],
   [
@@ -90212,7 +90215,7 @@
       "25185"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
