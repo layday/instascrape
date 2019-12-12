@@ -25568,12 +25568,12 @@
       "24230"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "DuelResponse_Blacklist_Classic",
-      "DuelResponse_Classic",
-      "DuelResponse_Whisper_Classic"
+      "DuelResponse_Blacklist",
+      "DuelResponse_Whisper",
+      "DuelResponse"
     ]
   ],
   [
@@ -25582,12 +25582,12 @@
       "24230"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "DuelResponse_Blacklist",
-      "DuelResponse_Whisper",
-      "DuelResponse"
+      "DuelResponse_Blacklist_Classic",
+      "DuelResponse_Classic",
+      "DuelResponse_Whisper_Classic"
     ]
   ],
   [
@@ -43962,6 +43962,18 @@
   [
     [
       "curse",
+      "354337"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "JPostal"
+    ]
+  ],
+  [
+    [
+      "curse",
       "28018"
     ],
     [
@@ -46966,7 +46978,8 @@
       "298842"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Leatrix_Maps"
@@ -46990,7 +47003,8 @@
       "94855"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Leatrix_Plus"
@@ -47014,7 +47028,8 @@
       "304659"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Leatrix_Sounds"
@@ -47038,7 +47053,8 @@
       "324297"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Leatrix_Tunes"
@@ -56328,19 +56344,6 @@
     ],
     [
       "mdgz"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "290830"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Musician"
     ]
   ],
   [
@@ -176566,7 +176569,7 @@
       "25185"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "AtlasLootClassic",
