@@ -8943,6 +8943,18 @@
   [
     [
       "curse",
+      "354439"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BattleInfo"
+    ]
+  ],
+  [
+    [
+      "curse",
       "296059"
     ],
     [
@@ -9995,24 +10007,6 @@
       "2382"
     ],
     [
-      "classic"
-    ],
-    [
-      "BigWigs_Core",
-      "BigWigs_Options",
-      "BigWigs_Plugins",
-      "BigWigs_Onyxia",
-      "BigWigs_MoltenCore",
-      "BigWigs_World",
-      "BigWigs"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "2382"
-    ],
-    [
       "retail"
     ],
     [
@@ -10025,6 +10019,24 @@
       "BigWigs_CrucibleOfStorms",
       "BigWigs_EternalPalace",
       "BigWigs_Nyalotha",
+      "BigWigs"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "2382"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BigWigs_Core",
+      "BigWigs_Options",
+      "BigWigs_Plugins",
+      "BigWigs_Onyxia",
+      "BigWigs_MoltenCore",
+      "BigWigs_World",
       "BigWigs"
     ]
   ],
@@ -13926,7 +13938,8 @@
       "15593"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Buffet"
@@ -17212,7 +17225,8 @@
       "classic"
     ],
     [
-      "ClassicHeals"
+      "QoL_ClassicHeals",
+      "QoL_Core"
     ]
   ],
   [
@@ -17613,6 +17627,18 @@
     ],
     [
       "ClassicLevelUp"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354484"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicPremade"
     ]
   ],
   [
@@ -31258,6 +31284,18 @@
   [
     [
       "curse",
+      "354488"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Fishbringer"
+    ]
+  ],
+  [
+    [
+      "curse",
       "13844"
     ],
     [
@@ -41479,18 +41517,6 @@
   [
     [
       "curse",
-      "352067"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "HonorTracker"
-    ]
-  ],
-  [
-    [
-      "curse",
       "2526"
     ],
     [
@@ -41517,6 +41543,18 @@
     [
       "curse",
       "351773"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "HonorTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "352067"
     ],
     [
       "classic"
@@ -44291,6 +44329,18 @@
   [
     [
       "curse",
+      "354424"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "JoinInTheBattle"
+    ]
+  ],
+  [
+    [
+      "curse",
       "309815"
     ],
     [
@@ -44813,8 +44863,8 @@
       "classic"
     ],
     [
-      "Karmarang",
-      "ChatThrottleLib"
+      "ChatThrottleLib",
+      "Karmarang"
     ]
   ],
   [
@@ -46978,8 +47028,7 @@
       "298842"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "Leatrix_Maps"
@@ -47003,8 +47052,7 @@
       "94855"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "Leatrix_Plus"
@@ -47028,8 +47076,7 @@
       "304659"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "Leatrix_Sounds"
@@ -47053,8 +47100,7 @@
       "324297"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "Leatrix_Tunes"
@@ -49902,6 +49948,19 @@
     ],
     [
       "LocalWhispers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "348989"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QoL_LocalWhispers",
+      "QoL_Core"
     ]
   ],
   [
@@ -56344,6 +56403,19 @@
     ],
     [
       "mdgz"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "Musician"
     ]
   ],
   [
@@ -67255,7 +67327,8 @@
       "279257"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "RaiderIO_DB_EU_A",
@@ -74237,7 +74310,8 @@
       "14660"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Skillet"
@@ -82080,6 +82154,18 @@
   [
     [
       "curse",
+      "354443"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "TitanConquestWeekly"
+    ]
+  ],
+  [
+    [
+      "curse",
       "87625"
     ],
     [
@@ -83681,7 +83767,8 @@
       "28215"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "TradeSkillDW"
@@ -89976,7 +90063,8 @@
       "27241"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "xyiremod"
@@ -90490,6 +90578,18 @@
     ],
     [
       "ZkrattGargoyles"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354266"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ZodsRaidAssign"
     ]
   ],
   [
@@ -97108,7 +97208,7 @@
       "5086"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "BigWigs",
@@ -105140,7 +105240,7 @@
       "10440"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
       "NugRunning",
@@ -173737,7 +173837,7 @@
       "24924"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "RealMobHealth"
@@ -175398,6 +175498,7 @@
       "25085"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -176180,7 +176281,7 @@
       "25150"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "BagFreeSpaceCounter"
