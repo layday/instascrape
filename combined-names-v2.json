@@ -7158,6 +7158,16 @@
     ]
   ],
   [
+    "BattleInfo",
+    [
+      "curse",
+      "354439"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BattlePetCageMatch",
     [
       "curse",
@@ -11104,7 +11114,8 @@
       "15593"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -14038,6 +14049,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ClassicPremade",
+    [
+      "curse",
+      "354484"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -24630,6 +24651,16 @@
     ]
   ],
   [
+    "Fishbringer (EN/DE/RU)",
+    [
+      "curse",
+      "354488"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "FishermansFriend",
     [
       "curse",
@@ -32748,16 +32779,6 @@
     ]
   ],
   [
-    "Honor DR Tracker",
-    [
-      "curse",
-      "352067"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Honor Kills Counter",
     [
       "curse",
@@ -32783,6 +32804,16 @@
     [
       "curse",
       "351773"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "Honor Tracking Statistics",
+    [
+      "curse",
+      "352067"
     ],
     [
       "classic"
@@ -34974,6 +35005,16 @@
     ]
   ],
   [
+    "Join In The Battle",
+    [
+      "curse",
+      "354424"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Join Timer",
     [
       "curse",
@@ -37108,8 +37149,7 @@
       "298842"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -37129,8 +37169,7 @@
       "94855"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -37150,8 +37189,7 @@
       "304659"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -37171,8 +37209,7 @@
       "324297"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -44658,6 +44695,17 @@
     ]
   ],
   [
+    "Musician",
+    [
+      "curse",
+      "290830"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "MusicianList",
     [
       "curse",
@@ -45619,7 +45667,7 @@
     ]
   ],
   [
-    "Naxx Chat Alarm LFG LFM Auto Post+Chat Filter ",
+    "Naxx Chat Alarm LFG LFM Post+Chat Filter ",
     [
       "curse",
       "345449"
@@ -53146,7 +53194,8 @@
       "279257"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -58727,7 +58776,8 @@
       "14660"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -65014,6 +65064,16 @@
     ]
   ],
   [
+    "Titan Panel [Weekly Conquest]",
+    [
+      "curse",
+      "354443"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Titan Panel [Work Orders] (BETA)",
     [
       "curse",
@@ -66350,7 +66410,8 @@
       "28215"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -71343,7 +71404,8 @@
       "27241"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -71729,6 +71791,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Zods Raid Assign",
+    [
+      "curse",
+      "354266"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -77247,7 +77319,7 @@
       "5086"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -78502,7 +78574,7 @@
       "10440"
     ],
     [
-      "retail"
+      "classic"
     ]
   ],
   [
@@ -87887,16 +87959,6 @@
     ]
   ],
   [
-    "Real Mob Health",
-    [
-      "wowi",
-      "24924"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "ClassicCastbars",
     [
       "wowi",
@@ -89263,6 +89325,7 @@
       "25085"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -89883,16 +89946,6 @@
     [
       "wowi",
       "25149"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "BagFreeSpaceCounter",
-    [
-      "wowi",
-      "25150"
     ],
     [
       "classic"
