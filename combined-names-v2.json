@@ -5553,6 +5553,16 @@
     ]
   ],
   [
+    "AzeriteLess",
+    [
+      "curse",
+      "354529"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "AzeritePowerWeights",
     [
       "curse",
@@ -7023,7 +7033,6 @@
       "350616"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -37987,6 +37996,16 @@
     ]
   ],
   [
+    "LibClassicSpellActionCount",
+    [
+      "curse",
+      "354607"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "LibColors-1.0",
     [
       "curse",
@@ -39078,6 +39097,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "LibTotemInfo",
+    [
+      "curse",
+      "354600"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -90292,16 +90321,6 @@
     ]
   ],
   [
-    "NDui Classic",
-    [
-      "wowi",
-      "25188"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "WoWpoPolsku-Bubbles Classic 2019-12-04",
     [
       "wowi",
@@ -91535,16 +91554,6 @@
     ]
   ],
   [
-    "Booty Bay Gazette",
-    [
-      "wowi",
-      "25320"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "BuyEmAll Classic",
     [
       "wowi",
@@ -92048,16 +92057,6 @@
     ]
   ],
   [
-    "ClassicBlacklist",
-    [
-      "wowi",
-      "25372"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "NFG - TargetHelper",
     [
       "wowi",
@@ -92462,17 +92461,6 @@
     ]
   ],
   [
-    "Patch for Immersion (Queso)",
-    [
-      "wowi",
-      "25419"
-    ],
-    [
-      "retail",
-      "classic"
-    ]
-  ],
-  [
     "DurabilityStatus Classic",
     [
       "wowi",
@@ -92827,16 +92815,6 @@
     ]
   ],
   [
-    "BastionEPGP",
-    [
-      "wowi",
-      "25460"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "LibAddonUtils",
     [
       "wowi",
@@ -92884,6 +92862,26 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GnomishVendorShrinker-1.0-patch",
+    [
+      "wowi",
+      "25466"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "AV Group Queue",
+    [
+      "wowi",
+      "25467"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
