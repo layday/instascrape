@@ -6990,6 +6990,18 @@
   [
     [
       "curse",
+      "354529"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "AzeriteLess"
+    ]
+  ],
+  [
+    [
+      "curse",
       "301898"
     ],
     [
@@ -8777,7 +8789,6 @@
       "350616"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -48039,6 +48050,18 @@
   [
     [
       "curse",
+      "354607"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LibClassicSpellActionCount-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
       "83930"
     ],
     [
@@ -49380,6 +49403,18 @@
     ],
     [
       "LibToast-1.0"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354600"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "!LibTotemInfo"
     ]
   ],
   [
@@ -64655,11 +64690,11 @@
       "319533"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "Quafe_Libs",
-      "Quafe_MEKA",
+      "Quafe_Libs_Classic",
+      "Quafe_MEKA_Classic",
       "Quafe"
     ]
   ],
@@ -64669,11 +64704,11 @@
       "319533"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "Quafe_Libs_Classic",
-      "Quafe_MEKA_Classic",
+      "Quafe_Libs",
+      "Quafe_MEKA",
       "Quafe"
     ]
   ],
@@ -176713,7 +176748,7 @@
       "25188"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Interface"
@@ -178250,7 +178285,7 @@
       "25320"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "BootyBayGazette"
@@ -178882,7 +178917,7 @@
       "25372"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "ClassicBlacklist"
@@ -179377,20 +179412,6 @@
   [
     [
       "wowi",
-      "25419"
-    ],
-    [
-      "retail",
-      "classic"
-    ],
-    [
-      "Immersion",
-      "Queso"
-    ]
-  ],
-  [
-    [
-      "wowi",
       "25420"
     ],
     [
@@ -179841,7 +179862,7 @@
       "25460"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "BastionEPGP"
@@ -179905,6 +179926,30 @@
     ],
     [
       "DungeonEntrances"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25466"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GnomishVendorShrinker"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25467"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AVGroupQueue"
     ]
   ]
 ]
