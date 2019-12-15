@@ -37680,7 +37680,8 @@
       "26499"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -39599,7 +39600,8 @@
       "87572"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -39763,16 +39765,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Looking For Group Classic",
-    [
-      "curse",
-      "342800"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -44746,6 +44738,16 @@
     ]
   ],
   [
+    "Mute Annoying WoW Sounds",
+    [
+      "curse",
+      "29869"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Mute Ban-Lu",
     [
       "curse",
@@ -46812,7 +46814,8 @@
       "4216"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -73104,7 +73107,8 @@
       "93749"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -74323,7 +74327,8 @@
       "27386"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -79890,16 +79895,6 @@
     ]
   ],
   [
-    "tullaRange",
-    [
-      "wowi",
-      "15636"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "xanDebuffTimers",
     [
       "wowi",
@@ -80247,16 +80242,6 @@
     [
       "wowi",
       "17585"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "tullaCC",
-    [
-      "wowi",
-      "17602"
     ],
     [
       "retail"
@@ -82919,16 +82904,6 @@
     [
       "wowi",
       "23151"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "tullaCC Beta",
-    [
-      "wowi",
-      "23157"
     ],
     [
       "retail"
@@ -87928,16 +87903,6 @@
     ]
   ],
   [
-    "Dominos Classic",
-    [
-      "wowi",
-      "24918"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "VuhDo Classic",
     [
       "wowi",
@@ -88785,16 +88750,6 @@
     [
       "wowi",
       "25024"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "AbyssUI Classic",
-    [
-      "wowi",
-      "25026"
     ],
     [
       "classic"
@@ -90291,16 +90246,6 @@
     ]
   ],
   [
-    "AtlasLootClassic",
-    [
-      "wowi",
-      "25185"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Quartz Classic",
     [
       "wowi",
@@ -90565,16 +90510,6 @@
     [
       "wowi",
       "25215"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Sell Price per unit (Classic)",
-    [
-      "wowi",
-      "25216"
     ],
     [
       "classic"
@@ -92839,16 +92774,6 @@
     [
       "wowi",
       "25463"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Bang! Bang! Classic",
-    [
-      "wowi",
-      "25464"
     ],
     [
       "classic"
