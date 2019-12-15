@@ -24113,20 +24113,8 @@
       "61284"
     ],
     [
+      "retail",
       "classic"
-    ],
-    [
-      "Details_TinyThreat",
-      "Details"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "61284"
-    ],
-    [
-      "retail"
     ],
     [
       "Details_DataStorage",
@@ -24135,21 +24123,6 @@
       "Details_Streamer",
       "Details_TinyThreat",
       "Details_Vanguard",
-      "Details"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "61284"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "Details_DataStorage",
-      "Details_Streamer",
-      "Details_TinyThreat",
       "Details"
     ]
   ],
@@ -47667,7 +47640,8 @@
       "26499"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "LibActionButton-1.0"
@@ -50004,7 +49978,8 @@
       "87572"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "LocalizedGroups"
@@ -50203,18 +50178,6 @@
     ],
     [
       "LongStrangeTrip"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "342800"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "LFG113"
     ]
   ],
   [
@@ -56469,6 +56432,18 @@
   [
     [
       "curse",
+      "29869"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MuteAnnoyingWoWSounds"
+    ]
+  ],
+  [
+    [
+      "curse",
       "326625"
     ],
     [
@@ -59054,7 +59029,8 @@
       "4216"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "NumPadBar"
@@ -92227,7 +92203,8 @@
       "93749"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "expr"
@@ -93715,7 +93692,8 @@
       "27386"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "myHonor"
@@ -173782,7 +173760,7 @@
       "24918"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Dominos",
@@ -174860,7 +174838,7 @@
       "25026"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Interface"
@@ -176705,7 +176683,7 @@
       "25185"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "AtlasLootClassic",
@@ -177068,7 +177046,7 @@
       "25216"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "SellPricePerUnit"
@@ -179910,7 +179888,7 @@
       "25464"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Bang_Bang_Classic"
