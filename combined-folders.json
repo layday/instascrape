@@ -13814,6 +13814,18 @@
   [
     [
       "curse",
+      "354613"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BuffDuty"
+    ]
+  ],
+  [
+    [
+      "curse",
       "101032"
     ],
     [
@@ -27987,7 +27999,8 @@
       "39618"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "ElvUI_SLE"
@@ -34452,7 +34465,8 @@
       "18997"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GetToThePoint"
@@ -66091,6 +66105,7 @@
       "332955"
     ],
     [
+      "retail",
       "classic"
     ],
     [
