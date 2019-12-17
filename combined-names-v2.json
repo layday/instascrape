@@ -597,6 +597,16 @@
     ]
   ],
   [
+    "AVQ",
+    [
+      "curse",
+      "354815"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Aanye Mail",
     [
       "curse",
@@ -2929,6 +2939,16 @@
     [
       "curse",
       "100711"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Archivist",
+    [
+      "curse",
+      "354259"
     ],
     [
       "retail"
@@ -7254,6 +7274,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Battleground Taskbar Notifier",
+    [
+      "curse",
+      "354748"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -17722,6 +17752,16 @@
     ]
   ],
   [
+    "DarkNameplates",
+    [
+      "curse",
+      "354937"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DarkSoulsSCT",
     [
       "curse",
@@ -20292,16 +20332,6 @@
     [
       "curse",
       "86007"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Dungeon Entrances",
-    [
-      "curse",
-      "354059"
     ],
     [
       "retail"
@@ -24788,6 +24818,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Fix Totem Mods",
+    [
+      "curse",
+      "354767"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -54368,6 +54408,17 @@
     ]
   ],
   [
+    "ReloadNow",
+    [
+      "curse",
+      "354781"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "ReloadUI Button",
     [
       "curse",
@@ -58863,7 +58914,8 @@
       "14661"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -61769,16 +61821,6 @@
     [
       "curse",
       "256545"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Super Duper Macro",
-    [
-      "curse",
-      "319986"
     ],
     [
       "retail"
@@ -65652,6 +65694,17 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "TomCat's Tours: PvP",
+    [
+      "curse",
+      "320699"
+    ],
+    [
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -72451,6 +72504,16 @@
     ]
   ],
   [
+    "autoScaleRaid",
+    [
+      "curse",
+      "354848"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "aux",
     [
       "curse",
@@ -75310,6 +75373,16 @@
     [
       "curse",
       "349175"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "tdBag2_Facade",
+    [
+      "curse",
+      "354831"
     ],
     [
       "classic"
@@ -79580,16 +79653,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Aptechka",
-    [
-      "wowi",
-      "14339"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -89569,16 +89632,6 @@
     ]
   ],
   [
-    "TextHUD Classic",
-    [
-      "wowi",
-      "25111"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "XpCounter Classic",
     [
       "wowi",
@@ -91122,16 +91175,6 @@
     ]
   ],
   [
-    "Aiue's Quest Tracker",
-    [
-      "wowi",
-      "25280"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Puggle",
     [
       "wowi",
@@ -91316,16 +91359,6 @@
     [
       "wowi",
       "25301"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Friend Color Classic",
-    [
-      "wowi",
-      "25302"
     ],
     [
       "classic"
