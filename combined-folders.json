@@ -728,6 +728,18 @@
   [
     [
       "curse",
+      "354815"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AVQ"
+    ]
+  ],
+  [
+    [
+      "curse",
       "53302"
     ],
     [
@@ -3660,6 +3672,18 @@
     ],
     [
       "ARB"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354259"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Archivist"
     ]
   ],
   [
@@ -9057,6 +9081,18 @@
     ],
     [
       "BGRadio"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354748"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BattlegroundNotifier"
     ]
   ],
   [
@@ -22295,6 +22331,18 @@
   [
     [
       "curse",
+      "354937"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DarkNameplates"
+    ]
+  ],
+  [
+    [
+      "curse",
       "283611"
     ],
     [
@@ -24141,6 +24189,21 @@
   [
     [
       "curse",
+      "61284"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Details_DataStorage",
+      "Details_Streamer",
+      "Details_TinyThreat",
+      "Details"
+    ]
+  ],
+  [
+    [
+      "curse",
       "338524"
     ],
     [
@@ -25738,18 +25801,6 @@
     ],
     [
       "DungeonDifficulty"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "354059"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "DungeonEntrances"
     ]
   ],
   [
@@ -31420,6 +31471,18 @@
     ],
     [
       "Fiveinarow"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354767"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "TotemModFix"
     ]
   ],
   [
@@ -68780,6 +68843,19 @@
   [
     [
       "curse",
+      "354781"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "ReloadNow"
+    ]
+  ],
+  [
+    [
+      "curse",
       "324465"
     ],
     [
@@ -74386,7 +74462,8 @@
       "14661"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Skinner"
@@ -78001,18 +78078,6 @@
     ],
     [
       "Sunrise_Sunset"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "319986"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "SuperDuperMacro"
     ]
   ],
   [
@@ -82829,6 +82894,19 @@
     ],
     [
       "TomCats-LunarFestival"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "320699"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "TomCats-PvP"
     ]
   ],
   [
@@ -91371,6 +91449,18 @@
   [
     [
       "curse",
+      "354848"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "autoRaidScale"
+    ]
+  ],
+  [
+    [
+      "curse",
       "339258"
     ],
     [
@@ -94989,6 +95079,18 @@
     [
       "BagBrother",
       "tdBag2"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354831"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "tdBag2_Facade"
     ]
   ],
   [
@@ -114297,7 +114399,7 @@
       "14339"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "Aptechka",
@@ -175850,7 +175952,7 @@
       "25111"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "TextHUD",
@@ -177821,7 +177923,7 @@
       "25280"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "AQT"
@@ -178061,7 +178163,7 @@
       "25302"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "FriendColor"
@@ -179943,6 +180045,18 @@
     ],
     [
       "AVGroupQueue"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25468"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ImprovedBlizzardUI_Classic"
     ]
   ]
 ]
