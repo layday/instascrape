@@ -2274,6 +2274,18 @@
   [
     [
       "curse",
+      "353141"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AdventureJournal2"
+    ]
+  ],
+  [
+    [
+      "curse",
       "304629"
     ],
     [
@@ -2917,6 +2929,18 @@
     ],
     [
       "Ailo"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354628"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AmakHealsTextures"
     ]
   ],
   [
@@ -7324,6 +7348,18 @@
   [
     [
       "curse",
+      "355024"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BGNumbers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "85219"
     ],
     [
@@ -9114,6 +9150,18 @@
     ],
     [
       "retail"
+    ],
+    [
+      "BattlegroundTargets"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "354766"
+    ],
+    [
+      "classic"
     ],
     [
       "BattlegroundTargets"
@@ -18448,6 +18496,18 @@
   [
     [
       "curse",
+      "355120"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CombatCritTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "69834"
     ],
     [
@@ -25806,6 +25866,18 @@
   [
     [
       "curse",
+      "354981"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DungeonEntrances"
+    ]
+  ],
+  [
+    [
+      "curse",
       "337027"
     ],
     [
@@ -31482,7 +31554,7 @@
       "classic"
     ],
     [
-      "TotemModFix"
+      "!TotemModFix"
     ]
   ],
   [
@@ -39813,13 +39885,16 @@
     [
       "HealBot_br",
       "HealBot_cn",
+      "HealBot_Data",
       "HealBot_de",
+      "HealBot_en",
       "HealBot_es",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
       "HealBot_it",
       "HealBot_kr",
+      "HealBot_Options",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw",
@@ -40334,7 +40409,8 @@
       "103143"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "HeroLib",
@@ -42602,6 +42678,18 @@
     ],
     [
       "ImprovedBlizzardUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355022"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ImprovedBlizzardUI_Classic"
     ]
   ],
   [
@@ -65256,6 +65344,30 @@
   [
     [
       "curse",
+      "355055"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QuestHerald-Quests-Part-I"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355056"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QuestHerald-Quests-Part-II"
+    ]
+  ],
+  [
+    [
+      "curse",
       "303976"
     ],
     [
@@ -76731,6 +76843,18 @@
     ],
     [
       "retail"
+    ],
+    [
+      "Stackpack"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355111"
+    ],
+    [
+      "classic"
     ],
     [
       "Stackpack"
@@ -89982,6 +90106,19 @@
   [
     [
       "curse",
+      "355071"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "XckMasterLootAdvanced"
+    ]
+  ],
+  [
+    [
+      "curse",
       "35300"
     ],
     [
@@ -95366,6 +95503,7 @@
       "338631"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -98101,13 +98239,16 @@
       "HealBot",
       "HealBot_br",
       "HealBot_cn",
+      "HealBot_Data",
       "HealBot_de",
+      "HealBot_en",
       "HealBot_es",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
       "HealBot_it",
       "HealBot_kr",
+      "HealBot_Options",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw"
@@ -144271,7 +144412,7 @@
       "20540"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "DugisGuideViewerZ"
@@ -177241,13 +177382,16 @@
       "HealBot",
       "HealBot_br",
       "HealBot_cn",
+      "HealBot_Data",
       "HealBot_de",
+      "HealBot_en",
       "HealBot_es",
       "HealBot_fr",
       "HealBot_gr",
       "HealBot_hu",
       "HealBot_it",
       "HealBot_kr",
+      "HealBot_Options",
       "HealBot_ru",
       "HealBot_Tips",
       "HealBot_tw"
@@ -179703,7 +179847,7 @@
       "25436"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "MessageClassifier"
