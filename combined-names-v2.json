@@ -1838,6 +1838,16 @@
     ]
   ],
   [
+    "Adventure Journal 2",
+    [
+      "curse",
+      "353141"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AdventureGuideBosses",
     [
       "curse",
@@ -2328,6 +2338,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "AmakHealsTextures",
+    [
+      "curse",
+      "354628"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -5825,6 +5845,16 @@
     ]
   ],
   [
+    "BG Numbers",
+    [
+      "curse",
+      "355024"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BGCallouts",
     [
       "curse",
@@ -7304,6 +7334,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "BattlegroundTargets Classic",
+    [
+      "curse",
+      "354766"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -14715,6 +14755,16 @@
     ]
   ],
   [
+    "Combat Crit Tracker",
+    [
+      "curse",
+      "355120"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Combat Log Remover",
     [
       "curse",
@@ -20332,6 +20382,16 @@
     [
       "curse",
       "86007"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "Dungeon Entrances",
+    [
+      "curse",
+      "354981"
     ],
     [
       "retail"
@@ -31863,7 +31923,8 @@
       "103143"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -33656,6 +33717,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Improved Blizzard UI (Classic Edition)",
+    [
+      "curse",
+      "355022"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -51631,6 +51702,26 @@
     ]
   ],
   [
+    "QuestHerald-Quests-Part-I",
+    [
+      "curse",
+      "355055"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "QuestHerald-Quests-Part-II",
+    [
+      "curse",
+      "355056"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "QuestInfo",
     [
       "curse",
@@ -60727,6 +60818,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Stackpack (Classic)",
+    [
+      "curse",
+      "355111"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -71344,6 +71445,17 @@
     ]
   ],
   [
+    "XckMasterLootAdvanced",
+    [
+      "curse",
+      "355071"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "XengaInfo",
     [
       "curse",
@@ -75617,6 +75729,7 @@
       "338631"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -81330,16 +81443,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Dugi Questing Essential",
-    [
-      "wowi",
-      "20540"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -92068,7 +92171,7 @@
     ]
   ],
   [
-    "ChaChing V 3.0",
+    "ChaChing V3.1",
     [
       "wowi",
       "25376"
@@ -92310,7 +92413,7 @@
     ]
   ],
   [
-    "DPS_Tracker V2.0",
+    "DPS_Tracker V3.0",
     [
       "wowi",
       "25403"
@@ -92578,16 +92681,6 @@
     [
       "wowi",
       "25435"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "MessageClassifier",
-    [
-      "wowi",
-      "25436"
     ],
     [
       "classic"
