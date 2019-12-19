@@ -7267,6 +7267,16 @@
     ]
   ],
   [
+    "BattleQueue",
+    [
+      "curse",
+      "354716"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BattleRes",
     [
       "curse",
@@ -15871,6 +15881,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "CoreHoundLooter",
+    [
+      "curse",
+      "355243"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -24701,6 +24721,16 @@
     ]
   ],
   [
+    "FindParty Russian",
+    [
+      "curse",
+      "355220"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Finders Keepers",
     [
       "curse",
@@ -29157,6 +29187,16 @@
     ]
   ],
   [
+    "Group / Guild Calendar for Classic",
+    [
+      "curse",
+      "351800"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Group Bulletin Board",
     [
       "curse",
@@ -29174,16 +29214,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Group Calendar for Classic",
-    [
-      "curse",
-      "351800"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -36903,6 +36933,26 @@
     ]
   ],
   [
+    "LJDProfession",
+    [
+      "curse",
+      "355139"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "LJDSpellInterrupt",
+    [
+      "curse",
+      "355144"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "LOIHCal",
     [
       "curse",
@@ -39228,16 +39278,6 @@
     [
       "curse",
       "354600"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "LibTourist Classic 1.0",
-    [
-      "curse",
-      "336268"
     ],
     [
       "classic"
@@ -51702,26 +51742,6 @@
     ]
   ],
   [
-    "QuestHerald-Quests-Part-I",
-    [
-      "curse",
-      "355055"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "QuestHerald-Quests-Part-II",
-    [
-      "curse",
-      "355056"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "QuestInfo",
     [
       "curse",
@@ -59794,6 +59814,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Songbird: Songflower Timers",
+    [
+      "curse",
+      "355115"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -71425,6 +71455,16 @@
     ]
   ],
   [
+    "XTranqManager",
+    [
+      "curse",
+      "355170"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "XarBar",
     [
       "curse",
@@ -81446,6 +81486,16 @@
     ]
   ],
   [
+    "Dugi Questing Essential",
+    [
+      "wowi",
+      "20540"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "MiirGui Icon Pack [Blue]",
     [
       "wowi",
@@ -82924,8 +82974,7 @@
       "23056"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ]
   ],
   [
@@ -88102,16 +88151,6 @@
     ]
   ],
   [
-    "Deadly Boss Mods - Classic",
-    [
-      "wowi",
-      "24921"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Vendor Price",
     [
       "wowi",
@@ -88885,16 +88924,6 @@
     ]
   ],
   [
-    "PitBull Unit Frames 4.0 Classic",
-    [
-      "wowi",
-      "25020"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Talent Sequence",
     [
       "wowi",
@@ -89161,16 +89190,6 @@
     [
       "wowi",
       "25050"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "CEPGP",
-    [
-      "wowi",
-      "25051"
     ],
     [
       "classic"
