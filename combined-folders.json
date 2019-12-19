@@ -9074,6 +9074,18 @@
   [
     [
       "curse",
+      "354716"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BattleQueue"
+    ]
+  ],
+  [
+    [
+      "curse",
       "286437"
     ],
     [
@@ -19890,6 +19902,18 @@
   [
     [
       "curse",
+      "355243"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "CoreHoundLooter"
+    ]
+  ],
+  [
+    [
+      "curse",
       "15869"
     ],
     [
@@ -22887,6 +22911,30 @@
       "3358"
     ],
     [
+      "classic"
+    ],
+    [
+      "DBM-Core",
+      "DBM-GUI",
+      "DBM-Party-Classic",
+      "DBM-AQ20",
+      "DBM-AQ40",
+      "DBM-Azeroth",
+      "DBM-BWL",
+      "DBM-MC",
+      "DBM-Onyxia",
+      "DBM-Naxx",
+      "DBM-ZG",
+      "DBM-DefaultSkin",
+      "DBM-StatusBarTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "3358"
+    ],
+    [
       "retail"
     ],
     [
@@ -22902,30 +22950,6 @@
       "DBM-ZuldazarRaid",
       "DBM-EternalPalace",
       "DBM-Nyalotha",
-      "DBM-DefaultSkin",
-      "DBM-StatusBarTimers"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "3358"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "DBM-Core",
-      "DBM-GUI",
-      "DBM-Party-Classic",
-      "DBM-AQ20",
-      "DBM-AQ40",
-      "DBM-Azeroth",
-      "DBM-BWL",
-      "DBM-MC",
-      "DBM-Onyxia",
-      "DBM-Naxx",
-      "DBM-ZG",
       "DBM-DefaultSkin",
       "DBM-StatusBarTimers"
     ]
@@ -31332,6 +31356,18 @@
   [
     [
       "curse",
+      "355220"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FindParty"
+    ]
+  ],
+  [
+    [
+      "curse",
       "47339"
     ],
     [
@@ -36925,6 +36961,18 @@
   [
     [
       "curse",
+      "351800"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GroupCalendar"
+    ]
+  ],
+  [
+    [
+      "curse",
       "344012"
     ],
     [
@@ -36944,18 +36992,6 @@
     ],
     [
       "GroupCalendar5"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "351800"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "GroupCalendar"
     ]
   ],
   [
@@ -46702,6 +46738,30 @@
   [
     [
       "curse",
+      "355139"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LJDProfession"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355144"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "LJDSpellInterrupt"
+    ]
+  ],
+  [
+    [
+      "curse",
       "75173"
     ],
     [
@@ -49554,18 +49614,6 @@
     ],
     [
       "!LibTotemInfo"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "336268"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "LibTouristClassic-1.0"
     ]
   ],
   [
@@ -65344,30 +65392,6 @@
   [
     [
       "curse",
-      "355055"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "QuestHerald-Quests-Part-I"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "355056"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "QuestHerald-Quests-Part-II"
-    ]
-  ],
-  [
-    [
-      "curse",
       "303976"
     ],
     [
@@ -75551,6 +75575,18 @@
     ],
     [
       "SomethingsNotQuiteRight"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355115"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Songbird"
     ]
   ],
   [
@@ -90077,6 +90113,18 @@
     ],
     [
       "XToLevel_Classic"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355170"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "XTranqManager"
     ]
   ],
   [
@@ -159800,8 +159848,7 @@
       "23056"
     ],
     [
-      "retail",
-      "classic"
+      "retail"
     ],
     [
       "Details",
@@ -174060,7 +174107,7 @@
       "24921"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "DBM-Core",
@@ -175036,7 +175083,7 @@
       "25020"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "PitBull4"
@@ -175390,7 +175437,7 @@
       "25051"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "CEPGP"
@@ -175575,6 +175622,8 @@
       "classic"
     ],
     [
+      "Details_DataStorage",
+      "Details_Streamer",
       "Details_TinyThreat",
       "Details"
     ]
