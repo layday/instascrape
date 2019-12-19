@@ -24596,7 +24596,6 @@
       "333490"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -25250,16 +25249,6 @@
     ],
     [
       "retail"
-    ]
-  ],
-  [
-    "Flight Masters Classic",
-    [
-      "curse",
-      "339124"
-    ],
-    [
-      "classic"
     ]
   ],
   [
@@ -36727,6 +36716,16 @@
     [
       "curse",
       "342516"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "LFG MatchMaker",
+    [
+      "curse",
+      "355297"
     ],
     [
       "classic"
@@ -89507,7 +89506,6 @@
       "25085"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -90338,16 +90336,6 @@
     [
       "wowi",
       "25175"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Field Guide",
-    [
-      "wowi",
-      "25176"
     ],
     [
       "retail"
@@ -92962,6 +92950,16 @@
     [
       "wowi",
       "25467"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "BGinv",
+    [
+      "wowi",
+      "25469"
     ],
     [
       "classic"
