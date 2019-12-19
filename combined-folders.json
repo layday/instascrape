@@ -31202,7 +31202,6 @@
       "333490"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -31990,18 +31989,6 @@
     ],
     [
       "FlightMap"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "339124"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "FlightMastersClassic"
     ]
   ],
   [
@@ -46492,6 +46479,18 @@
     ],
     [
       "LFG_Helper"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355297"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "LFG_MatchMaker"
     ]
   ],
   [
@@ -175818,7 +175817,6 @@
       "25085"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -180250,6 +180248,18 @@
     ],
     [
       "ImprovedBlizzardUI_Classic"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25469"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "BGinv"
     ]
   ]
 ]
