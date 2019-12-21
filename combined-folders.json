@@ -26059,18 +26059,6 @@
   [
     [
       "curse",
-      "302086"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "DunningUI"
-    ]
-  ],
-  [
-    [
-      "curse",
       "101506"
     ],
     [
@@ -34252,6 +34240,18 @@
     ],
     [
       "GearManagerEx"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "345496"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "GearMenu"
     ]
   ],
   [
@@ -43945,18 +43945,6 @@
     ],
     [
       "ItemDataCache"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "304302"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ItemDestroyerButton"
     ]
   ],
   [
@@ -65693,6 +65681,18 @@
   [
     [
       "curse",
+      "355417"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "QueueFlash"
+    ]
+  ],
+  [
+    [
+      "curse",
       "44394"
     ],
     [
@@ -76381,7 +76381,6 @@
       "353778"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -90994,6 +90993,7 @@
       "335193"
     ],
     [
+      "retail",
       "classic"
     ],
     [
@@ -91094,6 +91094,30 @@
     ],
     [
       "ZygorLink"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "302086"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DunningUI"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "304302"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ItemDestroyerButton"
     ]
   ],
   [
@@ -92522,6 +92546,18 @@
     [
       "famBagsOptions",
       "famBags"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "351820"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "fbItemPrice"
     ]
   ],
   [
@@ -105558,7 +105594,7 @@
       "10440"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "NugRunning",
@@ -176976,7 +177012,7 @@
       "25184"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "WoWpoPolsku_Quests"
@@ -177043,7 +177079,7 @@
       "25189"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "WoWpoPolsku_Bubbles"
@@ -177632,7 +177668,7 @@
       "25239"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "FleecingTip"
@@ -178342,7 +178378,7 @@
       "25301"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "YarkoMods"
@@ -179142,7 +179178,7 @@
       "25367"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "ChatBar"
@@ -179299,7 +179335,7 @@
       "25380"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "RangeColors"
@@ -179311,7 +179347,7 @@
       "25381"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "EasyMail"
@@ -179701,7 +179737,7 @@
       "25420"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "DurabilityStatus"
@@ -179834,7 +179870,7 @@
       "25430"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
       "ClassicTravelPoints"
@@ -180260,6 +180296,18 @@
     ],
     [
       "BGinv"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25470"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "MethodDungeonTools-2.9.6"
     ]
   ]
 ]
