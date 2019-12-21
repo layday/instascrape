@@ -20539,16 +20539,6 @@
     ]
   ],
   [
-    "Dunning UI",
-    [
-      "curse",
-      "302086"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "Durability And ItemLevel",
     [
       "curse",
@@ -27125,6 +27115,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "GearMenu",
+    [
+      "curse",
+      "345496"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -34754,16 +34754,6 @@
     ]
   ],
   [
-    "ItemDestroyerButton",
-    [
-      "curse",
-      "304302"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "ItemGuard",
     [
       "curse",
@@ -38189,7 +38179,7 @@
     ]
   ],
   [
-    "LibCombatLogHealth-1.0",
+    "LibCombatLogHealth",
     [
       "curse",
       "50001"
@@ -51982,6 +51972,16 @@
     ]
   ],
   [
+    "QueueFlasher",
+    [
+      "curse",
+      "355417"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "QuiDicit",
     [
       "curse",
@@ -60425,7 +60425,6 @@
       "353778"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -72149,6 +72148,7 @@
       "335193"
     ],
     [
+      "retail",
       "classic"
     ]
   ],
@@ -72227,6 +72227,26 @@
     [
       "curse",
       "276929"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "[8.2.5]Dunning UI",
+    [
+      "curse",
+      "302086"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
+    "[8.2.5]ItemDestroyerButton",
+    [
+      "curse",
+      "304302"
     ],
     [
       "retail"
@@ -73356,6 +73376,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "fbitemprice",
+    [
+      "curse",
+      "351820"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -78840,16 +78870,6 @@
     ]
   ],
   [
-    "NugRunning",
-    [
-      "wowi",
-      "10440"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Sympathy",
     [
       "wowi",
@@ -79705,16 +79725,6 @@
     [
       "retail",
       "classic"
-    ]
-  ],
-  [
-    "LibOptionsAssist-1.1",
-    [
-      "wowi",
-      "13921"
-    ],
-    [
-      "retail"
     ]
   ],
   [
@@ -81044,7 +81054,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests 80205 2019-12-03",
+    "WoWpoPolsku-Quests 80205 2019-12-20",
     [
       "wowi",
       "19315"
@@ -81479,16 +81489,6 @@
     [
       "wowi",
       "20514"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "Dugi Questing Essential",
-    [
-      "wowi",
-      "20540"
     ],
     [
       "retail"
@@ -86434,7 +86434,7 @@
     ]
   ],
   [
-    "WoWpoPolsku-Bubbles 80205 2019-12-04",
+    "WoWpoPolsku-Bubbles 80205 2019-12-20",
     [
       "wowi",
       "24692"
@@ -90412,16 +90412,6 @@
     ]
   ],
   [
-    "WoWpoPolsku-Quests Classic 2019-12-03",
-    [
-      "wowi",
-      "25184"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "Quartz Classic",
     [
       "wowi",
@@ -90436,16 +90426,6 @@
     [
       "wowi",
       "25187"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "WoWpoPolsku-Bubbles Classic 2019-12-04",
-    [
-      "wowi",
-      "25189"
     ],
     [
       "classic"
@@ -90896,16 +90876,6 @@
     [
       "wowi",
       "25238"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Fleecing Tip (Classic)",
-    [
-      "wowi",
-      "25239"
     ],
     [
       "classic"
@@ -91459,16 +91429,6 @@
     [
       "wowi",
       "25300"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "YarkoMods Classic",
-    [
-      "wowi",
-      "25301"
     ],
     [
       "classic"
@@ -92098,16 +92058,6 @@
     ]
   ],
   [
-    "ChatBar Classic",
-    [
-      "wowi",
-      "25367"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "SpellBook Abridged for WoW Classic",
     [
       "wowi",
@@ -92212,26 +92162,6 @@
     [
       "wowi",
       "25379"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "RangeColors Classic",
-    [
-      "wowi",
-      "25380"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "EasyMail Classic",
-    [
-      "wowi",
-      "25381"
     ],
     [
       "classic"
@@ -92552,16 +92482,6 @@
     ]
   ],
   [
-    "DurabilityStatus Classic",
-    [
-      "wowi",
-      "25420"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
     "NPCsMarkers",
     [
       "wowi",
@@ -92638,16 +92558,6 @@
     [
       "wowi",
       "25428"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "ClassicTravelPoints",
-    [
-      "wowi",
-      "25430"
     ],
     [
       "classic"
@@ -92963,6 +92873,16 @@
     ],
     [
       "classic"
+    ]
+  ],
+  [
+    "Method Dungeon Tools",
+    [
+      "wowi",
+      "25470"
+    ],
+    [
+      "retail"
     ]
   ]
 ]
