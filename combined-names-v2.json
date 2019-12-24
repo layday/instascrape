@@ -23792,6 +23792,16 @@
     ]
   ],
   [
+    "FADE World Timers",
+    [
+      "curse",
+      "355780"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "FBGF",
     [
       "curse",
@@ -34189,6 +34199,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "InstanceCounter",
+    [
+      "curse",
+      "355561"
+    ],
+    [
+      "classic"
     ]
   ],
   [
