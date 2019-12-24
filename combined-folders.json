@@ -30215,6 +30215,18 @@
   [
     [
       "curse",
+      "355780"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "FADEWorldTimers"
+    ]
+  ],
+  [
+    [
+      "curse",
       "259973"
     ],
     [
@@ -43257,6 +43269,18 @@
     ],
     [
       "Instance Watch"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355561"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "InstanceCounter"
     ]
   ],
   [
@@ -70663,6 +70687,18 @@
       "18962"
     ],
     [
+      "retail"
+    ],
+    [
+      "SSPVP3"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "18962"
+    ],
+    [
       "retail",
       "classic"
     ],
@@ -91662,7 +91698,7 @@
       "classic"
     ],
     [
-      "autoRaidScale"
+      "autoScaleRaid"
     ]
   ],
   [
