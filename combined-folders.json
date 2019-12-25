@@ -9504,6 +9504,19 @@
   [
     [
       "curse",
+      "355717"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ExoLink_BIS",
+      "ExoLink"
+    ]
+  ],
+  [
+    [
+      "curse",
       "310241"
     ],
     [
@@ -22301,6 +22314,18 @@
   [
     [
       "curse",
+      "355800"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DamageLord"
+    ]
+  ],
+  [
+    [
+      "curse",
       "348708"
     ],
     [
@@ -26059,6 +26084,18 @@
   [
     [
       "curse",
+      "302086"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "DunningUI"
+    ]
+  ],
+  [
+    [
+      "curse",
       "101506"
     ],
     [
@@ -27751,6 +27788,18 @@
     ],
     [
       "retail"
+    ],
+    [
+      "ElvUI_FogofWar"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355679"
+    ],
+    [
+      "classic"
     ],
     [
       "ElvUI_FogofWar"
@@ -43974,6 +44023,18 @@
   [
     [
       "curse",
+      "304302"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "ItemDestroyerButton"
+    ]
+  ],
+  [
+    [
+      "curse",
       "45324"
     ],
     [
@@ -44081,6 +44142,18 @@
     [
       "ItemRackOptions",
       "ItemRack"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355831"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ItemRackAutoRidingGear"
     ]
   ],
   [
@@ -91129,30 +91202,6 @@
     ],
     [
       "ZygorLink"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "302086"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "DunningUI"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "304302"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "ItemDestroyerButton"
     ]
   ],
   [
@@ -180343,6 +180392,18 @@
     ],
     [
       "MethodDungeonTools-2.9.6"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25471"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "MessageHistory"
     ]
   ]
 ]
