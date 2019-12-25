@@ -7612,6 +7612,16 @@
     ]
   ],
   [
+    "Best in Slot (BIS)",
+    [
+      "curse",
+      "355717"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "BestFoodLite",
     [
       "curse",
@@ -17732,6 +17742,16 @@
     ]
   ],
   [
+    "DamageLord",
+    [
+      "curse",
+      "355800"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Damnation",
     [
       "curse",
@@ -20539,6 +20559,16 @@
     ]
   ],
   [
+    "Dunning UI",
+    [
+      "curse",
+      "302086"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "Durability And ItemLevel",
     [
       "curse",
@@ -21872,6 +21902,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "ElvUI Fog of War Classic",
+    [
+      "curse",
+      "355679"
+    ],
+    [
+      "classic"
     ]
   ],
   [
@@ -34774,6 +34814,16 @@
     ]
   ],
   [
+    "ItemDestroyerButton",
+    [
+      "curse",
+      "304302"
+    ],
+    [
+      "retail"
+    ]
+  ],
+  [
     "ItemGuard",
     [
       "curse",
@@ -34838,6 +34888,16 @@
     [
       "curse",
       "340903"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ItemRackAutoRidingGear",
+    [
+      "curse",
+      "355831"
     ],
     [
       "classic"
@@ -72252,26 +72312,6 @@
     ]
   ],
   [
-    "[8.2.5]Dunning UI",
-    [
-      "curse",
-      "302086"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "[8.2.5]ItemDestroyerButton",
-    [
-      "curse",
-      "304302"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
     "[DBM] [FR] Adrali Voice Pack",
     [
       "curse",
@@ -92892,6 +92932,16 @@
     ],
     [
       "retail"
+    ]
+  ],
+  [
+    "Message History",
+    [
+      "wowi",
+      "25471"
+    ],
+    [
+      "classic"
     ]
   ]
 ]
