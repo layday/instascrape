@@ -597,6 +597,16 @@
     ]
   ],
   [
+    "AV Queue Companion",
+    [
+      "curse",
+      "355926"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "AVQ",
     [
       "curse",
@@ -6526,7 +6536,8 @@
       "29700"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -17309,6 +17320,16 @@
     ]
   ],
   [
+    "DPS_Tracker",
+    [
+      "curse",
+      "355207"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "DRData-1.0",
     [
       "curse",
@@ -19395,6 +19416,16 @@
     ]
   ],
   [
+    "Dice",
+    [
+      "curse",
+      "355597"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Dice Roller",
     [
       "curse",
@@ -20556,6 +20587,16 @@
     [
       "retail",
       "classic"
+    ]
+  ],
+  [
+    "Dunning Auto Logger",
+    [
+      "curse",
+      "355557"
+    ],
+    [
+      "retail"
     ]
   ],
   [
@@ -53974,6 +54015,16 @@
     ]
   ],
   [
+    "Rawr Classic",
+    [
+      "curse",
+      "355902"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
     "Razer Gaming Keypad Add-on",
     [
       "curse",
@@ -56400,7 +56451,8 @@
       "22374"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -56410,7 +56462,8 @@
       "27192"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -63874,6 +63927,16 @@
     [
       "curse",
       "338498"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ThreatClassic2",
+    [
+      "curse",
+      "355497"
     ],
     [
       "classic"
