@@ -728,6 +728,18 @@
   [
     [
       "curse",
+      "355926"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "AVQueueCompanion"
+    ]
+  ],
+  [
+    [
+      "curse",
       "354815"
     ],
     [
@@ -8179,7 +8191,8 @@
       "29700"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Bagnon_Scrap"
@@ -21757,6 +21770,18 @@
   [
     [
       "curse",
+      "355207"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "DPS_Tracker"
+    ]
+  ],
+  [
+    [
+      "curse",
       "20187"
     ],
     [
@@ -24582,6 +24607,18 @@
   [
     [
       "curse",
+      "355597"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "Dice"
+    ]
+  ],
+  [
+    [
+      "curse",
       "18614"
     ],
     [
@@ -26079,6 +26116,18 @@
     ],
     [
       "DungeoneerTracker"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355557"
+    ],
+    [
+      "retail"
+    ],
+    [
+      "Dunning Auto Logger"
     ]
   ],
   [
@@ -68301,6 +68350,18 @@
   [
     [
       "curse",
+      "355902"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "RawrClassic"
+    ]
+  ],
+  [
+    [
+      "curse",
       "51506"
     ],
     [
@@ -71291,30 +71352,12 @@
       "5422"
     ],
     [
-      "retail"
-    ],
-    [
-      "Scrap_Merchant",
-      "Scrap_Options",
-      "Scrap_Visualizer",
-      "Scrap_Spotlight",
-      "Scrap"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "5422"
-    ],
-    [
       "retail",
       "classic"
     ],
     [
-      "Scrap_Options",
+      "Scrap_Config",
       "Scrap_Merchant",
-      "Scrap_Visualizer",
-      "Scrap_Spotlight",
       "Scrap"
     ]
   ],
@@ -71324,7 +71367,8 @@
       "22374"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Scrap_Broker"
@@ -71336,7 +71380,8 @@
       "27192"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "Scrap_Cleaner"
@@ -80661,6 +80706,18 @@
     ],
     [
       "TidyPlates_ThreatPlates"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "355497"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ClassicThreatMeter2"
     ]
   ],
   [
