@@ -16449,6 +16449,17 @@
     ]
   ],
   [
+    "CursorMod",
+    [
+      "curse",
+      "356016"
+    ],
+    [
+      "retail",
+      "classic"
+    ]
+  ],
+  [
     "CursorTrail",
     [
       "curse",
@@ -24059,7 +24070,7 @@
     "FadeObjectiveTracker",
     [
       "curse",
-      "303046"
+      "356040"
     ],
     [
       "retail"
@@ -27012,7 +27023,6 @@
       "334918"
     ],
     [
-      "retail",
       "classic"
     ]
   ],
@@ -27105,7 +27115,8 @@
       "23997"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ]
   ],
   [
@@ -31926,7 +31937,7 @@
     ]
   ],
   [
-    "Hemlock Poison Helper",
+    "Hemlock (Poison Helper)",
     [
       "curse",
       "350985"
@@ -35021,16 +35032,6 @@
     [
       "curse",
       "63392"
-    ],
-    [
-      "retail"
-    ]
-  ],
-  [
-    "JPostal",
-    [
-      "curse",
-      "354337"
     ],
     [
       "retail"
@@ -55170,16 +55171,6 @@
     [
       "curse",
       "341851"
-    ],
-    [
-      "classic"
-    ]
-  ],
-  [
-    "Return Target Icon Bar",
-    [
-      "curse",
-      "354113"
     ],
     [
       "classic"
@@ -93002,6 +92993,16 @@
     [
       "wowi",
       "25471"
+    ],
+    [
+      "classic"
+    ]
+  ],
+  [
+    "ItemAutocomplete",
+    [
+      "wowi",
+      "25472"
     ],
     [
       "classic"
