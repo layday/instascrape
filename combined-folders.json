@@ -20623,6 +20623,19 @@
   [
     [
       "curse",
+      "356016"
+    ],
+    [
+      "retail",
+      "classic"
+    ],
+    [
+      "CursorMod"
+    ]
+  ],
+  [
+    [
+      "curse",
       "272840"
     ],
     [
@@ -24357,9 +24370,9 @@
       "classic"
     ],
     [
+      "Details_TinyThreat",
       "Details_DataStorage",
       "Details_Streamer",
-      "Details_TinyThreat",
       "Details"
     ]
   ],
@@ -30560,7 +30573,7 @@
   [
     [
       "curse",
-      "303046"
+      "356040"
     ],
     [
       "retail"
@@ -34100,7 +34113,6 @@
       "334918"
     ],
     [
-      "retail",
       "classic"
     ],
     [
@@ -34211,7 +34223,8 @@
       "23997"
     ],
     [
-      "retail"
+      "retail",
+      "classic"
     ],
     [
       "GatherSage2"
@@ -44301,18 +44314,6 @@
     ],
     [
       "JPHF"
-    ]
-  ],
-  [
-    [
-      "curse",
-      "354337"
-    ],
-    [
-      "retail"
-    ],
-    [
-      "JPostal"
     ]
   ],
   [
@@ -56903,10 +56904,10 @@
       "70541"
     ],
     [
-      "classic"
+      "retail"
     ],
     [
-      "MyBuddies_Classic"
+      "MyBuddies"
     ]
   ],
   [
@@ -56915,10 +56916,10 @@
       "70541"
     ],
     [
-      "retail"
+      "classic"
     ],
     [
-      "MyBuddies"
+      "MyBuddies_Classic"
     ]
   ],
   [
@@ -69792,18 +69793,6 @@
   [
     [
       "curse",
-      "354113"
-    ],
-    [
-      "classic"
-    ],
-    [
-      "ReturnTargetIconBar"
-    ]
-  ],
-  [
-    [
-      "curse",
       "17018"
     ],
     [
@@ -71307,8 +71296,19 @@
       "255859"
     ],
     [
-      "retail",
       "classic"
+    ],
+    [
+      "Scorpio"
+    ]
+  ],
+  [
+    [
+      "curse",
+      "255859"
+    ],
+    [
+      "retail"
     ],
     [
       "Scorpio.MVC",
@@ -80717,7 +80717,7 @@
       "classic"
     ],
     [
-      "ClassicThreatMeter2"
+      "ThreatClassic2"
     ]
   ],
   [
@@ -180461,6 +180461,18 @@
     ],
     [
       "MessageHistory"
+    ]
+  ],
+  [
+    [
+      "wowi",
+      "25472"
+    ],
+    [
+      "classic"
+    ],
+    [
+      "ItemAutocomplete"
     ]
   ]
 ]
