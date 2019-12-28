@@ -48801,6 +48801,20 @@
   },
   {
     "source": "curse",
+    "id": "355986",
+    "slug": "inked-_classic",
+    "name": "Inked!_Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Inked"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "355985",
     "slug": "inked-_retail",
     "name": "Inked!_Retail",
