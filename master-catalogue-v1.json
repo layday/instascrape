@@ -58287,7 +58287,8 @@
     "slug": "lunarsphere-fan-update",
     "name": "Lunarsphere - Fan Update",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -73634,13 +73635,13 @@
         "Quafe"
       ],
       [
-        "Quafe_Libs_Classic",
-        "Quafe_MEKA_Classic",
+        "Quafe_Libs",
+        "Quafe_MEKA",
         "Quafe"
       ],
       [
-        "Quafe_Libs",
-        "Quafe_MEKA",
+        "Quafe_Libs_Classic",
+        "Quafe_MEKA_Classic",
         "Quafe"
       ]
     ]
@@ -213764,6 +213765,36 @@
     "folders": [
       [
         "ItemAutocomplete"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25473",
+    "slug": "",
+    "name": "Inked!_Retail",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Inked"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25474",
+    "slug": "",
+    "name": "Inked!_Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Inked"
       ]
     ]
   },
