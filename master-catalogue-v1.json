@@ -19736,6 +19736,20 @@
   },
   {
     "source": "curse",
+    "id": "356061",
+    "slug": "classic-looking-for-group",
+    "name": "Classic Looking For Group",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LFG113"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "352405",
     "slug": "classic-loot-assistant",
     "name": "Classic Loot Assistant",
@@ -48810,6 +48824,10 @@
     "folders": [
       [
         "Inked"
+      ],
+      [
+        "Inked_!Options",
+        "Inked"
       ]
     ]
   },
@@ -48823,6 +48841,10 @@
     ],
     "folders": [
       [
+        "Inked"
+      ],
+      [
+        "Inked_!Options",
         "Inked"
       ]
     ]
@@ -213779,7 +213801,8 @@
     ],
     "folders": [
       [
-        "Inked"
+        "Inked",
+        "Inked_!Options"
       ]
     ]
   },
@@ -213794,7 +213817,23 @@
     ],
     "folders": [
       [
-        "Inked"
+        "Inked",
+        "Inked_!Options"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25475",
+    "slug": "",
+    "name": "LossOfControlFrame",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LossOfControlFrame"
       ]
     ]
   },
