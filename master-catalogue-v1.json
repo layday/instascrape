@@ -26078,21 +26078,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26104,6 +26089,21 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -48827,6 +48827,8 @@
       ],
       [
         "Inked_!Options",
+        "Inked_Auras",
+        "Inked_Tooltip",
         "Inked"
       ]
     ]
@@ -48845,6 +48847,9 @@
       ],
       [
         "Inked_!Options",
+        "Inked_Auras",
+        "Inked_Skins",
+        "Inked_Tooltip",
         "Inked"
       ]
     ]
@@ -63255,6 +63260,20 @@
     "folders": [
       [
         "MooseLight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356478",
+    "slug": "moosesell",
+    "name": "MooseSell",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MooseSell"
       ]
     ]
   },
@@ -213802,7 +213821,10 @@
     "folders": [
       [
         "Inked",
-        "Inked_!Options"
+        "Inked_!Options",
+        "Inked_Auras",
+        "Inked_Skins",
+        "Inked_Tooltip"
       ]
     ]
   },
@@ -213818,7 +213840,9 @@
     "folders": [
       [
         "Inked",
-        "Inked_!Options"
+        "Inked_!Options",
+        "Inked_Auras",
+        "Inked_Tooltip"
       ]
     ]
   },
@@ -213834,6 +213858,140 @@
     "folders": [
       [
         "LossOfControlFrame"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25476",
+    "slug": "",
+    "name": "Fishing Buddy (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "FishingBuddy"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25478",
+    "slug": "",
+    "name": "Deadly Boss Mods - PGC V5",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-Party-BC",
+        "DBM-Party-BfA",
+        "DBM-Party-Cataclysm",
+        "DBM-Party-Classic",
+        "DBM-Party-Legion",
+        "DBM-Party-MoP",
+        "DBM-Party-WoD",
+        "DBM-Party-WotLK",
+        "DBM-PvP",
+        "DBM-Scenario-MoP",
+        "DBM-Serpentshrine",
+        "DBM-SiegeOfOrgrimmarV2",
+        "DBM-SMGEventsPack",
+        "DBM-SoundEventsPack",
+        "DBM-StatusBarTimers",
+        "DBM-Sunwell",
+        "DBM-TerraceofEndlessSpring",
+        "DBM-TheEye",
+        "DBM-ThroneFourWinds",
+        "DBM-ThroneofThunder",
+        "DBM-TimelessIsle",
+        "DBM-TombofSargeras",
+        "DBM-TrialofValor",
+        "DBM-Uldir",
+        "DBM-Ulduar",
+        "DBM-VoA",
+        "DBM-VPEnglish female",
+        "DBM-VPVEM",
+        "DBM-WorldEvents",
+        "DBM-ZuldazarRaid",
+        "DBM-AntorusBurningThrone",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Archaeology",
+        "DBM-Argus",
+        "DBM-Azeroth",
+        "DBM-Azeroth-BfA",
+        "DBM-BaradinHold",
+        "DBM-BastionTwilight",
+        "DBM-BlackrockFoundry",
+        "DBM-BlackTemple",
+        "DBM-BlackwingDescent",
+        "DBM-Brawlers",
+        "DBM-BrokenIsles",
+        "DBM-BWL",
+        "DBM-Challenges",
+        "DBM-ChamberOfAspects",
+        "DBM-Coliseum",
+        "DBM-Core",
+        "DBM-CountPack-Overwatch",
+        "DBM-CrucibleofStorms",
+        "DBM-DefaultSkin",
+        "DBM-DMF",
+        "DBM-Draenor",
+        "DBM-DragonSoul",
+        "DBM-EmeraldNightmare",
+        "DBM-EternalPalace",
+        "DBM-EyeOfEternity",
+        "DBM-Firelands",
+        "DBM-GarrisonInvasions",
+        "DBM-GUI",
+        "DBM-HeartofFear",
+        "DBM-HellfireCitadel",
+        "DBM-Highmaul",
+        "DBM-Hyjal",
+        "DBM-Icecrown",
+        "DBM-Karazhan",
+        "DBM-MC",
+        "DBM-MogushanVaults",
+        "DBM-Naxx",
+        "DBM-Nighthold",
+        "DBM-Nyalotha",
+        "DBM-Onyxia",
+        "DBM-Outlands",
+        "DBM-Pandaria"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25479",
+    "slug": "",
+    "name": "MiirGui Texture Pack [Blue] - PGC V5",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Interface"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25480",
+    "slug": "",
+    "name": "ClassicICantCast",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicICantCast"
       ]
     ]
   },
