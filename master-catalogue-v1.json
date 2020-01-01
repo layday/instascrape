@@ -31107,7 +31107,8 @@
     "slug": "elvui-armory-skin",
     "name": "ElvUI Armory Skin",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -35640,20 +35641,6 @@
   },
   {
     "source": "curse",
-    "id": "354488",
-    "slug": "fishbringer-multilanguage",
-    "name": "Fishbringer (EN/DE/RU)",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Fishbringer"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "13844",
     "slug": "fishermans-friend",
     "name": "FishermansFriend",
@@ -39435,7 +39422,8 @@
     "slug": "ginkofont",
     "name": "GinkoText",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -48828,6 +48816,7 @@
       [
         "Inked_!Options",
         "Inked_Auras",
+        "Inked_Chat",
         "Inked_Tooltip",
         "Inked"
       ]
@@ -77904,6 +77893,20 @@
   },
   {
     "source": "curse",
+    "id": "356629",
+    "slug": "rebuff",
+    "name": "Rebuff",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Rebuff"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3624",
     "slug": "recap-hawksy",
     "name": "Recap",
@@ -90328,6 +90331,20 @@
   },
   {
     "source": "curse",
+    "id": "356625",
+    "slug": "tank-o-meter",
+    "name": "Tank-O-Meter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Tank-O-Meter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88763",
     "slug": "tankassist",
     "name": "TankAssist",
@@ -96979,6 +96996,20 @@
     "id": "5801",
     "slug": "uber-inventory",
     "name": "UberInventory",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UberInventory"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356042",
+    "slug": "uberinventory-reborn",
+    "name": "UberInventory Reborn",
     "compatibility": [
       "retail"
     ],
@@ -213842,6 +213873,7 @@
         "Inked",
         "Inked_!Options",
         "Inked_Auras",
+        "Inked_Chat",
         "Inked_Tooltip"
       ]
     ]
