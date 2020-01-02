@@ -838,7 +838,7 @@
   {
     "source": "curse",
     "id": "355926",
-    "slug": "av-queue-companion",
+    "slug": "avqueuecompanion",
     "name": "AV Queue Companion",
     "compatibility": [
       "classic"
@@ -27582,9 +27582,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -36015,6 +36015,21 @@
       [
         "FixehTip_Options",
         "FixehTip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "6079",
+    "slug": "fizzle",
+    "name": "Fizzle",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Fizzle"
       ]
     ]
   },
@@ -48817,6 +48832,8 @@
         "Inked_!Options",
         "Inked_Auras",
         "Inked_Chat",
+        "Inked_Maps",
+        "Inked_NamePlates",
         "Inked_Tooltip",
         "Inked"
       ]
@@ -48837,6 +48854,8 @@
       [
         "Inked_!Options",
         "Inked_Auras",
+        "Inked_Maps",
+        "Inked_NamePlates",
         "Inked_Skins",
         "Inked_Tooltip",
         "Inked"
@@ -50188,20 +50207,6 @@
     "folders": [
       [
         "JPHF"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "354337",
-    "slug": "jpostal",
-    "name": "JPostal",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "JPostal"
       ]
     ]
   },
@@ -80233,13 +80238,9 @@
     "slug": "sspvp3",
     "name": "SSPVP",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
-      [
-        "SSPVP3"
-      ],
       [
         "SSPVP"
       ]
@@ -213854,6 +213855,8 @@
         "Inked",
         "Inked_!Options",
         "Inked_Auras",
+        "Inked_Maps",
+        "Inked_NamePlates",
         "Inked_Skins",
         "Inked_Tooltip"
       ]
@@ -213874,6 +213877,8 @@
         "Inked_!Options",
         "Inked_Auras",
         "Inked_Chat",
+        "Inked_Maps",
+        "Inked_NamePlates",
         "Inked_Tooltip"
       ]
     ]
@@ -214024,6 +214029,21 @@
     "folders": [
       [
         "ClassicICantCast"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25481",
+    "slug": "",
+    "name": "MDT Guide",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MDTGuide"
       ]
     ]
   },
