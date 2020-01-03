@@ -16774,6 +16774,20 @@
   },
   {
     "source": "curse",
+    "id": "356974",
+    "slug": "caffdkp",
+    "name": "CaffDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CaffDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "82663",
     "slug": "caleventnotifier",
     "name": "CalEventNotifier",
@@ -22469,6 +22483,20 @@
     "folders": [
       [
         "CoolDamageFont"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356973",
+    "slug": "coolline-classic-updated",
+    "name": "CoolLine (classic updated)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CoolLine"
       ]
     ]
   },
@@ -31313,6 +31341,20 @@
   },
   {
     "source": "curse",
+    "id": "356978",
+    "slug": "elvui-coolline-wrapper",
+    "name": "ElvUI CoolLine Wrapper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_CoolLine_Wrapper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "99116",
     "slug": "elvui-currencies-datatext",
     "name": "ElvUI Currencies Datatext",
@@ -37857,6 +37899,20 @@
     "folders": [
       [
         "GDKPd"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356857",
+    "slug": "gfdi-death-sound",
+    "name": "GFDI - Death Sound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GFDI"
       ]
     ]
   },
@@ -48830,6 +48886,7 @@
       ],
       [
         "Inked_!Options",
+        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Chat",
         "Inked_Maps",
@@ -48853,11 +48910,13 @@
       ],
       [
         "Inked_!Options",
+        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Maps",
         "Inked_NamePlates",
         "Inked_Skins",
         "Inked_Tooltip",
+        "Inked_UnitFrames",
         "Inked"
       ]
     ]
@@ -57313,6 +57372,37 @@
   },
   {
     "source": "curse",
+    "id": "356767",
+    "slug": "lookingforgroup-lfg",
+    "name": "LookingForGroup (LFG)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LookingForGroup_Auto",
+        "LookingForGroup_Bindings",
+        "LookingForGroup_Broker",
+        "LookingForGroup_CR",
+        "LookingForGroup_CRE",
+        "LookingForGroup_Event",
+        "LookingForGroup_Hook",
+        "LookingForGroup_Icon",
+        "LookingForGroup_LFDLFR",
+        "LookingForGroup_M+",
+        "LookingForGroup_Options",
+        "LookingForGroup_PVP",
+        "LookingForGroup_Q",
+        "LookingForGroup_QJ",
+        "LookingForGroup_SF",
+        "LookingForGroup_Settings",
+        "LookingForGroup_Solo",
+        "LookingForGroup"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "300383",
     "slug": "lookingforquest",
     "name": "LookingForQuest",
@@ -58441,6 +58531,20 @@
     "folders": [
       [
         "MDGuildBest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356775",
+    "slug": "mdt-guide",
+    "name": "MDT Guide",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MDTGuide"
       ]
     ]
   },
@@ -63259,6 +63363,21 @@
   },
   {
     "source": "curse",
+    "id": "356948",
+    "slug": "mooseportal",
+    "name": "MoosePortal",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MoosePortalAdvanced",
+        "MoosePortal"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "356478",
     "slug": "moosesell",
     "name": "MooseSell",
@@ -67036,6 +67155,20 @@
   },
   {
     "source": "curse",
+    "id": "356711",
+    "slug": "not-toxic",
+    "name": "Not Toxic",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Not Toxic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299720",
     "slug": "notmyfault",
     "name": "NotMyFault",
@@ -68484,6 +68617,20 @@
     "name": "Outfitter",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "Outfitter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356701",
+    "slug": "outfitter-classic",
+    "name": "Outfitter - Classic",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -213854,11 +214001,13 @@
       [
         "Inked",
         "Inked_!Options",
+        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Maps",
         "Inked_NamePlates",
         "Inked_Skins",
-        "Inked_Tooltip"
+        "Inked_Tooltip",
+        "Inked_UnitFrames"
       ]
     ]
   },
@@ -213875,6 +214024,7 @@
       [
         "Inked",
         "Inked_!Options",
+        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Chat",
         "Inked_Maps",
