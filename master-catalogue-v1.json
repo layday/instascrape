@@ -31345,7 +31345,8 @@
     "slug": "elvui-coolline-wrapper",
     "name": "ElvUI CoolLine Wrapper",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -33519,6 +33520,20 @@
     "folders": [
       [
         "EspritPrimordial"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356969",
+    "slug": "essence-button",
+    "name": "Essence Button",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EssenceButton"
       ]
     ]
   },
@@ -64169,7 +64184,8 @@
     "slug": "biggs-death",
     "name": "MrBigglesworthDeath",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -64712,6 +64728,20 @@
   },
   {
     "source": "curse",
+    "id": "346262",
+    "slug": "myjournal",
+    "name": "My Journal",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MyLootList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "31081",
     "slug": "my-little-companion",
     "name": "My Little Companion",
@@ -64863,20 +64893,6 @@
     "folders": [
       [
         "MyLilPony"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "346262",
-    "slug": "mylootlist",
-    "name": "MyLootList",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MyLootList"
       ]
     ]
   },
@@ -76632,6 +76648,20 @@
   },
   {
     "source": "curse",
+    "id": "357001",
+    "slug": "raidrestore",
+    "name": "RaidRestore",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidRestore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "90077",
     "slug": "raidsequence",
     "name": "RaidSequence",
@@ -78047,7 +78077,7 @@
     "source": "curse",
     "id": "356629",
     "slug": "rebuff",
-    "name": "Rebuff",
+    "name": "Rebuff Broadcast",
     "compatibility": [
       "classic"
     ],
@@ -85156,6 +85186,20 @@
   },
   {
     "source": "curse",
+    "id": "356970",
+    "slug": "small-friendly-nameplates",
+    "name": "Small Friendly Nameplates",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SmallFriendlyNameplates"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29547",
     "slug": "smart-critter-killer",
     "name": "Smart Critter Killer",
@@ -87205,9 +87249,6 @@
       "classic"
     ],
     "folders": [
-      [
-        "Buffet"
-      ],
       [
         "SpinxCookie"
       ]
@@ -95948,6 +95989,20 @@
   },
   {
     "source": "curse",
+    "id": "357038",
+    "slug": "tradeskillsearch",
+    "name": "TradeSkillSearch",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TradeSkillSearch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "52032",
     "slug": "tradeskilltracker",
     "name": "TradeSkillTracker",
@@ -97131,7 +97186,8 @@
     "slug": "uber-ui",
     "name": "Uber UI",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -97237,6 +97293,20 @@
     "folders": [
       [
         "UmberRunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357087",
+    "slug": "unclaimedchests",
+    "name": "UnclaimedChests",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UnclaimedChest"
       ]
     ]
   },
@@ -128359,7 +128429,7 @@
     ],
     "folders": [
       [
-        "btmlvldirs"
+        "MrBigglesworthDeath"
       ]
     ]
   },
