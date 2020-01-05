@@ -22492,7 +22492,8 @@
     "slug": "coolline-classic-updated",
     "name": "CoolLine (classic updated)",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -57388,7 +57389,7 @@
   {
     "source": "curse",
     "id": "356767",
-    "slug": "lookingforgroup-lfg",
+    "slug": "lookingforgroup",
     "name": "LookingForGroup (LFG)",
     "compatibility": [
       "retail"
@@ -90529,6 +90530,20 @@
     "folders": [
       [
         "Tank-O-Meter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356845",
+    "slug": "tankaddon",
+    "name": "TankAddon",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TankAddon"
       ]
     ]
   },
