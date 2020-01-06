@@ -5480,6 +5480,20 @@
   },
   {
     "source": "curse",
+    "id": "357237",
+    "slug": "atlas-battle-for-azeroth",
+    "name": "Atlas Battle for Azeroth",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Atlas_BattleforAzeroth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "32829",
     "slug": "atlas-battlegrounds",
     "name": "Atlas Battlegrounds",
@@ -34564,7 +34578,8 @@
     "slug": "fadeobjectivetracker",
     "name": "FadeObjectiveTracker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -48902,7 +48917,6 @@
       ],
       [
         "Inked_!Options",
-        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Chat",
         "Inked_Maps",
@@ -48926,7 +48940,6 @@
       ],
       [
         "Inked_!Options",
-        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Maps",
         "Inked_NamePlates",
@@ -56465,6 +56478,20 @@
     "folders": [
       [
         "!LibTotemInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "336268",
+    "slug": "libtourist-classic",
+    "name": "LibTourist Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibTouristClassic-1.0"
       ]
     ]
   },
@@ -67074,6 +67101,20 @@
   },
   {
     "source": "curse",
+    "id": "357444",
+    "slug": "noiseless",
+    "name": "Noiseless",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Noiseless"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "65954",
     "slug": "nomguildrepair",
     "name": "NomGuildRepair",
@@ -68926,6 +68967,20 @@
     "folders": [
       [
         "PLoop"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356943",
+    "slug": "pm-wishlist",
+    "name": "PM WishList",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PMWishList"
       ]
     ]
   },
@@ -73837,11 +73892,6 @@
         "Quafe_Libs",
         "Quafe_MEKA",
         "Quafe"
-      ],
-      [
-        "Quafe_Libs_Classic",
-        "Quafe_MEKA_Classic",
-        "Quafe"
       ]
     ]
   },
@@ -74582,6 +74632,20 @@
     "folders": [
       [
         "QuestProgressTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356411",
+    "slug": "questsync",
+    "name": "QuestSync",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuestSync"
       ]
     ]
   },
@@ -83280,20 +83344,6 @@
   },
   {
     "source": "curse",
-    "id": "325971",
-    "slug": "silentbodyguard",
-    "name": "Silent Bodyguard",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SilentBodyguard"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "85962",
     "slug": "silent-running",
     "name": "Silent Running",
@@ -84526,7 +84576,8 @@
     "slug": "simulationcraft",
     "name": "Simulationcraft",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -99146,6 +99197,20 @@
     "folders": [
       [
         "WarPlan"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357399",
+    "slug": "warcard",
+    "name": "WarCard",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WarCard"
       ]
     ]
   },
@@ -214086,7 +214151,6 @@
       [
         "Inked",
         "Inked_!Options",
-        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Maps",
         "Inked_NamePlates",
@@ -214109,7 +214173,6 @@
       [
         "Inked",
         "Inked_!Options",
-        "Inked_ActionBars",
         "Inked_Auras",
         "Inked_Chat",
         "Inked_Maps",
