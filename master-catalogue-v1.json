@@ -18052,7 +18052,8 @@
     "slug": "character-notes",
     "name": "Character Notes",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -20196,6 +20197,20 @@
     "folders": [
       [
         "HonorTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357521",
+    "slug": "classichunterpetinfo",
+    "name": "ClassicHunterPetInfo",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicHunterPetInfo"
       ]
     ]
   },
@@ -22714,20 +22729,6 @@
     "folders": [
       [
         "CopyPasta"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "355243",
-    "slug": "corehoundlooter",
-    "name": "CoreHoundLooter",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "CoreHoundLooter"
       ]
     ]
   },
@@ -36271,6 +36272,20 @@
     "folders": [
       [
         "WIM_FlatPanel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357579",
+    "slug": "flavorfactions",
+    "name": "FlavorFactions",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FlavorFactions"
       ]
     ]
   },
@@ -73889,7 +73904,6 @@
         "Quafe"
       ],
       [
-        "Quafe_Libs",
         "Quafe_MEKA",
         "Quafe"
       ]
@@ -80815,6 +80829,20 @@
   },
   {
     "source": "curse",
+    "id": "357502",
+    "slug": "savedclassic",
+    "name": "SavedClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SavedClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13998",
     "slug": "saved_instances",
     "name": "SavedInstances",
@@ -84576,8 +84604,7 @@
     "slug": "simulationcraft",
     "name": "Simulationcraft",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -102801,6 +102828,20 @@
     "folders": [
       [
         "XckMasterLootAdvanced"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357515",
+    "slug": "xckraidsubmanager",
+    "name": "XckRaidSubManager",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "XckRaidSubManager"
       ]
     ]
   },
@@ -179953,6 +179994,22 @@
   },
   {
     "source": "wowi",
+    "id": "21943",
+    "slug": "",
+    "name": "Discord Art Custom Textures",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DARTCustomTextures",
+        "Imaginos_PurpleShards"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
     "id": "21944",
     "slug": "",
     "name": "sFishing",
@@ -208356,10 +208413,10 @@
     ],
     "folders": [
       [
-        "Details_DataStorage",
-        "Details_Streamer",
         "Details_TinyThreat",
-        "Details"
+        "Details",
+        "Details_DataStorage",
+        "Details_Streamer"
       ]
     ]
   },
