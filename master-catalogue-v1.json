@@ -3269,7 +3269,8 @@
     "slug": "alts",
     "name": "Alts",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -3353,6 +3354,7 @@
     "slug": "amakhealstextures",
     "name": "AmakHealsTextures",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -11069,6 +11071,20 @@
   },
   {
     "source": "curse",
+    "id": "357619",
+    "slug": "better-raid-buffs",
+    "name": "Better Raid Buffs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BetterRaidBuffs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101819",
     "slug": "better-scoreboard",
     "name": "Better Scoreboard",
@@ -13705,6 +13721,20 @@
   },
   {
     "source": "curse",
+    "id": "357353",
+    "slug": "bossneeder",
+    "name": "Bossneeder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "bossneeder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15422",
     "slug": "bottle-cap",
     "name": "BottleCap",
@@ -15876,6 +15906,20 @@
     "folders": [
       [
         "BuffOverlay"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357708",
+    "slug": "buff-owner",
+    "name": "Buff Owner",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuffOwner"
       ]
     ]
   },
@@ -80829,9 +80873,9 @@
   },
   {
     "source": "curse",
-    "id": "357502",
-    "slug": "savedclassic",
-    "name": "SavedClassic",
+    "id": "357612",
+    "slug": "saved",
+    "name": "Saved!",
     "compatibility": [
       "classic"
     ],
@@ -102283,6 +102327,20 @@
   },
   {
     "source": "curse",
+    "id": "355170",
+    "slug": "xtranqmanager",
+    "name": "X Tranq Manager",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "XTranqManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102943",
     "slug": "x-and-y",
     "name": "X and Y",
@@ -102776,20 +102834,6 @@
   },
   {
     "source": "curse",
-    "id": "355170",
-    "slug": "xtranqmanager",
-    "name": "XTranqManager",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "XTranqManager"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "303151",
     "slug": "xarbar",
     "name": "XarBar",
@@ -102820,7 +102864,7 @@
     "source": "curse",
     "id": "355071",
     "slug": "xckmasterlootadvanced",
-    "name": "XckMasterLootAdvanced",
+    "name": "Xck MasterLoot Advanced",
     "compatibility": [
       "retail",
       "classic"
@@ -102835,7 +102879,7 @@
     "source": "curse",
     "id": "357515",
     "slug": "xckraidsubmanager",
-    "name": "XckRaidSubManager",
+    "name": "Xck Raid Sub Manager",
     "compatibility": [
       "classic"
     ],
@@ -108622,7 +108666,6 @@
     ],
     "folders": [
       [
-        "BagBrother",
         "tdBag2"
       ]
     ]
@@ -109757,6 +109800,20 @@
     "folders": [
       [
         "EclairDeGivre"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357503",
+    "slug": "wo-ez-calendar-guild-invits",
+    "name": "\ud83d\udd96\ufe0fWOEZ Calendar Invit",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WO_ezcalinvit"
       ]
     ]
   },
