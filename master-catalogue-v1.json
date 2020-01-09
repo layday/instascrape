@@ -34623,8 +34623,7 @@
     "slug": "fadeobjectivetracker",
     "name": "FadeObjectiveTracker",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -41032,20 +41031,6 @@
     "folders": [
       [
         "GreySeller"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "349264",
-    "slug": "greybeards-casino",
-    "name": "Greybeards Casino",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "GreybeardsCasino"
       ]
     ]
   },
@@ -79786,6 +79771,23 @@
   },
   {
     "source": "curse",
+    "id": "349264",
+    "slug": "greybeards-casino",
+    "name": "Roll Casino",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GreybeardsCasino"
+      ],
+      [
+        "RollCasino"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "21947",
     "slug": "rollforblame",
     "name": "Roll For Blame",
@@ -82663,6 +82665,20 @@
     "folders": [
       [
         "GoblinTalk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357782",
+    "slug": "sharedmedia-alexa-play-creed",
+    "name": "SharedMedia_AlexaPlayCreed",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_AlexaPlayCreed"
       ]
     ]
   },
@@ -93089,6 +93105,20 @@
   },
   {
     "source": "curse",
+    "id": "357722",
+    "slug": "titan-panel-tradecooldown-fanupdate",
+    "name": "Titan Panel [CraftCooldown]",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TitanCraftCooldown"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "94508",
     "slug": "titan-panel-currencies-multi",
     "name": "Titan Panel [Currencies] Multi",
@@ -99788,11 +99818,6 @@
         "WeakAurasOptions",
         "WeakAurasModelPaths",
         "WeakAurasTemplates",
-        "WeakAuras"
-      ],
-      [
-        "WeakAurasOptions",
-        "WeakAurasModelPaths",
         "WeakAuras"
       ],
       [
@@ -214456,6 +214481,21 @@
     "folders": [
       [
         "MDTGuide"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25482",
+    "slug": "",
+    "name": "Buff Owner",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuffOwner"
       ]
     ]
   },
