@@ -23856,6 +23856,20 @@
   },
   {
     "source": "curse",
+    "id": "357169",
+    "slug": "dbm-anti-disable",
+    "name": "DBM Anti Disable",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-AntiDisable"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97618",
     "slug": "battleground-banners",
     "name": "DBM Battlestandards",
@@ -33009,7 +33023,8 @@
     "slug": "enhanced-raid-frames",
     "name": "Enhanced Raid Frames",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -44704,6 +44719,21 @@
   },
   {
     "source": "curse",
+    "id": "357905",
+    "slug": "tomcats-tours-visions-of-nzoth",
+    "name": "HandyNotes: Visions of N'zoth by TomCat's tours",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TomCats-NzothUldum",
+        "TomCats-NzothVale"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "302439",
     "slug": "handynotes-warfront-treasure",
     "name": "HandyNotes: Warfront Treasure",
@@ -46598,6 +46628,20 @@
     "folders": [
       [
         "Hide the Flash!"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357892",
+    "slug": "hidebackground",
+    "name": "HideBackground",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideBackground"
       ]
     ]
   },
@@ -60516,7 +60560,8 @@
     "slug": "masque-neuron",
     "name": "Masque: Neuron",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -66294,7 +66339,8 @@
     "slug": "neuron",
     "name": "Neuron",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
