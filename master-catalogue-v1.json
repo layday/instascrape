@@ -13334,7 +13334,8 @@
     "slug": "boomkinator",
     "name": "Boomkinator",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -29638,21 +29639,6 @@
   },
   {
     "source": "curse",
-    "id": "334609",
-    "slug": "dungeoneer-tracker",
-    "name": "Dungeoneer Tracker",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DungeoneerTracker"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "355557",
     "slug": "dunning-auto-logger",
     "name": "Dunning Auto Logger",
@@ -44727,8 +44713,7 @@
     ],
     "folders": [
       [
-        "TomCats-NzothUldum",
-        "TomCats-NzothVale"
+        "TomCats-Nzoth"
       ]
     ]
   },
@@ -50230,6 +50215,20 @@
   },
   {
     "source": "curse",
+    "id": "357857",
+    "slug": "itemquests",
+    "name": "ItemQuests",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ItemQuests"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "1186",
     "slug": "itemrack",
     "name": "ItemRack",
@@ -51677,6 +51676,20 @@
     "folders": [
       [
         "Keyed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357952",
+    "slug": "keyrunner",
+    "name": "Keyrunner",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KeyRunner"
       ]
     ]
   },
@@ -68983,6 +68996,20 @@
     "folders": [
       [
         "OzCooldowns"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357955",
+    "slug": "padkp-tool-tip",
+    "name": "PADKP Tool Tip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PADKP"
       ]
     ]
   },
@@ -91777,6 +91804,20 @@
     "folders": [
       [
         "Themp_Mob_Count"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357940",
+    "slug": "theorycraftclassic",
+    "name": "TheoryCraftClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TheoryCraftClassic"
       ]
     ]
   },
