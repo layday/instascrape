@@ -13334,8 +13334,7 @@
     "slug": "boomkinator",
     "name": "Boomkinator",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -67752,6 +67751,21 @@
         "_SurvivalOfTheFittest",
         "_Template",
         "_Library"
+      ],
+      [
+        "_CannotHeal",
+        "_Character",
+        "_Commands",
+        "_EnteredCombat",
+        "_Esc",
+        "_EventFinder",
+        "_Follow",
+        "_FriendsWithBenefits",
+        "_Holiday",
+        "_Postmaster",
+        "_SurvivalOfTheFittest",
+        "_Template",
+        "_Library"
       ]
     ]
   },
@@ -76116,20 +76130,6 @@
       ],
       [
         "RaidAssist"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "297234",
-    "slug": "raid-attendance-tracker-rat",
-    "name": "Raid Attendance Tracker - (RAT)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "RaidAttendanceTracker"
       ]
     ]
   },
@@ -211597,7 +211597,8 @@
     ],
     "folders": [
       [
-        "aBag"
+        "aBag",
+        "__MACOSX"
       ]
     ]
   },
