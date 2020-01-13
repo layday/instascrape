@@ -26941,20 +26941,6 @@
   },
   {
     "source": "curse",
-    "id": "284467",
-    "slug": "defs-addon-control",
-    "name": "Def's Addon Control",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Def's Addon Control"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "90919",
     "slug": "defs-camera-zoom",
     "name": "Def's Camera Zoom",
@@ -26964,20 +26950,6 @@
     "folders": [
       [
         "Def's Camera Zoom"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "90983",
-    "slug": "defs-class-colored-chat",
-    "name": "Def's Class Colored Chat",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Def's Class Colored Chat"
       ]
     ]
   },
@@ -57976,20 +57948,6 @@
     "folders": [
       [
         "LootSquid"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "354087",
-    "slug": "loottables-classic",
-    "name": "LootTables Classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "LootTables"
       ]
     ]
   },
