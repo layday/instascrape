@@ -6879,6 +6879,20 @@
   },
   {
     "source": "curse",
+    "id": "358047",
+    "slug": "autocancelforms",
+    "name": "AutoCancelForms",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoCancelForms"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "260030",
     "slug": "autoclickthrough",
     "name": "AutoClickThrough",
@@ -6944,6 +6958,20 @@
     "folders": [
       [
         "AutoConfirmTalents"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358434",
+    "slug": "autodeleteitems",
+    "name": "AutoDeleteItems",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoDeleteItems"
       ]
     ]
   },
@@ -7355,6 +7383,20 @@
     "folders": [
       [
         "AutoObjectiveHidder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358433",
+    "slug": "autoopen",
+    "name": "AutoOpen",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoOpen"
       ]
     ]
   },
@@ -10411,6 +10453,20 @@
   },
   {
     "source": "curse",
+    "id": "358351",
+    "slug": "battlescorenamehighlight",
+    "name": "BattleScoreNameHighlight",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BattleScoreNameHighlight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22343",
     "slug": "battleground-bang",
     "name": "Battleground Bang",
@@ -12716,6 +12772,21 @@
     "folders": [
       [
         "SoloRaidFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357629",
+    "slug": "blizzardraidframesfix",
+    "name": "Blizzard Raid Frames Fix",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!BlizzardRaidFramesFix"
       ]
     ]
   },
@@ -20048,6 +20119,20 @@
   },
   {
     "source": "curse",
+    "id": "358421",
+    "slug": "classicaggrohighlight",
+    "name": "ClassicAggroHighlight",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicAggroHighlight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "323806",
     "slug": "classicauradurations",
     "name": "ClassicAuraDurations",
@@ -27039,20 +27124,6 @@
   },
   {
     "source": "curse",
-    "id": "100101",
-    "slug": "defs-target-threat-percentage",
-    "name": "Def's Target Threat Percentage",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Def's Target Threat Percentage"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "289574",
     "slug": "defs-toolbox",
     "name": "Def's Toolbox",
@@ -28415,7 +28486,6 @@
     "slug": "divisor",
     "name": "Divisor",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -32707,6 +32777,20 @@
   },
   {
     "source": "curse",
+    "id": "358165",
+    "slug": "enabletargetswitchsound",
+    "name": "EnableTargetSwitchSound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EnableTargetSwitchSound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "51777",
     "slug": "enchantcheck",
     "name": "Enchant Check",
@@ -32980,8 +33064,7 @@
     "slug": "enhanced-raid-frames",
     "name": "Enhanced Raid Frames",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -44340,6 +44423,20 @@
   },
   {
     "source": "curse",
+    "id": "358246",
+    "slug": "handynotes-ahnqiraj-scarab-coffers-aq20-40",
+    "name": "HandyNotes: Ahn'Qiraj Scarab Coffers (AQ20/40)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_ScarabCoffers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297435",
     "slug": "handynotes-battle-for-azeroth-treasures",
     "name": "HandyNotes: Battle for Azeroth Treasures",
@@ -44676,9 +44773,23 @@
   },
   {
     "source": "curse",
+    "id": "358359",
+    "slug": "handynotes-visions-of-nzoth",
+    "name": "HandyNotes: Visions of N'Zoth",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_VisionsOfNZoth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "357905",
     "slug": "tomcats-tours-visions-of-nzoth",
-    "name": "HandyNotes: Visions of N'zoth by TomCat's tours",
+    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's tours (Uldum and Vale of Eternal Blossoms)",
     "compatibility": [
       "retail"
     ],
@@ -47693,6 +47804,20 @@
   },
   {
     "source": "curse",
+    "id": "358123",
+    "slug": "hunter-pet-xp",
+    "name": "Hunter Pet XP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HunterPetXP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86158",
     "slug": "hunter-pets",
     "name": "Hunter Pets",
@@ -48653,6 +48778,21 @@
   },
   {
     "source": "curse",
+    "id": "358454",
+    "slug": "improvedraidframestatustext",
+    "name": "Improved Raid Frame Status Text",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ImprovedRaidFrameStatusText"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "30136",
     "slug": "improved-stable-frame",
     "name": "Improved Stable Frame",
@@ -49005,6 +49145,20 @@
     "folders": [
       [
         "InnervateNoise"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "356606",
+    "slug": "innkeep",
+    "name": "Innkeep",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Innkeep"
       ]
     ]
   },
@@ -61703,6 +61857,20 @@
   },
   {
     "source": "curse",
+    "id": "358350",
+    "slug": "messagequeue",
+    "name": "MessageQueue",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MessageQueue"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97244",
     "slug": "messagetoaster",
     "name": "MessageToaster",
@@ -62510,6 +62678,20 @@
     "folders": [
       [
         "D4KiR Missing Power"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358106",
+    "slug": "missing-raid-buffs",
+    "name": "Missing Raid Buffs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MissingRaidBuffs"
       ]
     ]
   },
@@ -75196,6 +75378,20 @@
   },
   {
     "source": "curse",
+    "id": "358430",
+    "slug": "quicklooter",
+    "name": "QuickLooter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuickLooter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "2414",
     "slug": "quick-mark",
     "name": "QuickMark",
@@ -76130,6 +76326,20 @@
     "folders": [
       [
         "RaidBuffDispenser"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357020",
+    "slug": "raid-buff-tracker",
+    "name": "Raid Buff Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidBuffTracker"
       ]
     ]
   },
@@ -78055,6 +78265,20 @@
     "folders": [
       [
         "RealMobHealth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358278",
+    "slug": "realdamage",
+    "name": "RealDamage",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RealDamage"
       ]
     ]
   },
@@ -97398,8 +97622,7 @@
     "slug": "uber-ui",
     "name": "Uber UI",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -100541,7 +100764,8 @@
     "slug": "who-taunted",
     "name": "Who Taunted?",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -100910,6 +101134,20 @@
     "folders": [
       [
         "WindDungeonHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358053",
+    "slug": "windfurycomm",
+    "name": "WindfuryComm",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WindfuryComm"
       ]
     ]
   },
@@ -214542,6 +214780,81 @@
     "folders": [
       [
         "BuffOwner"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25483",
+    "slug": "",
+    "name": "Blizzard Raid Frames Fix",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!BlizzardRaidFramesFix"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25484",
+    "slug": "",
+    "name": "Blizzard Raid Frames Fix Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!BlizzardRaidFramesFix"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25485",
+    "slug": "",
+    "name": "ClassicAggroHighlight",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicAggroHighlight"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25486",
+    "slug": "",
+    "name": " Improved Raid Frame Status Text",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ImprovedRaidFrameStatusText"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25487",
+    "slug": "",
+    "name": "Improved Raid Frame Status Text Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ImprovedRaidFrameStatusText"
       ]
     ]
   },
