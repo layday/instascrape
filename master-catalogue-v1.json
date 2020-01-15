@@ -6893,6 +6893,20 @@
   },
   {
     "source": "curse",
+    "id": "358528",
+    "slug": "autocancelghostwolf",
+    "name": "AutoCancelGhostWolf",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoCancelGhostWolf"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "260030",
     "slug": "autoclickthrough",
     "name": "AutoClickThrough",
@@ -19684,7 +19698,8 @@
     "slug": "classtrialtimer",
     "name": "ClassTrialTimer",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -19973,6 +19988,20 @@
     "folders": [
       [
         "Classic Quest Log"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358382",
+    "slug": "classic-raid-assist",
+    "name": "Classic Raid Assist",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssist"
       ]
     ]
   },
@@ -26265,6 +26294,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26276,21 +26320,6 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -26375,7 +26404,7 @@
     "source": "curse",
     "id": "61621",
     "slug": "dbm-challenges",
-    "name": "Deadly Boss Mods (DBM) - Challenges",
+    "name": "Deadly Boss Mods (DBM) - Challenges (Visions)",
     "compatibility": [
       "retail"
     ],
@@ -26555,7 +26584,8 @@
     "slug": "dbm-spelltimers",
     "name": "Deadly Boss Mods (DBM) - SpellTimers",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -30777,7 +30807,8 @@
     "slug": "easyreport",
     "name": "EasyReport",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -44789,7 +44820,7 @@
     "source": "curse",
     "id": "357905",
     "slug": "tomcats-tours-visions-of-nzoth",
-    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's tours (Uldum and Vale of Eternal Blossoms)",
+    "name": "HandyNotes: Visions of N'zoth Rares by TomCat's Tours (Uldum and Vale of Eternal Blossoms)",
     "compatibility": [
       "retail"
     ],
@@ -48637,6 +48668,20 @@
   },
   {
     "source": "curse",
+    "id": "358250",
+    "slug": "immersive-character-needs",
+    "name": "Immersive Character Needs",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ImmersiveCharacterNeeds"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "302630",
     "slug": "immersive-warfront-map",
     "name": "Immersive Warfront Map",
@@ -49485,6 +49530,21 @@
     "folders": [
       [
         "IM_Closer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358447",
+    "slug": "instant-sell-repair-autoloot",
+    "name": "Instant Sell, Repair, & Autoloot",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NakedSellandRepair"
       ]
     ]
   },
@@ -57191,7 +57251,8 @@
     "slug": "lite-assist",
     "name": "LiteAssist",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -57206,7 +57267,8 @@
     "slug": "litebag",
     "name": "LiteBag",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -57248,7 +57310,8 @@
     "slug": "litemount",
     "name": "LiteMount",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -60684,8 +60747,7 @@
     "slug": "masque-neuron",
     "name": "Masque: Neuron",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -61861,7 +61923,8 @@
     "slug": "messagequeue",
     "name": "MessageQueue",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -66491,8 +66554,7 @@
     "slug": "neuron",
     "name": "Neuron",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -76289,6 +76351,20 @@
   },
   {
     "source": "curse",
+    "id": "297234",
+    "slug": "raid-attendance-tracker-rat",
+    "name": "Raid Attendance Tracker - (RAT)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RaidAttendanceTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "79901",
     "slug": "raid-browser-mass-invite",
     "name": "Raid Browser Mass Invite - Outdated",
@@ -77167,7 +77243,7 @@
     "source": "curse",
     "id": "316956",
     "slug": "raider-io-total-rp-3-tooltips",
-    "name": "Raider.IO - Total RP 3 Tooltips",
+    "name": "Raider.IO Info in Total RP 3 Tooltips",
     "compatibility": [
       "retail"
     ],
@@ -79111,6 +79187,21 @@
     "folders": [
       [
         "RemoveCombatTextFromPlayerPortrait"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "87511",
+    "slug": "removegriffons",
+    "name": "RemoveGriffons",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RemoveGriffons"
       ]
     ]
   },
@@ -98745,6 +98836,20 @@
   },
   {
     "source": "curse",
+    "id": "358502",
+    "slug": "vikingspy",
+    "name": "VikingSpy",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VikingSpy"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "83550",
     "slug": "viksui",
     "name": "ViksUI",
@@ -98753,8 +98858,8 @@
     ],
     "folders": [
       [
-        "Viks_ConfigUI",
-        "ViksUI"
+        "ViksUI",
+        "Viks_ConfigUI"
       ]
     ]
   },
@@ -101353,7 +101458,8 @@
     "slug": "wo-w-dings",
     "name": "WoW Dings emoticons",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -109917,6 +110023,20 @@
     "folders": [
       [
         "zifRep"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358584",
+    "slug": "zrminimap",
+    "name": "zrMinimap",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "zrMM"
       ]
     ]
   },
@@ -170561,9 +170681,9 @@
     ],
     "folders": [
       [
-        "DiscordLibrary",
         "DiscordUnitFrames",
-        "DiscordUnitFramesOptions"
+        "DiscordUnitFramesOptions",
+        "DiscordLibrary"
       ]
     ]
   },
@@ -180352,8 +180472,8 @@
     "folders": [
       [
         "DiscordArt",
-        "DiscordArtOptions",
-        "DiscordLibrary"
+        "DiscordLibrary",
+        "DiscordArtOptions"
       ]
     ]
   },
@@ -206855,7 +206975,6 @@
         "Dominos",
         "Dominos_Cast",
         "Dominos_Config",
-        "Dominos_Encounter",
         "Dominos_Progress",
         "Dominos_Roll"
       ]
@@ -214527,7 +214646,7 @@
     ],
     "folders": [
       [
-        "MethodDungeonTools-2.9.6"
+        "MethodDungeonTools"
       ]
     ]
   },
