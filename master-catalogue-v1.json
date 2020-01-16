@@ -2194,6 +2194,20 @@
   },
   {
     "source": "curse",
+    "id": "358635",
+    "slug": "adibags-azerite-essence-items",
+    "name": "AdiBags Azerite Essence items",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Azerite_Essence_items"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89177",
     "slug": "adibags-boe-boa",
     "name": "AdiBags BoE & BoA",
@@ -11669,21 +11683,21 @@
         "BigWigs_Core",
         "BigWigs_Options",
         "BigWigs_Plugins",
-        "BigWigs_Azeroth",
-        "BigWigs_Uldir",
-        "BigWigs_BattleOfDazaralor",
-        "BigWigs_CrucibleOfStorms",
-        "BigWigs_EternalPalace",
-        "BigWigs_Nyalotha",
+        "BigWigs_Onyxia",
+        "BigWigs_MoltenCore",
+        "BigWigs_World",
         "BigWigs"
       ],
       [
         "BigWigs_Core",
         "BigWigs_Options",
         "BigWigs_Plugins",
-        "BigWigs_Onyxia",
-        "BigWigs_MoltenCore",
-        "BigWigs_World",
+        "BigWigs_Azeroth",
+        "BigWigs_Uldir",
+        "BigWigs_BattleOfDazaralor",
+        "BigWigs_CrucibleOfStorms",
+        "BigWigs_EternalPalace",
+        "BigWigs_Nyalotha",
         "BigWigs"
       ]
     ]
@@ -19698,8 +19712,7 @@
     "slug": "classtrialtimer",
     "name": "ClassTrialTimer",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -28619,6 +28632,13 @@
         "Dominos_Progress",
         "Dominos_Roll",
         "Dominos"
+      ],
+      [
+        "Dominos_Cast",
+        "Dominos_Config",
+        "Dominos_Progress",
+        "Dominos_Roll",
+        "Dominos"
       ]
     ]
   },
@@ -31879,10 +31899,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ],
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ]
     ]
   },
@@ -32258,10 +32278,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -51162,7 +51182,8 @@
     "slug": "junk_filter",
     "name": "Junk Filter",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -52418,6 +52439,20 @@
     "folders": [
       [
         "KillingSpree"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358590",
+    "slug": "kills-until-no-rest",
+    "name": "Kills Until No Rest",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "KillsRestedXP"
       ]
     ]
   },
@@ -55411,7 +55446,8 @@
     "slug": "libdogtag-3-0",
     "name": "LibDogTag-3.0",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -55453,7 +55489,8 @@
     "slug": "libdogtag-unit-3-0",
     "name": "LibDogTag-Unit-3.0",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -57251,8 +57288,7 @@
     "slug": "lite-assist",
     "name": "LiteAssist",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -57267,8 +57303,7 @@
     "slug": "litebag",
     "name": "LiteBag",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -57310,8 +57345,7 @@
     "slug": "litemount",
     "name": "LiteMount",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -59113,7 +59147,8 @@
     "slug": "macromaker",
     "name": "MacroMaker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -67658,6 +67693,20 @@
   },
   {
     "source": "curse",
+    "id": "358695",
+    "slug": "nucleus-dkp-values",
+    "name": "Nucleus DKP Values",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Nucleus_DKP_Values"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19038",
     "slug": "nudist",
     "name": "Nudist",
@@ -75843,6 +75892,20 @@
     "folders": [
       [
         "RCLootCouncil_EPGP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358318",
+    "slug": "rclootcouncil-epgp-classic",
+    "name": "RCLootCouncil - EPGP Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RCLootCouncil_EPGP_Classic"
       ]
     ]
   },
@@ -85833,7 +85896,8 @@
     "slug": "smarterror",
     "name": "SmartError",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -99373,6 +99437,20 @@
     "folders": [
       [
         "WArtifactRelicList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "326357",
+    "slug": "wcccaddon",
+    "name": "WCCC Clubbing Companion",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WCCCAddOn"
       ]
     ]
   },
@@ -123866,14 +123944,14 @@
     "source": "wowi",
     "id": "11333",
     "slug": "",
-    "name": "TargetingIcons",
+    "name": "TargetingIcons_Retail",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "TargetingIcons_Classic"
+        "TargetingIcons_Retail"
       ]
     ]
   },
