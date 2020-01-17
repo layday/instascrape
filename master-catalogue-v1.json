@@ -9326,7 +9326,8 @@
     "slug": "bagnon-facade",
     "name": "Bagnon Facade",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -20303,6 +20304,20 @@
   },
   {
     "source": "curse",
+    "id": "358777",
+    "slug": "classiccraft",
+    "name": "ClassicCraft",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicCraft"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "345382",
     "slug": "classicgearset",
     "name": "ClassicGearSet",
@@ -21582,7 +21597,8 @@
     "slug": "combuctor-broker",
     "name": "Combuctor Broker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -21624,7 +21640,8 @@
     "slug": "combuctor-masque",
     "name": "Combuctor Masque",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -21638,7 +21655,8 @@
     "slug": "combuctor-scrap",
     "name": "Combuctor Scrap",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -23752,6 +23770,20 @@
     "folders": [
       [
         "CustomBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "357941",
+    "slug": "customkeystones",
+    "name": "CustomKeystones",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomKeystones"
       ]
     ]
   },
@@ -27148,6 +27180,20 @@
     "folders": [
       [
         "Def's PlayerHitInficator Be Gone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358779",
+    "slug": "defs-rare-safari",
+    "name": "Def's Rare Safari",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Defs-Rare-Safari"
       ]
     ]
   },
@@ -32278,10 +32324,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -57738,37 +57784,6 @@
   },
   {
     "source": "curse",
-    "id": "356767",
-    "slug": "lookingforgroup",
-    "name": "LookingForGroup (LFG)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "LookingForGroup_Auto",
-        "LookingForGroup_Bindings",
-        "LookingForGroup_Broker",
-        "LookingForGroup_CR",
-        "LookingForGroup_CRE",
-        "LookingForGroup_Event",
-        "LookingForGroup_Hook",
-        "LookingForGroup_Icon",
-        "LookingForGroup_LFDLFR",
-        "LookingForGroup_M+",
-        "LookingForGroup_Options",
-        "LookingForGroup_PVP",
-        "LookingForGroup_Q",
-        "LookingForGroup_QJ",
-        "LookingForGroup_SF",
-        "LookingForGroup_Settings",
-        "LookingForGroup_Solo",
-        "LookingForGroup"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "300383",
     "slug": "lookingforquest",
     "name": "LookingForQuest",
@@ -58790,6 +58805,53 @@
   },
   {
     "source": "curse",
+    "id": "300687",
+    "slug": "lynxui",
+    "name": "LynxUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LynxUI_ActionBar",
+        "LynxUI_Bags",
+        "LynxUI_Bundle",
+        "LynxUI_CastingBar",
+        "LynxUI_Chat",
+        "LynxUI_Details",
+        "LynxUI_Frames",
+        "LynxUI_Interrupts",
+        "LynxUI_Mailbox",
+        "LynxUI_Options",
+        "LynxUI_SellJunk",
+        "LynxUI_Skin",
+        "LynxUI_Speedometer",
+        "LynxUI_Tooltip",
+        "LynxUI_Tweaks",
+        "LynxUI_UnitFrames",
+        "LynxUI"
+      ],
+      [
+        "LynxUI_ActionBar",
+        "LynxUI_Bundle",
+        "LynxUI_CastingBar",
+        "LynxUI_Chat",
+        "LynxUI_Frames",
+        "LynxUI_Hints",
+        "LynxUI_Interrupts",
+        "LynxUI_Options",
+        "LynxUI_SellJunk",
+        "LynxUI_Skin",
+        "LynxUI_Speedometer",
+        "LynxUI_Tooltip",
+        "LynxUI_Tweaks",
+        "LynxUI_UnitFrames",
+        "LynxUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "279812",
     "slug": "mplusledger",
     "name": "M+ Ledger",
@@ -59147,8 +59209,7 @@
     "slug": "macromaker",
     "name": "MacroMaker",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -64448,6 +64509,20 @@
   },
   {
     "source": "curse",
+    "id": "358737",
+    "slug": "move-sanity-orb-button",
+    "name": "Move Sanity Orb Button",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZAFtoEAB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101884",
     "slug": "moveunitframes",
     "name": "Move Unit Frames",
@@ -64528,6 +64603,20 @@
     "folders": [
       [
         "MplusGG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358752",
+    "slug": "mr-knowitall",
+    "name": "Mr KnowItAll",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MrKnowItAll"
       ]
     ]
   },
@@ -71106,7 +71195,8 @@
     "slug": "pettracker",
     "name": "PetTracker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -77816,6 +77906,20 @@
   },
   {
     "source": "curse",
+    "id": "358718",
+    "slug": "rare-share-visions-of-nzoth",
+    "name": "Rare Share: Visions of N'Zoth",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareShareVisionsOfNZoth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "18980",
     "slug": "rare-spawn-overlay",
     "name": "Rare Spawn Overlay",
@@ -77923,6 +78027,34 @@
     "folders": [
       [
         "RareTrackerNazjatar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358796",
+    "slug": "raretrackeruldum-rtu",
+    "name": "RareTrackerUldum (RTU)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareTrackerUldum"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358797",
+    "slug": "raretrackervale-rtv",
+    "name": "RareTrackerVale (RTV)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareTrackerVale"
       ]
     ]
   },
@@ -98902,7 +99034,7 @@
     "source": "curse",
     "id": "358502",
     "slug": "vikingspy",
-    "name": "VikingSpy",
+    "name": "Viking Spy",
     "compatibility": [
       "classic"
     ],
@@ -215029,7 +215161,7 @@
     "source": "wowi",
     "id": "25486",
     "slug": "",
-    "name": " Improved Raid Frame Status Text",
+    "name": "Improved Raid Frame Status Text",
     "compatibility": [
       "retail",
       "classic"
