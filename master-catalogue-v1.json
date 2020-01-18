@@ -3312,7 +3312,8 @@
     "slug": "always-logging",
     "name": "Always Logging",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -31432,20 +31433,6 @@
   },
   {
     "source": "curse",
-    "id": "98232",
-    "slug": "elvui-castbaroverlay",
-    "name": "ElvUI CastBarOverlay",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_CastBarOverlay"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "42415",
     "slug": "elvui-customchannelalert",
     "name": "ElvUI ChannelAlerts",
@@ -31596,20 +31583,6 @@
   },
   {
     "source": "curse",
-    "id": "89371",
-    "slug": "elvui-customtweaks",
-    "name": "ElvUI CustomTweaks",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_CustomTweaks"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "93977",
     "slug": "elvui-datatext-bars-2",
     "name": "ElvUI Datatext Bars 2",
@@ -31675,20 +31648,6 @@
     "folders": [
       [
         "ElvUI_EquipmentSetsDT"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "37961",
-    "slug": "elvui-oneextraactionbar",
-    "name": "ElvUI ExtraActionBars",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_ExtraActionBars"
       ]
     ]
   },
@@ -32225,20 +32184,6 @@
     "folders": [
       [
         "ElvUI_TitlesDatatext"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "44301",
-    "slug": "elvui-visualauratimers",
-    "name": "ElvUI VisualAuraTimers",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_VisualAuraTimers"
       ]
     ]
   },
@@ -46293,6 +46238,20 @@
   },
   {
     "source": "curse",
+    "id": "358864",
+    "slug": "hiddenids",
+    "name": "HiddenIDs",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HiddenIDs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "261939",
     "slug": "hiddenplayerframe",
     "name": "HiddenPlayerFrame",
@@ -48247,20 +48206,6 @@
         "bIamPrepared_Warlock",
         "bIamPrepared_Warrior",
         "bIamPrepared"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "54565",
-    "slug": "im-so-random-wow-edition",
-    "name": "I'm So Random",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ImSoRandom"
       ]
     ]
   },
@@ -58936,6 +58881,20 @@
   },
   {
     "source": "curse",
+    "id": "358411",
+    "slug": "mbb-classic",
+    "name": "MBB - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MBB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "324379",
     "slug": "mdguildbest",
     "name": "MDGuildBest",
@@ -59242,20 +59201,6 @@
     "folders": [
       [
         "MacroMilling"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "58952",
-    "slug": "macroposter",
-    "name": "MacroPoster",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MacroPoster"
       ]
     ]
   },
@@ -66954,6 +66899,20 @@
   },
   {
     "source": "curse",
+    "id": "358087",
+    "slug": "nightraider",
+    "name": "NightRaider",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NightRaider"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "285589",
     "slug": "nihongo",
     "name": "Nihongo",
@@ -68078,21 +68037,6 @@
       ],
       [
         "_Banker",
-        "_CannotHeal",
-        "_Character",
-        "_Commands",
-        "_EnteredCombat",
-        "_Esc",
-        "_EventFinder",
-        "_Follow",
-        "_FriendsWithBenefits",
-        "_Holiday",
-        "_Postmaster",
-        "_SurvivalOfTheFittest",
-        "_Template",
-        "_Library"
-      ],
-      [
         "_CannotHeal",
         "_Character",
         "_Commands",
@@ -69690,6 +69634,20 @@
   },
   {
     "source": "curse",
+    "id": "358868",
+    "slug": "pants",
+    "name": "Pants",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Pants"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20558",
     "slug": "paparazzignome",
     "name": "PaparazziGnome",
@@ -71195,8 +71153,7 @@
     "slug": "pettracker",
     "name": "PetTracker",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -75776,20 +75733,6 @@
   },
   {
     "source": "curse",
-    "id": "37648",
-    "slug": "quikemotes",
-    "name": "QuikEmotes",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "QuikEmotes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "320971",
     "slug": "quiktells",
     "name": "QuikTells",
@@ -77901,6 +77844,34 @@
     "folders": [
       [
         "RareShareNazjatar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358863",
+    "slug": "rare-share-uldum-8-3",
+    "name": "Rare Share: Uldum (8.3)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareShare_Uldum"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358918",
+    "slug": "rare-share-vale-of-eternal-blossoms-8-3",
+    "name": "Rare Share: Vale of Eternal Blossoms (8.3)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareShare_Vale of Eternal Blossoms"
       ]
     ]
   },
@@ -90163,8 +90134,8 @@
   {
     "source": "curse",
     "id": "21538",
-    "slug": "sushi-3-0",
-    "name": "Sushi-3.0",
+    "slug": "sushi-3-1",
+    "name": "Sushi-3.1",
     "compatibility": [
       "retail",
       "classic"
@@ -104369,6 +104340,20 @@
     "folders": [
       [
         "ZoneQuestAbandon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358767",
+    "slug": "zoneabilitybinding",
+    "name": "ZoneAbilityBinding",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZoneAbilityBinding"
       ]
     ]
   },
@@ -215372,16 +215357,6 @@
     "id": "44",
     "slug": "",
     "name": "ElvUI CustomMedia",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "16",
-    "slug": "",
-    "name": "ElvUI CustomTweaks",
     "compatibility": [
       "retail"
     ],
