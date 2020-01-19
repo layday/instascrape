@@ -1771,6 +1771,20 @@
   },
   {
     "source": "curse",
+    "id": "301668",
+    "slug": "async",
+    "name": "AdaptiveSync",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Async"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20830",
     "slug": "addemote",
     "name": "AddEmote",
@@ -5417,20 +5431,6 @@
     "folders": [
       [
         "AstroidsGuildTools"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "301668",
-    "slug": "async",
-    "name": "Async (AdaptiveSync)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Async"
       ]
     ]
   },
@@ -46238,20 +46238,6 @@
   },
   {
     "source": "curse",
-    "id": "358864",
-    "slug": "hiddenids",
-    "name": "HiddenIDs",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "HiddenIDs"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "261939",
     "slug": "hiddenplayerframe",
     "name": "HiddenPlayerFrame",
@@ -65858,10 +65844,10 @@
     ],
     "folders": [
       [
-        "NPCRPGossipClassic"
+        "NPCRPGossip"
       ],
       [
-        "NPCRPGossip"
+        "NPCRPGossipClassic"
       ]
     ]
   },
@@ -78929,20 +78915,6 @@
     "folders": [
       [
         "Redprints"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "336005",
-    "slug": "redtuzkui-classic",
-    "name": "RedtuzkUI Classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ElvUI_RedtuzkClassic"
       ]
     ]
   },
@@ -205606,7 +205578,8 @@
     ],
     "folders": [
       [
-        "Async"
+        "",
+        "__MACOSX"
       ]
     ]
   },
@@ -213223,7 +213196,7 @@
     "source": "wowi",
     "id": "25353",
     "slug": "",
-    "name": "Hide World Map Minimap Button (Classic)",
+    "name": "Hide World Map Minimap Button",
     "compatibility": [
       "retail",
       "classic"
