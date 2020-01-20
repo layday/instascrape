@@ -6894,20 +6894,6 @@
   },
   {
     "source": "curse",
-    "id": "358047",
-    "slug": "autocancelforms",
-    "name": "AutoCancelForms",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "AutoCancelForms"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "358528",
     "slug": "autocancelghostwolf",
     "name": "AutoCancelGhostWolf",
@@ -62997,7 +62983,8 @@
     "slug": "mobinfo2",
     "name": "MobInfo2",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -68462,20 +68449,6 @@
   },
   {
     "source": "curse",
-    "id": "299835",
-    "slug": "oldscoolguildframe",
-    "name": "OldScoolGuildFrame",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GuildTab"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "101382",
     "slug": "oldtarget",
     "name": "OldTarget",
@@ -73366,9 +73339,13 @@
     "slug": "profession_assistance",
     "name": "Profession Assistance",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
+      [
+        "Profession_Assistance_Classic"
+      ],
       [
         "Profession_Assistance"
       ]
@@ -96462,7 +96439,8 @@
     "slug": "tradeskillmaster-string-converter",
     "name": "TradeSkillMaster String Converter",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -100348,6 +100326,18 @@
       ],
       [
         "WeakAurasOptions",
+        "WeakAuras"
+      ],
+      [
+        "WeakAurasOptions",
+        "WeakAurasModelPaths",
+        "WeakAurasTemplates",
+        "WeakAurasArchive",
+        "WeakAuras"
+      ],
+      [
+        "WeakAurasOptions",
+        "WeakAurasArchive",
         "WeakAuras"
       ]
     ]
@@ -215142,6 +215132,21 @@
     "folders": [
       [
         "ImprovedRaidFrameStatusText"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25488",
+    "slug": "",
+    "name": "NugKeyFeedback",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NugKeyFeedback"
       ]
     ]
   },
