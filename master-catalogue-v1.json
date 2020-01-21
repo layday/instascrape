@@ -3460,14 +3460,13 @@
     ],
     "folders": [
       [
+        "AnsAuctionData",
         "AnsAuctionSnipe",
         "AnsAuctions",
         "AnS"
       ],
       [
-        "AnsAuctionData",
         "AnsAuctionSnipe",
-        "AnsAuctions",
         "AnS"
       ]
     ]
@@ -12670,7 +12669,7 @@
     ],
     "folders": [
       [
-        "Blitz_Options",
+        "Blitz_Config",
         "Blitz_Progress",
         "Blitz"
       ]
@@ -19881,21 +19880,6 @@
   },
   {
     "source": "curse",
-    "id": "348978",
-    "slug": "classic-heals",
-    "name": "Classic Heals",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "QoL_ClassicHeals",
-        "QoL_Core"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "356061",
     "slug": "classic-looking-for-group",
     "name": "Classic Looking For Group",
@@ -26375,7 +26359,7 @@
     "source": "curse",
     "id": "16442",
     "slug": "dbm-bc",
-    "name": "Deadly Boss Mods (DBM) - BC & Vanilla/Classic mods",
+    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods",
     "compatibility": [
       "retail"
     ],
@@ -32255,10 +32239,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -33182,20 +33166,6 @@
     "folders": [
       [
         "EnhancedMenu"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "54554",
-    "slug": "tukui-elvui-petbattlehud",
-    "name": "EnhancedPetBattleUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "EnhancedPetBattleUI"
       ]
     ]
   },
@@ -57427,24 +57397,6 @@
   },
   {
     "source": "curse",
-    "id": "348989",
-    "slug": "local-whispers",
-    "name": "Local Whispers",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "LocalWhispers"
-      ],
-      [
-        "QoL_LocalWhispers",
-        "QoL_Core"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "87572",
     "slug": "localized-groups",
     "name": "Localized Groups",
@@ -64980,6 +64932,21 @@
       [
         "MuteSoundFile_Options",
         "MuteSoundFile"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358535",
+    "slug": "mutexdelay-1-0",
+    "name": "MutexDelay-1.0",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MutexDelay-1.0"
       ]
     ]
   },
@@ -74297,6 +74264,39 @@
     "folders": [
       [
         "QuakeAssist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "348978",
+    "slug": "classic-heals",
+    "name": "Quality of Life: Classic Heals",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QoL_ClassicHeals",
+        "QoL_Core"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "348989",
+    "slug": "local-whispers",
+    "name": "Quality of Life: Local Whispers",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LocalWhispers"
+      ],
+      [
+        "QoL_LocalWhispers",
+        "QoL_Core"
       ]
     ]
   },
@@ -101354,6 +101354,21 @@
     "folders": [
       [
         "Wiki"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358824",
+    "slug": "wildaddon-1-0",
+    "name": "WildAddon-1.0",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WildAddon-1.0"
       ]
     ]
   },
@@ -160477,7 +160492,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80205 2019-12-20",
+    "name": "WoWpoPolsku-Quests 80300 2020-01-20",
     "compatibility": [
       "retail",
       "classic"
@@ -204451,7 +204466,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80205 2019-12-20",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-01-20",
     "compatibility": [
       "retail",
       "classic"
@@ -210717,7 +210732,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2019-12-20",
+    "name": "WoWpoPolsku-Quests Classic 2020-01-20",
     "compatibility": [
       "retail",
       "classic"
@@ -210799,7 +210814,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2019-12-20",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-01-20",
     "compatibility": [
       "retail",
       "classic"
@@ -215515,16 +215530,6 @@
     "id": "129",
     "slug": "",
     "name": "ElvUI_SecondsToBuff",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "80",
-    "slug": "",
-    "name": "Enhanced PetBattle UI",
     "compatibility": [
       "retail"
     ],
