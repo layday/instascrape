@@ -3396,7 +3396,7 @@
     "source": "curse",
     "id": "322782",
     "slug": "amalu-soundpack",
-    "name": "Amalu Soundpack",
+    "name": "Amalu Soundpack (plus+)",
     "compatibility": [
       "retail",
       "classic"
@@ -3404,6 +3404,9 @@
     "folders": [
       [
         "Amalu Soundpack"
+      ],
+      [
+        "Amalu Soundpack (plus+)"
       ]
     ]
   },
@@ -12322,6 +12325,20 @@
   },
   {
     "source": "curse",
+    "id": "359127",
+    "slug": "bingo",
+    "name": "Bingo",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Bingo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "52702",
     "slug": "bittens-spellflash-key-bindings",
     "name": "Bitten's SpellFlash Key Bindings",
@@ -20845,6 +20862,20 @@
   },
   {
     "source": "curse",
+    "id": "359102",
+    "slug": "close-quest-fix",
+    "name": "Close Quest Fix",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CloseQuestFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "1930",
     "slug": "close-up",
     "name": "CloseUp",
@@ -25659,6 +25690,20 @@
   },
   {
     "source": "curse",
+    "id": "359439",
+    "slug": "danes-of-honor-guild-addon",
+    "name": "Danes of Honor Guild Addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DanesOfHonor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "95548",
     "slug": "dankmemes",
     "name": "DankMemes",
@@ -29168,6 +29213,20 @@
     "folders": [
       [
         "DressupDeluxe"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359065",
+    "slug": "drift",
+    "name": "Drift",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Drift"
       ]
     ]
   },
@@ -38348,6 +38407,20 @@
   },
   {
     "source": "curse",
+    "id": "359224",
+    "slug": "gains-to-next-rep-level",
+    "name": "Gains To Next Rep Level",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GainsToNextRep"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "309199",
     "slug": "gallywix-balance",
     "name": "Gallywix Balance",
@@ -39236,6 +39309,20 @@
     "folders": [
       [
         "GearTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359101",
+    "slug": "geared",
+    "name": "Geared",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Geared"
       ]
     ]
   },
@@ -50936,6 +51023,20 @@
         "JojoMonk_JosukeHigashikata",
         "JojoMonk_JotaroKujo",
         "JojoMonk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358959",
+    "slug": "jokplates",
+    "name": "JokPlates",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "JokPlates"
       ]
     ]
   },
@@ -65018,10 +65119,10 @@
     ],
     "folders": [
       [
-        "MyBuddies"
+        "MyBuddies_Classic"
       ],
       [
-        "MyBuddies_Classic"
+        "MyBuddies"
       ]
     ]
   },
@@ -67807,6 +67908,20 @@
     "folders": [
       [
         "NugInspect"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359317",
+    "slug": "nugkeyfeedback",
+    "name": "NugKeyFeedback",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NugKeyFeedback"
       ]
     ]
   },
@@ -72415,6 +72530,21 @@
   },
   {
     "source": "curse",
+    "id": "359170",
+    "slug": "poncho-2-0",
+    "name": "Poncho-2.0",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Poncho-2.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "96980",
     "slug": "pong",
     "name": "Pong",
@@ -74278,6 +74408,20 @@
     "folders": [
       [
         "QoL_ClassicHeals",
+        "QoL_Core"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359295",
+    "slug": "quality-of-life-core",
+    "name": "Quality of Life: Core",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
         "QoL_Core"
       ]
     ]
@@ -78200,9 +78344,6 @@
     ],
     "folders": [
       [
-        "BestInSlotRedux_BfaDungeons",
-        "BestInSlotRedux_BfaRaids",
-        "BestInSlotRedux_BfaWorld",
         "BestInSlotRedux"
       ]
     ]
@@ -90094,7 +90235,7 @@
         "Sushi-2.0"
       ],
       [
-        "Sushi-3.0"
+        "Sushi-3.1"
       ]
     ]
   },
@@ -95261,7 +95402,6 @@
     "slug": "tomcats-tours-pvp",
     "name": "TomCat's Tours: PvP",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -152326,16 +152466,7 @@
     ],
     "folders": [
       [
-        "AceAddon-3.0",
-        "AceConfig-3.0",
-        "AceConsole-3.0",
-        "AceDB-3.0",
-        "AceDBOptions-3.0",
-        "AceEvent-3.0",
-        "AceGUI-3.0",
-        "ButtonDaemon-1.0",
-        "CallbackHandler-1.0",
-        "LibStub"
+        "ShardAceCata"
       ]
     ]
   },
@@ -215162,6 +215293,51 @@
     "folders": [
       [
         "NugKeyFeedback"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25489",
+    "slug": "",
+    "name": "Water Dispenser",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WaterDispenser"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25490",
+    "slug": "",
+    "name": "TransmogAway",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TransmogAway"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25491",
+    "slug": "",
+    "name": "TransmogExpander",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TransmogExpander"
       ]
     ]
   },
