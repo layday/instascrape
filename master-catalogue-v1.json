@@ -6928,7 +6928,8 @@
     "slug": "autocombatlogger",
     "name": "AutoCombatLogger",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -48950,6 +48951,20 @@
   },
   {
     "source": "curse",
+    "id": "359508",
+    "slug": "inrange",
+    "name": "InRange",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InRange"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "269853",
     "slug": "interroremrt",
     "name": "InTerroremRT",
@@ -67917,7 +67932,8 @@
     "slug": "nugkeyfeedback",
     "name": "NugKeyFeedback",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -72816,7 +72832,8 @@
     "slug": "power-auras-classic-v4",
     "name": "Power Auras Classic v4",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -74379,6 +74396,12 @@
       ],
       [
         "Quafe_MEKA",
+        "Quafe_Overwatch",
+        "Quafe"
+      ],
+      [
+        "Quafe_MEKA_Classic",
+        "Quafe_Overwatch",
         "Quafe"
       ]
     ]
@@ -88960,11 +88983,15 @@
     "slug": "stickyclicky",
     "name": "Sticky Clicky",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "StickyClicky"
+      ],
+      [
+        "StickyClickyClassic"
       ]
     ]
   },
@@ -89016,11 +89043,15 @@
     "slug": "stickysoundfx",
     "name": "Sticky SoundFX",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "StickySoundFX"
+      ],
+      [
+        "StickySoundFXClassic"
       ]
     ]
   },
@@ -89030,11 +89061,15 @@
     "slug": "stickytarget",
     "name": "Sticky Target",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "StickyTarget"
+      ],
+      [
+        "StickyTargetClassic"
       ]
     ]
   },
@@ -98067,6 +98102,20 @@
   },
   {
     "source": "curse",
+    "id": "358964",
+    "slug": "ultrasquirt",
+    "name": "UltraSquirt",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UltraSquirt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "40889",
     "slug": "umberrunes",
     "name": "UmberRunes",
@@ -100290,6 +100339,20 @@
     "folders": [
       [
         "Watchtower"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359543",
+    "slug": "water-dispenser",
+    "name": "Water Dispenser",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WaterDispenser"
       ]
     ]
   },
@@ -121979,7 +122042,7 @@
     "source": "wowi",
     "id": "10435",
     "slug": "",
-    "name": "ScrapBook",
+    "name": "ScrapBook (Retail)",
     "compatibility": [
       "retail",
       "classic"
@@ -129400,7 +129463,7 @@
     "source": "wowi",
     "id": "13059",
     "slug": "",
-    "name": "RepSwitch",
+    "name": "RepSwitch (Retail)",
     "compatibility": [
       "retail",
       "classic"
@@ -131818,7 +131881,7 @@
     "source": "wowi",
     "id": "13797",
     "slug": "",
-    "name": "Bing",
+    "name": "Bing (Retail)",
     "compatibility": [
       "retail",
       "classic"
@@ -203864,7 +203927,7 @@
     "source": "wowi",
     "id": "24600",
     "slug": "",
-    "name": "ItemType",
+    "name": "ItemType (Retail)",
     "compatibility": [
       "retail",
       "classic"
@@ -215338,6 +215401,66 @@
     "folders": [
       [
         "TransmogExpander"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25492",
+    "slug": "",
+    "name": "Bing (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Bing"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25493",
+    "slug": "",
+    "name": "ItemType (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ItemType"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25494",
+    "slug": "",
+    "name": "RepSwitch (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RepSwitch"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25495",
+    "slug": "",
+    "name": "ScrapBook (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ScrapBook"
       ]
     ]
   },
