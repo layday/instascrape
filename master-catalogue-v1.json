@@ -13140,6 +13140,20 @@
   },
   {
     "source": "curse",
+    "id": "359577",
+    "slug": "botd-guild-addon-beta",
+    "name": "BoTD Guild Addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BoTD"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "57828",
     "slug": "bobhud",
     "name": "BobHUD",
@@ -18918,6 +18932,20 @@
     "folders": [
       [
         "ChatThrottleLib"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359327",
+    "slug": "chattodolist",
+    "name": "ChatToDoList",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ChatToDoList"
       ]
     ]
   },
@@ -50335,6 +50363,20 @@
     "folders": [
       [
         "ItemBonusDisplay"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359645",
+    "slug": "itemcounttooltip",
+    "name": "ItemCountTooltip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemCountTooltip"
       ]
     ]
   },
@@ -88979,24 +89021,6 @@
   },
   {
     "source": "curse",
-    "id": "299819",
-    "slug": "stickyclicky",
-    "name": "Sticky Clicky",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "StickyClicky"
-      ],
-      [
-        "StickyClickyClassic"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "334233",
     "slug": "sticky-gloves",
     "name": "Sticky Gloves",
@@ -89039,37 +89063,29 @@
   },
   {
     "source": "curse",
-    "id": "299640",
-    "slug": "stickysoundfx",
-    "name": "Sticky SoundFX",
+    "id": "299819",
+    "slug": "stickyclicky",
+    "name": "StickyClicky",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
-        "StickySoundFX"
-      ],
-      [
-        "StickySoundFXClassic"
+        "StickyClicky"
       ]
     ]
   },
   {
     "source": "curse",
-    "id": "101234",
-    "slug": "stickytarget",
-    "name": "Sticky Target",
+    "id": "359615",
+    "slug": "stickyclicky-classic",
+    "name": "StickyClicky Classic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
       [
-        "StickyTarget"
-      ],
-      [
-        "StickyTargetClassic"
+        "StickyClickyClassic"
       ]
     ]
   },
@@ -89084,6 +89100,62 @@
     "folders": [
       [
         "StickyLootWindow"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "299640",
+    "slug": "stickysoundfx",
+    "name": "StickySoundFX",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StickySoundFX"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359616",
+    "slug": "stickysoundfx-classic",
+    "name": "StickySoundFX Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "StickySoundFXClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "101234",
+    "slug": "stickytarget",
+    "name": "StickyTarget",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StickyTarget"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359618",
+    "slug": "stickytarget-classic",
+    "name": "StickyTarget Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "StickyTargetClassic"
       ]
     ]
   },
