@@ -7658,6 +7658,20 @@
   },
   {
     "source": "curse",
+    "id": "359741",
+    "slug": "autositcrit",
+    "name": "AutoSitCrit",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoSitCrit"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101867",
     "slug": "autospecequip",
     "name": "AutoSpecEquip",
@@ -20706,6 +20720,20 @@
   },
   {
     "source": "curse",
+    "id": "359798",
+    "slug": "cleanbattlemap",
+    "name": "CleanBattlemap",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CleanBattlemap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15287",
     "slug": "cleanminimap",
     "name": "CleanMinimap",
@@ -23450,7 +23478,8 @@
     "slug": "crosshairs-enhanced",
     "name": "Crosshairs",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -29261,6 +29290,20 @@
   },
   {
     "source": "curse",
+    "id": "359705",
+    "slug": "driftclassic",
+    "name": "Drift Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Drift"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341287",
     "slug": "drill-sergeant",
     "name": "Drill Sergeant",
@@ -33735,6 +33778,20 @@
     "folders": [
       [
         "EssenceButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359714",
+    "slug": "essence-set-manager",
+    "name": "Essence Set Manager",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EssenceSetManager"
       ]
     ]
   },
@@ -42752,6 +42809,20 @@
   },
   {
     "source": "curse",
+    "id": "359655",
+    "slug": "guidelime-phelxs-dungeon-quest-guide",
+    "name": "Guidelime Phelx's Dungeon Quest Guide",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Phelx's Dungeon Quest Guide"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335852",
     "slug": "guidelime-busteas-1-60-leveling",
     "name": "Guidelime_Bustea's 1-60 Horde Leveling Guide",
@@ -49044,6 +49115,20 @@
     "folders": [
       [
         "IncentiveProgram"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359713",
+    "slug": "incite-raid-helper",
+    "name": "Incite Raid Helper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Incite-RaidHelper"
       ]
     ]
   },
@@ -60132,7 +60217,8 @@
     "slug": "mapline",
     "name": "MapLine",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -68533,6 +68619,20 @@
   },
   {
     "source": "curse",
+    "id": "359737",
+    "slug": "old-god-whispers",
+    "name": "Old God Whispers",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "OldGodWhispers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "254413",
     "slug": "old-macdonald",
     "name": "Old MacDonald",
@@ -76200,6 +76300,20 @@
     "folders": [
       [
         "REB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359808",
+    "slug": "recrystallize-auction-house-scanner",
+    "name": "RECrystallize - Auction House Scanner",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RECrystallize"
       ]
     ]
   },
@@ -102832,10 +102946,6 @@
     ],
     "folders": [
       [
-        "WorldFlightMap"
-      ],
-      [
-        "!WorldFlightMapLoader",
         "WorldFlightMap"
       ]
     ]
@@ -168538,6 +168648,7 @@
         "ARENAENEMYFRAME",
         "Artifacts",
         "AuctionFrame",
+        "Azerite",
         "BankFrame",
         "Battlefieldframe",
         "BlackMarket",
@@ -215533,6 +215644,21 @@
     "folders": [
       [
         "ScrapBook"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25496",
+    "slug": "",
+    "name": "RECrystallize - Auction House Scanner",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RECrystallize"
       ]
     ]
   },
