@@ -74540,11 +74540,6 @@
         "Quafe_MEKA",
         "Quafe_Overwatch",
         "Quafe"
-      ],
-      [
-        "Quafe_MEKA_Classic",
-        "Quafe_Overwatch",
-        "Quafe"
       ]
     ]
   },
@@ -215659,6 +215654,36 @@
     "folders": [
       [
         "RECrystallize"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25497",
+    "slug": "",
+    "name": "Master Looter Reminder",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MasterLooterReminder"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25498",
+    "slug": "",
+    "name": "Quest translator in Italiano",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWita_Quests"
       ]
     ]
   },
