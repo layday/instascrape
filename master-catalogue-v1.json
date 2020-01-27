@@ -1772,14 +1772,18 @@
   {
     "source": "curse",
     "id": "301668",
-    "slug": "async",
-    "name": "AdaptiveSync",
+    "slug": "adaptiveres",
+    "name": "AdaptiveRes",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "Async"
+      ],
+      [
+        "AdaptiveRes"
       ]
     ]
   },
@@ -168677,6 +168681,7 @@
         "mailframe",
         "MainMenuBar",
         "MERCHANTFRAME",
+        "miirGui",
         "Minimap",
         "MoneyFrame",
         "Optionsframe",
@@ -174673,6 +174678,7 @@
         "ARENAENEMYFRAME",
         "Artifacts",
         "AuctionFrame",
+        "Azerite",
         "BankFrame",
         "Battlefieldframe",
         "BlackMarket",
@@ -205948,15 +205954,14 @@
     "source": "wowi",
     "id": "24795",
     "slug": "",
-    "name": "Async (AdaptiveSync)",
+    "name": "AdaptiveRes",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "",
-        "__MACOSX"
+        "AdaptiveRes"
       ]
     ]
   },
@@ -214681,7 +214686,9 @@
     ],
     "folders": [
       [
-        "PartyPetFrames"
+        "",
+        "PartyPetFrames",
+        "src"
       ]
     ]
   },
@@ -215389,21 +215396,6 @@
   },
   {
     "source": "wowi",
-    "id": "25479",
-    "slug": "",
-    "name": "MiirGui Texture Pack [Blue] - PGC V5",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Interface"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "25480",
     "slug": "",
     "name": "ClassicICantCast",
@@ -215684,6 +215676,36 @@
     "folders": [
       [
         "WoWita_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25499",
+    "slug": "",
+    "name": "Persistent World Map",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PersistentWorldMap"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25500",
+    "slug": "",
+    "name": "FeignDeathResistAlert",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "FeignDeathResistAlert"
       ]
     ]
   },
