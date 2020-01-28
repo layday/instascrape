@@ -46865,6 +46865,7 @@
     "slug": "hide-world-map-minimap-button",
     "name": "Hide World Map Minimap Button",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -70515,6 +70516,20 @@
   },
   {
     "source": "curse",
+    "id": "360039",
+    "slug": "persistent-world-map",
+    "name": "Persistent World Map",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PersistentWorldMap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102097",
     "slug": "persistentmarks",
     "name": "PersistentMarks",
@@ -74530,7 +74545,7 @@
     "source": "curse",
     "id": "319533",
     "slug": "quafe-ui",
-    "name": "Quafe UI",
+    "name": "Quafe UI ( Quafe MEKA / Quafe Overwatch )",
     "compatibility": [
       "retail",
       "classic"
@@ -82768,6 +82783,20 @@
     "folders": [
       [
         "Serrah_Lio"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359894",
+    "slug": "serthanaui",
+    "name": "SerthanaUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SerthanaUI"
       ]
     ]
   },
@@ -214686,9 +214715,7 @@
     ],
     "folders": [
       [
-        "",
-        "PartyPetFrames",
-        "src"
+        "PartyPetFrames"
       ]
     ]
   },
