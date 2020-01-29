@@ -61328,6 +61328,20 @@
   },
   {
     "source": "curse",
+    "id": "360007",
+    "slug": "master-looter-reminder",
+    "name": "Master Looter Reminder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MasterLooterReminder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86832",
     "slug": "master-plan",
     "name": "Master Plan",
@@ -64665,6 +64679,20 @@
     "folders": [
       [
         "MoveAnything"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360406",
+    "slug": "movearound",
+    "name": "MoveAround",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MoveAround"
       ]
     ]
   },
@@ -99342,6 +99370,20 @@
   },
   {
     "source": "curse",
+    "id": "359854",
+    "slug": "vex-runes-bfa",
+    "name": "Vex Runes - BFA",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "vexrunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "295678",
     "slug": "vignetteannouncer",
     "name": "Vignette Announcer",
@@ -99378,8 +99420,8 @@
     ],
     "folders": [
       [
-        "ViksUI",
-        "Viks_ConfigUI"
+        "Viks_ConfigUI",
+        "ViksUI"
       ]
     ]
   },
@@ -100252,6 +100294,20 @@
   },
   {
     "source": "curse",
+    "id": "360085",
+    "slug": "warcraft-utils",
+    "name": "Warcraft Utils",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WarcraftUtils"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341918",
     "slug": "wardrobe",
     "name": "Wardrobe",
@@ -100801,6 +100857,20 @@
     "folders": [
       [
         "WeakAurasVoice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359931",
+    "slug": "weaponbufftracker",
+    "name": "WeaponBuffTracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WeaponBuffTracker"
       ]
     ]
   },
@@ -101572,6 +101642,20 @@
     "folders": [
       [
         "WhoLusted"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360210",
+    "slug": "whopulledav",
+    "name": "WhoPulledAV",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WhoPulledAV"
       ]
     ]
   },
@@ -102616,6 +102700,20 @@
   },
   {
     "source": "curse",
+    "id": "360247",
+    "slug": "worgen-barber-frame",
+    "name": "Worgen Barber Frame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WorgenBarberFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28196",
     "slug": "worgensniffremover",
     "name": "WorgenSniffRemover",
@@ -102933,6 +103031,20 @@
     "folders": [
       [
         "WorldQuestsList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360158",
+    "slug": "world-of-meme",
+    "name": "World of Meme",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WorldOfMemes"
       ]
     ]
   },
@@ -214510,6 +214622,21 @@
     "folders": [
       [
         "MoonscarletsChatScanner"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25419",
+    "slug": "",
+    "name": "Patch for Immersion (Queso)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Queso_Immersion_PATCH"
       ]
     ]
   },
