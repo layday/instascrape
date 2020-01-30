@@ -48304,6 +48304,20 @@
   },
   {
     "source": "curse",
+    "id": "360469",
+    "slug": "i-need-a-hero",
+    "name": "I Need a Hero",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "INeedAHero"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101518",
     "slug": "i-see-you-too",
     "name": "I See You Too",
