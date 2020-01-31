@@ -31190,7 +31190,8 @@
     "slug": "elephant",
     "name": "Elephant",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -32378,6 +32379,20 @@
       ],
       [
         "ElvUI_BenikUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "41145",
+    "slug": "elvui_cardinalpoints",
+    "name": "ElvUI_CardinalPoints",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_CardinalPoints"
       ]
     ]
   },
@@ -45999,6 +46014,20 @@
     "folders": [
       [
         "HeavyLoot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360603",
+    "slug": "heck-trade-chat",
+    "name": "Heck Trade Chat",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HeckTradeChat"
       ]
     ]
   },
@@ -101912,6 +101941,20 @@
     "folders": [
       [
         "WindDungeonHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360572",
+    "slug": "windfury-hud",
+    "name": "Windfury HUD",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Windfury_HUD"
       ]
     ]
   },
@@ -216032,6 +216075,16 @@
     "id": "64",
     "slug": "",
     "name": "ElvUI Actionbar Combat State",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "152",
+    "slug": "",
+    "name": "ElvUI Cardinal Points",
     "compatibility": [
       "retail"
     ],
