@@ -32375,10 +32375,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -53930,7 +53930,8 @@
     "slug": "lagbar",
     "name": "LagBar",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -80332,7 +80333,8 @@
     "slug": "rightclickselfcast",
     "name": "RightClickSelfCast",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110565,7 +110567,8 @@
     "slug": "xandurability",
     "name": "xanDurability",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110596,7 +110599,8 @@
     "slug": "xanexp",
     "name": "xanExp ",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110613,7 +110617,8 @@
     "slug": "xangoldmine",
     "name": "xanGoldMine",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
