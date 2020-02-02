@@ -58314,7 +58314,8 @@
     "slug": "lootrollmover",
     "name": "LootRollMover",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110516,7 +110517,8 @@
     "slug": "xanbufftimers",
     "name": "xanBuffTimers",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110550,7 +110552,8 @@
     "slug": "xandebufftimers",
     "name": "xanDebuffTimers ",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -198211,8 +198214,7 @@
     ],
     "folders": [
       [
-        "ravNameplates",
-        "__MACOSX"
+        "ravNameplates"
       ]
     ]
   },
@@ -201336,7 +201338,9 @@
     ],
     "folders": [
       [
-        "xanOrderHalls"
+        "libs",
+        "locale",
+        "widgets"
       ]
     ]
   },
@@ -214691,14 +214695,14 @@
     "source": "wowi",
     "id": "25419",
     "slug": "",
-    "name": "Patch for Immersion (Queso)",
+    "name": "Theme for Storyline (Queso)",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "Queso_Immersion_PATCH"
+        "Storyline"
       ]
     ]
   },
