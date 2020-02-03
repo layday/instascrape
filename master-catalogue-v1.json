@@ -8161,7 +8161,6 @@
     "slug": "azeriteui-classic",
     "name": "AzeriteUI for WoW Classic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -91857,7 +91856,8 @@
     "slug": "targetclassbutton",
     "name": "TargetClassButton",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -215926,6 +215926,21 @@
     "folders": [
       [
         "FeignDeathResistAlert"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25501",
+    "slug": "",
+    "name": "Skill Info +",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SkillInfoPlus"
       ]
     ]
   },
