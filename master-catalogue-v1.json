@@ -23059,6 +23059,20 @@
   },
   {
     "source": "curse",
+    "id": "360960",
+    "slug": "corruption-tooltips",
+    "name": "Corruption Tooltips",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CorruptionTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13715",
     "slug": "cosplay",
     "name": "Cosplay",
@@ -31641,6 +31655,20 @@
     "folders": [
       [
         "ElvUI_CoolLine_Wrapper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360982",
+    "slug": "elvui-corruption-datatext",
+    "name": "ElvUI Corruption Datatext",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_CorruptionDT"
       ]
     ]
   },
@@ -49053,6 +49081,20 @@
   },
   {
     "source": "curse",
+    "id": "360127",
+    "slug": "in-memory-dkp-prices",
+    "name": "In Memory DKP Prices",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "In_Memory_DKP_Values"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89139",
     "slug": "ipm",
     "name": "In Progress Missions",
@@ -58618,6 +58660,20 @@
   },
   {
     "source": "curse",
+    "id": "360927",
+    "slug": "lorti-ui-remake",
+    "name": "Lorti UI Remake",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Lorti-UI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "16305",
     "slug": "losecontrol",
     "name": "LoseControl",
@@ -58769,6 +58825,20 @@
     "folders": [
       [
         "LowHP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361038",
+    "slug": "lowspeak",
+    "name": "LowSpeak",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LowSpeak"
       ]
     ]
   },
@@ -69994,6 +70064,20 @@
   },
   {
     "source": "curse",
+    "id": "361116",
+    "slug": "paragon-rewards",
+    "name": "Paragon Rewards",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ParagonRewards"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "265315",
     "slug": "paragonbars",
     "name": "ParagonBars",
@@ -76503,6 +76587,20 @@
   },
   {
     "source": "curse",
+    "id": "361173",
+    "slug": "rhel",
+    "name": "RHEL",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RHEL"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "294515",
     "slug": "rp-adjutant",
     "name": "RP Adjutant",
@@ -79624,6 +79722,21 @@
     "folders": [
       [
         "Reminders"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360868",
+    "slug": "remindr",
+    "name": "Remindr",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Remindr"
       ]
     ]
   },
@@ -85845,6 +85958,20 @@
     "folders": [
       [
         "SkillHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361015",
+    "slug": "skill-info",
+    "name": "Skill Info +",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SkillInfoPlus"
       ]
     ]
   },
@@ -98228,6 +98355,20 @@
     "folders": [
       [
         "UIHiddenTextRemover"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361208",
+    "slug": "uifader-classic",
+    "name": "UIFader Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "UIFader_Classic"
       ]
     ]
   },
@@ -207608,7 +207749,8 @@
         "WeakAuras",
         "WeakAurasOptions",
         "WeakAurasModelPaths",
-        "WeakAurasTemplates"
+        "WeakAurasTemplates",
+        "WeakAurasArchive"
       ]
     ]
   },
@@ -214695,14 +214837,14 @@
     "source": "wowi",
     "id": "25419",
     "slug": "",
-    "name": "Theme for Storyline (Queso)",
+    "name": "Questo (ALPHA CONCEPT ADDON)",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "Storyline"
+        "Questo"
       ]
     ]
   },
@@ -215941,6 +216083,21 @@
     "folders": [
       [
         "SkillInfoPlus"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25502",
+    "slug": "",
+    "name": "CooldownWatch Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CooldownWatch"
       ]
     ]
   },
