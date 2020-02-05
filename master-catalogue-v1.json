@@ -30844,6 +30844,20 @@
   },
   {
     "source": "curse",
+    "id": "360813",
+    "slug": "easydestroy",
+    "name": "EasyDestroy Revived",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EasyDestroyRevived"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "103196",
     "slug": "easydisenchant",
     "name": "EasyDisenchant",
@@ -62904,6 +62918,20 @@
   },
   {
     "source": "curse",
+    "id": "361142",
+    "slug": "minimapcoordinates",
+    "name": "MinimapCoordinates",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MinimapCoordinates"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "277070",
     "slug": "minimapline",
     "name": "MinimapLine",
@@ -73365,6 +73393,20 @@
   },
   {
     "source": "curse",
+    "id": "361123",
+    "slug": "premade-applicants-filter",
+    "name": "Premade Applicants Filter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PremadeApplicantsFilter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87733",
     "slug": "premade-filter",
     "name": "Premade Filter",
@@ -76900,6 +76942,20 @@
   },
   {
     "source": "curse",
+    "id": "361272",
+    "slug": "ragequitguild",
+    "name": "Ragequit Guild Addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Ragequit"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "92060",
     "slug": "raid-assist",
     "name": "Raid Assist",
@@ -78445,6 +78501,20 @@
   },
   {
     "source": "curse",
+    "id": "361260",
+    "slug": "raretrackercore-rt",
+    "name": "RareTrackerCore (RT)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareTrackerCore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "327286",
     "slug": "raretrackermechagon-rtm",
     "name": "RareTrackerMechagon (RTM)",
@@ -79729,7 +79799,7 @@
     "source": "curse",
     "id": "360868",
     "slug": "remindr",
-    "name": "Remindr",
+    "name": "Remindr - Simple Reminders",
     "compatibility": [
       "retail",
       "classic"
@@ -88555,6 +88625,20 @@
     "folders": [
       [
         "SpyGnome"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361395",
+    "slug": "square-one-dkp-values",
+    "name": "Square One DKP Values",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SQ1_DKP_Values"
       ]
     ]
   },
