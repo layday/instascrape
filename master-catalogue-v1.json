@@ -467,6 +467,20 @@
   },
   {
     "source": "curse",
+    "id": "361413",
+    "slug": "abgp",
+    "name": "ABGP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ABGP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "274868",
     "slug": "ace3-gui-panel-widget",
     "name": "ACE3 GUI Panel Widget",
@@ -1001,6 +1015,20 @@
     "folders": [
       [
         "AbstractionMarks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361453",
+    "slug": "abyauctionfavoritessavior",
+    "name": "AbyAuctionFavoritesSavior",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AbyAuctionFavoritesSavior"
       ]
     ]
   },
@@ -2100,6 +2128,20 @@
   },
   {
     "source": "curse",
+    "id": "361466",
+    "slug": "adibags-corruption-gear",
+    "name": "AdiBags - Corruption Gear",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_CorruptionGear"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "310449",
     "slug": "adibags-fishing-items",
     "name": "AdiBags - Fishing Items",
@@ -2235,6 +2277,20 @@
     "folders": [
       [
         "AdiBags_BoE_BoA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361415",
+    "slug": "adibags-corrupted-items",
+    "name": "AdiBags Corrupted Items",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Corrupted"
       ]
     ]
   },
@@ -3540,7 +3596,8 @@
     "slug": "angry-assignments",
     "name": "Angry Assignments",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -18802,7 +18859,8 @@
     "slug": "chatinputtop",
     "name": "ChatInputTop",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -28488,6 +28546,20 @@
     "folders": [
       [
         "DisMe"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361422",
+    "slug": "disable-map-maximize",
+    "name": "Disable Map Maximize",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DisableMapMaximize"
       ]
     ]
   },
@@ -43165,8 +43237,8 @@
   {
     "source": "curse",
     "id": "82308",
-    "slug": "guild-bank-snapshots",
-    "name": "Guild Bank Snapshots",
+    "slug": "guild-bank-tools",
+    "name": "Guild Bank Tools",
     "compatibility": [
       "retail"
     ],
@@ -45711,12 +45783,40 @@
   },
   {
     "source": "curse",
+    "id": "361516",
+    "slug": "healbot-classic",
+    "name": "HealBot Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HealBot_br",
+        "HealBot_cn",
+        "HealBot_Data",
+        "HealBot_de",
+        "HealBot_en",
+        "HealBot_es",
+        "HealBot_fr",
+        "HealBot_gr",
+        "HealBot_hu",
+        "HealBot_it",
+        "HealBot_kr",
+        "HealBot_Options",
+        "HealBot_ru",
+        "HealBot_Tips",
+        "HealBot_tw",
+        "HealBot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "2743",
     "slug": "heal-bot-continued",
     "name": "HealBot Continued",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -48962,6 +49062,20 @@
     "folders": [
       [
         "ImoFriendGroups"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361391",
+    "slug": "import-data-group-calendar-classic",
+    "name": "Import Data for Group Calendar (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GroupCalendar_ImportData"
       ]
     ]
   },
@@ -60136,6 +60250,20 @@
     "folders": [
       [
         "ManaMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360448",
+    "slug": "manabreak",
+    "name": "ManaBreak",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ManaBreak"
       ]
     ]
   },
@@ -110902,7 +111030,8 @@
     "slug": "xantooltiphoudini",
     "name": "xanTooltipHoudini",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110916,7 +111045,8 @@
     "slug": "xantooltipicon",
     "name": "xanTooltipIcon",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -214921,7 +215051,7 @@
     "source": "wowi",
     "id": "25419",
     "slug": "",
-    "name": "Questo (ALPHA CONCEPT ADDON)",
+    "name": "Questo (ALPHA)",
     "compatibility": [
       "retail",
       "classic"
