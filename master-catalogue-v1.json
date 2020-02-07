@@ -2338,6 +2338,20 @@
   },
   {
     "source": "curse",
+    "id": "361561",
+    "slug": "adibags_blackempiregear",
+    "name": "AdiBags_BlackEmpireGear",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_BlackEmpireGear"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "47706",
     "slug": "adibags_bound",
     "name": "AdiBags_Bound",
@@ -32488,10 +32502,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -77555,6 +77569,20 @@
   },
   {
     "source": "curse",
+    "id": "361228",
+    "slug": "raidannouncement",
+    "name": "RaidAnnouncement",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidAnnouncement"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "14556",
     "slug": "raidbuffstatus",
     "name": "RaidBuffStatus",
@@ -81804,7 +81832,7 @@
     "slug": "safequeue",
     "name": "SafeQueue",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -216380,6 +216408,16 @@
     "id": "84",
     "slug": "",
     "name": "Altoholic Count Hider",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "153",
+    "slug": "",
+    "name": "Arcane_UI",
     "compatibility": [
       "retail"
     ],
