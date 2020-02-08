@@ -28082,6 +28082,20 @@
   },
   {
     "source": "curse",
+    "id": "361700",
+    "slug": "details-sundercount-plugin",
+    "name": "Details!: SunderCount (plugin)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Details_SunderCount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "95101",
     "slug": "details-target-caller-plugin",
     "name": "Details!: Target Caller (plugin)",
@@ -64716,6 +64730,21 @@
   },
   {
     "source": "curse",
+    "id": "361714",
+    "slug": "mousesensitivity",
+    "name": "MouseSensitivity",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MouseSensitivity"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "318962",
     "slug": "mouseshake",
     "name": "MouseShake",
@@ -100595,6 +100624,20 @@
   },
   {
     "source": "curse",
+    "id": "361656",
+    "slug": "wanmark",
+    "name": "WanMark",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WanMark"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "261947",
     "slug": "wanderers-gambling",
     "name": "Wanderers Gambling",
@@ -108188,6 +108231,20 @@
     "folders": [
       [
         "ifarm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361649",
+    "slug": "itruliasunder",
+    "name": "itruliaSunder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "itruliaSunder"
       ]
     ]
   },
