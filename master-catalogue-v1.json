@@ -2921,6 +2921,20 @@
   },
   {
     "source": "curse",
+    "id": "361312",
+    "slug": "ajdkp",
+    "name": "AjDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AjDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "317378",
     "slug": "akitools",
     "name": "AkiTools",
@@ -12801,7 +12815,8 @@
     "slug": "blizzmove",
     "name": "BlizzMove",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -15512,6 +15527,20 @@
     "folders": [
       [
         "Broker_PvPinfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361735",
+    "slug": "broker_rehack",
+    "name": "Broker_REHack",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_REHack"
       ]
     ]
   },
@@ -33596,7 +33625,8 @@
     "slug": "epic-music-player",
     "name": "EpicMusicPlayer",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -63078,7 +63108,8 @@
     "slug": "minimapcoordinates",
     "name": "MinimapCoordinates",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -67048,6 +67079,20 @@
   },
   {
     "source": "curse",
+    "id": "361780",
+    "slug": "nefhunterhelper",
+    "name": "NefHunterHelper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NefHunterHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "36236",
     "slug": "neonchat",
     "name": "NeonChat v3.2",
@@ -69317,6 +69362,20 @@
     "folders": [
       [
         "OneShotProspect"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361219",
+    "slug": "ony-bag-mate",
+    "name": "Ony Bag Mate",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "OnyBagMate"
       ]
     ]
   },
@@ -215136,7 +215195,7 @@
     "source": "wowi",
     "id": "25419",
     "slug": "",
-    "name": "Questo (ALPHA)",
+    "name": "Questo (BETA)",
     "compatibility": [
       "retail",
       "classic"
@@ -216397,6 +216456,21 @@
     "folders": [
       [
         "CooldownWatch"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25503",
+    "slug": "",
+    "name": "Corruption Tooltips",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CorruptionTooltips"
       ]
     ]
   },
