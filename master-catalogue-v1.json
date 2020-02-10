@@ -3320,11 +3320,34 @@
     "slug": "altoholic",
     "name": "Altoholic",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "Altoholic"
+      ],
+      [
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore_Spells",
+        "DataStore_Stats",
+        "DataStore_Talents",
+        "Altoholic",
+        "Altoholic_Agenda",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Agenda",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore"
       ],
       [
         "Altoholic_Achievements",
@@ -3337,7 +3360,6 @@
         "Altoholic"
       ],
       [
-        "DataStore_Stats",
         "DataStore_Talents",
         "Altoholic",
         "Altoholic_Achievements",
@@ -3361,6 +3383,7 @@
         "DataStore_Quests",
         "DataStore_Reputations",
         "DataStore_Spells",
+        "DataStore_Stats",
         "DataStore"
       ]
     ]
@@ -90148,6 +90171,20 @@
   },
   {
     "source": "curse",
+    "id": "361649",
+    "slug": "itruliasunder",
+    "name": "Sunder Armor Counter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "itruliaSunder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3769",
     "slug": "sunn-viewport-art",
     "name": "Sunn - Viewport Art",
@@ -99038,10 +99075,10 @@
         "UnitFramesPlus"
       ],
       [
+        "UnitFramesPlus_Threat",
         "UnitFramesPlus_Cooldown",
         "UnitFramesPlus_MobHealth",
         "UnitFramesPlus_Options",
-        "UnitFramesPlus_Threat",
         "UnitFramesPlus"
       ]
     ]
@@ -108290,20 +108327,6 @@
     "folders": [
       [
         "ifarm"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "361649",
-    "slug": "itruliasunder",
-    "name": "itruliaSunder",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "itruliaSunder"
       ]
     ]
   },
@@ -216471,6 +216494,21 @@
     "folders": [
       [
         "CorruptionTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25504",
+    "slug": "",
+    "name": "Immersion ExtraFade",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Immersion_ExtraFade"
       ]
     ]
   },
