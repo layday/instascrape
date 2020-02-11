@@ -2036,20 +2036,6 @@
   },
   {
     "source": "curse",
-    "id": "325447",
-    "slug": "adibags-zone-items",
-    "name": "AdiBags - BFA Zone Items",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_BfAZoneItems"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "351762",
     "slug": "adibags-boeoverlay",
     "name": "AdiBags - BOEOverlay",
@@ -2235,6 +2221,20 @@
     "folders": [
       [
         "AdiBags-UnusableItemOverlay"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "325447",
+    "slug": "adibags-zone-items",
+    "name": "AdiBags - Zone Items",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_BfAZoneItems"
       ]
     ]
   },
@@ -3328,28 +3328,6 @@
         "Altoholic"
       ],
       [
-        "DataStore_Mails",
-        "DataStore_Quests",
-        "DataStore_Reputations",
-        "DataStore_Spells",
-        "DataStore_Stats",
-        "DataStore_Talents",
-        "Altoholic",
-        "Altoholic_Agenda",
-        "Altoholic_Characters",
-        "Altoholic_Grids",
-        "Altoholic_Guild",
-        "Altoholic_Search",
-        "Altoholic_Summary",
-        "DataStore_Agenda",
-        "DataStore_Auctions",
-        "DataStore_Characters",
-        "DataStore_Containers",
-        "DataStore_Crafts",
-        "DataStore_Inventory",
-        "DataStore"
-      ],
-      [
         "Altoholic_Achievements",
         "Altoholic_Agenda",
         "Altoholic_Characters",
@@ -3384,6 +3362,23 @@
         "DataStore_Reputations",
         "DataStore_Spells",
         "DataStore_Stats",
+        "DataStore"
+      ],
+      [
+        "Altoholic",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
         "DataStore"
       ]
     ]
@@ -4982,6 +4977,20 @@
     "folders": [
       [
         "DBM-VPARNOLD"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362102",
+    "slug": "artemis",
+    "name": "Artemis",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Artemis"
       ]
     ]
   },
@@ -7398,6 +7407,20 @@
     "folders": [
       [
         "AutoLoggerClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361114",
+    "slug": "autologoutalert",
+    "name": "AutoLogoutAlert",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoLogoutAlert"
       ]
     ]
   },
@@ -26554,21 +26577,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26580,6 +26588,21 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -28136,7 +28159,7 @@
     "source": "curse",
     "id": "361700",
     "slug": "details-sundercount-plugin",
-    "name": "Details!: SunderCount (plugin)",
+    "name": "Details!: Sunder Count (plugin)",
     "compatibility": [
       "classic"
     ],
@@ -46185,6 +46208,20 @@
   },
   {
     "source": "curse",
+    "id": "362050",
+    "slug": "heartshapedboxtracker",
+    "name": "HeartShapedBoxTracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HeartShapedBoxTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85421",
     "slug": "heartbeat",
     "name": "Heartbeat",
@@ -49044,6 +49081,20 @@
     "folders": [
       [
         "Immersion"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362188",
+    "slug": "immersion-extrafade",
+    "name": "Immersion ExtraFade",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Immersion_ExtraFade"
       ]
     ]
   },
@@ -77586,6 +77637,20 @@
   },
   {
     "source": "curse",
+    "id": "362259",
+    "slug": "raid-helper-classic",
+    "name": "Raid-Helper Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Raid-Helper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20921",
     "slug": "raidachievement",
     "name": "RaidAchievement",
@@ -94103,6 +94168,20 @@
   },
   {
     "source": "curse",
+    "id": "362122",
+    "slug": "tip2mouse",
+    "name": "Tip2Mouse",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Tip2Mouse"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "4829",
     "slug": "tip-tac",
     "name": "TipTac",
@@ -99945,6 +100024,20 @@
     "folders": [
       [
         "VignetteAnnouncer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "361950",
+    "slug": "viking-hud",
+    "name": "Viking HUD",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VikingHud"
       ]
     ]
   },
