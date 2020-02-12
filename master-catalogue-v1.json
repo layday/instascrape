@@ -5461,6 +5461,20 @@
   },
   {
     "source": "curse",
+    "id": "354008",
+    "slug": "askmrrobotclassic",
+    "name": "AskMrRobotClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AskMrRobotClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101501",
     "slug": "asmongoldbd",
     "name": "AsmongoldBD",
@@ -11825,6 +11839,7 @@
         "BigWigs_Onyxia",
         "BigWigs_MoltenCore",
         "BigWigs_World",
+        "BigWigs_BlackwingLair",
         "BigWigs"
       ],
       [
@@ -28319,6 +28334,20 @@
     "folders": [
       [
         "DiHook"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362256",
+    "slug": "diablo-artwork-and-action-bars-by-stormhand",
+    "name": "Diablo Artwork and Action Bars by Stormhand",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DiabloArtWork"
       ]
     ]
   },
@@ -49090,7 +49119,8 @@
     "slug": "immersion-extrafade",
     "name": "Immersion ExtraFade",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -216593,6 +216623,21 @@
   {
     "source": "wowi",
     "id": "25504",
+    "slug": "",
+    "name": "Immersion ExtraFade",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Immersion_ExtraFade"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25505",
     "slug": "",
     "name": "Immersion ExtraFade",
     "compatibility": [
