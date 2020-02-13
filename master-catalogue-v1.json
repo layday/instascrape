@@ -13598,6 +13598,20 @@
   },
   {
     "source": "curse",
+    "id": "362383",
+    "slug": "bookie",
+    "name": "Bookie",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Bookie"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "302041",
     "slug": "boomerang-anti-snipe",
     "name": "Boomerang Anti-Snipe",
@@ -16314,6 +16328,20 @@
     "folders": [
       [
         "BuffEnoughClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362203",
+    "slug": "buffme",
+    "name": "BuffMe",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuffMe"
       ]
     ]
   },
@@ -54754,6 +54782,20 @@
   },
   {
     "source": "curse",
+    "id": "361971",
+    "slug": "leeroy-hill-cats-power",
+    "name": "Leeroy Hill Cats Power",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LHCP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "258873",
     "slug": "leeroyhillcatspower-revived",
     "name": "LeeroyHillCatsPower Revived",
@@ -67014,6 +67056,21 @@
   },
   {
     "source": "curse",
+    "id": "360681",
+    "slug": "neat-plates-blizzardplates",
+    "name": "Neat Plates: BlizzardPlates",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NeatPlates_BlizzardPlates"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299093",
     "slug": "neatplates",
     "name": "NeatPlates",
@@ -67363,6 +67420,20 @@
     "folders": [
       [
         "Nextlevel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362524",
+    "slug": "nexusraidtracker",
+    "name": "NexusRaidTracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidTracker"
       ]
     ]
   },
@@ -93413,6 +93484,20 @@
     "folders": [
       [
         "ThreatClassic2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362403",
+    "slug": "threatmeterquery",
+    "name": "ThreatMeterQuery",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ThreatMeterQuery"
       ]
     ]
   },
