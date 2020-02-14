@@ -41026,6 +41026,20 @@
   },
   {
     "source": "curse",
+    "id": "362567",
+    "slug": "gold-standard-gear-points",
+    "name": "Gold Standard Gear Points",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoldPoints"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98691",
     "slug": "gold-tracker-plus",
     "name": "Gold Tracker Plus",
@@ -47216,6 +47230,20 @@
     "folders": [
       [
         "HideWorldMapMinimapButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362636",
+    "slug": "hide-quest-objectives",
+    "name": "Hide quest Objectives",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideQuestObjectives"
       ]
     ]
   },
@@ -71170,6 +71198,20 @@
     "folders": [
       [
         "PersonalBlacklist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362574",
+    "slug": "personal-dps-assistant-pda-classic",
+    "name": "Personal Dps Assistant (PDA) - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PDA-Classic"
       ]
     ]
   },
