@@ -3338,7 +3338,23 @@
         "Altoholic"
       ],
       [
-        "DataStore_Talents",
+        "Altoholic",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore"
+      ],
+      [
         "Altoholic",
         "Altoholic_Achievements",
         "Altoholic_Agenda",
@@ -3362,23 +3378,7 @@
         "DataStore_Reputations",
         "DataStore_Spells",
         "DataStore_Stats",
-        "DataStore"
-      ],
-      [
-        "Altoholic",
-        "Altoholic_Characters",
-        "Altoholic_Grids",
-        "Altoholic_Guild",
-        "Altoholic_Search",
-        "Altoholic_Summary",
-        "DataStore_Auctions",
-        "DataStore_Characters",
-        "DataStore_Containers",
-        "DataStore_Crafts",
-        "DataStore_Inventory",
-        "DataStore_Mails",
-        "DataStore_Quests",
-        "DataStore_Reputations",
+        "DataStore_Talents",
         "DataStore"
       ]
     ]
@@ -23249,6 +23249,20 @@
   },
   {
     "source": "curse",
+    "id": "362731",
+    "slug": "corruption-name-tooltips",
+    "name": "Corruption Name Tooltips",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CorruptionNameTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "360960",
     "slug": "corruption-tooltips",
     "name": "Corruption Tooltips",
@@ -23302,6 +23316,20 @@
       [
         "CouncilLootMaster_Council",
         "CouncilLootMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362766",
+    "slug": "countit",
+    "name": "CountIt",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CountIt"
       ]
     ]
   },
@@ -27938,6 +27966,20 @@
   },
   {
     "source": "curse",
+    "id": "91219",
+    "slug": "tasks",
+    "name": "Deprecated - Tasks",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Tasks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "81837",
     "slug": "derangement-pet-battle-cooldowns",
     "name": "Derangement's Pet Battle Cooldowns",
@@ -28097,9 +28139,9 @@
         "Details"
       ],
       [
-        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
+        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -28118,9 +28160,9 @@
         "Details"
       ],
       [
-        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
+        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -84238,6 +84280,20 @@
   },
   {
     "source": "curse",
+    "id": "362799",
+    "slug": "sharedmedia_maslengo",
+    "name": "SharedMedia_Maslengo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_Maslengo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "322243",
     "slug": "sharedmedia_n6",
     "name": "SharedMedia_N6",
@@ -92665,20 +92721,6 @@
     "folders": [
       [
         "TaskManager"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "91219",
-    "slug": "tasks",
-    "name": "Tasks",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Tasks"
       ]
     ]
   },
@@ -101626,6 +101668,7 @@
       ],
       [
         "WeakAurasOptions",
+        "WeakAurasTemplates",
         "WeakAurasArchive",
         "WeakAuras"
       ]
