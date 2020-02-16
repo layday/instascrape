@@ -9256,7 +9256,8 @@
     "slug": "bagsync",
     "name": "BagSync",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -59066,7 +59067,8 @@
     "slug": "lorti-ui-remake",
     "name": "Lorti UI Remake",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -83519,6 +83521,21 @@
   },
   {
     "source": "curse",
+    "id": "362834",
+    "slug": "separateur-de-nombre",
+    "name": "Separateur de nombre",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Separateur_de_nombre"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101569",
     "slug": "seraphim-dice",
     "name": "Seraphim Dice",
@@ -92575,6 +92592,20 @@
     "folders": [
       [
         "PortraitHealth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362811",
+    "slug": "targetannouncer",
+    "name": "TargetAnnouncer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TargetAnnouncer"
       ]
     ]
   },
@@ -111401,7 +111432,8 @@
     "slug": "xanerrordevourer",
     "name": "xanErrorDevourer",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
