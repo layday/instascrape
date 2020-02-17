@@ -3808,7 +3808,7 @@
   {
     "source": "curse",
     "id": "325843",
-    "slug": "announce-rare",
+    "slug": "announcerare",
     "name": "Announce Rare",
     "compatibility": [
       "retail"
@@ -31950,7 +31950,7 @@
   {
     "source": "curse",
     "id": "360982",
-    "slug": "elvui-corruption-datatext",
+    "slug": "elvui-corruptiondt",
     "name": "ElvUI Corruption Datatext",
     "compatibility": [
       "retail"
@@ -32131,20 +32131,6 @@
   },
   {
     "source": "curse",
-    "id": "322663",
-    "slug": "elvui-micro-menu-datatext",
-    "name": "ElvUI Game Menu Datatext",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_MicroMenuDatatext"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "87690",
     "slug": "elvui_garrisonres",
     "name": "ElvUI Garrison Resources DataText",
@@ -32216,7 +32202,7 @@
   {
     "source": "curse",
     "id": "50157",
-    "slug": "elvui_itemlevel",
+    "slug": "elvui-itemleveldatatext",
     "name": "ElvUI Item Level Datatext",
     "compatibility": [
       "retail"
@@ -32303,6 +32289,20 @@
   },
   {
     "source": "curse",
+    "id": "322663",
+    "slug": "elvui-micromenudatatext",
+    "name": "ElvUI Micro Menu Datatext",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_MicroMenuDatatext"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "35686",
     "slug": "elvui-microbar",
     "name": "ElvUI Microbar Enhancement",
@@ -32364,7 +32364,7 @@
   {
     "source": "curse",
     "id": "40227",
-    "slug": "elvui_professions",
+    "slug": "elvui-professions",
     "name": "ElvUI Professions Datatext",
     "compatibility": [
       "retail"
@@ -47165,6 +47165,20 @@
   },
   {
     "source": "curse",
+    "id": "362636",
+    "slug": "hide-quest-objectives",
+    "name": "Hide Quest Objectives",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideQuestObjectives"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "56253",
     "slug": "hide-quest-tracker",
     "name": "Hide Quest Tracker",
@@ -47273,20 +47287,6 @@
     "folders": [
       [
         "HideWorldMapMinimapButton"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "362636",
-    "slug": "hide-quest-objectives",
-    "name": "Hide quest Objectives",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "HideQuestObjectives"
       ]
     ]
   },
@@ -99679,6 +99679,7 @@
     "slug": "valhallaguildtools",
     "name": "ValhallaGuildTools",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -194495,7 +194496,7 @@
     ],
     "folders": [
       [
-        "GarrisonJukebox"
+        "GarrisonJukeBox"
       ]
     ]
   },
@@ -216849,6 +216850,21 @@
     "folders": [
       [
         "Immersion_ExtraFade"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25506",
+    "slug": "",
+    "name": "AmmoCount",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AmmoCount"
       ]
     ]
   },
