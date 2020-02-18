@@ -20627,6 +20627,20 @@
   },
   {
     "source": "curse",
+    "id": "358014",
+    "slug": "classicinstanthealth",
+    "name": "ClassicInstantHealth",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicInstantHealth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "348415",
     "slug": "classicinterrupt",
     "name": "ClassicInterrupt",
@@ -26649,6 +26663,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26660,21 +26689,6 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -38508,6 +38522,20 @@
     "folders": [
       [
         "GBRadio"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362868",
+    "slug": "gbankclassic",
+    "name": "GBankClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GBankClassic"
       ]
     ]
   },
@@ -56562,6 +56590,20 @@
     "folders": [
       [
         "LibInspect"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358013",
+    "slug": "libinstanthealth-1-0",
+    "name": "LibInstantHealth",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibInstantHealth-1.0"
       ]
     ]
   },
@@ -91533,6 +91575,34 @@
   },
   {
     "source": "curse",
+    "id": "362985",
+    "slug": "sweetsours-audio-pack-theun",
+    "name": "Sweetsour's Audio Pack - Theun",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-Theun"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362986",
+    "slug": "sweetsours-audio-pack-wolf",
+    "name": "Sweetsour's Audio Pack - Wolf",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-Wolf"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "285044",
     "slug": "sweetsours-audio-pack-yoshi",
     "name": "Sweetsour's Audio Pack - Yoshi",
@@ -91570,6 +91640,62 @@
     "folders": [
       [
         "CustomAudio"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362971",
+    "slug": "sweetsours-custom-audio-voicepack-fish",
+    "name": "Sweetsour's Custom Audio Voicepack - Fish",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-Fish"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362972",
+    "slug": "sweetsours-custom-audio-voicepack-katt",
+    "name": "Sweetsour's Custom Audio Voicepack - Katt",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-Katt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362976",
+    "slug": "sweetsours-custom-audio-voicepack-missbunniebell",
+    "name": "Sweetsour's Custom Audio Voicepack - MissBunnieBell",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-MissBunnieBell"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362979",
+    "slug": "sweetsours-custom-audio-voicepack-spelnos",
+    "name": "Sweetsour's Custom Audio Voicepack - Spelnos",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CustomAudio-Spelnos"
       ]
     ]
   },
@@ -96743,6 +96869,20 @@
     "folders": [
       [
         "TooltipItemCount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363098",
+    "slug": "tooltip-item-level",
+    "name": "Tooltip Item Level",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TooltipItemLevel"
       ]
     ]
   },
@@ -108179,6 +108319,20 @@
     "folders": [
       [
         "iDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "362904",
+    "slug": "iepgp",
+    "name": "iEPGP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "iEPGP"
       ]
     ]
   },
@@ -216865,6 +217019,36 @@
     "folders": [
       [
         "AmmoCount"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25507",
+    "slug": "",
+    "name": "yCriticalStrike",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "yCriticalStrike"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25508",
+    "slug": "",
+    "name": "LibClassicSpecs",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibClassicSpecs"
       ]
     ]
   },
