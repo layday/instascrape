@@ -13603,6 +13603,7 @@
     "slug": "bookie",
     "name": "Bookie",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -20861,12 +20862,11 @@
     ],
     "folders": [
       [
-        "Claw_Resources",
-        "Claw"
-      ],
-      [
         "Claw",
         "Basic_Resources"
+      ],
+      [
+        "Claw"
       ]
     ]
   },
@@ -23287,6 +23287,20 @@
     "folders": [
       [
         "CorruptionTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363347",
+    "slug": "corruptionaffix",
+    "name": "CorruptionAffix",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CorruptionAffix"
       ]
     ]
   },
@@ -26663,21 +26677,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26689,6 +26688,21 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -32840,6 +32854,21 @@
     "folders": [
       [
         "ELvUI_LootOptions"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363472",
+    "slug": "elvui_luckyoneui",
+    "name": "ElvUI_LuckyoneUI",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ElvUI_LuckyoneUI"
       ]
     ]
   },
@@ -63917,6 +63946,20 @@
   },
   {
     "source": "curse",
+    "id": "363463",
+    "slug": "modern-targetframe",
+    "name": "Modern TargetFrame",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ModernTargetFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "351855",
     "slug": "mog-assistant",
     "name": "Mog Assistant",
@@ -74618,6 +74661,20 @@
   },
   {
     "source": "curse",
+    "id": "363452",
+    "slug": "proletenbam",
+    "name": "ProletenB\u00e4m",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ProletenBam"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "261091",
     "slug": "promisescounter",
     "name": "PromisesCounter",
@@ -82228,6 +82285,20 @@
     "folders": [
       [
         "SacriRaidBuffed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363233",
+    "slug": "safe-pull-classic",
+    "name": "Safe Pull Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SafePullClassic"
       ]
     ]
   },
@@ -104971,6 +105042,20 @@
     "folders": [
       [
         "XToLevel_Classic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363346",
+    "slug": "xanesh-practice",
+    "name": "Xanesh Practice",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "XaneshPractice"
       ]
     ]
   },
@@ -217053,6 +217138,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25509",
+    "slug": "",
+    "name": "ClassicInstantHealth",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicInstantHealth"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -217397,6 +217497,16 @@
     "id": "112",
     "slug": "",
     "name": "ElvUI_GlobalFadePersist",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "154",
+    "slug": "",
+    "name": "ElvUI_LuckyoneUI",
     "compatibility": [
       "retail"
     ],
