@@ -28189,9 +28189,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -29349,6 +29349,21 @@
     "folders": [
       [
         "DotFocus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363571",
+    "slug": "doughboy",
+    "name": "Doughboy",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Doughboy"
       ]
     ]
   },
@@ -58558,6 +58573,20 @@
   },
   {
     "source": "curse",
+    "id": "363570",
+    "slug": "lootspecswapper",
+    "name": "Loot Spec Swapper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LootSpecSwapper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "93818",
     "slug": "loot-toasts",
     "name": "Loot Toasts",
@@ -67535,6 +67564,20 @@
     "folders": [
       [
         "NeverExit"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363583",
+    "slug": "never-locky",
+    "name": "Never Locky",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NeverLocky"
       ]
     ]
   },
@@ -79648,20 +79691,6 @@
     "folders": [
       [
         "RIDC"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "338835",
-    "slug": "real-mob-health",
-    "name": "Real Mob Health",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "RealMobHealth"
       ]
     ]
   },
@@ -110908,20 +110937,6 @@
       ],
       [
         "targetassist"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "349175",
-    "slug": "tdbag2",
-    "name": "tdBag2",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "tdBag2"
       ]
     ]
   },
@@ -208915,21 +208930,6 @@
   },
   {
     "source": "wowi",
-    "id": "24924",
-    "slug": "",
-    "name": "Real Mob Health",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "RealMobHealth"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "24925",
     "slug": "",
     "name": "ClassicCastbars",
@@ -217149,6 +217149,21 @@
     "folders": [
       [
         "ClassicInstantHealth"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25510",
+    "slug": "",
+    "name": "Modern TargetFrame",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ModernTargetFrame"
       ]
     ]
   },
