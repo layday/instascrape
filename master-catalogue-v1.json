@@ -12902,6 +12902,21 @@
   },
   {
     "source": "curse",
+    "id": "363665",
+    "slug": "blizzard-interface-display-manager",
+    "name": "Blizzard Interface Display Manager",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BlizzardInterfaceDisplayManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "257283",
     "slug": "blizzard-nameplates-threat",
     "name": "Blizzard Nameplates - Threat",
@@ -24390,6 +24405,20 @@
     "folders": [
       [
         "DBM-VPDingdiringKR"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363640",
+    "slug": "dbm-voice-pack-dowbones-classic",
+    "name": "DBM Voice Pack - Dowbones Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-VPDowbonesClassic"
       ]
     ]
   },
