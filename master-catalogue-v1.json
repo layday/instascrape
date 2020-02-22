@@ -2907,6 +2907,20 @@
   },
   {
     "source": "curse",
+    "id": "363289",
+    "slug": "air-warlock-classic",
+    "name": "Air Warlock Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AirWarlock"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "67669",
     "slug": "aqt",
     "name": "Aiue's Quest Tracker (AQT)",
@@ -3339,23 +3353,6 @@
       ],
       [
         "Altoholic",
-        "Altoholic_Characters",
-        "Altoholic_Grids",
-        "Altoholic_Guild",
-        "Altoholic_Search",
-        "Altoholic_Summary",
-        "DataStore_Auctions",
-        "DataStore_Characters",
-        "DataStore_Containers",
-        "DataStore_Crafts",
-        "DataStore_Inventory",
-        "DataStore_Mails",
-        "DataStore_Quests",
-        "DataStore_Reputations",
-        "DataStore"
-      ],
-      [
-        "Altoholic",
         "Altoholic_Achievements",
         "Altoholic_Agenda",
         "Altoholic_Characters",
@@ -3379,6 +3376,23 @@
         "DataStore_Spells",
         "DataStore_Stats",
         "DataStore_Talents",
+        "DataStore"
+      ],
+      [
+        "Altoholic",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
         "DataStore"
       ]
     ]
@@ -10991,6 +11005,20 @@
     "folders": [
       [
         "BenefitsWithFriends"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "360318",
+    "slug": "best-in-slot-classic",
+    "name": "Best In Slot - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BestInSlotClassic"
       ]
     ]
   },
@@ -21268,6 +21296,20 @@
   },
   {
     "source": "curse",
+    "id": "363803",
+    "slug": "cloudy-tooltip-mod-classic",
+    "name": "Cloudy Tooltip Mod (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CloudyTooltipMod"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "60238",
     "slug": "cloudy-trade-skill",
     "name": "Cloudy TradeSkill",
@@ -21282,11 +21324,39 @@
   },
   {
     "source": "curse",
+    "id": "363811",
+    "slug": "cloudy-tradeskill-classic",
+    "name": "Cloudy TradeSkill (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CloudyTradeSkill"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "51819",
     "slug": "cloudy-tweaks",
     "name": "Cloudy Tweaks",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "CloudyTweaks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363809",
+    "slug": "cloudy-tweaks-classic",
+    "name": "Cloudy Tweaks (Classic)",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -28229,7 +28299,7 @@
     "source": "curse",
     "id": "75162",
     "slug": "details-advanced-death-logs-plug",
-    "name": "Details!: Advanced Death Logs (plugin)",
+    "name": "Details! Damage Meter: Advanced Death Logs (plugin)",
     "compatibility": [
       "retail"
     ],
@@ -28243,13 +28313,55 @@
     "source": "curse",
     "id": "79620",
     "slug": "details-chart-viewer-plugin",
-    "name": "Details!: Chart Viewer (plugin)",
+    "name": "Details! Damage Meter: Chart Viewer (plugin)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
         "Details_ChartViewer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "68269",
+    "slug": "details_raidpowerbars",
+    "name": "Details! Damage Meter: Raid Power Bars (plugin)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Details_RaidPowerBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "95101",
+    "slug": "details-target-caller-plugin",
+    "name": "Details! Damage Meter: Target Caller (plugin)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Details_TargetCaller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "70350",
+    "slug": "details_timeline",
+    "name": "Details! Damage Meter: Time Line (plugin)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Details_TimeLine"
       ]
     ]
   },
@@ -28264,6 +28376,20 @@
     "folders": [
       [
         "Details_ExplosiveOrbs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "97288",
+    "slug": "libdframework",
+    "name": "Details!: Framework (library)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibDFramework-1.0"
       ]
     ]
   },
@@ -28286,20 +28412,6 @@
   },
   {
     "source": "curse",
-    "id": "68269",
-    "slug": "details_raidpowerbars",
-    "name": "Details!: Raid Power Bars (plugin)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Details_RaidPowerBars"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "361700",
     "slug": "details-sundercount-plugin",
     "name": "Details!: Sunder Count (plugin)",
@@ -28309,34 +28421,6 @@
     "folders": [
       [
         "Details_SunderCount"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "95101",
-    "slug": "details-target-caller-plugin",
-    "name": "Details!: Target Caller (plugin)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Details_TargetCaller"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "70350",
-    "slug": "details_timeline",
-    "name": "Details!: Time Line (plugin)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Details_TimeLine"
       ]
     ]
   },
@@ -44125,6 +44209,20 @@
   },
   {
     "source": "curse",
+    "id": "363791",
+    "slug": "guildintooltip",
+    "name": "GuildInTooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildInTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306406",
     "slug": "guildkeys",
     "name": "GuildKeys",
@@ -51659,6 +51757,20 @@
   },
   {
     "source": "curse",
+    "id": "345010",
+    "slug": "jitterdkp-classic",
+    "name": "JitterDKP Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "JitterDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97118",
     "slug": "jobs-done",
     "name": "Job's Done",
@@ -55470,20 +55582,6 @@
     "folders": [
       [
         "_LiarsDice"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "97288",
-    "slug": "libdframework",
-    "name": "Lib Details! Framework",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "LibDFramework-1.0"
       ]
     ]
   },
@@ -72381,6 +72479,20 @@
     "folders": [
       [
         "Petwheel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363764",
+    "slug": "phantomplates",
+    "name": "PhantomPlates",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PhantomPlates"
       ]
     ]
   },
@@ -111461,6 +111573,20 @@
     "folders": [
       [
         "weizPVP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363785",
+    "slug": "whoa-blueshamans",
+    "name": "whoa BlueShamans",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "whoaBlueShamans"
       ]
     ]
   },
@@ -217193,6 +217319,36 @@
     "folders": [
       [
         "ModernTargetFrame"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25511",
+    "slug": "",
+    "name": "PhantomPlates Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PhantomPlates"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25512",
+    "slug": "",
+    "name": "GuildInTooltip",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildInTooltip"
       ]
     ]
   },
