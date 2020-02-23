@@ -43755,6 +43755,20 @@
   },
   {
     "source": "curse",
+    "id": "363791",
+    "slug": "guildintooltip",
+    "name": "Guild In Tooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildInTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "271917",
     "slug": "guild-inspector",
     "name": "Guild Inspector",
@@ -44204,20 +44218,6 @@
     "folders": [
       [
         "GuildHelperClassic"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "363791",
-    "slug": "guildintooltip",
-    "name": "GuildInTooltip",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "GuildInTooltip"
       ]
     ]
   },
@@ -59835,6 +59835,20 @@
     "folders": [
       [
         "MDTGuide"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363880",
+    "slug": "mhealth",
+    "name": "MHealth",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MHealth"
       ]
     ]
   },
@@ -217236,7 +217250,7 @@
     "source": "wowi",
     "id": "25505",
     "slug": "",
-    "name": "Immersion ExtraFade",
+    "name": "accidental upload...",
     "compatibility": [
       "retail",
       "classic"
@@ -217341,7 +217355,7 @@
     "source": "wowi",
     "id": "25512",
     "slug": "",
-    "name": "GuildInTooltip",
+    "name": "Guild In Tooltip",
     "compatibility": [
       "retail",
       "classic"
@@ -217349,6 +217363,21 @@
     "folders": [
       [
         "GuildInTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25513",
+    "slug": "",
+    "name": "CountIt",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CountIt"
       ]
     ]
   },
