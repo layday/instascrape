@@ -51389,6 +51389,20 @@
   },
   {
     "source": "curse",
+    "id": "361017",
+    "slug": "j4ftools",
+    "name": "J4FTools",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "J4FTools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "317881",
     "slug": "jcs-media-sounds",
     "name": "JCS Media Sounds",
@@ -72327,11 +72341,9 @@
         "PetTracker"
       ],
       [
-        "PetTracker_Breeds",
+        "PetTracker_Battle",
         "PetTracker_Config",
         "PetTracker_Journal",
-        "PetTracker_Switcher",
-        "PetTracker_Upgrades",
         "PetTracker"
       ]
     ]
@@ -99779,10 +99791,10 @@
         "UnitFramesPlus"
       ],
       [
+        "UnitFramesPlus_Options",
         "UnitFramesPlus_Threat",
         "UnitFramesPlus_Cooldown",
         "UnitFramesPlus_MobHealth",
-        "UnitFramesPlus_Options",
         "UnitFramesPlus"
       ]
     ]
@@ -203948,7 +203960,7 @@
     ],
     "folders": [
       [
-        "SelectNPCsilence"
+        "Sound"
       ]
     ]
   },
