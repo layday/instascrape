@@ -32482,10 +32482,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ],
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ]
     ]
   },
@@ -32847,10 +32847,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -45881,6 +45881,21 @@
     "folders": [
       [
         "HandyNotes_SuramarLocations"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "345781",
+    "slug": "handynotes-syds-chest-addon",
+    "name": "HandyNotes_Syd'sChestAddOn",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HandyNotes_WitheredChests"
       ]
     ]
   },
@@ -67321,6 +67336,20 @@
     "folders": [
       [
         "Natur"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364376",
+    "slug": "nauticusclassic",
+    "name": "NauticusClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NauticusClassic"
       ]
     ]
   },
@@ -101232,6 +101261,20 @@
     "folders": [
       [
         "WCCCAddOn"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364070",
+    "slug": "wemote",
+    "name": "WEmote",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WEmote"
       ]
     ]
   },
@@ -217390,6 +217433,21 @@
     "folders": [
       [
         "CountIt"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25514",
+    "slug": "",
+    "name": "Inception BiS List",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Inception_BIS_List"
       ]
     ]
   },
