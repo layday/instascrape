@@ -7172,6 +7172,20 @@
   },
   {
     "source": "curse",
+    "id": "364525",
+    "slug": "autodispell",
+    "name": "AutoDispell",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoDispell"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "81161",
     "slug": "auto-drink",
     "name": "AutoDrink",
@@ -19582,6 +19596,20 @@
     "folders": [
       [
         "CNF"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364226",
+    "slug": "chumli-died",
+    "name": "Chumli died!",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ChumliDied"
       ]
     ]
   },
@@ -33285,6 +33313,20 @@
   },
   {
     "source": "curse",
+    "id": "364372",
+    "slug": "emoji",
+    "name": "Emoji",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Emoji"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "307318",
     "slug": "new-emote-reply",
     "name": "Emote Magic",
@@ -43304,7 +43346,7 @@
     "source": "curse",
     "id": "335816",
     "slug": "guidelime_tugs",
-    "name": "GuideLime_TUGs The Ultimate Alliance Leveling Guide | All Races | 1-60 | 1-5man viable",
+    "name": "GuideLime_The_Ultimate_Leveling_Guide",
     "compatibility": [
       "classic"
     ],
@@ -43367,6 +43409,20 @@
     "folders": [
       [
         "Guidelime_Bustea's 1-60 leveling"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364472",
+    "slug": "guidelime_busteas-1-60-horde-and-alliance-grinding",
+    "name": "Guidelime_Bustea's 1-60 Horde and Alliance Grinding Guide",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Bustea's 1-60 Grinding Horde and Alliance"
       ]
     ]
   },
@@ -87617,6 +87673,20 @@
   },
   {
     "source": "curse",
+    "id": "290416",
+    "slug": "smarttooltip",
+    "name": "SmartTooltip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SmartTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86565",
     "slug": "smashed-library",
     "name": "Smashed Library",
@@ -100724,6 +100794,20 @@
   },
   {
     "source": "curse",
+    "id": "364561",
+    "slug": "vikingsharedlib",
+    "name": "VikingSharedLib",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VikingSharedLib"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "83550",
     "slug": "viksui",
     "name": "ViksUI",
@@ -104176,6 +104260,20 @@
     "folders": [
       [
         "WorldBossStatus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "363828",
+    "slug": "world-buff-tracker-evolution",
+    "name": "World Buff Tracker Evolution",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WorldBuffTrackerEvolution"
       ]
     ]
   },
@@ -215737,7 +215835,7 @@
     "source": "wowi",
     "id": "25398",
     "slug": "",
-    "name": "tradeDispenser-classic",
+    "name": "TradeDispenser Classic",
     "compatibility": [
       "retail",
       "classic"
