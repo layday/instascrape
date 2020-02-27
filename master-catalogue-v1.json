@@ -7176,6 +7176,7 @@
     "slug": "autodispell",
     "name": "AutoDispell",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -28295,9 +28296,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -33019,8 +33020,7 @@
     "slug": "elvui_luckyoneui",
     "name": "ElvUI_LuckyoneUI",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -35370,7 +35370,8 @@
     "slug": "fadeobjectivetracker",
     "name": "FadeObjectiveTracker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -93089,6 +93090,20 @@
   },
   {
     "source": "curse",
+    "id": "364668",
+    "slug": "targetactionsbutton-follow-inspect-trade",
+    "name": "TargetActionsButton (Follow, Inspect, Trade)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TargetActionsButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "362811",
     "slug": "targetannouncer",
     "name": "TargetAnnouncer",
@@ -99890,10 +99905,10 @@
         "UnitFramesPlus"
       ],
       [
-        "UnitFramesPlus_Options",
-        "UnitFramesPlus_Threat",
         "UnitFramesPlus_Cooldown",
         "UnitFramesPlus_MobHealth",
+        "UnitFramesPlus_Options",
+        "UnitFramesPlus_Threat",
         "UnitFramesPlus"
       ]
     ]
@@ -100767,7 +100782,7 @@
   {
     "source": "curse",
     "id": "361950",
-    "slug": "viking-hud",
+    "slug": "vikinghud",
     "name": "Viking HUD",
     "compatibility": [
       "classic"
@@ -111245,6 +111260,20 @@
       ],
       [
         "targetassist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "349175",
+    "slug": "tdbag2",
+    "name": "tdBag2",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "tdBag2"
       ]
     ]
   },
