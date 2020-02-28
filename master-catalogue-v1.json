@@ -69170,7 +69170,8 @@
     "slug": "nys-todolist",
     "name": "Ny's ToDoList",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -78320,8 +78321,8 @@
     ],
     "folders": [
       [
-        "RaidAchievement_WoDRaids",
-        "RaidAchievement_WoDHeroics"
+        "RaidAchievement_WoDHeroics",
+        "RaidAchievement_WoDRaids"
       ]
     ]
   },
@@ -91984,6 +91985,20 @@
   },
   {
     "source": "curse",
+    "id": "364790",
+    "slug": "sweetsours-auto-tracker",
+    "name": "Sweetsour's Auto Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "296418",
     "slug": "sweetsours-azerite-power-finder",
     "name": "Sweetsour's Azerite Power Finder",
@@ -100781,7 +100796,7 @@
   },
   {
     "source": "curse",
-    "id": "361950",
+    "id": "364713",
     "slug": "vikinghud",
     "name": "Viking HUD",
     "compatibility": [
@@ -112114,7 +112129,8 @@
     "slug": "xansoundalerts",
     "name": "xanSoundAlerts",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
