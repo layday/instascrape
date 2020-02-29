@@ -1490,6 +1490,20 @@
   },
   {
     "source": "curse",
+    "id": "364877",
+    "slug": "achievementhelperre",
+    "name": "AchievementHelperRe",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AchievementHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "56954",
     "slug": "achievementsreminder",
     "name": "AchievementsReminder",
