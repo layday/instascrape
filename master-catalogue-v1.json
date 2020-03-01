@@ -57254,7 +57254,8 @@
     "slug": "libprocessable",
     "name": "LibProcessable",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -73881,7 +73882,8 @@
     "slug": "portal-mage",
     "name": "Portal Mage",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -94797,7 +94799,8 @@
     "slug": "tinypad",
     "name": "TinyPad",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -217605,6 +217608,21 @@
     "folders": [
       [
         "Inception_BIS_List"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25515",
+    "slug": "",
+    "name": "Portal Mage Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PortalMage"
       ]
     ]
   },
