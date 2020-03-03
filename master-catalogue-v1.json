@@ -13301,20 +13301,6 @@
   },
   {
     "source": "curse",
-    "id": "334684",
-    "slug": "blueshamans",
-    "name": "BlueShamans",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "BlueShamans"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "287472",
     "slug": "blueberry",
     "name": "Blueberry (Entropic Embrace Sound Notification)",
@@ -34360,6 +34346,20 @@
   },
   {
     "source": "curse",
+    "id": "365416",
+    "slug": "essential-dkp",
+    "name": "Essential DKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MonolithDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86104",
     "slug": "evening-wear",
     "name": "Evening Wear",
@@ -51384,6 +51384,20 @@
     "folders": [
       [
         "ItemRackAutoRidingGear"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365049",
+    "slug": "itemroller",
+    "name": "ItemRoller",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemRoller"
       ]
     ]
   },
@@ -84704,6 +84718,20 @@
   },
   {
     "source": "curse",
+    "id": "365276",
+    "slug": "sharedmedia_dnnsgt",
+    "name": "SharedMedia_dnnsGT",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_dnnsGT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "295122",
     "slug": "sharprangecollector",
     "name": "SharpRangeCollector",
@@ -85434,6 +85462,34 @@
     "folders": [
       [
         "SilentGambler"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365227",
+    "slug": "silly-jump-sound",
+    "name": "Silly Jump Sound",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SillyJumpSound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365081",
+    "slug": "sillyprice",
+    "name": "SillyPrice",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SillyPrice"
       ]
     ]
   },
@@ -92974,6 +93030,20 @@
   },
   {
     "source": "curse",
+    "id": "364996",
+    "slug": "target-3d-model-viewer",
+    "name": "Target 3D Model Viewer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Target_3D_Model_Viewer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "94693",
     "slug": "targetcheck",
     "name": "Target Check",
@@ -93012,6 +93082,20 @@
     "folders": [
       [
         "TargetClassIcon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364951",
+    "slug": "target-health",
+    "name": "Target Health",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TargetHealth"
       ]
     ]
   },
@@ -100747,6 +100831,20 @@
     "folders": [
       [
         "VignetteAnnouncer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365391",
+    "slug": "vikinggraveyards",
+    "name": "Viking Graveyards",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VikingGraveyards"
       ]
     ]
   },
