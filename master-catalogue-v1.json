@@ -3367,6 +3367,23 @@
       ],
       [
         "Altoholic",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore"
+      ],
+      [
+        "Altoholic",
         "Altoholic_Achievements",
         "Altoholic_Agenda",
         "Altoholic_Characters",
@@ -3390,23 +3407,6 @@
         "DataStore_Spells",
         "DataStore_Stats",
         "DataStore_Talents",
-        "DataStore"
-      ],
-      [
-        "Altoholic",
-        "Altoholic_Characters",
-        "Altoholic_Grids",
-        "Altoholic_Guild",
-        "Altoholic_Search",
-        "Altoholic_Summary",
-        "DataStore_Auctions",
-        "DataStore_Characters",
-        "DataStore_Containers",
-        "DataStore_Crafts",
-        "DataStore_Inventory",
-        "DataStore_Mails",
-        "DataStore_Quests",
-        "DataStore_Reputations",
         "DataStore"
       ]
     ]
@@ -11422,6 +11422,20 @@
   },
   {
     "source": "curse",
+    "id": "365590",
+    "slug": "better-tool-tip",
+    "name": "Better Tool Tip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BetterTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "321889",
     "slug": "better-twitch-emotes",
     "name": "Better Twitch Emotes",
@@ -16220,6 +16234,20 @@
     "folders": [
       [
         "BuffBuddy"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365262",
+    "slug": "buff-cap-tracker-classic",
+    "name": "Buff Cap Tracker (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BCT"
       ]
     ]
   },
@@ -34355,6 +34383,9 @@
     "folders": [
       [
         "MonolithDKP"
+      ],
+      [
+        "EssentialDKP"
       ]
     ]
   },
@@ -47011,6 +47042,20 @@
     "folders": [
       [
         "HeyGratsMon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365465",
+    "slug": "hiberniadkp",
+    "name": "HiberniaDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HiberniaDKP"
       ]
     ]
   },
@@ -76988,6 +77033,20 @@
   },
   {
     "source": "curse",
+    "id": "354632",
+    "slug": "quickstatslive",
+    "name": "QuickStatsLive",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuickStatsLive-Classic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335287",
     "slug": "quicktargets",
     "name": "QuickTargets",
@@ -93633,7 +93692,8 @@
     "slug": "tetra",
     "name": "Tetra",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
