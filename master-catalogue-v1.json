@@ -48795,6 +48795,20 @@
   },
   {
     "source": "curse",
+    "id": "365878",
+    "slug": "hunterpetbuffs",
+    "name": "HunterPetBuffs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HunterPetBuffs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102652",
     "slug": "huntertracker",
     "name": "HunterTracker",
@@ -55012,6 +55026,20 @@
   },
   {
     "source": "curse",
+    "id": "365128",
+    "slug": "lazy_raider",
+    "name": "Lazy_Raider",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Lazy_Raider"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86093",
     "slug": "lefollowers",
     "name": "LeFollowers",
@@ -58017,7 +58045,8 @@
     "slug": "lifebloomer",
     "name": "Lifebloomer",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -75851,10 +75880,9 @@
     "source": "curse",
     "id": "319411",
     "slug": "quest-cinematic",
-    "name": "Queso (Retail & Classic)",
+    "name": "Queso",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -217760,6 +217788,37 @@
     "folders": [
       [
         "SillyJumpSound"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25517",
+    "slug": "",
+    "name": "oUF_TankResourceBar",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "oUF_TankResourceBar"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25520",
+    "slug": "",
+    "name": "Mute Screech",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "",
+        "Sound"
       ]
     ]
   },
