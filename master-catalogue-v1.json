@@ -31143,6 +31143,20 @@
   },
   {
     "source": "curse",
+    "id": "365984",
+    "slug": "easy-invite",
+    "name": "Easy Invite",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EasyInvite"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "271524",
     "slug": "easylist",
     "name": "Easy List",
@@ -33794,7 +33808,6 @@
     "slug": "enhanced-world-map-for-wow-classic",
     "name": "Enhanced World Map for WoW Classic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -89537,20 +89550,6 @@
     "folders": [
       [
         "DailyItems"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "341507",
-    "slug": "spinx-focus",
-    "name": "Spinx Focus (Classic)",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "SpinxFocus"
       ]
     ]
   },
