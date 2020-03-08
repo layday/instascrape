@@ -7904,6 +7904,20 @@
   },
   {
     "source": "curse",
+    "id": "366057",
+    "slug": "autotrack_classic",
+    "name": "AutoTrack_Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoTrack"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "39229",
     "slug": "autotrackerachievement",
     "name": "AutoTrackerAchievement",
@@ -11031,6 +11045,20 @@
     "folders": [
       [
         "BenefitsWithFriends"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365975",
+    "slug": "berserkerclan",
+    "name": "Berserkerclan",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Berserker"
       ]
     ]
   },
@@ -31147,6 +31175,7 @@
     "slug": "easy-invite",
     "name": "Easy Invite",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -36906,6 +36935,20 @@
     "folders": [
       [
         "FixTradeSkillSearch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366173",
+    "slug": "fixtransmogoutfits",
+    "name": "FixTransmogOutfits",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "FixTransmogOutfits"
       ]
     ]
   },
@@ -46346,7 +46389,8 @@
     "slug": "heal-bot-continued",
     "name": "HealBot Continued",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -49933,6 +49977,20 @@
     "folders": [
       [
         "IncentiveProgram"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "364375",
+    "slug": "inception-bis-list",
+    "name": "Inception BiS List",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Inception_BIS_List"
       ]
     ]
   },
@@ -64120,6 +64178,20 @@
   },
   {
     "source": "curse",
+    "id": "366124",
+    "slug": "mobhealthclassic",
+    "name": "MobHealthClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MobHealthClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "1080",
     "slug": "mobinfo2",
     "name": "MobInfo2",
@@ -75895,7 +75967,8 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -79941,6 +80014,20 @@
     "folders": [
       [
         "ReagentRecipeTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366194",
+    "slug": "reagent-recipes-classic",
+    "name": "Reagent Recipes Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ReagentRecipeClassic"
       ]
     ]
   },
