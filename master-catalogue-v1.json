@@ -46389,8 +46389,7 @@
     "slug": "heal-bot-continued",
     "name": "HealBot Continued",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -49984,7 +49983,7 @@
     "source": "curse",
     "id": "364375",
     "slug": "inception-bis-list",
-    "name": "Inception BiS List",
+    "name": "Inception Loot Priority",
     "compatibility": [
       "classic"
     ],
@@ -50927,6 +50926,20 @@
     "folders": [
       [
         "InventoryLib"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "365918",
+    "slug": "inventory-sets",
+    "name": "InventorySets",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InventorySets"
       ]
     ]
   },
@@ -69009,6 +69022,20 @@
     "folders": [
       [
         "Notes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366310",
+    "slug": "nova-world-buffs",
+    "name": "Nova World Buffs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NovaWorldBuffs"
       ]
     ]
   },
