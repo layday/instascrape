@@ -49982,7 +49982,7 @@
   {
     "source": "curse",
     "id": "364375",
-    "slug": "inception-bis-list",
+    "slug": "inception-loot-prio",
     "name": "Inception Loot Priority",
     "compatibility": [
       "classic"
@@ -49990,6 +49990,9 @@
     "folders": [
       [
         "Inception_BIS_List"
+      ],
+      [
+        "Inception_Loot_Priority"
       ]
     ]
   },
@@ -64838,6 +64841,20 @@
   },
   {
     "source": "curse",
+    "id": "366490",
+    "slug": "monolithdkp-easybid",
+    "name": "MonolithDKP EasyBid",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MonolithDKP_EasyBid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306870",
     "slug": "mooinspect-1-0",
     "name": "MooInspect",
@@ -75994,8 +76011,7 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -100332,6 +100348,20 @@
     "folders": [
       [
         "UnstuckWindowedFromTop"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366511",
+    "slug": "unusedessenceslotgtfo",
+    "name": "UnusedEssenceSlotGTFO",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UnusedEssenceSlotGTFO"
       ]
     ]
   },
@@ -218290,16 +218320,6 @@
     "id": "154",
     "slug": "",
     "name": "ElvUI_LuckyoneUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "61",
-    "slug": "",
-    "name": "Elvui_MaUI",
     "compatibility": [
       "retail"
     ],
