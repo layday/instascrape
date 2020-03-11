@@ -26858,6 +26858,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26869,21 +26884,6 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -63507,6 +63507,48 @@
   },
   {
     "source": "curse",
+    "id": "366599",
+    "slug": "minihudaxp",
+    "name": "MiniHUD - AXP",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AXPView"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366602",
+    "slug": "minihudwallet",
+    "name": "MiniHUD - Wallet",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Wallet"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366601",
+    "slug": "minihudxp",
+    "name": "MiniHUD - XP",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "XPView"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "43440",
     "slug": "miniloot",
     "name": "MiniLoot",
@@ -80122,6 +80164,7 @@
     "slug": "reagentcount",
     "name": "ReagentCount",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -81534,6 +81577,20 @@
     "folders": [
       [
         "Rewatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366586",
+    "slug": "classic-rewind-aggro-alert-rwa",
+    "name": "Rewind Aggro Alert",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RWA"
       ]
     ]
   },
@@ -98925,6 +98982,20 @@
   },
   {
     "source": "curse",
+    "id": "366481",
+    "slug": "tranquilize",
+    "name": "Tranquilize",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Tranquilize"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "90136",
     "slug": "transcendence",
     "name": "Transcendence",
@@ -101082,6 +101153,7 @@
     "slug": "vikinggraveyards",
     "name": "Viking Graveyards",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -101096,6 +101168,7 @@
     "slug": "vikinghud",
     "name": "Viking HUD",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -101110,6 +101183,7 @@
     "slug": "vikingspy",
     "name": "Viking Spy",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -101124,6 +101198,7 @@
     "slug": "vikingsharedlib",
     "name": "VikingSharedLib",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -216000,8 +216075,7 @@
     ],
     "folders": [
       [
-        "ReagentCount",
-        "__MACOSX"
+        "ReagentCount"
       ]
     ]
   },
