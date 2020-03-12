@@ -3259,6 +3259,20 @@
   },
   {
     "source": "curse",
+    "id": "366702",
+    "slug": "altmythiclist",
+    "name": "AltMythicList",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AltMythicList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "6290",
     "slug": "alttab",
     "name": "AltTabber",
@@ -3883,6 +3897,20 @@
     "folders": [
       [
         "AnnounceTarget"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "358602",
+    "slug": "announcer-tank",
+    "name": "Announcer-Tank",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Announcer"
       ]
     ]
   },
@@ -6370,6 +6398,20 @@
     "name": "Auctionator",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "Auctionator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366826",
+    "slug": "auctionator-classicfix",
+    "name": "Auctionator ClassicFix",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -38374,6 +38416,20 @@
   },
   {
     "source": "curse",
+    "id": "366761",
+    "slug": "frostbolt-meter",
+    "name": "Frostbolt Meter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FrostboltMeter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335563",
     "slug": "frostbolt-counter",
     "name": "Frostbolt counter",
@@ -41601,6 +41657,20 @@
     "folders": [
       [
         "gonefishing"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366649",
+    "slug": "goodepgp",
+    "name": "GoodEPGP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoodEPGP"
       ]
     ]
   },
@@ -71009,6 +71079,20 @@
   },
   {
     "source": "curse",
+    "id": "366766",
+    "slug": "pajminimaparrow",
+    "name": "PajMinimapArrow",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PajMinimapArrow"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "2703",
     "slug": "pally-power",
     "name": "PallyPower",
@@ -76053,9 +76137,13 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
+      [
+        "Queso Classic"
+      ],
       [
         "Queso"
       ]
@@ -95271,6 +95359,22 @@
         "TipTac",
         "TipTacItemRef",
         "TipTacTalents"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366808",
+    "slug": "tiptac-classic",
+    "name": "TipTac Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TipTacOptions",
+        "TipTac",
+        "TipTacItemRef"
       ]
     ]
   },
