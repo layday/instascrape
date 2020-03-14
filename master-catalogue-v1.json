@@ -34464,9 +34464,6 @@
     ],
     "folders": [
       [
-        "MonolithDKP"
-      ],
-      [
         "EssentialDKP"
       ]
     ]
@@ -79842,6 +79839,20 @@
   },
   {
     "source": "curse",
+    "id": "366563",
+    "slug": "ratbg-battleground-target-frames",
+    "name": "RatBG Battleground Target Frames",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RatBG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3377",
     "slug": "rating-buster",
     "name": "RatingBuster",
@@ -101273,7 +101284,6 @@
     "slug": "vikinghud",
     "name": "Viking HUD",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -163032,7 +163042,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-01-20",
+    "name": "WoWpoPolsku-Quests 80300 2020-03-13",
     "compatibility": [
       "retail",
       "classic"
@@ -207010,7 +207020,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-01-20",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-03-13",
     "compatibility": [
       "retail",
       "classic"
@@ -213261,7 +213271,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-01-20",
+    "name": "WoWpoPolsku-Quests Classic 2020-03-13",
     "compatibility": [
       "retail",
       "classic"
@@ -213343,7 +213353,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-01-20",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-03-13",
     "compatibility": [
       "retail",
       "classic"
@@ -217923,21 +217933,6 @@
     "id": "25504",
     "slug": "",
     "name": "Immersion ExtraFade",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Immersion_ExtraFade"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "25505",
-    "slug": "",
-    "name": "accidental upload...",
     "compatibility": [
       "retail",
       "classic"
