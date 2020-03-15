@@ -81225,6 +81225,20 @@
   },
   {
     "source": "curse",
+    "id": "44154",
+    "slug": "repbarcolors",
+    "name": "RepBarColors",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RepBarColors"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "348072",
     "slug": "repbyzone",
     "name": "RepByZone",
