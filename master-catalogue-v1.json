@@ -29849,11 +29849,11 @@
   },
   {
     "source": "curse",
-    "id": "359065",
-    "slug": "drift",
-    "name": "Drift",
+    "id": "359705",
+    "slug": "driftclassic",
+    "name": "Drift (Classic)",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -29863,11 +29863,11 @@
   },
   {
     "source": "curse",
-    "id": "359705",
-    "slug": "driftclassic",
-    "name": "Drift Classic",
+    "id": "359065",
+    "slug": "drift",
+    "name": "Drift (Retail)",
     "compatibility": [
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -51310,20 +51310,6 @@
   },
   {
     "source": "curse",
-    "id": "102804",
-    "slug": "item-name-localized",
-    "name": "Item Name Localized",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ItemNameLocalized"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "16148",
     "slug": "itemnotes",
     "name": "Item Notes",
@@ -51537,6 +51523,20 @@
     "folders": [
       [
         "ItemLinker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "102804",
+    "slug": "item-name-localized",
+    "name": "ItemNameLocalized Core",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_Core"
       ]
     ]
   },
