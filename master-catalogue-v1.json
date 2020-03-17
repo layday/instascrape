@@ -9741,6 +9741,20 @@
   },
   {
     "source": "curse",
+    "id": "367491",
+    "slug": "baguette",
+    "name": "Baguette",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Baguette"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299420",
     "slug": "baik-actionbar-module",
     "name": "Baik Actionbar Module",
@@ -13827,6 +13841,7 @@
     "slug": "booty-bay-gazette",
     "name": "Booty Bay Gazette",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -51542,6 +51557,104 @@
   },
   {
     "source": "curse",
+    "id": "367366",
+    "slug": "itemnamelocalized-frfr",
+    "name": "ItemNameLocalized [French module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_frFR"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367361",
+    "slug": "itemnamelocalized-dede",
+    "name": "ItemNameLocalized [German module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_deDE"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367370",
+    "slug": "itemnamelocalized-itit",
+    "name": "ItemNameLocalized [Italian module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_itIT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367371",
+    "slug": "itemnamelocalized-ptbr",
+    "name": "ItemNameLocalized [Portuguese module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_ptBR"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367372",
+    "slug": "itemnamelocalized-ruru",
+    "name": "ItemNameLocalized [Russian module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_ruRU"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367364",
+    "slug": "itemnamelocalized-esmx",
+    "name": "ItemNameLocalized [Spanish (Latin American) module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_esMX"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367357",
+    "slug": "itemnamelocalized-eses",
+    "name": "ItemNameLocalized [Spanish (Spain) module]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemNameLocalized_esES"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "357857",
     "slug": "itemquests",
     "name": "ItemQuests",
@@ -75921,6 +76034,20 @@
   },
   {
     "source": "curse",
+    "id": "367559",
+    "slug": "quack",
+    "name": "Quack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Quack"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "319533",
     "slug": "quafe-ui",
     "name": "Quafe UI ( Quafe MEKA / Quafe Overwatch )",
@@ -92763,6 +92890,20 @@
   },
   {
     "source": "curse",
+    "id": "367548",
+    "slug": "tthide",
+    "name": "TTHide",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TTHide"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3250",
     "slug": "ttell",
     "name": "TTell",
@@ -93423,6 +93564,20 @@
     "folders": [
       [
         "Target_3D_Model_Viewer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "367588",
+    "slug": "target-box",
+    "name": "Target Box",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Target"
       ]
     ]
   },
@@ -100526,6 +100681,20 @@
   },
   {
     "source": "curse",
+    "id": "362640",
+    "slug": "unregisterglobalmouse",
+    "name": "UnregisterGlobalMouse",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UnregisterGlobalMouse"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102287",
     "slug": "unsheathmove",
     "name": "UnsheathMove",
@@ -101312,7 +101481,6 @@
     "slug": "vikingspy",
     "name": "Viking Spy",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -106264,6 +106432,20 @@
     "folders": [
       [
         "Yata"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366245",
+    "slug": "yatabar",
+    "name": "Yatabar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Yatabar"
       ]
     ]
   },
