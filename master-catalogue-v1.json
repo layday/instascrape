@@ -1992,6 +1992,20 @@
   },
   {
     "source": "curse",
+    "id": "367503",
+    "slug": "adechorestracker",
+    "name": "AdeChoresTracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdeChoresTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "267382",
     "slug": "adeptsguidelocations",
     "name": "AdeptsGuideLocations",
@@ -26916,21 +26930,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -26942,6 +26941,21 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -28407,9 +28421,9 @@
         "Details"
       ],
       [
-        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
+        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -28428,9 +28442,9 @@
         "Details"
       ],
       [
-        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
+        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -88595,6 +88609,20 @@
   },
   {
     "source": "curse",
+    "id": "367807",
+    "slug": "socially-undead",
+    "name": "Socially Undead",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SociallyUndead"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "318761",
     "slug": "sokoban",
     "name": "Sokoban",
@@ -98855,6 +98883,9 @@
     "folders": [
       [
         "TradeSkillMaster_StringConverter"
+      ],
+      [
+        "TSM_StringConverter"
       ]
     ]
   },
@@ -101452,7 +101483,6 @@
     "slug": "vikinggraveyards",
     "name": "Viking Graveyards",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -101486,6 +101516,10 @@
     "folders": [
       [
         "VikingSpy"
+      ],
+      [
+        "VikingSpy",
+        "VikingSharedLib"
       ]
     ]
   },
@@ -209362,7 +209396,7 @@
     ],
     "folders": [
       [
-        "TradeSkillMaster_StringConverter"
+        "TSM_StringConverter"
       ]
     ]
   },
