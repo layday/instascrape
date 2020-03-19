@@ -37703,6 +37703,20 @@
   },
   {
     "source": "curse",
+    "id": "368043",
+    "slug": "followmepls-auto-follow-addon",
+    "name": "FollowMePls - Auto-follow addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FollowMePls"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "47557",
     "slug": "followmeplz",
     "name": "FollowMePlz",
@@ -218366,6 +218380,21 @@
       [
         "",
         "Sound"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25521",
+    "slug": "",
+    "name": "FollowMePls - Auto-follow addon",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "FollowMePls"
       ]
     ]
   },
