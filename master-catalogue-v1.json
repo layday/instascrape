@@ -25481,6 +25481,20 @@
   },
   {
     "source": "curse",
+    "id": "352080",
+    "slug": "dkpunity-addon",
+    "name": "DKP Unity Addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DKPUnity"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22404",
     "slug": "dkptooltip",
     "name": "DKPTooltip",
@@ -25490,20 +25504,6 @@
     "folders": [
       [
         "DKPTooltip"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "352080",
-    "slug": "dkpunity-addon",
-    "name": "DKPUnity Addon",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "DKPUnity"
       ]
     ]
   },
@@ -33016,10 +33016,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -43074,6 +43074,20 @@
     "folders": [
       [
         "Grindon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "366592",
+    "slug": "grindstone",
+    "name": "Grindstone",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Grindstone"
       ]
     ]
   },
@@ -81554,6 +81568,20 @@
   },
   {
     "source": "curse",
+    "id": "366594",
+    "slug": "repper",
+    "name": "Repper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Repper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "271270",
     "slug": "reprobate-files",
     "name": "Reprobate Files",
@@ -82578,6 +82606,20 @@
     "folders": [
       [
         "Routes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368332",
+    "slug": "routes-import-export",
+    "name": "Routes Import/Export",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RoutesImportExport"
       ]
     ]
   },
@@ -90415,6 +90457,20 @@
     "folders": [
       [
         "StatWeightScore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368054",
+    "slug": "stat-weights-classic",
+    "name": "Stat Weights Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "stat_weights_classic"
       ]
     ]
   },
@@ -99575,6 +99631,20 @@
     "folders": [
       [
         "TransmorpherSTFU"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "44396",
+    "slug": "trappers-sense",
+    "name": "Trapper's Sense",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TrappersSense"
       ]
     ]
   },
@@ -211338,8 +211408,8 @@
     ],
     "folders": [
       [
-        "DiscordLibrary",
         "DiscordUnitFrames",
+        "DiscordLibrary",
         "DiscordUnitFramesOptions"
       ]
     ]
