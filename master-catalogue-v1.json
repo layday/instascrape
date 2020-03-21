@@ -37932,6 +37932,20 @@
   },
   {
     "source": "curse",
+    "id": "368618",
+    "slug": "formatfix",
+    "name": "FormatFix",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FormatFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97090",
     "slug": "forosui-frames",
     "name": "ForosUI frames",
@@ -44425,6 +44439,20 @@
     "folders": [
       [
         "GuildCheck"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368410",
+    "slug": "guildcolors",
+    "name": "GuildColors",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildColors"
       ]
     ]
   },
@@ -70426,6 +70454,20 @@
     "folders": [
       [
         "OnyBagMate"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368538",
+    "slug": "onyxia-scale-cloak-checker",
+    "name": "Onyxia Scale Cloak Checker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "OnyxiaCloakChecker"
       ]
     ]
   },
