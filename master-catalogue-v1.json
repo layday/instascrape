@@ -2184,6 +2184,20 @@
   },
   {
     "source": "curse",
+    "id": "366993",
+    "slug": "adibags-lootboxes-continuation",
+    "name": "AdiBags - Lootboxes Continuation",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_lootboxes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "325466",
     "slug": "adibags-mechagon-tinkering",
     "name": "AdiBags - Mechagon Tinkering",
@@ -218507,6 +218521,21 @@
     "folders": [
       [
         "FollowMePls"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25522",
+    "slug": "",
+    "name": "gmGuildFriends",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "gmGuildFriends"
       ]
     ]
   },
