@@ -21073,10 +21073,6 @@
     ],
     "folders": [
       [
-        "Claw",
-        "Basic_Resources"
-      ],
-      [
         "Claw"
       ]
     ]
@@ -218536,6 +218532,21 @@
     "folders": [
       [
         "gmGuildFriends"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25524",
+    "slug": "",
+    "name": "Amendments to the UI",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AmendmentsUI"
       ]
     ]
   },
