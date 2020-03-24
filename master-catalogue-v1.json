@@ -3585,6 +3585,20 @@
   },
   {
     "source": "curse",
+    "id": "368990",
+    "slug": "amendments-to-the-ui",
+    "name": "Amendments to the UI",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AmendmentsUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "344535",
     "slug": "ammo-meter",
     "name": "Ammo Meter",
@@ -8963,6 +8977,20 @@
     "folders": [
       [
         "CritterEmote"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "369032",
+    "slug": "bpgp-loot-system",
+    "name": "BPGP Loot System",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BPGP-Loot-System"
       ]
     ]
   },
@@ -48260,6 +48288,20 @@
   },
   {
     "source": "curse",
+    "id": "369265",
+    "slug": "hidingbar",
+    "name": "HidingBar",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HidingBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "309145",
     "slug": "high-tide-mana-tracker",
     "name": "High Tide Mana Tracker",
@@ -58188,20 +58230,6 @@
     "folders": [
       [
         "LibToast-1.0"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "354600",
-    "slug": "libtoteminfo",
-    "name": "LibTotemInfo",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "!LibTotemInfo"
       ]
     ]
   },
@@ -75950,6 +75978,20 @@
     "folders": [
       [
         "PvPermanent"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "369274",
+    "slug": "pvp-flag-timer",
+    "name": "Pvp Flag Timer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PvpFlagTimer"
       ]
     ]
   },
@@ -104055,6 +104097,20 @@
   },
   {
     "source": "curse",
+    "id": "368757",
+    "slug": "why-are-you-running",
+    "name": "Why Are You Running",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WhyAreYouRunning"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87636",
     "slug": "autoloot-07000",
     "name": "Wicked7000's AutoLoot",
@@ -107435,6 +107491,20 @@
   },
   {
     "source": "curse",
+    "id": "354600",
+    "slug": "libtoteminfo",
+    "name": "[Discarded] LibTotemInfo",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "!LibTotemInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "37275",
     "slug": "everygoldtobanker",
     "name": "[EGTB] EveryGoldToBanker",
@@ -109313,6 +109383,20 @@
     "folders": [
       [
         "gmFonts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368760",
+    "slug": "gmguildfriends",
+    "name": "gmGuildFriends",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "gmGuildFriends"
       ]
     ]
   },
