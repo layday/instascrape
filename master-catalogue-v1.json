@@ -11190,6 +11190,22 @@
   },
   {
     "source": "curse",
+    "id": "369136",
+    "slug": "best-in-slot-ng",
+    "name": "Best In Slot NG",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BestInSlotNG_BattleForAzerothDungeons",
+        "BestInSlotNG_BattleForAzerothRaids",
+        "BestInSlotNG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "282320",
     "slug": "bestinslotredux",
     "name": "Best In Slot Redux",
@@ -48292,7 +48308,8 @@
     "slug": "hidingbar",
     "name": "HidingBar",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -77920,6 +77937,7 @@
     "slug": "rclootcouncil-classic",
     "name": "RCLootCouncil Classic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -80758,6 +80776,20 @@
     "folders": [
       [
         "Received"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368844",
+    "slug": "recent",
+    "name": "Recent",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Recent"
       ]
     ]
   },
@@ -99866,6 +99898,20 @@
     "folders": [
       [
         "TricksOfTheTrader"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "370670",
+    "slug": "tricksformiki",
+    "name": "TricksForMiki",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TricksForMiki"
       ]
     ]
   },
