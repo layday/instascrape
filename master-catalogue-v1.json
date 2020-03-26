@@ -7847,6 +7847,20 @@
   },
   {
     "source": "curse",
+    "id": "370757",
+    "slug": "autoresclassic",
+    "name": "AutoResClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoResClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "313876",
     "slug": "autoresurrectaccept",
     "name": "AutoResurrectAccept",
@@ -81503,6 +81517,20 @@
   },
   {
     "source": "curse",
+    "id": "44155",
+    "slug": "rep-rate",
+    "name": "Rep Rate",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RepRate"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "14587",
     "slug": "rep2",
     "name": "Rep2",
@@ -84310,6 +84338,20 @@
     "folders": [
       [
         "SenfieldNumb"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "370833",
+    "slug": "sekten-buff-snapshot",
+    "name": "Sekten Buff Snapshot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SektenBuffSnapshot"
       ]
     ]
   },
@@ -93597,6 +93639,20 @@
   },
   {
     "source": "curse",
+    "id": "370707",
+    "slug": "tamethebeastwithin",
+    "name": "TameTheBeastWithin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TameTheBeastWithin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "94519",
     "slug": "tanaan-group-finder",
     "name": "Tanaan Group Finder",
@@ -101738,9 +101794,6 @@
       "classic"
     ],
     "folders": [
-      [
-        "VikingSpy"
-      ],
       [
         "VikingSpy",
         "VikingSharedLib"
@@ -218677,6 +218730,36 @@
     "folders": [
       [
         "AmendmentsUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25526",
+    "slug": "",
+    "name": "AutoResClassic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoResClassic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25527",
+    "slug": "",
+    "name": "Immersion ExtraFade (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Immersion_ExtraFade"
       ]
     ]
   },
