@@ -50017,6 +50017,20 @@
   },
   {
     "source": "curse",
+    "id": "371116",
+    "slug": "improved-lfg-search",
+    "name": "Improved LFG Search",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ImprovedLFGSearch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "30888",
     "slug": "improved-loot-frame",
     "name": "Improved Loot Frame",
@@ -51417,6 +51431,20 @@
     "folders": [
       [
         "IsuUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371178",
+    "slug": "it-ended-in-stratholme",
+    "name": "It Ended in Stratholme",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ItEndedInStratholme"
       ]
     ]
   },
@@ -60105,6 +60133,20 @@
     "folders": [
       [
         "LuckyCharms2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371155",
+    "slug": "luckycharmsclassic",
+    "name": "LuckyCharmsClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LuckyCharmsClassic"
       ]
     ]
   },
@@ -77951,7 +77993,6 @@
     "slug": "rclootcouncil-classic",
     "name": "RCLootCouncil Classic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -104204,7 +104245,7 @@
     ],
     "folders": [
       [
-        "WhyAreYouRunning"
+        "WhyAreYouRunningv0_2"
       ]
     ]
   },
@@ -219688,6 +219729,16 @@
     "id": "2",
     "slug": "",
     "name": "ElvUI",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "31",
+    "slug": "",
+    "name": "ELVUI DATATEXT BARS 2 - Classic",
     "compatibility": [
       "classic"
     ],
