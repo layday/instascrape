@@ -2408,6 +2408,20 @@
   },
   {
     "source": "curse",
+    "id": "371294",
+    "slug": "adibags_cosmetic",
+    "name": "AdiBags_Cosmetic",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Cosmetic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89334",
     "slug": "adibags_garrison",
     "name": "AdiBags_Garrison",
@@ -7968,6 +7982,21 @@
     "folders": [
       [
         "AutoSpecEquip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371254",
+    "slug": "autospit",
+    "name": "AutoSpit",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoSpit"
       ]
     ]
   },
@@ -26718,20 +26747,6 @@
   },
   {
     "source": "curse",
-    "id": "20207",
-    "slug": "datastore_currencies",
-    "name": "DataStore_Currencies",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Currencies"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "88051",
     "slug": "datastore_garrisons",
     "name": "DataStore_Garrisons",
@@ -39997,6 +40012,21 @@
         "Gatherer",
         "SlideBar",
         "!Swatter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371278",
+    "slug": "gathering",
+    "name": "Gathering",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Gathering"
       ]
     ]
   },
@@ -58703,20 +58733,6 @@
   },
   {
     "source": "curse",
-    "id": "29851",
-    "slug": "liquidator",
-    "name": "Liquidator",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Liquidator"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "47184",
     "slug": "liquorice",
     "name": "Liquorice",
@@ -67894,6 +67910,10 @@
     ],
     "folders": [
       [
+        "Narcissus"
+      ],
+      [
+        "Narcissus_Database",
         "Narcissus"
       ]
     ]
@@ -218801,6 +218821,21 @@
     "folders": [
       [
         "Immersion_ExtraFade"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25528",
+    "slug": "",
+    "name": "AutoSpit",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoSpit"
       ]
     ]
   },
