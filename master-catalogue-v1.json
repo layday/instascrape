@@ -24717,6 +24717,20 @@
   },
   {
     "source": "curse",
+    "id": "370973",
+    "slug": "dbm-fail-sounds",
+    "name": "DBM Fail Sounds",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-Fail-Sounds"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306880",
     "slug": "dbm-voice-pack-korean-female-dingdiring",
     "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v8.0.1)",
