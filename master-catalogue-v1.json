@@ -52723,20 +52723,6 @@
   },
   {
     "source": "curse",
-    "id": "24848",
-    "slug": "junkdrop",
-    "name": "JunkDrop",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "junkdrop"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "305270",
     "slug": "junker",
     "name": "Junker",
@@ -107412,6 +107398,20 @@
   },
   {
     "source": "curse",
+    "id": "371686",
+    "slug": "zone-mount",
+    "name": "Zone Mount",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZoneMount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299232",
     "slug": "zone-quest-abandon",
     "name": "Zone Quest Abandon",
@@ -112682,6 +112682,20 @@
     "folders": [
       [
         "vCore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371632",
+    "slug": "vgambler",
+    "name": "vGambler",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "vGambler"
       ]
     ]
   },
@@ -218850,6 +218864,21 @@
     "folders": [
       [
         "AutoSpit"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25530",
+    "slug": "",
+    "name": "vUI Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "vUI"
       ]
     ]
   },
