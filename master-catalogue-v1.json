@@ -10079,6 +10079,20 @@
   },
   {
     "source": "curse",
+    "id": "371996",
+    "slug": "bananaraidsplit",
+    "name": "BananaraidSpliT - easy raid split",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BananaraidSpliT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29691",
     "slug": "bandits-guile-helper",
     "name": "Bandits Guile Helper",
@@ -33113,10 +33127,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -87922,6 +87936,21 @@
     "folders": [
       [
         "SkipChat"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371596",
+    "slug": "skirmish-rating-tooltip",
+    "name": "Skirmish Rating Tooltip",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SkirmishRatingTooltip"
       ]
     ]
   },
