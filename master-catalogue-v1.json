@@ -1882,6 +1882,7 @@
     "slug": "addonskins-classic",
     "name": "AddOnSkins Classic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -17170,6 +17171,20 @@
   },
   {
     "source": "curse",
+    "id": "370700",
+    "slug": "ccra-gnoblinboi",
+    "name": "CCRA Gnoblinboi",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28769",
     "slug": "cctracker",
     "name": "CCTracker",
@@ -27041,6 +27056,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27052,21 +27082,6 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -31134,6 +31149,20 @@
     "folders": [
       [
         "EXPTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372044",
+    "slug": "ext-eds-experience-tracker",
+    "name": "EXT - Ed's XP Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EXT"
       ]
     ]
   },
@@ -38117,7 +38146,8 @@
     "slug": "four-rocks-row",
     "name": "Four Rocks In A Row",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -48916,6 +48946,20 @@
   },
   {
     "source": "curse",
+    "id": "372147",
+    "slug": "hoot-monitor",
+    "name": "Hoot Monitor",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HootMonitor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89776",
     "slug": "hop",
     "name": "Hop",
@@ -51251,6 +51295,20 @@
     "folders": [
       [
         "InventorySets"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371881",
+    "slug": "invictusraidaddon",
+    "name": "InvictusRaidAddon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SaladcreamDied"
       ]
     ]
   },
@@ -71489,6 +71547,20 @@
   },
   {
     "source": "curse",
+    "id": "367232",
+    "slug": "pantheondkp",
+    "name": "PantheonDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PantheonDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "358868",
     "slug": "pants",
     "name": "Pants",
@@ -78210,6 +78282,20 @@
   },
   {
     "source": "curse",
+    "id": "371931",
+    "slug": "rip-rockhoof",
+    "name": "RIP Rockhoof",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RIP_Rockhoof"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "294515",
     "slug": "rp-adjutant",
     "name": "RP Adjutant",
@@ -78219,6 +78305,20 @@
     "folders": [
       [
         "Adjutant"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372241",
+    "slug": "rp-chat-bubbles",
+    "name": "RP Chat Bubbles",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RoleplayChatBubbles"
       ]
     ]
   },
@@ -80218,6 +80318,20 @@
     "folders": [
       [
         "RatBG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372122",
+    "slug": "rated-skirmish",
+    "name": "Rated Skirmish",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RatedSkirmish"
       ]
     ]
   },
@@ -91180,6 +91294,20 @@
     "folders": [
       [
         "StealPurgeDispel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372133",
+    "slug": "stealpurgedispel-terranupdate",
+    "name": "Steal, Purge & Dispel - Terran Update",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StealPurgeDispelTerran"
       ]
     ]
   },
@@ -103314,16 +103442,6 @@
       "classic"
     ],
     "folders": [
-      [
-        "WeakAurasOptions",
-        "WeakAurasModelPaths",
-        "WeakAurasTemplates",
-        "WeakAuras"
-      ],
-      [
-        "WeakAurasOptions",
-        "WeakAuras"
-      ],
       [
         "WeakAurasOptions",
         "WeakAurasModelPaths",
@@ -202198,7 +202316,7 @@
     ],
     "folders": [
       [
-        "nPlates"
+        "nPlates-2.69-release"
       ]
     ]
   },
@@ -218908,6 +219026,21 @@
     "folders": [
       [
         "vUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25532",
+    "slug": "",
+    "name": "Wind Dungeon Helper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WindDungeonHelper"
       ]
     ]
   },
