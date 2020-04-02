@@ -31155,7 +31155,7 @@
   {
     "source": "curse",
     "id": "372044",
-    "slug": "ext-eds-experience-tracker",
+    "slug": "ext-xp-tracker",
     "name": "EXT - Ed's XP Tracker",
     "compatibility": [
       "retail"
@@ -41109,6 +41109,21 @@
     "folders": [
       [
         "GlobalCooldownBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372253",
+    "slug": "global-font-std-w4",
+    "name": "Global Font (Std W4)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!GlobalFont_StdW4"
       ]
     ]
   },
@@ -77941,6 +77956,20 @@
   },
   {
     "source": "curse",
+    "id": "372411",
+    "slug": "quotemediaga",
+    "name": "QuoteMediaGA",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuoteMediaGA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87635",
     "slug": "quotes",
     "name": "Quotes",
@@ -102772,6 +102801,20 @@
     "folders": [
       [
         "WagonDetector"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372401",
+    "slug": "waits-healer-soundpack",
+    "name": "Wait's Healer Soundpack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WaitSoundpack"
       ]
     ]
   },
@@ -207676,7 +207719,8 @@
     ],
     "folders": [
       [
-        "sInterface"
+        "sInterface",
+        "sInterface_Config"
       ]
     ]
   },
