@@ -3410,6 +3410,31 @@
     ],
     "folders": [
       [
+        "Altoholic"
+      ],
+      [
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore_Spells",
+        "DataStore_Stats",
+        "DataStore_Talents",
+        "Altoholic",
+        "Altoholic_Agenda",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Agenda",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore"
+      ],
+      [
         "Altoholic_Achievements",
         "Altoholic_Agenda",
         "Altoholic_Characters",
@@ -3420,6 +3445,7 @@
         "Altoholic"
       ],
       [
+        "DataStore_Talents",
         "Altoholic",
         "Altoholic_Achievements",
         "Altoholic_Agenda",
@@ -3443,24 +3469,6 @@
         "DataStore_Reputations",
         "DataStore_Spells",
         "DataStore_Stats",
-        "DataStore_Talents",
-        "DataStore"
-      ],
-      [
-        "Altoholic",
-        "Altoholic_Characters",
-        "Altoholic_Grids",
-        "Altoholic_Guild",
-        "Altoholic_Search",
-        "Altoholic_Summary",
-        "DataStore_Auctions",
-        "DataStore_Characters",
-        "DataStore_Containers",
-        "DataStore_Crafts",
-        "DataStore_Inventory",
-        "DataStore_Mails",
-        "DataStore_Quests",
-        "DataStore_Reputations",
         "DataStore"
       ]
     ]
@@ -41114,6 +41122,36 @@
   },
   {
     "source": "curse",
+    "id": "372729",
+    "slug": "global-font-std-w2",
+    "name": "Global Font (Std W2)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!GlobalFont_StdW2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372731",
+    "slug": "global-font-std-w3",
+    "name": "Global Font (Std W3)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!GlobalFont_StdW3"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "372253",
     "slug": "global-font-std-w4",
     "name": "Global Font (Std W4)",
@@ -41124,6 +41162,21 @@
     "folders": [
       [
         "!GlobalFont_StdW4"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372733",
+    "slug": "global-font-std-w6",
+    "name": "Global Font (Std W6)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!GlobalFont_StdW6"
       ]
     ]
   },
@@ -42071,6 +42124,21 @@
         "Grail-NPCs-_retail_-zhTW",
         "Grail-NPCs-_retail_",
         "Grail"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "372817",
+    "slug": "grats-mosin",
+    "name": "Grats Mosin",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GratsMosin"
       ]
     ]
   },
@@ -76592,13 +76660,9 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
-      [
-        "Queso Classic"
-      ],
       [
         "Queso"
       ]
