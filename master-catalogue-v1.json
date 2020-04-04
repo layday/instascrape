@@ -50732,6 +50732,20 @@
   },
   {
     "source": "curse",
+    "id": "372994",
+    "slug": "inspect-ilvl",
+    "name": "Inspect iLvl",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InspectiLvl"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "18579",
     "slug": "inspect-equip",
     "name": "InspectEquip",
@@ -66572,6 +66586,20 @@
     "folders": [
       [
         "MudmenItemColor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "282045",
+    "slug": "muffinfactionizer",
+    "name": "MuffinFactionizer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MuffinFactionizer"
       ]
     ]
   },
@@ -112945,7 +112973,8 @@
     "slug": "vgambler",
     "name": "vGambler",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -211148,7 +211177,7 @@
     "source": "wowi",
     "id": "24958",
     "slug": "",
-    "name": "Auctionator Classic (quickfix)",
+    "name": "Auctionator ClassicFix",
     "compatibility": [
       "retail",
       "classic"
