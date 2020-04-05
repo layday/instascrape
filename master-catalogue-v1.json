@@ -27064,21 +27064,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27090,6 +27075,21 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -219182,6 +219182,22 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25533",
+    "slug": "",
+    "name": "DockingStation (Display)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DockingStation",
+        "DockingStation_Config"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -219326,6 +219342,16 @@
     "id": "70",
     "slug": "",
     "name": "DejaCharacterStats",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "155",
+    "slug": "",
+    "name": "Details damage",
     "compatibility": [
       "retail"
     ],
