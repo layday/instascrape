@@ -76688,9 +76688,13 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
+      [
+        "Queso Classic"
+      ],
       [
         "Queso"
       ]
@@ -163963,7 +163967,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-03-13",
+    "name": "WoWpoPolsku-Quests 80300 2020-04-05",
     "compatibility": [
       "retail",
       "classic"
@@ -207942,7 +207946,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-03-13",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-05-05",
     "compatibility": [
       "retail",
       "classic"
@@ -214193,7 +214197,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-03-13",
+    "name": "WoWpoPolsku-Quests Classic 2020-04-05",
     "compatibility": [
       "retail",
       "classic"
@@ -214275,7 +214279,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-03-13",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-04-05",
     "compatibility": [
       "retail",
       "classic"
@@ -219342,16 +219346,6 @@
     "id": "70",
     "slug": "",
     "name": "DejaCharacterStats",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "155",
-    "slug": "",
-    "name": "Details damage",
     "compatibility": [
       "retail"
     ],
