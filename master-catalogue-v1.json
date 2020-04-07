@@ -12639,6 +12639,21 @@
   },
   {
     "source": "curse",
+    "id": "373612",
+    "slug": "biggestexecute",
+    "name": "BiggestExecute",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiggestExecute"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "303859",
     "slug": "chinese-voice-pack",
     "name": "Bigwigs Voice - Chinese voice pack (mandarin) by XF\u5915\u98ce",
@@ -15746,6 +15761,20 @@
   },
   {
     "source": "curse",
+    "id": "373604",
+    "slug": "broker_micromenu",
+    "name": "Broker_MicroMenu",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_MicroMenu"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "21420",
     "slug": "broker_micromenue",
     "name": "Broker_MicroMenu",
@@ -16234,6 +16263,20 @@
     "folders": [
       [
         "Broker_Wintergrasper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373616",
+    "slug": "broker_zygor",
+    "name": "Broker_Zygor",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_Zygor"
       ]
     ]
   },
@@ -23110,6 +23153,20 @@
   },
   {
     "source": "curse",
+    "id": "373521",
+    "slug": "consequence-summons",
+    "name": "Consequence - Summons",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Consequence-Summons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29155",
     "slug": "consolecalc",
     "name": "ConsoleCalc - Calculator",
@@ -27113,7 +27170,7 @@
     "source": "curse",
     "id": "16442",
     "slug": "dbm-bc",
-    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods",
+    "name": "Deadly Boss Mods (DBM) - BC & Vanilla mods (Retail)",
     "compatibility": [
       "retail"
     ],
@@ -42597,20 +42654,6 @@
   },
   {
     "source": "curse",
-    "id": "85825",
-    "slug": "gridindicatorextra",
-    "name": "GridIndicatorExtra",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GridIndicatorExtra"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "88760",
     "slug": "grid-indicator-extra-text",
     "name": "GridIndicatorExtraText",
@@ -42793,20 +42836,6 @@
   },
   {
     "source": "curse",
-    "id": "27326",
-    "slug": "gridstatusdirectionarrows",
-    "name": "GridStatusDirectionArrows",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GridStatusDirectionArrows"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "83874",
     "slug": "gridstatusdungeondebuff",
     "name": "GridStatusDungeonDebuff",
@@ -42889,20 +42918,6 @@
     "folders": [
       [
         "GridStatusFastHealth"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "89651",
-    "slug": "gridstatusgermination",
-    "name": "GridStatusGermination",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GridStatusGermination"
       ]
     ]
   },
@@ -71588,10 +71603,26 @@
   },
   {
     "source": "curse",
+    "id": "373461",
+    "slug": "pajguildhelper",
+    "name": "PajGuildHelper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PajGuildHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "366766",
     "slug": "pajminimaparrow",
     "name": "PajMinimapArrow",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -76859,6 +76890,20 @@
   },
   {
     "source": "curse",
+    "id": "373457",
+    "slug": "quest-stash",
+    "name": "Quest Stash",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestStash"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85266",
     "slug": "quest-text-reader",
     "name": "Quest Text Reader",
@@ -79734,20 +79779,6 @@
         "RaiderIO_DB_US_H",
         "RaiderIO_DB_US_H_R",
         "RaiderIO"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "299023",
-    "slug": "raidframe-profile-switcher",
-    "name": "Raidframe Profile Switcher",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "RaidframeProfileSwitcher"
       ]
     ]
   },
@@ -105635,20 +105666,6 @@
   },
   {
     "source": "curse",
-    "id": "363828",
-    "slug": "world-buff-tracker-evolution",
-    "name": "World Buff Tracker Evolution",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "WorldBuffTrackerEvolution"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "53217",
     "slug": "world-map-ping-hider",
     "name": "World Map Ping Hider",
@@ -109078,6 +109095,20 @@
     "folders": [
       [
         "clcppb"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373425",
+    "slug": "cleangroupassigns",
+    "name": "cleangroupassigns",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "cleangroupassigns"
       ]
     ]
   },
@@ -207816,8 +207847,7 @@
     ],
     "folders": [
       [
-        "sInterface",
-        "sInterface_Config"
+        "sInterface"
       ]
     ]
   },
@@ -219198,6 +219228,36 @@
       [
         "DockingStation",
         "DockingStation_Config"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25534",
+    "slug": "",
+    "name": "BiggestExecute",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiggestExecute"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25535",
+    "slug": "",
+    "name": "cleangroupassigns",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "cleangroupassigns"
       ]
     ]
   },
