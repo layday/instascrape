@@ -14731,6 +14731,20 @@
   },
   {
     "source": "curse",
+    "id": "373604",
+    "slug": "broker_micromenu",
+    "name": "Broker MicroMenu",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_MicroMenu"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15182",
     "slug": "broker_money",
     "name": "Broker Money",
@@ -14912,6 +14926,20 @@
     "folders": [
       [
         "Broker_XPTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373616",
+    "slug": "broker_zygor",
+    "name": "Broker Zygor",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_Zygor"
       ]
     ]
   },
@@ -15761,20 +15789,6 @@
   },
   {
     "source": "curse",
-    "id": "373604",
-    "slug": "broker_micromenu",
-    "name": "Broker_MicroMenu",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Broker_MicroMenu"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "21420",
     "slug": "broker_micromenue",
     "name": "Broker_MicroMenu",
@@ -16263,20 +16277,6 @@
     "folders": [
       [
         "Broker_Wintergrasper"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "373616",
-    "slug": "broker_zygor",
-    "name": "Broker_Zygor",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Broker_Zygor"
       ]
     ]
   },
@@ -23789,6 +23789,20 @@
     "folders": [
       [
         "CountIt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373746",
+    "slug": "counterspellalert",
+    "name": "CounterspellAlert",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CounterspellAlert"
       ]
     ]
   },
@@ -32781,7 +32795,7 @@
     ],
     "folders": [
       [
-        "ElvUI_KMediaTags"
+        "!KMediaTags"
       ]
     ]
   },
@@ -38503,7 +38517,7 @@
     ],
     "folders": [
       [
-        "ClassicFriendBtn"
+        "FriendBtn"
       ]
     ]
   },
@@ -52103,20 +52117,6 @@
       [
         "ItemRackOptions",
         "ItemRack"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "355831",
-    "slug": "itemrackautoridinggear",
-    "name": "ItemRackAutoRidingGear",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ItemRackAutoRidingGear"
       ]
     ]
   },
@@ -77395,6 +77395,20 @@
     "folders": [
       [
         "QuestWatchSort"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "371206",
+    "slug": "quest_compass",
+    "name": "Quest_Compass",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Quest_Compass"
       ]
     ]
   },
@@ -106733,7 +106747,8 @@
     "slug": "xto-level",
     "name": "XToLevel",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -219262,6 +219277,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25536",
+    "slug": "",
+    "name": "BluishShaman",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BluishShaman"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -220246,6 +220276,16 @@
     "id": "12",
     "slug": "",
     "name": "ElvUI_ExtraDataTexts_Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "32",
+    "slug": "",
+    "name": "ElvUI_mMediaTagClassic",
     "compatibility": [
       "classic"
     ],
