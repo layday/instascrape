@@ -25348,6 +25348,20 @@
   },
   {
     "source": "curse",
+    "id": "373926",
+    "slug": "dbm-voicepack-littprince",
+    "name": "DBM Voicepack: Littprince \u5c0f\u738b\u5b50\u8bed\u97f3\u5305",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPZoeEvans"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87785",
     "slug": "dbm-voicepack-yike",
     "name": "DBM Voicepack: Yike",
@@ -36781,8 +36795,8 @@
   {
     "source": "curse",
     "id": "355220",
-    "slug": "findparty-russian",
-    "name": "FindParty Russian",
+    "slug": "findparty-gagstv",
+    "name": "FindParty-GagStv",
     "compatibility": [
       "classic"
     ],
@@ -64078,6 +64092,9 @@
     "folders": [
       [
         "AXPView"
+      ],
+      [
+        "MiniHudAXP"
       ]
     ]
   },
@@ -64092,6 +64109,9 @@
     "folders": [
       [
         "Wallet"
+      ],
+      [
+        "MiniHudWallet"
       ]
     ]
   },
@@ -64106,6 +64126,9 @@
     "folders": [
       [
         "XPView"
+      ],
+      [
+        "MiniHudXP"
       ]
     ]
   },
@@ -85751,6 +85774,20 @@
     "folders": [
       [
         "GoblinTalk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373102",
+    "slug": "sharedmedia_abain",
+    "name": "SharedMedia_Abain",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_Abain"
       ]
     ]
   },
@@ -112111,6 +112148,20 @@
   },
   {
     "source": "curse",
+    "id": "373892",
+    "slug": "nihlathak",
+    "name": "oUF_Nihlathak",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "oUF_Nihlathak"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19939",
     "slug": "ouf-phanx",
     "name": "oUF_Phanx",
@@ -113249,8 +113300,7 @@
     "slug": "weizpvp",
     "name": "weizPVP",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -219288,6 +219338,21 @@
     "folders": [
       [
         "BluishShaman"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25537",
+    "slug": "",
+    "name": "XToLevel Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "XToLevel"
       ]
     ]
   },
