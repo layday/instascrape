@@ -10088,6 +10088,20 @@
   },
   {
     "source": "curse",
+    "id": "372329",
+    "slug": "bananabarclassic",
+    "name": "BananaBarClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BananaBarClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "371996",
     "slug": "bananaraidsplit",
     "name": "BananaraidSpliT - easy raid split",
@@ -20513,6 +20527,20 @@
   },
   {
     "source": "curse",
+    "id": "374590",
+    "slug": "classic-lfg-filter",
+    "name": "Classic LFG Filter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CFilter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "356061",
     "slug": "classic-looking-for-group",
     "name": "Classic Looking For Group",
@@ -27101,7 +27129,8 @@
     "slug": "deadpool",
     "name": "Dead Pool",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -44201,6 +44230,20 @@
   },
   {
     "source": "curse",
+    "id": "374458",
+    "slug": "guild-bank-list-creator",
+    "name": "Guild Bank List Creator",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildBankListCreator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "82308",
     "slug": "guild-bank-tools",
     "name": "Guild Bank Tools",
@@ -53063,6 +53106,20 @@
   },
   {
     "source": "curse",
+    "id": "374093",
+    "slug": "ktracker",
+    "name": "KTracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "!KTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339809",
     "slug": "kaliels-tracker-classic",
     "name": "Kaliel's Quest Tracker (Classic)",
@@ -53877,6 +53934,21 @@
     "folders": [
       [
         "KikiUtils"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373554",
+    "slug": "kill-counter-2020",
+    "name": "Kill Counter 2020",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "KillCounter"
       ]
     ]
   },
