@@ -10089,9 +10089,10 @@
   {
     "source": "curse",
     "id": "372329",
-    "slug": "bananabarclassic",
-    "name": "BananaBarClassic",
+    "slug": "bananabar-raid-symbols",
+    "name": "BananaBar Raid Symbols Classic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -11007,6 +11008,20 @@
   },
   {
     "source": "curse",
+    "id": "374057",
+    "slug": "bghistorian",
+    "name": "Battlegrounds Historian",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BGHistorian"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3600",
     "slug": "baud-bag",
     "name": "Baud Bag",
@@ -11723,6 +11738,24 @@
     "folders": [
       [
         "BetterAddonList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "374657",
+    "slug": "betterblizzframes",
+    "name": "BetterBlizzFrames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "!BlizzardRaidFramesFix",
+        "BetterBlizzFrames"
+      ],
+      [
+        "BetterBlizzFrames"
       ]
     ]
   },
@@ -23226,6 +23259,15 @@
         "ConsolePortLoader",
         "ConsolePortUI_Loot",
         "ConsolePortUI_Menu"
+      ],
+      [
+        "ConsolePortHelp",
+        "ConsolePort",
+        "ConsolePortAdvanced",
+        "ConsolePortBar",
+        "ConsolePortLoader",
+        "ConsolePortUI_Loot",
+        "ConsolePortUI_Menu"
       ]
     ]
   },
@@ -23497,6 +23539,20 @@
     "folders": [
       [
         "CDUsed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "374751",
+    "slug": "cooldown-watcher",
+    "name": "Cooldown Watcher",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CoolDownWatcher"
       ]
     ]
   },
@@ -27204,6 +27260,23 @@
         "DBM-Onyxia",
         "DBM-Naxx",
         "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-Brawlers",
+        "DBM-DMF",
+        "DBM-GUI",
+        "DBM-WorldEvents",
+        "DBM-Party-BfA",
+        "DBM-Party-Shadowlands",
+        "DBM-Azeroth-BfA",
+        "DBM-Uldir",
+        "DBM-CrucibleofStorms",
+        "DBM-ZuldazarRaid",
+        "DBM-EternalPalace",
+        "DBM-Nyalotha",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -53304,6 +53377,20 @@
   },
   {
     "source": "curse",
+    "id": "374756",
+    "slug": "karls-pvp-ui",
+    "name": "Karls PvP UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KarlsUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101984",
     "slug": "karma-musicbox",
     "name": "Karma Musicbox",
@@ -67153,6 +67240,20 @@
     "folders": [
       [
         "Notebook"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "374645",
+    "slug": "my-very-own-doomguy",
+    "name": "My Very Own Doomguy",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MyVeryOwnDoomguy"
       ]
     ]
   },
@@ -86839,6 +86940,20 @@
     "folders": [
       [
         "SilverTabTarget"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "373825",
+    "slug": "silverhelms-rollouts",
+    "name": "Silverhelms-Rollouts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Silverhelms-Rollouts"
       ]
     ]
   },
@@ -219425,6 +219540,21 @@
     "folders": [
       [
         "XToLevel"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25538",
+    "slug": "",
+    "name": "Aardvark",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Aardvark"
       ]
     ]
   },
