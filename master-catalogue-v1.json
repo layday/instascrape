@@ -18276,6 +18276,20 @@
   },
   {
     "source": "curse",
+    "id": "374973",
+    "slug": "cascade-v2",
+    "name": "Cascade v2",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Cascade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "300888",
     "slug": "auditor-fan-update",
     "name": "Cash Control",
@@ -23778,6 +23792,20 @@
   },
   {
     "source": "curse",
+    "id": "374979",
+    "slug": "corruption-character",
+    "name": "Corruption Character",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CorruptionCharacter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "362731",
     "slug": "corruption-name-tooltips",
     "name": "Corruption Name Tooltips",
@@ -27755,6 +27783,20 @@
       ],
       [
         "Death_Roll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375014",
+    "slug": "death-sound",
+    "name": "Death Sound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DeathSound"
       ]
     ]
   },
@@ -46921,6 +46963,7 @@
         "HealBot_de",
         "HealBot_en",
         "HealBot_es",
+        "HealBot_ExtraSkins",
         "HealBot_fr",
         "HealBot_gr",
         "HealBot_hu",
@@ -46957,6 +47000,7 @@
         "HealBot_de",
         "HealBot_en",
         "HealBot_es",
+        "HealBot_ExtraSkins",
         "HealBot_fr",
         "HealBot_gr",
         "HealBot_hu",
@@ -53379,7 +53423,7 @@
     "source": "curse",
     "id": "374756",
     "slug": "karls-pvp-ui",
-    "name": "Karls PvP UI",
+    "name": "Karls Simple UI",
     "compatibility": [
       "retail"
     ],
@@ -65320,6 +65364,20 @@
     "folders": [
       [
         "Moglist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375024",
+    "slug": "moisty-emojis",
+    "name": "Moisty Emojis",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TwitchEmotesAcuity"
       ]
     ]
   },
@@ -116641,6 +116699,7 @@
         "HealBot_de",
         "HealBot_en",
         "HealBot_es",
+        "HealBot_ExtraSkins",
         "HealBot_fr",
         "HealBot_gr",
         "HealBot_hu",
@@ -215048,6 +215107,7 @@
         "HealBot_de",
         "HealBot_en",
         "HealBot_es",
+        "HealBot_ExtraSkins",
         "HealBot_fr",
         "HealBot_gr",
         "HealBot_hu",
@@ -218691,43 +218751,13 @@
     "source": "wowi",
     "id": "25478",
     "slug": "",
-    "name": "Deadly Boss Mods - PGC V5",
+    "name": "PGC V5 - DBM Modules",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "DBM-Party-BC",
-        "DBM-Party-BfA",
-        "DBM-Party-Cataclysm",
-        "DBM-Party-Classic",
-        "DBM-Party-Legion",
-        "DBM-Party-MoP",
-        "DBM-Party-WoD",
-        "DBM-Party-WotLK",
-        "DBM-PvP",
-        "DBM-Scenario-MoP",
-        "DBM-Serpentshrine",
-        "DBM-SiegeOfOrgrimmarV2",
-        "DBM-SMGEventsPack",
-        "DBM-SoundEventsPack",
-        "DBM-StatusBarTimers",
-        "DBM-Sunwell",
-        "DBM-TerraceofEndlessSpring",
-        "DBM-TheEye",
-        "DBM-ThroneFourWinds",
-        "DBM-ThroneofThunder",
-        "DBM-TimelessIsle",
-        "DBM-TombofSargeras",
-        "DBM-TrialofValor",
-        "DBM-Uldir",
-        "DBM-Ulduar",
-        "DBM-VoA",
-        "DBM-VPEnglish female",
-        "DBM-VPVEM",
-        "DBM-WorldEvents",
-        "DBM-ZuldazarRaid",
         "DBM-AntorusBurningThrone",
         "DBM-AQ20",
         "DBM-AQ40",
@@ -218772,7 +218802,37 @@
         "DBM-Nyalotha",
         "DBM-Onyxia",
         "DBM-Outlands",
-        "DBM-Pandaria"
+        "DBM-Pandaria",
+        "DBM-Party-BC",
+        "DBM-Party-BfA",
+        "DBM-Party-Cataclysm",
+        "DBM-Party-Classic",
+        "DBM-Party-Legion",
+        "DBM-Party-MoP",
+        "DBM-Party-WoD",
+        "DBM-Party-WotLK",
+        "DBM-PvP",
+        "DBM-Scenario-MoP",
+        "DBM-Serpentshrine",
+        "DBM-SiegeOfOrgrimmarV2",
+        "DBM-SoundEventsPack",
+        "DBM-StatusBarTimers",
+        "DBM-Sunwell",
+        "DBM-TerraceofEndlessSpring",
+        "DBM-TheEye",
+        "DBM-ThroneFourWinds",
+        "DBM-ThroneofThunder",
+        "DBM-TimelessIsle",
+        "DBM-TombofSargeras",
+        "DBM-TrialofValor",
+        "DBM-Uldir",
+        "DBM-Ulduar",
+        "DBM-VoA",
+        "DBM-VPARNOLD",
+        "DBM-VPEnglish female",
+        "DBM-VPVEM",
+        "DBM-WorldEvents",
+        "DBM-ZuldazarRaid"
       ]
     ]
   },
@@ -220513,6 +220573,16 @@
     "id": "24",
     "slug": "",
     "name": "ElvUI Progressive Colored DataBars",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "33",
+    "slug": "",
+    "name": "ElvUI TauntAlert",
     "compatibility": [
       "classic"
     ],
