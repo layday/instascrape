@@ -27305,6 +27305,7 @@
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
         "DBM-Nyalotha",
+        "DBM-CastleNathria",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -41277,7 +41278,8 @@
     "slug": "glance",
     "name": "Glance Information Bar",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -41303,6 +41305,23 @@
         "Glance_Titles",
         "Glance_Options",
         "Glance_Gold",
+        "Glance"
+      ],
+      [
+        "Glance_Armor",
+        "Glance_Bags",
+        "Glance_Clock",
+        "Glance_FrameRate",
+        "Glance_Friends",
+        "Glance_Gold",
+        "Glance_Guild",
+        "Glance_Latency",
+        "Glance_Location",
+        "Glance_Memory",
+        "Glance_Options",
+        "Glance_Professions",
+        "Glance_Reputation",
+        "Glance_XP",
         "Glance"
       ]
     ]
@@ -51243,6 +51262,9 @@
     "folders": [
       [
         "NakedSellandRepair"
+      ],
+      [
+        "InstantSellRepairandLoot"
       ]
     ]
   },
@@ -53549,6 +53571,20 @@
     "folders": [
       [
         "KeepNameplateStacking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "374696",
+    "slug": "keep-the-herbs",
+    "name": "Keep The Herbs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "KeepTheHerbs"
       ]
     ]
   },
@@ -205184,14 +205220,14 @@
     "source": "wowi",
     "id": "24349",
     "slug": "",
-    "name": "Spanky's Mark Bar",
+    "name": "Spanky's Marking Bar",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "Interface"
+        "MarkingBar"
       ]
     ]
   },
@@ -219615,6 +219651,66 @@
     "folders": [
       [
         "Aardvark"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25539",
+    "slug": "",
+    "name": "Titan Panel Classic [Recount]",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TitanClassRecount"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25540",
+    "slug": "",
+    "name": "Swarm",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Swarm"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25541",
+    "slug": "",
+    "name": "TremorWatch",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TremorWatch"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25543",
+    "slug": "",
+    "name": "Gathering",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Gathering"
       ]
     ]
   },
