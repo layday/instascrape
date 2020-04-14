@@ -11753,9 +11753,6 @@
       [
         "!BlizzardRaidFramesFix",
         "BetterBlizzFrames"
-      ],
-      [
-        "BetterBlizzFrames"
       ]
     ]
   },
@@ -30163,6 +30160,20 @@
     "folders": [
       [
         "DreadWhisperForInvite"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375206",
+    "slug": "dream-arrows-classic",
+    "name": "Dream Arrows Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DreamArrowsClassic"
       ]
     ]
   },
@@ -51013,6 +51024,20 @@
   },
   {
     "source": "curse",
+    "id": "375474",
+    "slug": "inspectlistcreator",
+    "name": "InspectListCreator",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InspectListCreator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102488",
     "slug": "inspector1",
     "name": "Inspector",
@@ -51265,6 +51290,20 @@
       ],
       [
         "InstantSellRepairandLoot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375407",
+    "slug": "instant-sell-repair-and-autoloot-no-guild",
+    "name": "Instant Sell, Repair, and Autoloot - No Guild",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InstantSellRepairandLootNoGuild"
       ]
     ]
   },
@@ -69380,6 +69419,20 @@
   },
   {
     "source": "curse",
+    "id": "375477",
+    "slug": "no-talking-heads",
+    "name": "No Talking Heads",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NoTalkingHeads"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "264633",
     "slug": "no-thunder-totem-map",
     "name": "No Thunder Totem Map",
@@ -70660,6 +70713,20 @@
     "folders": [
       [
         "OdiousRetroUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "374501",
+    "slug": "oddyssey-bis-tracker",
+    "name": "Odyssey Bis Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiSTracker"
       ]
     ]
   },
@@ -79759,6 +79826,20 @@
     "folders": [
       [
         "RaidInfoBugFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375357",
+    "slug": "raidinvite-classic",
+    "name": "RaidInvite Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidInvite"
       ]
     ]
   },
@@ -89038,6 +89119,20 @@
     "folders": [
       [
         "SmartGuildRepairs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375367",
+    "slug": "smartloot-for-classic",
+    "name": "SmartLoot for Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SmartLoot"
       ]
     ]
   },
@@ -100622,6 +100717,20 @@
   },
   {
     "source": "curse",
+    "id": "375234",
+    "slug": "tremorwatch",
+    "name": "TremorWatch",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TremorWatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "315877",
     "slug": "trialhelper",
     "name": "TrialHelper",
@@ -110101,8 +110210,8 @@
   {
     "source": "curse",
     "id": "48955",
-    "slug": "aggromon",
-    "name": "gmAggromon",
+    "slug": "aggromon-old",
+    "name": "gmAggromon-Old",
     "compatibility": [
       "retail"
     ],
@@ -110157,7 +110266,7 @@
   {
     "source": "curse",
     "id": "57489",
-    "slug": "mydurability",
+    "slug": "gmdurability",
     "name": "gmDurability",
     "compatibility": [
       "retail"
@@ -219715,6 +219824,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25544",
+    "slug": "",
+    "name": "gmGuild",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "gmGuild"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -220649,6 +220773,16 @@
     "id": "31",
     "slug": "",
     "name": "ELVUI DATATEXT BARS 2 - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "34",
+    "slug": "",
+    "name": "ElvUI EasyBuff",
     "compatibility": [
       "classic"
     ],
