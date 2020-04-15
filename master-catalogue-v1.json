@@ -16490,6 +16490,20 @@
   },
   {
     "source": "curse",
+    "id": "297379",
+    "slug": "btw-quests-mists-of-pandaria",
+    "name": "BtWQuests: Mists of Pandaria",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsMistsOfPandaria"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "352555",
     "slug": "bubble-collector",
     "name": "Bubble-Collector",
@@ -36115,6 +36129,10 @@
     "folders": [
       [
         "FarmHud"
+      ],
+      [
+        "FarmHud_QuestArrow",
+        "FarmHud"
       ]
     ]
   },
@@ -50657,9 +50675,6 @@
     ],
     "folders": [
       [
-        "Inception_BIS_List"
-      ],
-      [
         "Inception_Loot_Priority"
       ]
     ]
@@ -55377,6 +55392,20 @@
     "folders": [
       [
         "CTA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375750",
+    "slug": "lfr-of-the-past",
+    "name": "LFR [of the past]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LFR_of_the_past"
       ]
     ]
   },
@@ -61460,6 +61489,20 @@
   },
   {
     "source": "curse",
+    "id": "375746",
+    "slug": "magic-button",
+    "name": "Magic Button",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MagicButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "16111",
     "slug": "magicrunes",
     "name": "Magic Runes",
@@ -64224,6 +64267,20 @@
     "folders": [
       [
         "Militant_CallToArms"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375475",
+    "slug": "milksmuggler-hardcore-guidelime",
+    "name": "Milksmuggler Hardcore Guidelime",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Milksmuggler"
       ]
     ]
   },
@@ -75195,6 +75252,20 @@
   },
   {
     "source": "curse",
+    "id": "375493",
+    "slug": "poster",
+    "name": "Poster",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "POSTER"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86973",
     "slug": "postmastergeneral",
     "name": "PostmasterGeneral",
@@ -83766,6 +83837,20 @@
     "folders": [
       [
         "SControl"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375845",
+    "slug": "sd_values",
+    "name": "SD_Values",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SD_DKP_Values"
       ]
     ]
   },
@@ -110316,6 +110401,34 @@
     "folders": [
       [
         "gmFonts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375729",
+    "slug": "gmfriends",
+    "name": "gmFriends",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "gmFriends"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375609",
+    "slug": "gmguild",
+    "name": "gmGuild",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "gmGuild"
       ]
     ]
   },
@@ -219835,6 +219948,51 @@
     "folders": [
       [
         "gmGuild"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25545",
+    "slug": "",
+    "name": "Gathering Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Gathering"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25546",
+    "slug": "",
+    "name": "gmFriends",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "gmFriends"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25547",
+    "slug": "",
+    "name": "BtWQuests: Mists of Pandaria",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BtWQuestsMistsOfPandaria"
       ]
     ]
   },
