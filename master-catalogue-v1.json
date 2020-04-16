@@ -28817,9 +28817,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -50980,6 +50980,20 @@
   },
   {
     "source": "curse",
+    "id": "375474",
+    "slug": "inspectlistcreator",
+    "name": "Inspect List Creator",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InspectListCreator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "372994",
     "slug": "inspect-ilvl",
     "name": "Inspect iLvl",
@@ -51034,20 +51048,6 @@
       ],
       [
         "!InspectFix"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "375474",
-    "slug": "inspectlistcreator",
-    "name": "InspectListCreator",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "InspectListCreator"
       ]
     ]
   },
@@ -64756,7 +64756,8 @@
     "slug": "minimapline",
     "name": "MinimapLine",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -74481,6 +74482,21 @@
     "folders": [
       [
         "PityMe"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375958",
+    "slug": "pixel-font",
+    "name": "Pixel Font",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PixelFont"
       ]
     ]
   },
@@ -87131,17 +87147,6 @@
         "SilverDragon_Mists",
         "SilverDragon_Warlords",
         "SilverDragon_Legion",
-        "SilverDragon"
-      ],
-      [
-        "SilverDragon_BattleForAzeroth",
-        "SilverDragon_BurningCrusade",
-        "SilverDragon_Cataclysm",
-        "SilverDragon_Legion",
-        "SilverDragon_Mists",
-        "SilverDragon_Vanilla",
-        "SilverDragon_Warlords",
-        "SilverDragon_Wrath",
         "SilverDragon"
       ],
       [
@@ -109937,6 +109942,20 @@
       ],
       [
         "DrashQuestCompleteSound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376090",
+    "slug": "dwgautolooter",
+    "name": "dwgAutoLooter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoLooter"
       ]
     ]
   },
@@ -219993,6 +220012,21 @@
     "folders": [
       [
         "BtWQuestsMistsOfPandaria"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25548",
+    "slug": "",
+    "name": "Autolooter",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoLooter"
       ]
     ]
   },
