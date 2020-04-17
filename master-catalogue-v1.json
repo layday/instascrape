@@ -11752,7 +11752,8 @@
     "folders": [
       [
         "!BlizzardRaidFramesFix",
-        "BetterBlizzFrames"
+        "BetterBlizzFrames",
+        "ShowRaidFrameSoloandHidePlayerFrame"
       ]
     ]
   },
@@ -37516,6 +37517,20 @@
   },
   {
     "source": "curse",
+    "id": "376167",
+    "slug": "flare-ninjalist",
+    "name": "Flare - NinjaList",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Flare"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "36772",
     "slug": "flaresthatwork",
     "name": "FlaresThatWork",
@@ -46584,6 +46599,20 @@
   },
   {
     "source": "curse",
+    "id": "376346",
+    "slug": "handynotes_limitedsupplyvendors",
+    "name": "HandyNotes_LimitedSupplyVendors",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_LimitedSupplyVendors"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "45902",
     "slug": "handynotes_lunarfestival",
     "name": "HandyNotes_LunarFestival",
@@ -51296,13 +51325,9 @@
     "slug": "instant-sell-repair-autoloot",
     "name": "Instant Sell, Repair, & Autoloot",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
-      [
-        "NakedSellandRepair"
-      ],
       [
         "InstantSellRepairandLoot"
       ]
@@ -66053,6 +66078,20 @@
     "folders": [
       [
         "MoreItemInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376341",
+    "slug": "moreitemstats",
+    "name": "MoreItemStats",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MoreItemStats"
       ]
     ]
   },
@@ -113673,6 +113712,20 @@
     "folders": [
       [
         "vUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376377",
+    "slug": "vui-memory-data-text",
+    "name": "vUI Memory Data Text",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "vUI_MemoryDataText"
       ]
     ]
   },
@@ -220027,6 +220080,21 @@
     "folders": [
       [
         "AutoLooter"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25549",
+    "slug": "",
+    "name": "Sigma ProfessionFilter",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaProfessionFilter"
       ]
     ]
   },
