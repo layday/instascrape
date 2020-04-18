@@ -12027,6 +12027,20 @@
   },
   {
     "source": "curse",
+    "id": "376654",
+    "slug": "bis-tracker-classic-updated-to-phase-6",
+    "name": "BiS Tracker - Classic 2020",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiSTracker2020"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "94112",
     "slug": "bich",
     "name": "Bich, the Spell Tracker",
@@ -64298,8 +64312,8 @@
   {
     "source": "curse",
     "id": "375475",
-    "slug": "milksmuggler-hardcore-guidelime",
-    "name": "Milksmuggler Hardcore Guidelime",
+    "slug": "milksmuggler-tacticslol-guidelime",
+    "name": "Milksmuggler/Tactics_lol Alliance/Horde Package",
     "compatibility": [
       "classic"
     ],
@@ -64455,6 +64469,20 @@
       ],
       [
         "MiniHudAXP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375305",
+    "slug": "minihudcurrency",
+    "name": "MiniHUD - Currency",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MiniHUDCurrency"
       ]
     ]
   },
@@ -107995,6 +108023,20 @@
   },
   {
     "source": "curse",
+    "id": "376631",
+    "slug": "zgautoroll",
+    "name": "ZG AutoRoll",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ZGAutoRoll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341055",
     "slug": "zmobdb-advanced",
     "name": "ZMobDB Advanced",
@@ -125603,7 +125645,7 @@
     "source": "wowi",
     "id": "10243",
     "slug": "",
-    "name": "BG Assist Build 12539- DJFreia Edition",
+    "name": "BG Assist Build 33941 - DJFreia Edition",
     "compatibility": [
       "retail",
       "classic"
@@ -220095,6 +220137,21 @@
     "folders": [
       [
         "SigmaProfessionFilter"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25551",
+    "slug": "",
+    "name": "Dream Arrows Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DreamArrowsClassic"
       ]
     ]
   },
