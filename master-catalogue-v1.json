@@ -42050,6 +42050,20 @@
   },
   {
     "source": "curse",
+    "id": "376629",
+    "slug": "gold-standard-gold-raid-loot-council-prio",
+    "name": "Gold Standard:  Gold Raid Loot Council Prio",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoldLCPrio"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98691",
     "slug": "gold-tracker-plus",
     "name": "Gold Tracker Plus",
@@ -44108,6 +44122,20 @@
     "folders": [
       [
         "Guidelime"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "375475",
+    "slug": "milksmuggler-tacticslol-guidelime",
+    "name": "Guidelime Package by Milksmuggler and Tactics_lol",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Milksmuggler"
       ]
     ]
   },
@@ -64311,20 +64339,6 @@
   },
   {
     "source": "curse",
-    "id": "375475",
-    "slug": "milksmuggler-tacticslol-guidelime",
-    "name": "Milksmuggler/Tactics_lol Alliance/Horde Package",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Guidelime_Milksmuggler"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "31873",
     "slug": "millbutton",
     "name": "MillButton",
@@ -67507,6 +67521,7 @@
     "slug": "my-very-own-doomguy",
     "name": "My Very Own Doomguy",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -98690,6 +98705,20 @@
     "folders": [
       [
         "GoldPrice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376730",
+    "slug": "token-reward-helper",
+    "name": "Token Reward Helper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TokenRewardHelper"
       ]
     ]
   },
@@ -220152,6 +220181,36 @@
     "folders": [
       [
         "DreamArrowsClassic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25552",
+    "slug": "",
+    "name": "BtWQuests: Cataclysm",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BtWQuestsCataclysm"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25553",
+    "slug": "",
+    "name": "BtWQuests: Warlords of Draenor",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BtWQuestsWarlordsOfDraenor"
       ]
     ]
   },
