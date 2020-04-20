@@ -27288,22 +27288,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-Brawlers",
-        "DBM-DMF",
-        "DBM-GUI",
-        "DBM-WorldEvents",
-        "DBM-Party-BfA",
-        "DBM-Azeroth-BfA",
-        "DBM-Uldir",
-        "DBM-CrucibleofStorms",
-        "DBM-ZuldazarRaid",
-        "DBM-EternalPalace",
-        "DBM-Nyalotha",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-GUI",
         "DBM-Party-Classic",
         "DBM-AQ20",
@@ -110058,8 +110042,8 @@
   {
     "source": "curse",
     "id": "376090",
-    "slug": "dwgautolooter",
-    "name": "dwgAutoLooter",
+    "slug": "dwgautoroller",
+    "name": "dwgAutoRoller",
     "compatibility": [
       "classic"
     ],
@@ -122142,12 +122126,14 @@
         "DBM-StatusBarTimers",
         "DBM-WorldEvents",
         "DBM-Party-BfA",
+        "DBM-Party-Shadowlands",
         "DBM-Azeroth-BfA",
         "DBM-Uldir",
         "DBM-CrucibleofStorms",
         "DBM-ZuldazarRaid",
         "DBM-EternalPalace",
-        "DBM-Nyalotha"
+        "DBM-Nyalotha",
+        "DBM-CastleNathria"
       ]
     ]
   },
@@ -220180,7 +220166,7 @@
     ],
     "folders": [
       [
-        "DreamArrowsClassic"
+        "DreamArrowsClassic-1.5.1"
       ]
     ]
   },
@@ -220211,6 +220197,21 @@
     "folders": [
       [
         "BtWQuestsWarlordsOfDraenor"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25556",
+    "slug": "",
+    "name": "Retail Map Blips (For Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RetailMapBlips"
       ]
     ]
   },
