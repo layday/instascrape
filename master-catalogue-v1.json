@@ -7517,6 +7517,20 @@
   },
   {
     "source": "curse",
+    "id": "377054",
+    "slug": "autokeystone",
+    "name": "AutoKeystone",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoKeystone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "334702",
     "slug": "autolfgrole",
     "name": "AutoLFGRole",
@@ -12700,7 +12714,7 @@
     "source": "curse",
     "id": "373612",
     "slug": "biggestexecute",
-    "name": "BiggestExecute",
+    "name": "BiggestExecute - Execute Tracker",
     "compatibility": [
       "retail",
       "classic"
@@ -16477,6 +16491,20 @@
   },
   {
     "source": "curse",
+    "id": "297378",
+    "slug": "btw-quests-cataclysm",
+    "name": "BtWQuests: Cataclysm",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsCataclysm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297375",
     "slug": "btw-quests-classic",
     "name": "BtWQuests: Classic",
@@ -16514,6 +16542,20 @@
     "folders": [
       [
         "BtWQuestsMistsOfPandaria"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "297380",
+    "slug": "btw-quests-warlords",
+    "name": "BtWQuests: Warlords of Draenor",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsWarlordsOfDraenor"
       ]
     ]
   },
@@ -21074,6 +21116,21 @@
     "folders": [
       [
         "ClassicHealPrediction"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376663",
+    "slug": "classichitmarker",
+    "name": "ClassicHitMarker",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicHitMarker"
       ]
     ]
   },
@@ -27288,21 +27345,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27316,6 +27358,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -38127,6 +38184,7 @@
     "slug": "followmepls-auto-follow-addon",
     "name": "FollowMePls - Auto-follow addon",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -41511,6 +41569,20 @@
     "folders": [
       [
         "DGPS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377190",
+    "slug": "globalplayed",
+    "name": "GlobalPlayed",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GlobalPlayed"
       ]
     ]
   },
@@ -51769,6 +51841,20 @@
   },
   {
     "source": "curse",
+    "id": "377106",
+    "slug": "invite-repair-reminder-classic",
+    "name": "Invite Repair Reminder (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InviteRepairReminder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "1836",
     "slug": "project-1836",
     "name": "Invite-O-Matic",
@@ -53647,6 +53733,20 @@
     "folders": [
       [
         "KaymonsCloset"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377020",
+    "slug": "kazkeys",
+    "name": "KazKeys",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KazKeys"
       ]
     ]
   },
@@ -59204,6 +59304,20 @@
   },
   {
     "source": "curse",
+    "id": "377047",
+    "slug": "linkspellsclassic",
+    "name": "LinkSpellsClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LinkSpellsClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3579",
     "slug": "link-wrangler-1-7",
     "name": "LinkWrangler",
@@ -59762,6 +59876,20 @@
     "folders": [
       [
         "LongStrangeTrip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376541",
+    "slug": "longroll",
+    "name": "LongRoll",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LongRoll"
       ]
     ]
   },
@@ -67284,6 +67412,20 @@
   },
   {
     "source": "curse",
+    "id": "376943",
+    "slug": "mute-obsidian-nightwing",
+    "name": "Mute Obsidian Nightwing",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MuteObsidianNightwing"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "298815",
     "slug": "mute-premade-groups-alerts",
     "name": "Mute Premade Groups Alerts",
@@ -69496,6 +69638,24 @@
     "folders": [
       [
         "NoMoreOutlaw"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377478",
+    "slug": "no-pink-classes",
+    "name": "No Pink Classes",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoldPaladins"
+      ],
+      [
+        "BlueShamans"
       ]
     ]
   },
@@ -77765,6 +77925,20 @@
     "folders": [
       [
         "QuestMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377157",
+    "slug": "questmover",
+    "name": "QuestMover",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestMover"
       ]
     ]
   },
@@ -89715,6 +89889,20 @@
     "folders": [
       [
         "Snowflake"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377144",
+    "slug": "snudens-raid-utilities",
+    "name": "Snuden's Raid Checker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SnudensRaidChecker"
       ]
     ]
   },
@@ -220212,6 +220400,36 @@
     "folders": [
       [
         "RetailMapBlips"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25557",
+    "slug": "",
+    "name": "LinkSpellsClassic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LinkSpellsClassic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25558",
+    "slug": "",
+    "name": "AutoKeystone",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoKeystone"
       ]
     ]
   },
