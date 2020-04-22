@@ -17833,6 +17833,20 @@
   },
   {
     "source": "curse",
+    "id": "102862",
+    "slug": "call-to-arms-list",
+    "name": "Call to Arms",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Militant_CallToArms"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15049",
     "slug": "callbackhandler",
     "name": "CallbackHandler-1.0",
@@ -27345,6 +27359,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27358,21 +27387,6 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -28590,6 +28604,20 @@
     "folders": [
       [
         "Dejunk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377586",
+    "slug": "deleteconfirmer",
+    "name": "DeleteConfirmer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DeleteConfirmer"
       ]
     ]
   },
@@ -48445,6 +48473,20 @@
   },
   {
     "source": "curse",
+    "id": "376500",
+    "slug": "hideactionbarart",
+    "name": "HideActionBarArt",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideActionBarArt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "357892",
     "slug": "hidebackground",
     "name": "HideBackground",
@@ -56044,6 +56086,20 @@
     "folders": [
       [
         "LastSeen"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377552",
+    "slug": "layer-hopper",
+    "name": "Layer Hopper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LayerHopper"
       ]
     ]
   },
@@ -64437,20 +64493,6 @@
   },
   {
     "source": "curse",
-    "id": "102862",
-    "slug": "militant-call-arms",
-    "name": "Militant Call to Arms",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Militant_CallToArms"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "31873",
     "slug": "millbutton",
     "name": "MillButton",
@@ -66132,21 +66174,6 @@
     "folders": [
       [
         "MooseLight"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "356948",
-    "slug": "mooseportal",
-    "name": "MoosePortal",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "MoosePortalAdvanced",
-        "MoosePortal"
       ]
     ]
   },
@@ -82291,6 +82318,20 @@
   },
   {
     "source": "curse",
+    "id": "376901",
+    "slug": "remaining-xp",
+    "name": "Remaining XP",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RemainingXP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "66047",
     "slug": "rematch",
     "name": "Rematch",
@@ -84813,6 +84854,20 @@
   },
   {
     "source": "curse",
+    "id": "377697",
+    "slug": "scalzbam",
+    "name": "ScalzBam",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ScalzBam"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "352017",
     "slug": "scepcalendar-classic",
     "name": "ScepCalendar Classic",
@@ -86505,6 +86560,20 @@
     "folders": [
       [
         "SharedMedia_Causese"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377082",
+    "slug": "sharedmedia_hmg",
+    "name": "SharedMedia_HMG",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_HMG"
       ]
     ]
   },
@@ -113964,7 +114033,8 @@
     "slug": "vui-memory-data-text",
     "name": "vUI Memory Data Text",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -164884,7 +164954,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-04-05",
+    "name": "WoWpoPolsku-Quests 80300 2020-04-21",
     "compatibility": [
       "retail",
       "classic"
@@ -208862,7 +208932,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-05-05",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-05-21",
     "compatibility": [
       "retail",
       "classic"
@@ -215113,7 +215183,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-04-05",
+    "name": "WoWpoPolsku-Quests Classic 2020-04-21",
     "compatibility": [
       "retail",
       "classic"
@@ -215195,7 +215265,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-04-05",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-04-21",
     "compatibility": [
       "retail",
       "classic"
@@ -220430,6 +220500,21 @@
     "folders": [
       [
         "AutoKeystone"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25560",
+    "slug": "",
+    "name": "AutoAcceptShare",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoAcceptShare"
       ]
     ]
   },
