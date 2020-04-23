@@ -7079,6 +7079,21 @@
   },
   {
     "source": "curse",
+    "id": "377741",
+    "slug": "autoacceptshare",
+    "name": "AutoAcceptShare",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoAcceptShare"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "93192",
     "slug": "autoaccepter",
     "name": "AutoAccepter",
@@ -7945,6 +7960,20 @@
     "name": "AutoRoll",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "AutoRoll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377746",
+    "slug": "autoroll-classic",
+    "name": "AutoRoll (Classic)",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -17841,7 +17870,7 @@
     ],
     "folders": [
       [
-        "Militant_CallToArms"
+        "CallToArms"
       ]
     ]
   },
@@ -25050,7 +25079,7 @@
     "source": "curse",
     "id": "306880",
     "slug": "dbm-voice-pack-korean-female-dingdiring",
-    "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v8.0.1)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v8.3.0)",
     "compatibility": [
       "retail"
     ],
@@ -27471,7 +27500,7 @@
     "source": "curse",
     "id": "61621",
     "slug": "dbm-challenges",
-    "name": "Deadly Boss Mods (DBM) - Challenges (Visions)",
+    "name": "Deadly Boss Mods (DBM) - Challenges (Visions/Torghast)",
     "compatibility": [
       "retail"
     ],
@@ -56793,6 +56822,21 @@
   },
   {
     "source": "curse",
+    "id": "377976",
+    "slug": "level-up-queen",
+    "name": "Level Up Queen Sound",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LevelupQueenSound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339648",
     "slug": "level-up-screenshot",
     "name": "Level-up Screenshot",
@@ -78966,7 +79010,8 @@
     "slug": "rclootcouncil-extrautilities",
     "name": "RCLootCouncil - ExtraUtilities",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -78980,7 +79025,8 @@
     "slug": "rclootcouncil-groupgear",
     "name": "RCLootCouncil - GroupGear",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -103067,8 +103113,11 @@
     ],
     "folders": [
       [
+        "ViksUI",
         "Viks_ConfigUI",
-        "ViksUI"
+        "Bartender4",
+        "Masque",
+        "Skada"
       ]
     ]
   },
@@ -104762,6 +104811,21 @@
     "folders": [
       [
         "WhatADrop"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377737",
+    "slug": "whatcha-say-death-sound",
+    "name": "Whatcha Say Death Sound",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Whatcha_Say_Death_Sound"
       ]
     ]
   },
@@ -108307,6 +108371,20 @@
   },
   {
     "source": "curse",
+    "id": "377671",
+    "slug": "zg-bijou-roller",
+    "name": "ZG Bijou Roller",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ZGBijouRoller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341055",
     "slug": "zmobdb-advanced",
     "name": "ZMobDB Advanced",
@@ -109763,6 +109841,20 @@
     "folders": [
       [
         "cKillerEmote"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377953",
+    "slug": "clootpriority",
+    "name": "cLootPriority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "cLootPriority"
       ]
     ]
   },
@@ -221593,6 +221685,16 @@
     "id": "10",
     "slug": "",
     "name": "MerathilisUI-Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "35",
+    "slug": "",
+    "name": "MOGUI: Classic Edition",
     "compatibility": [
       "classic"
     ],
