@@ -20811,6 +20811,20 @@
   },
   {
     "source": "curse",
+    "id": "378126",
+    "slug": "classic-raid-assist-fury",
+    "name": "Classic Raid Assist Fury",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssistFury"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "344365",
     "slug": "classic-raid-tracker",
     "name": "Classic Raid Tracker",
@@ -20975,6 +20989,20 @@
     "folders": [
       [
         "ClassicAuraDurations"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378122",
+    "slug": "classicautorepair",
+    "name": "ClassicAutoRepair",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicAutoRepair"
       ]
     ]
   },
@@ -29602,20 +29630,6 @@
     "folders": [
       [
         "DiscAzeriteArmor"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "301319",
-    "slug": "discord-emoji",
-    "name": "Discord Emoji",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DiscordEmoji"
       ]
     ]
   },
@@ -56134,6 +56148,20 @@
   },
   {
     "source": "curse",
+    "id": "378029",
+    "slug": "layerchecker",
+    "name": "LayerChecker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LayerChecker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "100049",
     "slug": "laziomasterytool",
     "name": "LazioMasteryTool",
@@ -68346,6 +68374,20 @@
     "folders": [
       [
         "N.U.K.U.L.A.R"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378028",
+    "slug": "nc-media",
+    "name": "NC Media",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NCMedia"
       ]
     ]
   },
@@ -87314,6 +87356,20 @@
   },
   {
     "source": "curse",
+    "id": "378139",
+    "slug": "sigma-profession-filter-classic",
+    "name": "Sigma Profession Filter (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaProfessionFilter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "14510",
     "slug": "sign-on",
     "name": "SignOn",
@@ -103113,11 +103169,8 @@
     ],
     "folders": [
       [
-        "ViksUI",
         "Viks_ConfigUI",
-        "Bartender4",
-        "Masque",
-        "Skada"
+        "ViksUI"
       ]
     ]
   },
@@ -220675,6 +220728,16 @@
     "id": "84",
     "slug": "",
     "name": "Altoholic Count Hider",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "156",
+    "slug": "",
+    "name": "AlysiaUI",
     "compatibility": [
       "retail"
     ],
