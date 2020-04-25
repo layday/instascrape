@@ -12854,20 +12854,6 @@
   },
   {
     "source": "curse",
-    "id": "24984",
-    "slug": "binder",
-    "name": "Binder",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Binder"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "88868",
     "slug": "bindswhen",
     "name": "Binds When?",
@@ -16577,7 +16563,7 @@
   {
     "source": "curse",
     "id": "297380",
-    "slug": "btw-quests-warlords",
+    "slug": "btw-quests-warlords-of-draenor",
     "name": "BtWQuests: Warlords of Draenor",
     "compatibility": [
       "retail"
@@ -26130,6 +26116,20 @@
     "folders": [
       [
         "DRTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378294",
+    "slug": "dtlite",
+    "name": "DTLite",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DTLite"
       ]
     ]
   },
@@ -53194,6 +53194,20 @@
   },
   {
     "source": "curse",
+    "id": "24984",
+    "slug": "binder",
+    "name": "Jordan Taylor",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Binder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297779",
     "slug": "journal",
     "name": "Journal",
@@ -53818,6 +53832,20 @@
     "folders": [
       [
         "KaymonsCloset"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378464",
+    "slug": "kazauctionvalue",
+    "name": "KazAuctionValue",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KazAuctionValue"
       ]
     ]
   },
@@ -106954,6 +106982,20 @@
     "folders": [
       [
         "Worth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378410",
+    "slug": "worthit-classic",
+    "name": "WorthIT - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WIT"
       ]
     ]
   },
@@ -208878,17 +208920,7 @@
     ],
     "folders": [
       [
-        "LookingForGroup",
-        "LookingForGroup_Auto",
-        "LookingForGroup_Bindings",
-        "LookingForGroup_Broker",
-        "LookingForGroup_CR",
-        "LookingForGroup_Event",
-        "LookingForGroup_Hook",
-        "LookingForGroup_Icon",
-        "LookingForGroup_Options",
-        "LookingForGroup_Q",
-        "LookingForGroup_SF"
+        "LookingForGroup-3070"
       ]
     ]
   },
@@ -220858,16 +220890,6 @@
     "id": "15",
     "slug": "",
     "name": "ElvUI ChannelAlerts",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "53",
-    "slug": "",
-    "name": "ElvUI Combat Feedback Text",
     "compatibility": [
       "retail"
     ],
