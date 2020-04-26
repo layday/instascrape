@@ -110852,8 +110852,8 @@
   {
     "source": "curse",
     "id": "48955",
-    "slug": "aggromon-old",
-    "name": "gmAggromon-Old",
+    "slug": "gmaggromon",
+    "name": "gmAggromon-old",
     "compatibility": [
       "retail"
     ],
@@ -220692,6 +220692,21 @@
     "folders": [
       [
         "AutoAcceptShare"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25561",
+    "slug": "",
+    "name": "The McGratzer",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TheMcGratzer"
       ]
     ]
   },
