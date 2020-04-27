@@ -122571,14 +122571,11 @@
         "DBM-StatusBarTimers",
         "DBM-WorldEvents",
         "DBM-Party-BfA",
-        "DBM-Party-Shadowlands",
         "DBM-Azeroth-BfA",
         "DBM-Uldir",
         "DBM-CrucibleofStorms",
         "DBM-ZuldazarRaid",
-        "DBM-EternalPalace",
-        "DBM-Nyalotha",
-        "DBM-CastleNathria"
+        "DBM-EternalPalace"
       ]
     ]
   },
@@ -220707,6 +220704,36 @@
     "folders": [
       [
         "TheMcGratzer"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25562",
+    "slug": "",
+    "name": "Minguas Suite",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MinguasSuite"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25563",
+    "slug": "",
+    "name": "Sigma HelmAndCloak",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaHelmAndCloak"
       ]
     ]
   },
