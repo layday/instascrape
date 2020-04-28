@@ -2241,20 +2241,6 @@
   },
   {
     "source": "curse",
-    "id": "258158",
-    "slug": "adibags-tackle-box",
-    "name": "AdiBags - Tackle Box",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_TackleBox"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "351755",
     "slug": "adibags-unusableitemoverlay",
     "name": "AdiBags - UnusableItemOverlay",
@@ -4271,6 +4257,20 @@
     "folders": [
       [
         "Appearances"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379136",
+    "slug": "applebandit-standby-loot",
+    "name": "Applebandit Standby Loot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Applebandit_Standby_Loot"
       ]
     ]
   },
@@ -21991,6 +21991,20 @@
     "folders": [
       [
         "Cod_Do_Batter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378313",
+    "slug": "coffindeathsound",
+    "name": "CoffinDeathSound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CoffinDeathSound"
       ]
     ]
   },
@@ -44934,7 +44948,7 @@
     "source": "curse",
     "id": "269644",
     "slug": "guild-roster-manager",
-    "name": "Guild Roster Manager",
+    "name": "Guild Roster Manager (GRM)",
     "compatibility": [
       "retail",
       "classic"
@@ -96020,6 +96034,20 @@
   },
   {
     "source": "curse",
+    "id": "378663",
+    "slug": "the-mcgratzer",
+    "name": "The McGratzer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TheMcGratzer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341677",
     "slug": "the-mother-tongue",
     "name": "The Mother Tongue",
@@ -109496,6 +109524,20 @@
         "ag_Options",
         "ag_Extras",
         "ag_UnitFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379125",
+    "slug": "alacalendar",
+    "name": "alaCalendar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "alaCalendar"
       ]
     ]
   },
