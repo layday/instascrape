@@ -2227,20 +2227,6 @@
   },
   {
     "source": "curse",
-    "id": "266370",
-    "slug": "adibags-revelry",
-    "name": "AdiBags - Revelry!",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_Revelry"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "351755",
     "slug": "adibags-unusableitemoverlay",
     "name": "AdiBags - UnusableItemOverlay",
@@ -3622,6 +3608,20 @@
   },
   {
     "source": "curse",
+    "id": "379458",
+    "slug": "ammocount",
+    "name": "AmmoCount",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AmmoCount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15639",
     "slug": "ampere",
     "name": "Ampere",
@@ -4257,6 +4257,20 @@
     "folders": [
       [
         "Appearances"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379130",
+    "slug": "applebandit-assignments",
+    "name": "Applebandit Assignments",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Applebandit_Assignments"
       ]
     ]
   },
@@ -7187,6 +7201,20 @@
     "folders": [
       [
         "AutoCancelGhostWolf"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379452",
+    "slug": "autocarrot",
+    "name": "AutoCarrot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoCarrot"
       ]
     ]
   },
@@ -17040,6 +17068,20 @@
   },
   {
     "source": "curse",
+    "id": "379181",
+    "slug": "bulo-layer-changer",
+    "name": "Bulo Layer changer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuloLayer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "312414",
     "slug": "bulo-ui",
     "name": "BuloUI",
@@ -26059,6 +26101,21 @@
     "folders": [
       [
         "DMFAutoDailyQuest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377293",
+    "slug": "los-protectores-wowrpg",
+    "name": "DMWoWRPG",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DiceMaster_UnitFrames",
+        "DiceMaster"
       ]
     ]
   },
@@ -45470,6 +45527,20 @@
   },
   {
     "source": "curse",
+    "id": "375578",
+    "slug": "guildbook",
+    "name": "Guildbook",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guildbook"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "301230",
     "slug": "guildie-note-3",
     "name": "Guildie Note 3",
@@ -54013,7 +54084,8 @@
     "slug": "kethoinstancetimer",
     "name": "KethoInstanceTimer",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -55013,6 +55085,20 @@
     "folders": [
       [
         "Kniggel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379236",
+    "slug": "knockoutofficial",
+    "name": "KnockoutOfficial",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KnockoutAddon"
       ]
     ]
   },
@@ -60065,6 +60151,20 @@
   },
   {
     "source": "curse",
+    "id": "376141",
+    "slug": "longboi-death-roll",
+    "name": "Longboi death roll",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "longboi-death-roll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88851",
     "slug": "looking-satchels",
     "name": "Looking for Satchels",
@@ -64008,6 +64108,20 @@
   },
   {
     "source": "curse",
+    "id": "378633",
+    "slug": "mayceiaalts",
+    "name": "MayceiaAlts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MayceiaAlts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "342432",
     "slug": "mccapfix",
     "name": "McCapFix",
@@ -65748,6 +65862,20 @@
     "folders": [
       [
         "MogIt_SetTransmog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378613",
+    "slug": "mogit_alltransmo",
+    "name": "MogIt_AllTransmo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MogIt_AllTransmo"
       ]
     ]
   },
@@ -69350,6 +69478,20 @@
   },
   {
     "source": "curse",
+    "id": "378847",
+    "slug": "neverforget",
+    "name": "NeverForget",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NeverForget"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "301155",
     "slug": "new-loot-pool",
     "name": "New Loot Pool",
@@ -71892,6 +72034,20 @@
   },
   {
     "source": "curse",
+    "id": "379384",
+    "slug": "outofmana",
+    "name": "OutOfMana",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "OutOfMana"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3299",
     "slug": "outfitter",
     "name": "Outfitter",
@@ -72072,6 +72228,20 @@
     "folders": [
       [
         "OwD"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379298",
+    "slug": "owen-wilson-redux",
+    "name": "Owen Wilson Redux",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "OwenWilson"
       ]
     ]
   },
@@ -73977,20 +74147,6 @@
     "folders": [
       [
         "PetScan"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "274194",
-    "slug": "petshopping",
-    "name": "PetShopping",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "PetShopping"
       ]
     ]
   },
@@ -87398,6 +87554,20 @@
   },
   {
     "source": "curse",
+    "id": "378652",
+    "slug": "sigma-helm-and-cloak-classic",
+    "name": "Sigma Helm and Cloak (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaHelmAndCloak"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "378139",
     "slug": "sigma-profession-filter-classic",
     "name": "Sigma Profession Filter (Classic)",
@@ -96681,6 +96851,20 @@
   },
   {
     "source": "curse",
+    "id": "378553",
+    "slug": "tidybar-classic",
+    "name": "TidyBar Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TidyBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "103339",
     "slug": "tidyplates-roth",
     "name": "TidyPlates: Roth",
@@ -104752,6 +104936,20 @@
     "folders": [
       [
         "WebDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378908",
+    "slug": "weekkeys",
+    "name": "WeekKeys",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WeekKeys"
       ]
     ]
   },
@@ -113903,6 +114101,20 @@
   },
   {
     "source": "curse",
+    "id": "378606",
+    "slug": "tdbag2-glass",
+    "name": "tdBag2 Glass",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "tdBag2_Glass"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "354831",
     "slug": "tdbag2_facade",
     "name": "tdBag2_Facade",
@@ -114268,6 +114480,20 @@
     "folders": [
       [
         "vUI_MemoryDataText"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378871",
+    "slug": "vclootpriority",
+    "name": "vcLootPriority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "vcLootPriority"
       ]
     ]
   },
@@ -220776,6 +221002,21 @@
     "folders": [
       [
         "SigmaHelmAndCloak"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25564",
+    "slug": "",
+    "name": "Bulo Layer Changer",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuloLayer"
       ]
     ]
   },
