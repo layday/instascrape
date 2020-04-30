@@ -19878,6 +19878,20 @@
   },
   {
     "source": "curse",
+    "id": "379563",
+    "slug": "checkmate-herod-loot-priority",
+    "name": "Checkmate Guild - Herod - Loot Priority Tooltips",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Checkmate_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "36324",
     "slug": "chef-time",
     "name": "Chef Time",
@@ -20848,6 +20862,20 @@
     "folders": [
       [
         "ClassicRaidAssistFury"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379660",
+    "slug": "classic-raid-assist-ziggurat",
+    "name": "Classic Raid Assist Ziggurat",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssist"
       ]
     ]
   },
@@ -29008,9 +29036,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -35808,6 +35836,20 @@
     "folders": [
       [
         "Exxark-DPS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379674",
+    "slug": "ezmo",
+    "name": "EzMo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EzMo"
       ]
     ]
   },
@@ -105655,20 +105697,6 @@
   },
   {
     "source": "curse",
-    "id": "340863",
-    "slug": "whw",
-    "name": "WhoHasWhat",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "WhoHasWhat"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "14897",
     "slug": "wholib",
     "name": "WhoLib",
@@ -107380,6 +107408,20 @@
     "folders": [
       [
         "WowheadQuickLink"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379725",
+    "slug": "wowkemon-classic",
+    "name": "Wowkemon Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Wowkemon_Classic"
       ]
     ]
   },
