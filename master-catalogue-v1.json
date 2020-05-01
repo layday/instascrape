@@ -2227,6 +2227,20 @@
   },
   {
     "source": "curse",
+    "id": "379893",
+    "slug": "adibags-filter-for-tsm-by-price",
+    "name": "AdiBags - TSM Price Groups",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_TSM_Price_Groups"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "351755",
     "slug": "adibags-unusableitemoverlay",
     "name": "AdiBags - UnusableItemOverlay",
@@ -20848,20 +20862,6 @@
     "folders": [
       [
         "ClassicRaidAssist"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "378126",
-    "slug": "classic-raid-assist-fury",
-    "name": "Classic Raid Assist Fury",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ClassicRaidAssistFury"
       ]
     ]
   },
@@ -45055,6 +45055,21 @@
     "folders": [
       [
         "Guild_Roster_Manager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379888",
+    "slug": "guild-roster-manager-group-info",
+    "name": "Guild Roster Manager (GRM) - Group Info",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guild_Roster_Manager_Group_Info"
       ]
     ]
   },
@@ -75948,6 +75963,20 @@
   },
   {
     "source": "curse",
+    "id": "378126",
+    "slug": "power-raid",
+    "name": "Power Raid",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PowerRaid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "27509",
     "slug": "powerding",
     "name": "PowerDing",
@@ -80258,8 +80287,8 @@
         "RaidAchievement"
       ],
       [
-        "RaidAchievement_LegionHeroics",
         "RaidAchievement_LegionRaids",
+        "RaidAchievement_LegionHeroics",
         "RaidAchievement"
       ]
     ]
@@ -93680,6 +93709,20 @@
     "folders": [
       [
         "Sunrise_Sunset"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379988",
+    "slug": "super-emotes-and-sounds",
+    "name": "Super Emotes and Sounds",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SuperEmotesAndSounds"
       ]
     ]
   },
@@ -139762,9 +139805,9 @@
     ],
     "folders": [
       [
-        "RaidAchievement_LegionHeroics",
         "RaidAchievement_LegionRaids",
-        "RaidAchievement"
+        "RaidAchievement",
+        "RaidAchievement_LegionHeroics"
       ]
     ]
   },
