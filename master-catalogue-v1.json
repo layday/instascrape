@@ -7404,6 +7404,20 @@
   },
   {
     "source": "curse",
+    "id": "380093",
+    "slug": "autoenterbwl",
+    "name": "AutoEnterBWL",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoEnterBWL"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28517",
     "slug": "autoequipquestitem",
     "name": "AutoEquipQuestItem",
@@ -41026,7 +41040,8 @@
     "slug": "genie",
     "name": "Genie",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -48653,6 +48668,20 @@
     "folders": [
       [
         "Hide the Flash!"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380076",
+    "slug": "remove-default-actionbar",
+    "name": "Hide/Remove Default Action Bar",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideBlizzardDefaultBar"
       ]
     ]
   },
@@ -87620,6 +87649,20 @@
       [
         "SickOfClickingDailies_AltTracking",
         "SickOfClickingDailies"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380310",
+    "slug": "sigma-addon-manager-classic",
+    "name": "Sigma AddOn Manager (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaAddOnManager"
       ]
     ]
   },
@@ -221102,6 +221145,36 @@
     "folders": [
       [
         "BuloLayer"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25565",
+    "slug": "",
+    "name": "Wowkemon Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Wowkemon_Classic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25566",
+    "slug": "",
+    "name": "Sigma AddOnManager",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SigmaAddOnManager"
       ]
     ]
   },
