@@ -24214,20 +24214,6 @@
   },
   {
     "source": "curse",
-    "id": "26539",
-    "slug": "craftbar",
-    "name": "CraftBar",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "CraftBar"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "47595",
     "slug": "craftbuster",
     "name": "CraftBuster",
@@ -78797,6 +78783,20 @@
   },
   {
     "source": "curse",
+    "id": "380127",
+    "slug": "quickepgp",
+    "name": "QuickEPGP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuickEPGP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "258292",
     "slug": "quickgroup",
     "name": "QuickGroup",
@@ -88264,6 +88264,23 @@
     "folders": [
       [
         "SimpleHolyPower"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379966",
+    "slug": "simple-ilvl",
+    "name": "Simple Ilvl",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SimpleILvl_Group",
+        "SimpleILvl_Resilience",
+        "SimpleILvl_Social",
+        "SimpleILvl"
       ]
     ]
   },
@@ -103518,7 +103535,6 @@
     "slug": "vikingsharedlib",
     "name": "VikingSharedLib",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -109022,6 +109038,20 @@
     "folders": [
       [
         "ZigboKnowsJokes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380150",
+    "slug": "zishor-raid-reset",
+    "name": "Zishor Raid Reset",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ZishorRaidReset"
       ]
     ]
   },
@@ -122967,11 +122997,14 @@
         "DBM-StatusBarTimers",
         "DBM-WorldEvents",
         "DBM-Party-BfA",
+        "DBM-Party-Shadowlands",
         "DBM-Azeroth-BfA",
         "DBM-Uldir",
         "DBM-CrucibleofStorms",
         "DBM-ZuldazarRaid",
-        "DBM-EternalPalace"
+        "DBM-EternalPalace",
+        "DBM-Nyalotha",
+        "DBM-CastleNathria"
       ]
     ]
   },
@@ -221175,6 +221208,22 @@
     "folders": [
       [
         "SigmaAddOnManager"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25567",
+    "slug": "",
+    "name": "WoW Reforged Icons",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Icons",
+        "Preview"
       ]
     ]
   },
