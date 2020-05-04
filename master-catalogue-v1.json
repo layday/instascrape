@@ -20136,6 +20136,20 @@
   },
   {
     "source": "curse",
+    "id": "358172",
+    "slug": "chronicles",
+    "name": "Chronicles",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Chronicles"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "7541",
     "slug": "cnf",
     "name": "Chuck Norris Facts",
@@ -61882,6 +61896,20 @@
   },
   {
     "source": "curse",
+    "id": "379325",
+    "slug": "mage-damage",
+    "name": "Mage Damage",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MageDamage"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "25557",
     "slug": "mage-gate",
     "name": "Mage Gate",
@@ -87690,6 +87718,8 @@
     ],
     "folders": [
       [
+        "SigmaProfessionFilterBeastTraining",
+        "SigmaProfessionFilterEnchanting",
         "SigmaProfessionFilter"
       ]
     ]
@@ -221012,7 +221042,9 @@
     ],
     "folders": [
       [
-        "SigmaProfessionFilter"
+        "SigmaProfessionFilter",
+        "SigmaProfessionFilterBeastTraining",
+        "SigmaProfessionFilterEnchanting"
       ]
     ]
   },
