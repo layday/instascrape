@@ -7959,6 +7959,7 @@
     "slug": "autoresclassic",
     "name": "AutoResClassic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -12135,6 +12136,20 @@
     "folders": [
       [
         "BiSTracker2020"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381099",
+    "slug": "bistooltip",
+    "name": "BiSTooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiSTooltip"
       ]
     ]
   },
@@ -16578,7 +16593,7 @@
     "source": "curse",
     "id": "297375",
     "slug": "btw-quests-classic",
-    "name": "BtWQuests: Classic",
+    "name": "BtWQuests: Classic (for Retail)",
     "compatibility": [
       "retail"
     ],
@@ -23970,6 +23985,34 @@
   },
   {
     "source": "curse",
+    "id": "380979",
+    "slug": "copywholist",
+    "name": "CopyWhoList",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CopyWhoList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380527",
+    "slug": "core-dkp",
+    "name": "Core DKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "15869",
     "slug": "cork",
     "name": "Cork",
@@ -29145,6 +29188,20 @@
     "folders": [
       [
         "Details_TimeLine"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381128",
+    "slug": "details-elitism-plugin",
+    "name": "Details!: Elitism (plugin)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Details_Elitism"
       ]
     ]
   },
@@ -60111,6 +60168,20 @@
   },
   {
     "source": "curse",
+    "id": "361477",
+    "slug": "loggerhead-classic",
+    "name": "LoggerHead - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LoggerHeadClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "65523",
     "slug": "loggerheadlite",
     "name": "LoggerHeadLite",
@@ -69648,6 +69719,20 @@
   },
   {
     "source": "curse",
+    "id": "380557",
+    "slug": "nice",
+    "name": "Nice",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Nice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "96705",
     "slug": "nice-puppy",
     "name": "Nice Puppy",
@@ -72524,6 +72609,20 @@
     "folders": [
       [
         "PT3Browser"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380267",
+    "slug": "pug-hero",
+    "name": "PUG Hero",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PUG_Hero"
       ]
     ]
   },
@@ -77814,13 +77913,9 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
-      [
-        "Queso Classic"
-      ],
       [
         "Queso"
       ]
@@ -80510,6 +80605,20 @@
     "folders": [
       [
         "RaidDivide"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381179",
+    "slug": "raidexporter",
+    "name": "RaidExporter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidExporter"
       ]
     ]
   },
@@ -102614,10 +102723,10 @@
         "UnitFramesPlus"
       ],
       [
-        "UnitFramesPlus_Cooldown",
-        "UnitFramesPlus_MobHealth",
         "UnitFramesPlus_Options",
         "UnitFramesPlus_Threat",
+        "UnitFramesPlus_Cooldown",
+        "UnitFramesPlus_MobHealth",
         "UnitFramesPlus"
       ]
     ]
@@ -103541,6 +103650,20 @@
     "folders": [
       [
         "VikingHud"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380566",
+    "slug": "vikingraidnotes",
+    "name": "Viking Raid Notes",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VikingRaidNotes"
       ]
     ]
   },
@@ -109995,6 +110118,34 @@
     "folders": [
       [
         "alaTalentEmu"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380888",
+    "slug": "alatrade",
+    "name": "alaTrade",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "alaTrade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380889",
+    "slug": "alatradeframe",
+    "name": "alaTradeFrame",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "alaTradeFrame"
       ]
     ]
   },
@@ -183745,8 +183896,11 @@
     ],
     "folders": [
       [
+        "UnitFramesPlus_Options",
+        "UnitFramesPlus_Threat",
         "UnitFramesPlus",
-        "UnitFramesPlus_Options"
+        "UnitFramesPlus_Cooldown",
+        "UnitFramesPlus_MobHealth"
       ]
     ]
   },
@@ -211209,13 +211363,7 @@
     ],
     "folders": [
       [
-        "",
-        "Core",
-        "GUI",
-        "Libs",
-        "Locales",
-        "Media",
-        "Modules"
+        "EMA"
       ]
     ]
   },
@@ -217089,13 +217237,7 @@
     ],
     "folders": [
       [
-        "",
-        "Core",
-        "GUI",
-        "Libs",
-        "Locales",
-        "Media",
-        "Modules"
+        "EMA-Classic"
       ]
     ]
   },
@@ -221260,6 +221402,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25568",
+    "slug": "",
+    "name": "BiSTooltip",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BiSTooltip"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -222134,6 +222291,16 @@
     "id": "3",
     "slug": "",
     "name": "AddOnSkins",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "36",
+    "slug": "",
+    "name": "AlysiaUI_Classic",
     "compatibility": [
       "classic"
     ],
