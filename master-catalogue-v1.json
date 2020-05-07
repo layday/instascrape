@@ -13966,6 +13966,20 @@
   },
   {
     "source": "curse",
+    "id": "381465",
+    "slug": "bonus-xp",
+    "name": "Bonus XP",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BonusXP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88820",
     "slug": "bonusidtooltips",
     "name": "BonusIDTooltips",
@@ -31312,7 +31326,8 @@
     "slug": "dynamiccam",
     "name": "DynamicCam",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -76756,6 +76771,20 @@
   },
   {
     "source": "curse",
+    "id": "379184",
+    "slug": "profession-leveling-guide",
+    "name": "Profession Leveling Guide",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PLG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "77415",
     "slug": "plg",
     "name": "Profession Leveling Guide",
@@ -77913,9 +77942,13 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
+      [
+        "Queso Classic"
+      ],
       [
         "Queso"
       ]
@@ -92851,6 +92884,20 @@
   },
   {
     "source": "curse",
+    "id": "381327",
+    "slug": "stayunsheathed-continued",
+    "name": "StayUnsheathed Continued",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StayUnsheathed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "91628",
     "slug": "stay_dead",
     "name": "Stay_Dead",
@@ -95642,6 +95689,20 @@
     "folders": [
       [
         "Tankrage"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381226",
+    "slug": "tankseventshelper",
+    "name": "TanksEventsHelper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TanksEventsHelper"
       ]
     ]
   },
@@ -107062,6 +107123,20 @@
   },
   {
     "source": "curse",
+    "id": "381440",
+    "slug": "woons",
+    "name": "Woons!",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Woons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "360247",
     "slug": "worgen-barber-frame",
     "name": "Worgen Barber Frame",
@@ -109415,6 +109490,20 @@
     "folders": [
       [
         "ZoneSpec"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381310",
+    "slug": "zoominterrupts",
+    "name": "ZoomInterrupts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZoomInterrupts"
       ]
     ]
   },
@@ -221413,6 +221502,51 @@
     "folders": [
       [
         "BiSTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25569",
+    "slug": "",
+    "name": "GearStalker",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GearStalker"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25570",
+    "slug": "",
+    "name": "DynamicCam",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DynamicCam"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25571",
+    "slug": "",
+    "name": "WSG Helper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WSGHelper"
       ]
     ]
   },
