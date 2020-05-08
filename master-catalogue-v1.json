@@ -823,6 +823,20 @@
   },
   {
     "source": "curse",
+    "id": "381592",
+    "slug": "aq-war-effort",
+    "name": "AQ War Effort",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AQWarEffort"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "349425",
     "slug": "at-raid-export",
     "name": "AT Raid Export",
@@ -12878,6 +12892,20 @@
     "folders": [
       [
         "BigWigs_Japanese_Voice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381594",
+    "slug": "bijourr",
+    "name": "BijouRR",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BijouRR"
       ]
     ]
   },
@@ -45956,6 +45984,20 @@
   },
   {
     "source": "curse",
+    "id": "381630",
+    "slug": "hpcustomer",
+    "name": "HPCustomer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HPCustomer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "46679",
     "slug": "hpetbattleany",
     "name": "HPetBattleAny",
@@ -66743,6 +66785,20 @@
     "folders": [
       [
         "MotivateUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381438",
+    "slug": "mount-collector",
+    "name": "Mount Collector",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MountCollector"
       ]
     ]
   },
@@ -100972,6 +101028,20 @@
     "folders": [
       [
         "TradeLog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381100",
+    "slug": "tradeshout",
+    "name": "TradeShout",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TradeShout"
       ]
     ]
   },
@@ -221547,6 +221617,21 @@
     "folders": [
       [
         "WSGHelper"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25572",
+    "slug": "",
+    "name": "AQ War Effort",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AQWarEffort"
       ]
     ]
   },
