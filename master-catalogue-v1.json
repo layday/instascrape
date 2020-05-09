@@ -7758,6 +7758,20 @@
   },
   {
     "source": "curse",
+    "id": "381896",
+    "slug": "automailer",
+    "name": "AutoMailer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoMailer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "340988",
     "slug": "automarktarget",
     "name": "AutoMarkTarget",
@@ -17465,6 +17479,20 @@
   },
   {
     "source": "curse",
+    "id": "381568",
+    "slug": "ccam",
+    "name": "CCAM",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CCAM"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "96784",
     "slug": "ccicons",
     "name": "CCIcons",
@@ -18620,7 +18648,8 @@
     "slug": "castby2",
     "name": "CastBy2",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -20735,6 +20764,20 @@
     "folders": [
       [
         "ClassicAutoQuest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381954",
+    "slug": "classic-bag-search",
+    "name": "Classic Bag Search",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicBagSearch"
       ]
     ]
   },
@@ -47622,11 +47665,15 @@
     "slug": "hgscontinued",
     "name": "Healing Groups Sucks Continued",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "HGS"
+      ],
+      [
+        "hgscontinued"
       ]
     ]
   },
@@ -61134,6 +61181,20 @@
     "folders": [
       [
         "LossControlTip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381913",
+    "slug": "lost-keys",
+    "name": "Lost Keys",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LostKeys"
       ]
     ]
   },
@@ -76655,6 +76716,20 @@
   },
   {
     "source": "curse",
+    "id": "380426",
+    "slug": "prio3",
+    "name": "Prio3",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Prio3"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "72962",
     "slug": "priorunes",
     "name": "PrioRunes",
@@ -88450,6 +88525,20 @@
     "folders": [
       [
         "SimpleDps"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381728",
+    "slug": "simple-dungeon-list",
+    "name": "Simple Dungeon List",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleDungeonList"
       ]
     ]
   },
@@ -111591,7 +111680,7 @@
     "source": "curse",
     "id": "48955",
     "slug": "gmaggromon",
-    "name": "gmAggromon-old",
+    "name": "gmAggromon",
     "compatibility": [
       "retail"
     ],
@@ -170062,7 +170151,7 @@
     ],
     "folders": [
       [
-        "Sound"
+        "MuteAnnoyingWoWSounds"
       ]
     ]
   },
@@ -221632,6 +221721,21 @@
     "folders": [
       [
         "AQWarEffort"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25573",
+    "slug": "",
+    "name": "Guild Tradeskills",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildTradeskills"
       ]
     ]
   },
