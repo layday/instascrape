@@ -17483,6 +17483,7 @@
     "slug": "ccam",
     "name": "CCAM",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -19170,7 +19171,7 @@
     "source": "curse",
     "id": "338856",
     "slug": "characterstatsclassic",
-    "name": "CharacterStatsClassic",
+    "name": "CharacterStatsClassic (Character Stats Classic)",
     "compatibility": [
       "classic"
     ],
@@ -19917,6 +19918,21 @@
     "folders": [
       [
         "Cheatsheet"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "13896",
+    "slug": "check-fear-ward",
+    "name": "CheckFearWard",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CheckFearWard3"
       ]
     ]
   },
@@ -38402,7 +38418,6 @@
     "folders": [
       [
         "FlyoutButtonCustom",
-        "NoTaint_Glow",
         "TinyExtraBars_MacroTextHelpers"
       ]
     ]
@@ -45298,6 +45313,20 @@
     "folders": [
       [
         "GuildTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381775",
+    "slug": "guild-tradeskills",
+    "name": "Guild Tradeskills",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildTradeskills"
       ]
     ]
   },
@@ -97617,8 +97646,7 @@
     "folders": [
       [
         "TinyExtraBars",
-        "TinyExtraBars_MacroTextHelpers",
-        "NoTaint_Glow"
+        "TinyExtraBars_MacroTextHelpers"
       ]
     ]
   },
