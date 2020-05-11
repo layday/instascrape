@@ -51447,12 +51447,7 @@
         "Inked"
       ],
       [
-        "Inked_!Options",
-        "Inked_Auras",
-        "Inked_Chat",
-        "Inked_Maps",
-        "Inked_NamePlates",
-        "Inked_Tooltip",
+        "Inked_AB",
         "Inked"
       ]
     ]
@@ -51470,13 +51465,7 @@
         "Inked"
       ],
       [
-        "Inked_!Options",
-        "Inked_Auras",
-        "Inked_Maps",
-        "Inked_NamePlates",
-        "Inked_Skins",
-        "Inked_Tooltip",
-        "Inked_UnitFrames",
+        "Inked_AB",
         "Inked"
       ]
     ]
@@ -88021,6 +88010,7 @@
     "folders": [
       [
         "SigmaProfessionFilterBeastTraining",
+        "SigmaProfessionFilterCooking",
         "SigmaProfessionFilterEnchanting",
         "SigmaProfessionFilter"
       ]
@@ -220382,13 +220372,7 @@
     "folders": [
       [
         "Inked",
-        "Inked_!Options",
-        "Inked_Auras",
-        "Inked_Maps",
-        "Inked_NamePlates",
-        "Inked_Skins",
-        "Inked_Tooltip",
-        "Inked_UnitFrames"
+        "Inked_AB"
       ]
     ]
   },
@@ -220404,12 +220388,7 @@
     "folders": [
       [
         "Inked",
-        "Inked_!Options",
-        "Inked_Auras",
-        "Inked_Chat",
-        "Inked_Maps",
-        "Inked_NamePlates",
-        "Inked_Tooltip"
+        "Inked_AB"
       ]
     ]
   },
@@ -221462,6 +221441,7 @@
       [
         "SigmaProfessionFilter",
         "SigmaProfessionFilterBeastTraining",
+        "SigmaProfessionFilterCooking",
         "SigmaProfessionFilterEnchanting"
       ]
     ]
