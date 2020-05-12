@@ -6722,6 +6722,20 @@
   },
   {
     "source": "curse",
+    "id": "381204",
+    "slug": "aurora-borealis",
+    "name": "Aurora Borealis",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AuroraBorealis"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339950",
     "slug": "auctionfaster-by-therebro-rus",
     "name": "AutionerFast",
@@ -7432,6 +7446,20 @@
   },
   {
     "source": "curse",
+    "id": "382140",
+    "slug": "autoequip-classic",
+    "name": "AutoEquip Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoEquip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28517",
     "slug": "autoequipquestitem",
     "name": "AutoEquipQuestItem",
@@ -8063,6 +8091,20 @@
     "folders": [
       [
         "AutoRoll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382676",
+    "slug": "autoroll-master",
+    "name": "AutoRoll Master",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoRollMaster"
       ]
     ]
   },
@@ -25333,6 +25375,20 @@
   },
   {
     "source": "curse",
+    "id": "382409",
+    "slug": "dbm-lobos-countdown",
+    "name": "DBM Lobos Countdown",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-CountPack-Lobos"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306880",
     "slug": "dbm-voice-pack-korean-female-dingdiring",
     "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v8.3.0)",
@@ -28352,6 +28408,20 @@
   },
   {
     "source": "curse",
+    "id": "382165",
+    "slug": "debuglog",
+    "name": "DebugLog",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "_DebugLog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "93814",
     "slug": "decliner",
     "name": "Decliner",
@@ -29587,6 +29657,20 @@
       [
         "DiceMaster_UnitFrames",
         "DiceMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382310",
+    "slug": "dictionaryfnp",
+    "name": "DictionaryFNP",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DictionaryFNP"
       ]
     ]
   },
@@ -36961,6 +37045,22 @@
   },
   {
     "source": "curse",
+    "id": "378773",
+    "slug": "fdh-raid-tool",
+    "name": "FdH raid Tool",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FdHrT_AutoRoll",
+        "FdHrT_Offi",
+        "FdHrT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "80136",
     "slug": "fearless-frames",
     "name": "FearlessFrames",
@@ -41211,6 +41311,20 @@
   },
   {
     "source": "curse",
+    "id": "381999",
+    "slug": "genkais-dkp-loot-system-classic",
+    "name": "Genkai's DKP Loot System - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GenkaiDKPBid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85730",
     "slug": "geppetto",
     "name": "Geppetto",
@@ -41743,31 +41857,27 @@
         "Glance"
       ],
       [
-        "Glance_FrameRate",
-        "Glance_Guild",
-        "Glance_Emblems",
-        "Glance_DualSpec",
         "Glance_Armor",
         "Glance_Bags",
+        "Glance_Clock",
+        "Glance_FrameRate",
+        "Glance_Friends",
+        "Glance_Gold",
+        "Glance_Guild",
+        "Glance_Latency",
         "Glance_Location",
-        "Glance_Pets",
+        "Glance_Memory",
+        "Glance_Options",
+        "Glance_Professions",
         "Glance_Reputation",
         "Glance_XP",
-        "Glance_Latency",
-        "Glance_Professions",
-        "Glance_Memory",
-        "Glance_Clock",
-        "Glance_Mounts",
-        "Glance_Friends",
-        "Glance_Titles",
-        "Glance_Options",
-        "Glance_Gold",
         "Glance"
       ],
       [
         "Glance_Armor",
         "Glance_Bags",
         "Glance_Clock",
+        "Glance_Emblems",
         "Glance_FrameRate",
         "Glance_Friends",
         "Glance_Gold",
@@ -41775,9 +41885,13 @@
         "Glance_Latency",
         "Glance_Location",
         "Glance_Memory",
+        "Glance_Mounts",
         "Glance_Options",
+        "Glance_Pets",
         "Glance_Professions",
         "Glance_Reputation",
+        "Glance_ReSpec",
+        "Glance_Titles",
         "Glance_XP",
         "Glance"
       ]
@@ -52939,6 +53053,20 @@
       [
         "ItemRackOptions",
         "ItemRack"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382098",
+    "slug": "itemrack_tooltip",
+    "name": "ItemRack Classic Tooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ItemRack_Tooltip"
       ]
     ]
   },
@@ -64558,6 +64686,20 @@
   },
   {
     "source": "curse",
+    "id": "381894",
+    "slug": "meetinghorn",
+    "name": "MeetingHorn",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MeetingHorn"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "43972",
     "slug": "mega-damage",
     "name": "Mega Damage",
@@ -72928,6 +73070,21 @@
     "folders": [
       [
         "PajGuildHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382225",
+    "slug": "pajmarker",
+    "name": "PajMarker",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PajMarker"
       ]
     ]
   },
@@ -84886,6 +85043,20 @@
   },
   {
     "source": "curse",
+    "id": "318982",
+    "slug": "sir-snaginanesh-interrupt-rotation",
+    "name": "SIR - Snaginanesh Interrupt Rotation",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Snaginanesh_Interrupt_Rotation"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "5095",
     "slug": "project-5095",
     "name": "SLTimex",
@@ -85046,6 +85217,20 @@
     "folders": [
       [
         "SUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382204",
+    "slug": "sv_addon",
+    "name": "SV_Addon",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SV_Addon"
       ]
     ]
   },
@@ -103392,6 +103577,20 @@
       ],
       [
         "VanguardRaidRecorder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382449",
+    "slug": "vanilla-veterans-loot-priority",
+    "name": "Vanilla Veterans Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VanillaVeterans_Loot_Priority"
       ]
     ]
   },
@@ -166014,7 +166213,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-04-21",
+    "name": "WoWpoPolsku-Quests 80300 2020-05-11",
     "compatibility": [
       "retail",
       "classic"
@@ -209985,7 +210184,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-05-21",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-05-11",
     "compatibility": [
       "retail",
       "classic"
@@ -216230,7 +216429,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-04-21",
+    "name": "WoWpoPolsku-Quests Classic 2020-05-11",
     "compatibility": [
       "retail",
       "classic"
@@ -216312,7 +216511,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-04-21",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-05-11",
     "compatibility": [
       "retail",
       "classic"
