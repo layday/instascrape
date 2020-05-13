@@ -27591,6 +27591,20 @@
   },
   {
     "source": "curse",
+    "id": "382716",
+    "slug": "dauntlessbidder",
+    "name": "DauntlessBidder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DauntlessBidder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102731",
     "slug": "dawnsounds",
     "name": "Dawnsounds",
@@ -37040,22 +37054,6 @@
     "folders": [
       [
         "Favorites"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "378773",
-    "slug": "fdh-raid-tool",
-    "name": "FdH raid Tool",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "FdHrT_AutoRoll",
-        "FdHrT_Offi",
-        "FdHrT"
       ]
     ]
   },
@@ -67728,6 +67726,20 @@
   },
   {
     "source": "curse",
+    "id": "382875",
+    "slug": "mr-pickpocket",
+    "name": "Mr Pickpocket",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MrPickpocket"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "301827",
     "slug": "mr-niceguy",
     "name": "Mr.NiceGuy",
@@ -76363,6 +76375,20 @@
     "folders": [
       [
         "PotButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382116",
+    "slug": "potion-seller",
+    "name": "Potion Seller",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssist"
       ]
     ]
   },
@@ -94365,6 +94391,20 @@
   },
   {
     "source": "curse",
+    "id": "376491",
+    "slug": "super-bag",
+    "name": "SuperBag!",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SuperBag"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "30226",
     "slug": "superguildinvite",
     "name": "SuperGuildInvite",
@@ -101339,6 +101379,20 @@
   },
   {
     "source": "curse",
+    "id": "382799",
+    "slug": "tradeshout-english",
+    "name": "TradeShout (English)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TradeShout"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "17118",
     "slug": "tradeskillhd",
     "name": "TradeSkill HD",
@@ -105035,7 +105089,8 @@
     "slug": "wargamehelper",
     "name": "WarGameHelper",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -221943,6 +221998,36 @@
     "folders": [
       [
         "GuildTradeskills"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25577",
+    "slug": "",
+    "name": "Mr Pickpocket",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MrPickpocket"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25578",
+    "slug": "",
+    "name": "DynamicCam (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DynamicCam"
       ]
     ]
   },
