@@ -3693,6 +3693,7 @@
         "AnS"
       ],
       [
+        "AnsAuctionData",
         "AnsAuctionSnipe",
         "AnS"
       ]
@@ -8098,7 +8099,7 @@
     "source": "curse",
     "id": "382676",
     "slug": "autoroll-master",
-    "name": "AutoRoll Master",
+    "name": "AutoRoll3000",
     "compatibility": [
       "classic"
     ],
@@ -12164,6 +12165,20 @@
     "folders": [
       [
         "BetterTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383173",
+    "slug": "beyondultra",
+    "name": "BeyondUltra",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BeyondUltra"
       ]
     ]
   },
@@ -27743,21 +27758,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27771,6 +27771,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -49496,6 +49511,20 @@
   },
   {
     "source": "curse",
+    "id": "382753",
+    "slug": "highlighter",
+    "name": "Highlighter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Highlighter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102670",
     "slug": "hippo-alert",
     "name": "Hippo Alert",
@@ -55620,6 +55649,20 @@
     "folders": [
       [
         "Koordinator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380960",
+    "slug": "kraploot",
+    "name": "KrapLoot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "KrapLoot"
       ]
     ]
   },
@@ -104645,6 +104688,20 @@
   },
   {
     "source": "curse",
+    "id": "383152",
+    "slug": "vortexinviter",
+    "name": "VortexInviter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VortexInviter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "7950",
     "slug": "vuhdo",
     "name": "VuhDo",
@@ -112755,6 +112812,20 @@
     "folders": [
       [
         "iSold_More"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380224",
+    "slug": "ispam",
+    "name": "iSpam",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "iSpam"
       ]
     ]
   },
