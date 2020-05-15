@@ -8105,7 +8105,7 @@
     ],
     "folders": [
       [
-        "AutoRollMaster"
+        "AutoRoll3000"
       ]
     ]
   },
@@ -31994,6 +31994,20 @@
     "folders": [
       [
         "EZJunk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383394",
+    "slug": "ezpriest",
+    "name": "EZPriest",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EZPriest"
       ]
     ]
   },
@@ -91911,6 +91925,20 @@
   },
   {
     "source": "curse",
+    "id": "383360",
+    "slug": "speedofithgar",
+    "name": "SpeedOfIthgar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SpeedOfIthgar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "304591",
     "slug": "speedometer",
     "name": "Speedometer",
@@ -92328,6 +92356,20 @@
     "folders": [
       [
         "SpellTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383411",
+    "slug": "spellwhisper",
+    "name": "SpellWhisper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SpellWhisper"
       ]
     ]
   },
