@@ -12170,20 +12170,6 @@
   },
   {
     "source": "curse",
-    "id": "383173",
-    "slug": "beyondultra",
-    "name": "BeyondUltra",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "BeyondUltra"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "303270",
     "slug": "wowraretracker",
     "name": "BfA Rare Tracker",
@@ -17588,6 +17574,20 @@
     "folders": [
       [
         "CCTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383530",
+    "slug": "cchatfilter",
+    "name": "CChatFilter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CChatFilter"
       ]
     ]
   },
@@ -31532,21 +31532,6 @@
     "folders": [
       [
         "DynamicCam"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "342259",
-    "slug": "dynamiccamclassic",
-    "name": "DynamicCam (Classic)",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DynamicCam-Classic"
       ]
     ]
   },
@@ -48947,6 +48932,20 @@
   },
   {
     "source": "curse",
+    "id": "383541",
+    "slug": "hide-stance-bar-classic",
+    "name": "Hide Stance Bar (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HideStanceBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "21355",
     "slug": "hide-ui-original",
     "name": "Hide UI Original",
@@ -53094,20 +53093,6 @@
       [
         "ItemRackOptions",
         "ItemRack"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "382098",
-    "slug": "itemrack_tooltip",
-    "name": "ItemRack Classic Tooltip",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ItemRack_Tooltip"
       ]
     ]
   },
@@ -58656,6 +58641,20 @@
     "folders": [
       [
         "LibGuildPositions-1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383484",
+    "slug": "libhash",
+    "name": "LibHash",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibHash-1.0"
       ]
     ]
   },
@@ -83656,10 +83655,10 @@
     ],
     "folders": [
       [
-        "RepHelper"
+        "RepHelper_Classic"
       ],
       [
-        "RepHelper_Classic"
+        "RepHelper"
       ]
     ]
   },
@@ -95418,6 +95417,20 @@
   },
   {
     "source": "curse",
+    "id": "383555",
+    "slug": "tea-roll-helper",
+    "name": "TEA Roll helper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TEARollHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "282337",
     "slug": "tl-dr",
     "name": "TL;DR",
@@ -102958,20 +102971,6 @@
     "folders": [
       [
         "UIGTwitchEmotes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "27933",
-    "slug": "uncle-roalds-notepad-urnotepad",
-    "name": "URNotePad (Uncle Roald's Notepad, Notes)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "URNotePad"
       ]
     ]
   },
@@ -222141,6 +222140,21 @@
     "folders": [
       [
         "DynamicCam"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25579",
+    "slug": "",
+    "name": "Call to Arms",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CallToArms"
       ]
     ]
   },
