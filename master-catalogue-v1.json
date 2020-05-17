@@ -75097,6 +75097,20 @@
   },
   {
     "source": "curse",
+    "id": "381654",
+    "slug": "phenomraidtools",
+    "name": "PhenomRaidTools",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PhenomRaidTools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20812",
     "slug": "phoenixstyle",
     "name": "PhoenixStyle",
@@ -81700,6 +81714,20 @@
     "folders": [
       [
         "RandomMOTD"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378931",
+    "slug": "randommounter",
+    "name": "RandomMounter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RandomMounter"
       ]
     ]
   },
@@ -89974,8 +90002,7 @@
     "slug": "skillet",
     "name": "Skillet",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -89989,7 +90016,6 @@
     "slug": "skillet-classic",
     "name": "Skillet-Classic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
@@ -203539,8 +203565,7 @@
     ],
     "folders": [
       [
-        "Fonts",
-        "Interface"
+        "SUI"
       ]
     ]
   },
