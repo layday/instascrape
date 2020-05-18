@@ -88304,9 +88304,13 @@
     ],
     "folders": [
       [
+        "SigmaProfessionFilterAlchemy",
         "SigmaProfessionFilterBeastTraining",
         "SigmaProfessionFilterCooking",
         "SigmaProfessionFilterEnchanting",
+        "SigmaProfessionFilterFirstAid",
+        "SigmaProfessionFilterMining",
+        "SigmaProfessionFilterPoisons",
         "SigmaProfessionFilter"
       ]
     ]
@@ -221831,9 +221835,13 @@
     "folders": [
       [
         "SigmaProfessionFilter",
+        "SigmaProfessionFilterAlchemy",
         "SigmaProfessionFilterBeastTraining",
         "SigmaProfessionFilterCooking",
-        "SigmaProfessionFilterEnchanting"
+        "SigmaProfessionFilterEnchanting",
+        "SigmaProfessionFilterFirstAid",
+        "SigmaProfessionFilterMining",
+        "SigmaProfessionFilterPoisons"
       ]
     ]
   },
@@ -222180,6 +222188,21 @@
     "folders": [
       [
         "CallToArms"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25580",
+    "slug": "",
+    "name": "Caravana",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Caravana"
       ]
     ]
   },
