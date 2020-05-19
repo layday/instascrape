@@ -651,6 +651,20 @@
   },
   {
     "source": "curse",
+    "id": "383977",
+    "slug": "ahtabcontrol",
+    "name": "AHTabControl",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "zAHTabControl"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20309",
     "slug": "ah_showbid",
     "name": "AH_ShowBid",
@@ -8678,7 +8692,7 @@
   {
     "source": "curse",
     "id": "298648",
-    "slug": "azeriteui",
+    "slug": "azeriteui-retail",
     "name": "AzeriteUI for WoW Retail",
     "compatibility": [
       "retail"
@@ -24527,6 +24541,20 @@
   },
   {
     "source": "curse",
+    "id": "384297",
+    "slug": "cream-armory-profiler",
+    "name": "Cream Armory Profiler",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CreamArmoryProfiler"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341153",
     "slug": "crematorius-chatsounds-classic",
     "name": "Crematorius Chatsounds - Classic",
@@ -25593,7 +25621,8 @@
     "slug": "dbm-voicepack-deutsch-manlich",
     "name": "DBM Voicepack Deutsch m\u00e4nnlich",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -25607,7 +25636,8 @@
     "slug": "dbm-voicepack-deutsch-weiblich",
     "name": "DBM Voicepack Deutsch weiblich",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -25621,7 +25651,8 @@
     "slug": "dbm-voicepack-english-female",
     "name": "DBM Voicepack English female",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -25635,7 +25666,8 @@
     "slug": "dbm-voicepack-english-male",
     "name": "DBM Voicepack English male",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -47279,6 +47311,20 @@
   },
   {
     "source": "curse",
+    "id": "384181",
+    "slug": "handynotes_minimapbutton",
+    "name": "HandyNotes_MinimapButton",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_MinimapButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "340222",
     "slug": "handynotes_npcs-classic",
     "name": "HandyNotes_NPCs (Classic)",
@@ -53130,11 +53176,15 @@
     "slug": "itemsurveyclassic",
     "name": "ItemSurveyClassic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
       [
         "ItemSurveyClassic"
+      ],
+      [
+        "ThingsToDo2"
       ]
     ]
   },
@@ -54364,6 +54414,20 @@
     "folders": [
       [
         "KazKeys"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383813",
+    "slug": "kazsoundpack",
+    "name": "KazSoundPack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KazSoundPack"
       ]
     ]
   },
@@ -60500,6 +60564,20 @@
   },
   {
     "source": "curse",
+    "id": "384014",
+    "slug": "loggerheadlite-classic",
+    "name": "LoggerHeadLite - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LoggerHeadLiteClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "36374",
     "slug": "logging",
     "name": "Logging",
@@ -61437,6 +61515,20 @@
     "folders": [
       [
         "LostTreasures"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383869",
+    "slug": "lotustimer",
+    "name": "LotusTimer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LotusTimer"
       ]
     ]
   },
@@ -78571,6 +78663,20 @@
   },
   {
     "source": "curse",
+    "id": "383997",
+    "slug": "quest-value",
+    "name": "Quest Value",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestValue"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335807",
     "slug": "quest-xp-tracker",
     "name": "Quest XP Tracker",
@@ -90030,6 +90136,20 @@
   },
   {
     "source": "curse",
+    "id": "384005",
+    "slug": "skillettsmplugin",
+    "name": "SkilletTSMPlugin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SkilletTSMPlugin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86676",
     "slug": "skin",
     "name": "Skin",
@@ -95442,6 +95562,20 @@
     "folders": [
       [
         "TBag"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382634",
+    "slug": "tcc-loot-priority",
+    "name": "TCC Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TCC_Loot_Priority"
       ]
     ]
   },
@@ -212287,7 +212421,7 @@
     "source": "wowi",
     "id": "24858",
     "slug": "",
-    "name": "XToLevel Future",
+    "name": "XToLevel Future(discontinued)",
     "compatibility": [
       "retail",
       "classic"
