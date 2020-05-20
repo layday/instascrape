@@ -12184,6 +12184,20 @@
   },
   {
     "source": "curse",
+    "id": "383173",
+    "slug": "beyondultra",
+    "name": "BeyondUltra",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BeyondUltra"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "303270",
     "slug": "wowraretracker",
     "name": "BfA Rare Tracker",
@@ -23117,6 +23131,20 @@
   },
   {
     "source": "curse",
+    "id": "384237",
+    "slug": "commentatortargetframe",
+    "name": "CommentatorTargetFrame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CommentatorTargetFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299531",
     "slug": "community-nicknames",
     "name": "Community Nicknames",
@@ -23662,6 +23690,20 @@
     "folders": [
       [
         "ConsLegion"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384457",
+    "slug": "consequence-raid-sorter",
+    "name": "Consequence - Raid Sorter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Consequence-RaidSorter"
       ]
     ]
   },
@@ -41439,6 +41481,174 @@
   },
   {
     "source": "curse",
+    "id": "384295",
+    "slug": "get-over-here-demon-hunter",
+    "name": "Get Over Here Demon Hunter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_DemonHunter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384299",
+    "slug": "get-over-here-druid",
+    "name": "Get Over Here Druid",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Druid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384316",
+    "slug": "get-over-here-ebm",
+    "name": "Get Over Here EBM",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_EBM"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384305",
+    "slug": "get-over-here-mage",
+    "name": "Get Over Here Mage",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Mage"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384306",
+    "slug": "get-over-here-monk",
+    "name": "Get Over Here Monk",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Monk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384308",
+    "slug": "get-over-here-paladin",
+    "name": "Get Over Here Paladin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Paladin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384303",
+    "slug": "get-over-here-plugin-hunter",
+    "name": "Get Over Here Plugin Hunter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Hunter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384310",
+    "slug": "get-over-here-priest",
+    "name": "Get Over Here Priest",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Priest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384311",
+    "slug": "get-over-here-rogue-plugin",
+    "name": "Get Over Here Rogue Plugin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Rogue"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384313",
+    "slug": "get-over-here-shaman-plugin",
+    "name": "Get Over Here Shaman Plugin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Shaman"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384314",
+    "slug": "get-over-here-warlock",
+    "name": "Get Over Here Warlock",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Warlock"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384315",
+    "slug": "get-over-here-warrior-plugin",
+    "name": "Get Over Here Warrior Plugin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoH_Warrior"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "40640",
     "slug": "get-over-here-dk",
     "name": "Get Over Here!",
@@ -41451,19 +41661,7 @@
       ],
       [
         "GoH",
-        "GoH_DeathKnight",
-        "GoH_DemonHunter",
-        "GoH_Druid",
-        "GoH_EBM",
-        "GoH_Hunter",
-        "GoH_Mage",
-        "GoH_Monk",
-        "GoH_Paladin",
-        "GoH_Priest",
-        "GoH_Rogue",
-        "GoH_Shaman",
-        "GoH_Warlock",
-        "GoH_Warrior"
+        "GoH_DeathKnight"
       ]
     ]
   },
@@ -53176,15 +53374,11 @@
     "slug": "itemsurveyclassic",
     "name": "ItemSurveyClassic",
     "compatibility": [
-      "retail",
       "classic"
     ],
     "folders": [
       [
         "ItemSurveyClassic"
-      ],
-      [
-        "ThingsToDo2"
       ]
     ]
   },
@@ -110127,6 +110321,20 @@
     "folders": [
       [
         "ZoneInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "379281",
+    "slug": "zoneinfo-2",
+    "name": "ZoneInfo 2",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZoneInfo2"
       ]
     ]
   },
@@ -222337,6 +222545,37 @@
     "folders": [
       [
         "Caravana"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25582",
+    "slug": "",
+    "name": "VendorPrice",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "VendorPrice",
+        "__MACOSX"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25583",
+    "slug": "",
+    "name": "Recent",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Recent"
       ]
     ]
   },
