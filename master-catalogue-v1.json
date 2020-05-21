@@ -27582,20 +27582,6 @@
   },
   {
     "source": "curse",
-    "id": "20209",
-    "slug": "datastore_mails",
-    "name": "DataStore_Mails",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Mails"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "19875",
     "slug": "datastore_pets",
     "name": "DataStore_Pets",
@@ -60730,20 +60716,6 @@
   },
   {
     "source": "curse",
-    "id": "361477",
-    "slug": "loggerhead-classic",
-    "name": "LoggerHead - Classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "LoggerHeadClassic"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "65523",
     "slug": "loggerheadlite",
     "name": "LoggerHeadLite",
@@ -68436,6 +68408,23 @@
     "folders": [
       [
         "Musician"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384431",
+    "slug": "musician-instruments-v1",
+    "name": "Musician Instruments v1",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Musician_Instrument_V1_Dulcimer",
+        "Musician_Instrument_V1_FemaleVoice",
+        "Musician_Instrument_V1_Harp"
       ]
     ]
   },
@@ -90017,20 +90006,6 @@
     "folders": [
       [
         "SkUI"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "286800",
-    "slug": "skada-avoidable-damage",
-    "name": "Skada Avoidable Damage",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SkadaAvoidableDamageTaken"
       ]
     ]
   },
@@ -223331,6 +223306,16 @@
   },
   {
     "source": "tukui",
+    "id": "158",
+    "slug": "",
+    "name": "Tukui Honor Data Text",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
     "id": "36",
     "slug": "",
     "name": "Tukui Location Panel",
@@ -223724,6 +223709,16 @@
     "id": "1",
     "slug": "",
     "name": "Tukui",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "37",
+    "slug": "",
+    "name": "Tukui Ammo Data Text",
     "compatibility": [
       "classic"
     ],
