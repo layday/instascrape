@@ -3503,6 +3503,73 @@
   },
   {
     "source": "curse",
+    "id": "384737",
+    "slug": "altoholic-classic",
+    "name": "Altoholic-Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Altoholic",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384785",
+    "slug": "altoholic-retail",
+    "name": "Altoholic-Retail",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Altoholic",
+        "Altoholic_Achievements",
+        "Altoholic_Agenda",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Achievements",
+        "DataStore_Agenda",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Currencies",
+        "DataStore_Garrisons",
+        "DataStore_Inventory",
+        "DataStore_Keystones",
+        "DataStore_Mails",
+        "DataStore_Pets",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore_Spells",
+        "DataStore_Stats",
+        "DataStore_Talents",
+        "DataStore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "26572",
     "slug": "alts",
     "name": "Alts",
@@ -4456,6 +4523,20 @@
     "folders": [
       [
         "ArcaneThirst"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384835",
+    "slug": "arcanite-coordinator",
+    "name": "Arcanite Coordinator",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ArcaniteCoordinator"
       ]
     ]
   },
@@ -9195,6 +9276,7 @@
     "slug": "bobscore-classic-wow-classic-only",
     "name": "BOBScore Classic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -25164,6 +25246,20 @@
   },
   {
     "source": "curse",
+    "id": "384555",
+    "slug": "customchat",
+    "name": "CustomChat",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CustomChat"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "357941",
     "slug": "customkeystones",
     "name": "CustomKeystones",
@@ -26348,20 +26444,6 @@
       ],
       [
         "DKP-Manager"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "352080",
-    "slug": "dkpunity-addon",
-    "name": "DKP Unity Addon",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "DKPUnity"
       ]
     ]
   },
@@ -57303,6 +57385,26 @@
   },
   {
     "source": "curse",
+    "id": "384672",
+    "slug": "leeroyhillcatspower-classic",
+    "name": "LeeroyHillCatsPower Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LHCP_Classic",
+        "LHCP_Firewall",
+        "LHCP_Nitros",
+        "LHCP_StepFurther",
+        "LHCP_Tchort",
+        "LHCP_TeamCowbell",
+        "LHCP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "258873",
     "slug": "leeroyhillcatspower-revived",
     "name": "LeeroyHillCatsPower Revived",
@@ -64964,6 +65066,20 @@
     "folders": [
       [
         "Mediapack"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384565",
+    "slug": "medusa-prelude",
+    "name": "MedusaPrelude",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MedusaPrelude"
       ]
     ]
   },
@@ -73796,6 +73912,20 @@
     "folders": [
       [
         "PartyAbilityBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384841",
+    "slug": "partychangednotifier",
+    "name": "PartyChangedNotifier",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PartyChangedNotifier"
       ]
     ]
   },
@@ -85312,6 +85442,20 @@
   },
   {
     "source": "curse",
+    "id": "384655",
+    "slug": "saw-loot-priority",
+    "name": "SAW loot priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SAW_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "322841",
     "slug": "sc-auto-grats",
     "name": "SC Auto Grats!",
@@ -89201,9 +89345,9 @@
     ],
     "folders": [
       [
+        "SimpleILvl_Social",
         "SimpleILvl_Group",
         "SimpleILvl_Resilience",
-        "SimpleILvl_Social",
         "SimpleILvl"
       ]
     ]
@@ -89612,6 +89756,20 @@
   },
   {
     "source": "curse",
+    "id": "384912",
+    "slug": "simpledkp",
+    "name": "SimpleDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleDKP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29132",
     "slug": "simpleding",
     "name": "SimpleDing",
@@ -90006,6 +90164,20 @@
     "folders": [
       [
         "SkUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "286800",
+    "slug": "skada-avoidable-damage",
+    "name": "Skada Avoidable Damage",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SkadaAvoidableDamageTaken"
       ]
     ]
   },
@@ -104328,6 +104500,20 @@
     "folders": [
       [
         "VendorCostAutorepair"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384549",
+    "slug": "vendorprice",
+    "name": "VendorPrice",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VendorPrice"
       ]
     ]
   },
@@ -222534,8 +222720,7 @@
     ],
     "folders": [
       [
-        "VendorPrice",
-        "__MACOSX"
+        "VendorPrice"
       ]
     ]
   },
@@ -222551,6 +222736,21 @@
     "folders": [
       [
         "Recent"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25584",
+    "slug": "",
+    "name": "myReputation Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "myReputationClassic"
       ]
     ]
   },
