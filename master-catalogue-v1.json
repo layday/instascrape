@@ -18045,6 +18045,20 @@
   },
   {
     "source": "curse",
+    "id": "385088",
+    "slug": "calendar-buddy",
+    "name": "Calendar Buddy",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CalendarBuddy"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335183",
     "slug": "calendar-csv-export",
     "name": "Calendar CSV Export",
@@ -18494,6 +18508,20 @@
     "folders": [
       [
         "CaptainsLog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383915",
+    "slug": "caravana",
+    "name": "Caravana",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Caravana"
       ]
     ]
   },
@@ -30156,6 +30184,20 @@
     "folders": [
       [
         "DiscAzeriteArmor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383756",
+    "slug": "discohealer-classic",
+    "name": "DiscoHealer - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DiscoHealer"
       ]
     ]
   },
@@ -52784,20 +52826,6 @@
   },
   {
     "source": "curse",
-    "id": "304489",
-    "slug": "ions-sufficient-tooltips",
-    "name": "Ion's Sufficient Tooltips",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "IonsSufficientTooltips"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "290173",
     "slug": "irlname",
     "name": "IrlName",
@@ -54648,6 +54676,20 @@
     "folders": [
       [
         "KaymonsCloset"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385130",
+    "slug": "kazaddons",
+    "name": "KazAddons",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KazAddons"
       ]
     ]
   },
@@ -102977,6 +103019,20 @@
   },
   {
     "source": "curse",
+    "id": "384948",
+    "slug": "triton-track-only-messages-you-care",
+    "name": "Triton, track only messages you care.",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Triton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "6061",
     "slug": "trivia-bot",
     "name": "TriviaBot",
@@ -115314,6 +115370,20 @@
     "folders": [
       [
         "rMinimap_Xervish"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384966",
+    "slug": "raidsavestate",
+    "name": "raidsavestate",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "raidsavestate"
       ]
     ]
   },
@@ -166913,7 +166983,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-05-11",
+    "name": "WoWpoPolsku-Quests 80300 2020-05-22",
     "compatibility": [
       "retail",
       "classic"
@@ -210883,7 +210953,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-05-11",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-05-22",
     "compatibility": [
       "retail",
       "classic"
@@ -217128,7 +217198,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-05-11",
+    "name": "WoWpoPolsku-Quests Classic 2020-05-22",
     "compatibility": [
       "retail",
       "classic"
@@ -217210,7 +217280,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-05-11",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-05-22",
     "compatibility": [
       "retail",
       "classic"
