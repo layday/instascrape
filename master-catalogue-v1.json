@@ -34993,7 +34993,8 @@
     "slug": "enhanced-raid-frames",
     "name": "Enhanced Raid Frames",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -47423,6 +47424,20 @@
   },
   {
     "source": "curse",
+    "id": "384181",
+    "slug": "handynotes-databroker",
+    "name": "HandyNotes_DataBroker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_DataBroker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86352",
     "slug": "handynotes_draenortreasures",
     "name": "HandyNotes_DraenorTreasures",
@@ -47614,20 +47629,6 @@
     "folders": [
       [
         "HandyNotes_Mailboxes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "384181",
-    "slug": "handynotes_minimapbutton",
-    "name": "HandyNotes_MinimapButton",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "HandyNotes_MinimapButton"
       ]
     ]
   },
@@ -64183,7 +64184,8 @@
     "slug": "masque-neuron",
     "name": "Masque: Neuron",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -70404,7 +70406,8 @@
     "slug": "neuron",
     "name": "Neuron",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -103021,7 +103024,7 @@
     "source": "curse",
     "id": "384948",
     "slug": "triton-track-only-messages-you-care",
-    "name": "Triton, track only messages you care.",
+    "name": "Triton, track only messages you care",
     "compatibility": [
       "classic"
     ],
@@ -104657,6 +104660,20 @@
     "folders": [
       [
         "Venge"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382502",
+    "slug": "verbose",
+    "name": "Verbose",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Verbose"
       ]
     ]
   },
@@ -223039,6 +223056,16 @@
     "id": "46",
     "slug": "",
     "name": "ElvUI Datatext Bars 2",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "159",
+    "slug": "",
+    "name": "ElvUI Honor Data Text",
     "compatibility": [
       "retail"
     ],
