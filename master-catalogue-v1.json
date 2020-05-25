@@ -3533,7 +3533,7 @@
     "source": "curse",
     "id": "384785",
     "slug": "altoholic-retail",
-    "name": "Altoholic-Retail",
+    "name": "Altoholic-Retail (Teelo's Fork)",
     "compatibility": [
       "retail"
     ],
@@ -27619,20 +27619,6 @@
   },
   {
     "source": "curse",
-    "id": "20206",
-    "slug": "datastore_characters",
-    "name": "DataStore_Characters",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Characters"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "19872",
     "slug": "datastore_containers",
     "name": "DataStore_Containers",
@@ -46863,6 +46849,20 @@
   },
   {
     "source": "curse",
+    "id": "384181",
+    "slug": "handynotes-databroker",
+    "name": "HandyNotes Data Broker and Minimap Button",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_DataBroker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "317860",
     "slug": "handynotes-ferry-network",
     "name": "HandyNotes Ferry Network",
@@ -47419,20 +47419,6 @@
     "folders": [
       [
         "HandyNotes_CityGuide"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "384181",
-    "slug": "handynotes-databroker",
-    "name": "HandyNotes_DataBroker",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "HandyNotes_DataBroker"
       ]
     ]
   },
@@ -54804,6 +54790,20 @@
     "folders": [
       [
         "KegSmashAssist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377594",
+    "slug": "kegstaff",
+    "name": "KegStaff",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KegStaffV3"
       ]
     ]
   },
@@ -106730,10 +106730,10 @@
     ],
     "folders": [
       [
-        "WhereToGather"
+        "WhereToGatherClassic"
       ],
       [
-        "WhereToGatherClassic"
+        "WhereToGather"
       ]
     ]
   },
@@ -223843,6 +223843,16 @@
   },
   {
     "source": "tukui",
+    "id": "39",
+    "slug": "",
+    "name": "ElvUI PVP Data Text",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
     "id": "33",
     "slug": "",
     "name": "ElvUI TauntAlert",
@@ -224026,6 +224036,16 @@
     "id": "9",
     "slug": "",
     "name": "Tukui Custom Action Bar Layout",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "38",
+    "slug": "",
+    "name": "Tukui PVP Data Text",
     "compatibility": [
       "classic"
     ],
