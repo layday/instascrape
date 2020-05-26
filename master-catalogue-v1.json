@@ -38200,7 +38200,7 @@
     "source": "curse",
     "id": "305472",
     "slug": "flappysyrac",
-    "name": "FlappySyrac 1.0.4",
+    "name": "Flappy Syrac",
     "compatibility": [
       "retail"
     ],
@@ -54691,20 +54691,6 @@
     "folders": [
       [
         "KazAuctionValue"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "377020",
-    "slug": "kazkeys",
-    "name": "KazKeys",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "KazKeys"
       ]
     ]
   },
