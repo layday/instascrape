@@ -17731,6 +17731,20 @@
   },
   {
     "source": "curse",
+    "id": "385862",
+    "slug": "cepgp_data",
+    "name": "CEPGP_DATA",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CEPGP_Data"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "1351",
     "slug": "ceplayer-bar",
     "name": "CEPlayerBar",
@@ -29449,9 +29463,9 @@
         "Details"
       ],
       [
-        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
+        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -33563,6 +33577,20 @@
     "folders": [
       [
         "ElvUI_HealerMana"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385212",
+    "slug": "elvui-honor-data-text",
+    "name": "ElvUI Honor Data Text",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_Honor"
       ]
     ]
   },
@@ -38254,6 +38282,20 @@
   },
   {
     "source": "curse",
+    "id": "385357",
+    "slug": "flash-taskbar-classic",
+    "name": "Flash Taskbar Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FlashTaskBarClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97173",
     "slug": "flashchattabs",
     "name": "FlashGuildTab",
@@ -38645,6 +38687,20 @@
     "folders": [
       [
         "Flurry"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385848",
+    "slug": "fluxy-bar",
+    "name": "Fluxy Bar",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "FluxyBar"
       ]
     ]
   },
@@ -48360,6 +48416,20 @@
   },
   {
     "source": "curse",
+    "id": "385361",
+    "slug": "hearthroulette",
+    "name": "HearthRoulette",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HearthRoulette"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "295654",
     "slug": "hearthzone",
     "name": "HearthZone",
@@ -48648,6 +48718,20 @@
       [
         "HereBeDragons-1.0",
         "HereBeDragons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "262714",
+    "slug": "ketzerischer-lootverteiler",
+    "name": "Heretic Lootmaster",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HereticLootmaster"
       ]
     ]
   },
@@ -54872,20 +54956,6 @@
   },
   {
     "source": "curse",
-    "id": "262714",
-    "slug": "ketzerischer-lootverteiler",
-    "name": "Ketzerischer Lootverteiler",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "KetzerischerLootverteiler"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "20766",
     "slug": "kevtool-queue",
     "name": "KevTool Queue",
@@ -57767,6 +57837,20 @@
     "folders": [
       [
         "LetMeCast"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385831",
+    "slug": "letterkenny-quotes",
+    "name": "Letterkenny Quotes",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LetterkennyQuotes"
       ]
     ]
   },
@@ -68576,6 +68660,21 @@
   },
   {
     "source": "curse",
+    "id": "385517",
+    "slug": "musician-piano",
+    "name": "Musician Piano",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Musician_Instrument_Piano"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306254",
     "slug": "musicianlist",
     "name": "MusicianList",
@@ -72693,6 +72792,20 @@
   },
   {
     "source": "curse",
+    "id": "385526",
+    "slug": "onycloakequip",
+    "name": "OnyCloakEquip2",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "OnyCloakEquip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "368538",
     "slug": "onyxia-scale-cloak-checker",
     "name": "Onyxia Scale Cloak Checker",
@@ -73791,6 +73904,20 @@
   },
   {
     "source": "curse",
+    "id": "385488",
+    "slug": "paranoid-dkp-helper",
+    "name": "Paranoid DKP Helper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Paranoid_DKP_Helper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "276995",
     "slug": "paraxis-siren",
     "name": "Paraxis Siren",
@@ -74252,6 +74379,20 @@
     "folders": [
       [
         "PercentHealth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385856",
+    "slug": "perfect-dominance-loot-prio-tooltip",
+    "name": "Perfect Dominance loot prio tooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PerfectDominance_Loot_Priority"
       ]
     ]
   },
@@ -81111,6 +81252,20 @@
   },
   {
     "source": "curse",
+    "id": "385423",
+    "slug": "raid-invite-classic",
+    "name": "Raid Invite Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidInviteClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98718",
     "slug": "raid-lock-report",
     "name": "Raid Lock Report",
@@ -82909,7 +83064,7 @@
     "source": "curse",
     "id": "298954",
     "slug": "readablerussiannames",
-    "name": "ReadableRussianNames",
+    "name": "Readable Russian Names",
     "compatibility": [
       "retail"
     ],
@@ -91915,6 +92070,20 @@
   },
   {
     "source": "curse",
+    "id": "385203",
+    "slug": "soul-shard-manager",
+    "name": "Soul Shard Manager",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SoulShardManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336356",
     "slug": "soulsort-easy-soul-shard-management",
     "name": "SoulSort - Easy Soul Shard Management",
@@ -95883,6 +96052,20 @@
   },
   {
     "source": "curse",
+    "id": "385789",
+    "slug": "syndicate-loot-priority",
+    "name": "Syndicate Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Syndicate_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "91697",
     "slug": "syracs-rune-check",
     "name": "Syracs Rune Check",
@@ -98368,6 +98551,20 @@
     "folders": [
       [
         "timetodeath"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385430",
+    "slug": "timetokill",
+    "name": "TimeToKill",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TimeToKill"
       ]
     ]
   },
@@ -110303,6 +110500,20 @@
     "folders": [
       [
         "zbGuildManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384820",
+    "slug": "zebid",
+    "name": "ZeBid",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ZeBid"
       ]
     ]
   },
