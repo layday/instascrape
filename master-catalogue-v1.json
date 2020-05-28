@@ -6439,6 +6439,20 @@
   },
   {
     "source": "curse",
+    "id": "385567",
+    "slug": "auction-watch",
+    "name": "Auction Watch",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AuctionWatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336627",
     "slug": "auctionbuddy",
     "name": "AuctionBuddy",
@@ -17546,8 +17560,8 @@
   {
     "source": "curse",
     "id": "2590",
-    "slug": "project-2590",
-    "name": "BuyEmAll",
+    "slug": "buyemall",
+    "name": "BuyEmAll BfA",
     "compatibility": [
       "retail"
     ],
@@ -27972,6 +27986,20 @@
     "folders": [
       [
         "DBM-Archaeology"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385685",
+    "slug": "deadly-boss-mods-dbm-asmongold-countdown-pack",
+    "name": "Deadly Boss Mods (DBM) - Asmongold Countdown Pack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-CountPack-Asmongold"
       ]
     ]
   },
@@ -60716,6 +60744,48 @@
   },
   {
     "source": "curse",
+    "id": "386219",
+    "slug": "little-helper-audio-device",
+    "name": "Little Helper: Audio Device",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LH_SoundDevice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386147",
+    "slug": "little-helper-nameplatesct-ranged-fix",
+    "name": "Little Helper: NameplateSCT Ranged Fix",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LH_DistinctDamage"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386139",
+    "slug": "little-helper-uierror-to-parrot",
+    "name": "Little Helper: UIError to Parrot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LH_UIErrorToParrot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "4383",
     "slug": "little-wigs",
     "name": "LittleWigs",
@@ -72794,7 +72864,7 @@
     "source": "curse",
     "id": "385526",
     "slug": "onycloakequip",
-    "name": "OnyCloakEquip2",
+    "name": "OnyCloakEquip",
     "compatibility": [
       "classic"
     ],
@@ -78176,6 +78246,20 @@
     "folders": [
       [
         "Pulso"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386004",
+    "slug": "pummeler-charge-count-for-bagnon",
+    "name": "Pummeler Charge Count for Bagnon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PummelerCountBagnon"
       ]
     ]
   },
@@ -108553,6 +108637,20 @@
   },
   {
     "source": "curse",
+    "id": "386205",
+    "slug": "world-boss-loot-priorities",
+    "name": "World Boss Loot Priorities",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WorldBossLootPriorities"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "50260",
     "slug": "world-boss-status",
     "name": "World Boss Status",
@@ -115853,6 +115951,20 @@
     "folders": [
       [
         "tRunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386078",
+    "slug": "target-hp-mp",
+    "name": "target hp/mp",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "betterUI"
       ]
     ]
   },
