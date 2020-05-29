@@ -30762,6 +30762,20 @@
   },
   {
     "source": "curse",
+    "id": "345990",
+    "slug": "draconiserus-raid-recorder",
+    "name": "Draconis Erus Raid Recorder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DraconisErusRaidRecorder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98206",
     "slug": "draenor-miller",
     "name": "Draenor Miller",
@@ -36999,6 +37013,20 @@
     "folders": [
       [
         "FarmingTimer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385890",
+    "slug": "fart-addon",
+    "name": "Fart Addon",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Fart_Addon"
       ]
     ]
   },
@@ -77488,6 +77516,20 @@
   },
   {
     "source": "curse",
+    "id": "386319",
+    "slug": "premadeautoaccept-fix",
+    "name": "PremadeAutoAccept Fix",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PremadeAutoAcceptFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "44235",
     "slug": "premo_power-1",
     "name": "Premo Power",
@@ -104529,23 +104571,6 @@
     "folders": [
       [
         "VanasKoS"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "345990",
-    "slug": "vanguard-raid-recorder",
-    "name": "Vanguard Raid Recorder",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "VanguardDKP"
-      ],
-      [
-        "VanguardRaidRecorder"
       ]
     ]
   },
