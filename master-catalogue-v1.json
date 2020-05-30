@@ -35049,8 +35049,7 @@
     "slug": "enhanced-raid-frames",
     "name": "Enhanced Raid Frames",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -42538,6 +42537,20 @@
   },
   {
     "source": "curse",
+    "id": "386396",
+    "slug": "glowfosho-classic",
+    "name": "GlowFoSho Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GlowFoSho"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22288",
     "slug": "gezfx",
     "name": "Gluggen's Easy Fix",
@@ -48033,6 +48046,20 @@
   },
   {
     "source": "curse",
+    "id": "386551",
+    "slug": "hatcheck-classic",
+    "name": "HatCheck Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HatCheckClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "27156",
     "slug": "hattrick",
     "name": "HatTrick",
@@ -52102,6 +52129,59 @@
       [
         "Inked_AB",
         "Inked"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386463",
+    "slug": "inkedsv-classic-super-villain",
+    "name": "InkedSV Classic (Super Villain)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InkedSV_ActionBars",
+        "InkedSV_Auras",
+        "InkedSV_Chat",
+        "InkedSV_Inventory",
+        "InkedSV_Maps",
+        "InkedSV_NamePlates",
+        "InkedSV_Options",
+        "InkedSV_QuestTracker",
+        "InkedSV_Skins",
+        "InkedSV_ToolTip",
+        "InkedSV_UnitFrames",
+        "InkedSV",
+        "InkedSVTheme_Simple"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386468",
+    "slug": "inkedsv-supervillain",
+    "name": "InkedSV(SuperVillain)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InkedSV_ActionBars",
+        "InkedSV_Auras",
+        "InkedSV_Chat",
+        "InkedSV_CraftOMatic",
+        "InkedSV_Inventory",
+        "InkedSV_Maps",
+        "InkedSV_NamePlates",
+        "InkedSV_Options",
+        "InkedSV_QuestTracker",
+        "InkedSV_Skins",
+        "InkedSV_ToolTip",
+        "InkedSV_UnitFrames",
+        "InkedSV",
+        "InkedSVTheme_Simple"
       ]
     ]
   },
@@ -60786,6 +60866,20 @@
   },
   {
     "source": "curse",
+    "id": "386533",
+    "slug": "little-helper-mob-market-value",
+    "name": "Little Helper: Mob Market Value",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LH_Drops"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "386147",
     "slug": "little-helper-nameplatesct-ranged-fix",
     "name": "Little Helper: NameplateSCT Ranged Fix",
@@ -64352,8 +64446,7 @@
     "slug": "masque-neuron",
     "name": "Masque: Neuron",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -68758,6 +68851,36 @@
   },
   {
     "source": "curse",
+    "id": "306254",
+    "slug": "musicianlist",
+    "name": "Musician List",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MusicianList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386438",
+    "slug": "musicianmidi",
+    "name": "Musician MIDI",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MusicianMIDI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "385517",
     "slug": "musician-piano",
     "name": "Musician Piano",
@@ -68768,21 +68891,6 @@
     "folders": [
       [
         "Musician_Instrument_Piano"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "306254",
-    "slug": "musicianlist",
-    "name": "MusicianList",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "MusicianList"
       ]
     ]
   },
@@ -70589,8 +70697,7 @@
     "slug": "neuron",
     "name": "Neuron",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -79945,6 +80052,20 @@
   },
   {
     "source": "curse",
+    "id": "380127",
+    "slug": "quick-epgp",
+    "name": "Quick EPGP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "QuickEPGP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "5130",
     "slug": "quick-heal",
     "name": "Quick Heal",
@@ -80053,20 +80174,6 @@
     "folders": [
       [
         "QuickCheckLinksPlayer"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "380127",
-    "slug": "quickepgp",
-    "name": "QuickEPGP",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "QuickEPGP"
       ]
     ]
   },
@@ -89588,6 +89695,21 @@
     "folders": [
       [
         "SimpleDps"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386200",
+    "slug": "simpledruidmana",
+    "name": "Simple Druid Mana",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleDruidMana"
       ]
     ]
   },
@@ -223172,6 +223294,76 @@
     "folders": [
       [
         "myReputationClassic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25588",
+    "slug": "",
+    "name": "InkedSV_Classic (Super Villain)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "InkedSV",
+        "InkedSVTheme_Simple",
+        "InkedSV_ActionBars",
+        "InkedSV_Auras",
+        "InkedSV_Chat",
+        "InkedSV_Inventory",
+        "InkedSV_Maps",
+        "InkedSV_NamePlates",
+        "InkedSV_Options",
+        "InkedSV_QuestTracker",
+        "InkedSV_Skins",
+        "InkedSV_ToolTip",
+        "InkedSV_UnitFrames"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25589",
+    "slug": "",
+    "name": "InkedSV (Super Villain)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "InkedSV",
+        "InkedSVTheme_Simple",
+        "InkedSV_ActionBars",
+        "InkedSV_Auras",
+        "InkedSV_Chat",
+        "InkedSV_CraftOMatic",
+        "InkedSV_Inventory",
+        "InkedSV_Maps",
+        "InkedSV_NamePlates",
+        "InkedSV_Options",
+        "InkedSV_QuestTracker",
+        "InkedSV_Skins",
+        "InkedSV_ToolTip",
+        "InkedSV_UnitFrames"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25590",
+    "slug": "",
+    "name": "HatCheck Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HatCheckClassic"
       ]
     ]
   },
