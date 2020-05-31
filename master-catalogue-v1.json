@@ -27942,6 +27942,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -27955,21 +27970,6 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -28214,21 +28214,6 @@
   },
   {
     "source": "curse",
-    "id": "21364",
-    "slug": "dbm-raidtools",
-    "name": "Deadly Boss Mods (DBM) - RaidLeadTools",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DBM-RaidLeadTools"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "289632",
     "slug": "deadly-boss-mods-dbm-smoothmcgroove-event-pack",
     "name": "Deadly Boss Mods (DBM) - SmoothMcGroove Event Pack",
@@ -28239,21 +28224,6 @@
     "folders": [
       [
         "DBM-SMGEventsPack"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "18712",
-    "slug": "dbm-spelltimers",
-    "name": "Deadly Boss Mods (DBM) - SpellTimers",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DBM-SpellTimers"
       ]
     ]
   },
@@ -36084,6 +36054,20 @@
     "folders": [
       [
         "ExpresBrewingCo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385234",
+    "slug": "express-your-elf",
+    "name": "Express your Elf",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ExpressYourElf"
       ]
     ]
   },
@@ -52153,8 +52137,8 @@
         "InkedSV_Skins",
         "InkedSV_ToolTip",
         "InkedSV_UnitFrames",
-        "InkedSV",
-        "InkedSVTheme_Simple"
+        "InkedSVTheme_Simple",
+        "InkedSV"
       ]
     ]
   },
@@ -52180,8 +52164,8 @@
         "InkedSV_Skins",
         "InkedSV_ToolTip",
         "InkedSV_UnitFrames",
-        "InkedSV",
-        "InkedSVTheme_Simple"
+        "InkedSVTheme_Simple",
+        "InkedSV"
       ]
     ]
   },
@@ -68870,8 +68854,7 @@
     "slug": "musicianmidi",
     "name": "Musician MIDI",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -224052,6 +224035,16 @@
     "id": "92",
     "slug": "",
     "name": "Souschef's UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "160",
+    "slug": "",
+    "name": "SticeUI",
     "compatibility": [
       "retail"
     ],
