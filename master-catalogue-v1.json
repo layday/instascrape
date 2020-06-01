@@ -2292,6 +2292,9 @@
     "folders": [
       [
         "AdiBags_BfAZoneItems"
+      ],
+      [
+        "AdiBags_ZoneItems"
       ]
     ]
   },
@@ -7925,6 +7928,20 @@
   },
   {
     "source": "curse",
+    "id": "386568",
+    "slug": "autoneed",
+    "name": "AutoNeed",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoNeed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "257547",
     "slug": "autonomi",
     "name": "AutoNomi",
@@ -11505,6 +11522,21 @@
     "folders": [
       [
         "Beefshard"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "351047",
+    "slug": "beercount",
+    "name": "BeerCount",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BeerCount"
       ]
     ]
   },
@@ -223815,6 +223847,16 @@
     "id": "78",
     "slug": "",
     "name": "iFilger",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "161",
+    "slug": "",
+    "name": "InputLagFix",
     "compatibility": [
       "retail"
     ],
