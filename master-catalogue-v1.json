@@ -2291,9 +2291,6 @@
     ],
     "folders": [
       [
-        "AdiBags_BfAZoneItems"
-      ],
-      [
         "AdiBags_ZoneItems"
       ]
     ]
@@ -6975,6 +6972,20 @@
   },
   {
     "source": "curse",
+    "id": "377054",
+    "slug": "autokeystone",
+    "name": "Auto Keystone",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoKeystone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "348712",
     "slug": "auto-loot-assist",
     "name": "Auto Loot Assist",
@@ -7229,6 +7240,21 @@
     "folders": [
       [
         "AutoAcceptInvite"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386973",
+    "slug": "acamar-auto-learning-spam-blocker",
+    "name": "Auto-learning spam blocker",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Acamar"
       ]
     ]
   },
@@ -7743,20 +7769,6 @@
   },
   {
     "source": "curse",
-    "id": "377054",
-    "slug": "autokeystone",
-    "name": "AutoKeystone",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AutoKeystone"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "334702",
     "slug": "autolfgrole",
     "name": "AutoLFGRole",
@@ -8232,6 +8244,20 @@
     "folders": [
       [
         "AutoRoll3000"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386670",
+    "slug": "autorollgreed",
+    "name": "AutoRollGreed",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoRollGreed"
       ]
     ]
   },
@@ -19179,6 +19205,21 @@
     "folders": [
       [
         "CensusPlusClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386754",
+    "slug": "centered-unitframes",
+    "name": "Centered UnitFrames",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "D4KiR Centered"
       ]
     ]
   },
@@ -42847,6 +42888,20 @@
   },
   {
     "source": "curse",
+    "id": "386831",
+    "slug": "gofarm",
+    "name": "GoFarm",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoFarm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "56393",
     "slug": "gofish",
     "name": "GoFish",
@@ -42921,7 +42976,8 @@
     "slug": "gopost",
     "name": "GoPost",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -52231,6 +52287,20 @@
   },
   {
     "source": "curse",
+    "id": "386720",
+    "slug": "inputlagfix",
+    "name": "InputLagFix",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InputLagFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "308923",
     "slug": "insanesets",
     "name": "InsaneSets",
@@ -52425,6 +52495,20 @@
     "folders": [
       [
         "InstanceEnteredCounter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387064",
+    "slug": "instance-gold-tracker",
+    "name": "Instance Gold Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InstanceGoldTracker"
       ]
     ]
   },
@@ -62104,20 +62188,6 @@
     "folders": [
       [
         "LostTreasures"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "383869",
-    "slug": "lotustimer",
-    "name": "LotusTimer",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "LotusTimer"
       ]
     ]
   },
@@ -80701,6 +80771,20 @@
   },
   {
     "source": "curse",
+    "id": "387165",
+    "slug": "rca",
+    "name": "RCA",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RCA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "39928",
     "slug": "rclootcouncil",
     "name": "RCLootCouncil",
@@ -94922,6 +95006,20 @@
   },
   {
     "source": "curse",
+    "id": "384342",
+    "slug": "sunderer",
+    "name": "Sunderer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Sunderer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3769",
     "slug": "sunn-viewport-art",
     "name": "Sunn - Viewport Art",
@@ -102891,6 +102989,20 @@
   },
   {
     "source": "curse",
+    "id": "385086",
+    "slug": "trafficmeter",
+    "name": "TrafficMeter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TrafficMeter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101201",
     "slug": "train-all",
     "name": "Train All",
@@ -103472,6 +103584,7 @@
     "slug": "triton-track-only-messages-you-care",
     "name": "Triton, track only messages you care",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -116113,20 +116226,6 @@
     "folders": [
       [
         "tRunes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "386078",
-    "slug": "target-hp-mp",
-    "name": "target hp/mp",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "betterUI"
       ]
     ]
   },
