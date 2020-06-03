@@ -1076,6 +1076,21 @@
   },
   {
     "source": "curse",
+    "id": "386973",
+    "slug": "acamar-auto-learning-spam-blocker",
+    "name": "Acamar Auto-learning spam blocker",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Acamar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "263447",
     "slug": "accelerando-vox",
     "name": "Accelerando Vox",
@@ -7240,21 +7255,6 @@
     "folders": [
       [
         "AutoAcceptInvite"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "386973",
-    "slug": "acamar-auto-learning-spam-blocker",
-    "name": "Auto-learning spam blocker",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Acamar"
       ]
     ]
   },
@@ -32225,6 +32225,20 @@
   },
   {
     "source": "curse",
+    "id": "383394",
+    "slug": "ezdownrank",
+    "name": "EZDownRank",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EZDownRank"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "2934",
     "slug": "project-2934",
     "name": "EZInnervate",
@@ -32248,20 +32262,6 @@
     "folders": [
       [
         "EZJunk"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "383394",
-    "slug": "ezpriest",
-    "name": "EZPriest",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "EZPriest"
       ]
     ]
   },
@@ -36488,6 +36488,20 @@
     "folders": [
       [
         "FADEWorldTimers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387347",
+    "slug": "farm-prottec",
+    "name": "FARM PROTTEC",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FARMPROTTEC"
       ]
     ]
   },
@@ -98256,6 +98270,20 @@
   },
   {
     "source": "curse",
+    "id": "386871",
+    "slug": "thenightisdarkui",
+    "name": "TheNightIsDarkUI",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TheNightIsDarkUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "279950",
     "slug": "thesyndicategui",
     "name": "TheSyndicateGUI",
@@ -107125,6 +107153,20 @@
     "folders": [
       [
         "WhatsTraining"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387053",
+    "slug": "whats-up",
+    "name": "What's Up",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WhatsUp"
       ]
     ]
   },
