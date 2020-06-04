@@ -4431,6 +4431,21 @@
   },
   {
     "source": "curse",
+    "id": "387453",
+    "slug": "ara-broker-reputations",
+    "name": "Ara Broker Reputations",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Ara_Broker_Reputations"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88388",
     "slug": "ara-broker-tradeskills",
     "name": "Ara Broker Tradeskills",
@@ -6114,6 +6129,21 @@
     "folders": [
       [
         "Atlas_WrathoftheLichKing"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387333",
+    "slug": "atlasarenaaddon",
+    "name": "AtlasArenaAddon",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AtlasArenaAddon"
       ]
     ]
   },
@@ -88724,6 +88754,21 @@
   },
   {
     "source": "curse",
+    "id": "387455",
+    "slug": "shestakui-fix",
+    "name": "ShestakUI(Classic.Fix)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ShestakUI_Config",
+        "ShestakUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "46586",
     "slug": "shield-maid",
     "name": "Shield Maid",
@@ -102585,6 +102630,20 @@
   },
   {
     "source": "curse",
+    "id": "387266",
+    "slug": "tradelogunlimited",
+    "name": "TradeLogUnlimited",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TradeLogUnlimited"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "381100",
     "slug": "tradeshout",
     "name": "TradeShout",
@@ -109976,6 +110035,7 @@
     "slug": "xptolevel-classic",
     "name": "XPToLevel Classic",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -116268,6 +116328,20 @@
     "folders": [
       [
         "tRunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387418",
+    "slug": "ttimestamps",
+    "name": "tTimeStamps",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "tTimeStamps"
       ]
     ]
   },
