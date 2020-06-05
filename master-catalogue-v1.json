@@ -6138,8 +6138,7 @@
     "slug": "atlasarenaaddon",
     "name": "AtlasArenaAddon",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -14441,6 +14440,20 @@
     "folders": [
       [
         "BoostHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387690",
+    "slug": "boostwaitlist",
+    "name": "BoostWaitlist",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BoostWaitlist"
       ]
     ]
   },
@@ -24889,6 +24902,20 @@
     "folders": [
       [
         "CritCommander"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "368578",
+    "slug": "critchain-classic",
+    "name": "CritChain CLASSIC",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CritChain"
       ]
     ]
   },
@@ -46012,20 +46039,6 @@
   },
   {
     "source": "curse",
-    "id": "381775",
-    "slug": "guild-tradeskills",
-    "name": "Guild Tradeskills",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "GuildTradeskills"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "17057",
     "slug": "noteannouncer",
     "name": "Guild and Friend Note Announcer",
@@ -46460,6 +46473,20 @@
     "folders": [
       [
         "GuildTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "381775",
+    "slug": "guild-tradeskills",
+    "name": "GuildTradeskills",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildTradeskills"
       ]
     ]
   },
@@ -62455,6 +62482,20 @@
   },
   {
     "source": "curse",
+    "id": "387756",
+    "slug": "crystalvisiontracker",
+    "name": "Luk\u00e1\u0161 Ch\u00e1bek",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CrystalVisionTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "90059",
     "slug": "lunaeclipse-rotation-helper",
     "name": "LunaEclipse: Rotation Helper",
@@ -63351,6 +63392,20 @@
     "folders": [
       [
         "Magneto"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "383400",
+    "slug": "mbk",
+    "name": "Mail Bookkeeper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MailBookKeeper"
       ]
     ]
   },
@@ -84482,6 +84537,20 @@
   },
   {
     "source": "curse",
+    "id": "387663",
+    "slug": "remove-sell-price",
+    "name": "Remove Sell Price",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RemoveSellPrice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "321903",
     "slug": "removecombattextfromplayerportrait",
     "name": "RemoveCombatTextFromPlayerPortrait",
@@ -87124,6 +87193,21 @@
   },
   {
     "source": "curse",
+    "id": "2904",
+    "slug": "screen-plus",
+    "name": "ScreenPlus",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ScreenPlus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "262167",
     "slug": "screenshoter",
     "name": "Screenshoter",
@@ -88755,8 +88839,8 @@
   {
     "source": "curse",
     "id": "387455",
-    "slug": "shestakui-fix",
-    "name": "ShestakUI(Classic.Fix)",
+    "slug": "shestakui-wowclassic-by-wj",
+    "name": "ShestakUI For WOWClassic(wj)",
     "compatibility": [
       "classic"
     ],
@@ -91121,6 +91205,20 @@
     "folders": [
       [
         "Skinner"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387573",
+    "slug": "skinning-knife",
+    "name": "Skinning Knife",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SkinningKnife"
       ]
     ]
   },
@@ -102634,7 +102732,8 @@
     "slug": "tradelogunlimited",
     "name": "TradeLogUnlimited",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -105917,6 +106016,20 @@
     "folders": [
       [
         "Vortex"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386314",
+    "slug": "vortex-cooldowns",
+    "name": "Vortex Cooldowns",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "VortexCooldowns"
       ]
     ]
   },
@@ -223200,7 +223313,7 @@
     "source": "wowi",
     "id": "25558",
     "slug": "",
-    "name": "AutoKeystone",
+    "name": "Auto Keystone",
     "compatibility": [
       "retail",
       "classic"
@@ -223594,6 +223707,36 @@
     "folders": [
       [
         "HatCheckClassic"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25592",
+    "slug": "",
+    "name": "EZDownRank",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "EZDownRank-master"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25593",
+    "slug": "",
+    "name": "Kiminfo",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Kiminfo"
       ]
     ]
   },
