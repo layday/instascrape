@@ -6138,7 +6138,8 @@
     "slug": "atlasarenaaddon",
     "name": "AtlasArenaAddon",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -25114,6 +25115,20 @@
   },
   {
     "source": "curse",
+    "id": "387756",
+    "slug": "crystalvisiontracker",
+    "name": "Crystal Vision Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CrystalVisionTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "17086",
     "slug": "igas-cube",
     "name": "Cube",
@@ -28072,21 +28087,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -28100,6 +28100,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -52311,6 +52326,7 @@
     ],
     "folders": [
       [
+        "InkedSVTheme_Simple",
         "InkedSV_ActionBars",
         "InkedSV_Auras",
         "InkedSV_Chat",
@@ -52323,7 +52339,6 @@
         "InkedSV_Skins",
         "InkedSV_ToolTip",
         "InkedSV_UnitFrames",
-        "InkedSVTheme_Simple",
         "InkedSV"
       ]
     ]
@@ -52538,6 +52553,20 @@
     "folders": [
       [
         "InstanceAutoMarker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387834",
+    "slug": "instance-boost-payment-tracker",
+    "name": "Instance Boost Payment Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InstanceBoostTracker"
       ]
     ]
   },
@@ -55975,6 +56004,20 @@
     "folders": [
       [
         "Killshot_Sounds"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387585",
+    "slug": "kiminfo",
+    "name": "Kiminfo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Kiminfo"
       ]
     ]
   },
@@ -62477,20 +62520,6 @@
     "folders": [
       [
         "Luggage"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "387756",
-    "slug": "crystalvisiontracker",
-    "name": "Luk\u00e1\u0161 Ch\u00e1bek",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "CrystalVisionTracker"
       ]
     ]
   },
@@ -77416,20 +77445,6 @@
   },
   {
     "source": "curse",
-    "id": "382116",
-    "slug": "potion-seller",
-    "name": "Potion Seller",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ClassicRaidAssist"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "30362",
     "slug": "pouncecam",
     "name": "PounceCam",
@@ -85416,6 +85431,20 @@
     "folders": [
       [
         "RockU"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387939",
+    "slug": "rogerbigdam",
+    "name": "RogerBigDam",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RogerBigDam"
       ]
     ]
   },
@@ -113784,6 +113813,20 @@
     "folders": [
       [
         "Guidelime_Sunpower"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387985",
+    "slug": "guyheaven-emotes",
+    "name": "guyheaven emotes",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TwitchEmotes"
       ]
     ]
   },
