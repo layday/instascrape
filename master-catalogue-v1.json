@@ -52300,6 +52300,8 @@
     ],
     "folders": [
       [
+        "InkedSVTheme_Simple",
+        "InkedSVTheme_Warcraft",
         "InkedSV_ActionBars",
         "InkedSV_Auras",
         "InkedSV_Chat",
@@ -52311,7 +52313,6 @@
         "InkedSV_Skins",
         "InkedSV_ToolTip",
         "InkedSV_UnitFrames",
-        "InkedSVTheme_Simple",
         "InkedSV"
       ]
     ]
@@ -52327,6 +52328,7 @@
     "folders": [
       [
         "InkedSVTheme_Simple",
+        "InkedSVTheme_Warcraft",
         "InkedSV_ActionBars",
         "InkedSV_Auras",
         "InkedSV_Chat",
@@ -77440,6 +77442,20 @@
     "folders": [
       [
         "PotButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "382116",
+    "slug": "potion-seller",
+    "name": "Potion Seller",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidAssist"
       ]
     ]
   },
@@ -223696,6 +223712,7 @@
       [
         "InkedSV",
         "InkedSVTheme_Simple",
+        "InkedSVTheme_Warcraft",
         "InkedSV_ActionBars",
         "InkedSV_Auras",
         "InkedSV_Chat",
@@ -223723,6 +223740,7 @@
       [
         "InkedSV",
         "InkedSVTheme_Simple",
+        "InkedSVTheme_Warcraft",
         "InkedSV_ActionBars",
         "InkedSV_Auras",
         "InkedSV_Chat",
