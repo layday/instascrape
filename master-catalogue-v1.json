@@ -43771,6 +43771,20 @@
   },
   {
     "source": "curse",
+    "id": "385480",
+    "slug": "grichelde",
+    "name": "Grichelde",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Grichelde"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "7000",
     "slug": "grid",
     "name": "Grid",
@@ -52333,6 +52347,7 @@
         "InkedSV_Auras",
         "InkedSV_Chat",
         "InkedSV_CraftOMatic",
+        "InkedSV_FightOMatic",
         "InkedSV_Inventory",
         "InkedSV_Maps",
         "InkedSV_NamePlates",
@@ -223745,6 +223760,7 @@
         "InkedSV_Auras",
         "InkedSV_Chat",
         "InkedSV_CraftOMatic",
+        "InkedSV_FightOMatic",
         "InkedSV_Inventory",
         "InkedSV_Maps",
         "InkedSV_NamePlates",
