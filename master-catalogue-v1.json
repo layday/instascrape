@@ -17647,6 +17647,20 @@
   },
   {
     "source": "curse",
+    "id": "388645",
+    "slug": "buvvs",
+    "name": "Buvvs",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Buvvs"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "351325",
     "slug": "buy-that-stuff",
     "name": "Buy That Stuff",
@@ -17743,6 +17757,20 @@
       ],
       [
         "cask"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388379",
+    "slug": "cc-counter",
+    "name": "CC Counter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CCCounter"
       ]
     ]
   },
@@ -25110,6 +25138,20 @@
     "folders": [
       [
         "CruiseControl"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388485",
+    "slug": "crystal-sockets",
+    "name": "Crystal Sockets",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CrystalSockets"
       ]
     ]
   },
@@ -56287,6 +56329,20 @@
   },
   {
     "source": "curse",
+    "id": "388565",
+    "slug": "kleiderschrank",
+    "name": "Kleiderschrank",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Kleiderschrank"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "99383",
     "slug": "kniggel",
     "name": "Kniggel",
@@ -69593,6 +69649,20 @@
     "folders": [
       [
         "MyPathfinder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388188",
+    "slug": "mypocket",
+    "name": "MyPocket",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MyPocket"
       ]
     ]
   },
@@ -92377,6 +92447,20 @@
       ],
       [
         "SolaceBuffDisplay"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388449",
+    "slug": "solarcollector",
+    "name": "SolarCollector",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SolarCollector"
       ]
     ]
   },
