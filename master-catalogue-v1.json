@@ -31890,6 +31890,20 @@
   },
   {
     "source": "curse",
+    "id": "388657",
+    "slug": "dynamic-weather-immersive-realistic-changing",
+    "name": "Dynamic Weather - Immersive, realistic, changing weather for all zones!",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DynamicWeather"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "323794",
     "slug": "dynamicboxer",
     "name": "DynamicBoxer",
@@ -34661,6 +34675,20 @@
     "folders": [
       [
         "ElvUI_mMediaTag"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388783",
+    "slug": "elvui_mmediatag_classic",
+    "name": "ElvUI_mMediaTag_Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ElvUI_mMediaTag_Classic"
       ]
     ]
   },
@@ -64889,6 +64917,20 @@
   },
   {
     "source": "curse",
+    "id": "388786",
+    "slug": "masque-squat",
+    "name": "Masque: Squat",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Masque_Squat"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "27990",
     "slug": "masque-stylo",
     "name": "Masque: Stylo ",
@@ -74584,6 +74626,7 @@
     "slug": "partychangednotifier",
     "name": "PartyChangedNotifier",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -90692,6 +90735,20 @@
   },
   {
     "source": "curse",
+    "id": "388715",
+    "slug": "simplemousetooltip",
+    "name": "SimpleMouseToolTip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleMouseToolTip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102859",
     "slug": "simpleobjectiveprogress",
     "name": "SimpleObjectiveProgress",
@@ -91619,6 +91676,20 @@
     "folders": [
       [
         "SliceCommander"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388521",
+    "slug": "slicer-tng",
+    "name": "Slicer TNG",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SlicerTNG"
       ]
     ]
   },
