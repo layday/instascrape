@@ -18456,6 +18456,20 @@
   },
   {
     "source": "curse",
+    "id": "388877",
+    "slug": "camp-twacker",
+    "name": "Camp Twacker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CampTwacker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98649",
     "slug": "canigo",
     "name": "Can I Go",
@@ -57781,20 +57795,6 @@
   },
   {
     "source": "curse",
-    "id": "298842",
-    "slug": "leatrix-maps",
-    "name": "Leatrix Maps",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Leatrix_Maps"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "324034",
     "slug": "leatrix-maps-classic",
     "name": "Leatrix Maps (Classic)",
@@ -57809,15 +57809,15 @@
   },
   {
     "source": "curse",
-    "id": "94855",
-    "slug": "leatrix-plus",
-    "name": "Leatrix Plus",
+    "id": "298842",
+    "slug": "leatrix-maps",
+    "name": "Leatrix Maps (Retail)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Plus"
+        "Leatrix_Maps"
       ]
     ]
   },
@@ -57837,15 +57837,15 @@
   },
   {
     "source": "curse",
-    "id": "304659",
-    "slug": "leatrix-sounds",
-    "name": "Leatrix Sounds",
+    "id": "94855",
+    "slug": "leatrix-plus",
+    "name": "Leatrix Plus (Retail)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Sounds"
+        "Leatrix_Plus"
       ]
     ]
   },
@@ -57865,15 +57865,15 @@
   },
   {
     "source": "curse",
-    "id": "324297",
-    "slug": "leatrix-tunes",
-    "name": "Leatrix Tunes",
+    "id": "304659",
+    "slug": "leatrix-sounds",
+    "name": "Leatrix Sounds (Retail)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Tunes"
+        "Leatrix_Sounds"
       ]
     ]
   },
@@ -57884,6 +57884,20 @@
     "name": "Leatrix Tunes (Classic)",
     "compatibility": [
       "classic"
+    ],
+    "folders": [
+      [
+        "Leatrix_Tunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "324297",
+    "slug": "leatrix-tunes",
+    "name": "Leatrix Tunes (Retail)",
+    "compatibility": [
+      "retail"
     ],
     "folders": [
       [
@@ -89681,20 +89695,6 @@
       [
         "SilentWorldQuest",
         "SilentWorldQuestOptions"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "99198",
-    "slug": "silentgambler",
-    "name": "SilentGambler",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SilentGambler"
       ]
     ]
   },
@@ -168028,7 +168028,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-05-22",
+    "name": "WoWpoPolsku-Quests 80300 2020-06-10",
     "compatibility": [
       "retail",
       "classic"
@@ -211998,7 +211998,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-05-22",
+    "name": "WoWpoPolsku-Bubbles 80300 2020-06-10",
     "compatibility": [
       "retail",
       "classic"
@@ -214625,8 +214625,9 @@
     ],
     "folders": [
       [
+        "MusicianList",
         "Musician",
-        "MusicianList"
+        "__MACOSX"
       ]
     ]
   },
@@ -217795,8 +217796,9 @@
     ],
     "folders": [
       [
-        "Musician",
-        "MusicianList"
+        "MusicianList",
+        "__MACOSX",
+        "Musician"
       ]
     ]
   },
@@ -218243,7 +218245,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-05-22",
+    "name": "WoWpoPolsku-Quests Classic 2020-06-10",
     "compatibility": [
       "retail",
       "classic"
@@ -218325,7 +218327,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-05-22",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-06-10",
     "compatibility": [
       "retail",
       "classic"
@@ -223969,6 +223971,73 @@
     "folders": [
       [
         "Kiminfo"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25594",
+    "slug": "",
+    "name": "Auction Watch",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AuctionWatch"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25595",
+    "slug": "",
+    "name": "Default Portraits but modified",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CastingBar",
+        "CharacterFrame",
+        "Minimap",
+        "RaidFrame",
+        "TargetingFrame",
+        "TimeManager",
+        "Vehicles",
+        "Calendar"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25596",
+    "slug": "",
+    "name": "Text Outline Around Target/Focus ",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ASHUI-Outlines"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25597",
+    "slug": "",
+    "name": "Hides Portrait Junk",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AshUI-Hide"
       ]
     ]
   },
