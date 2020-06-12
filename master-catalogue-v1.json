@@ -54074,6 +54074,20 @@
   },
   {
     "source": "curse",
+    "id": "388898",
+    "slug": "jp-dkp",
+    "name": "JP DKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "jpdkp"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "63392",
     "slug": "jphf",
     "name": "JPHF",
@@ -90290,6 +90304,20 @@
   },
   {
     "source": "curse",
+    "id": "388715",
+    "slug": "simplemousetooltip",
+    "name": "Simple Mouse Tooltip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleMouseToolTip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29110",
     "slug": "simple-notepad",
     "name": "Simple Notepad (Notes)",
@@ -90730,20 +90758,6 @@
     "folders": [
       [
         "SimpleMapPlus"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "388715",
-    "slug": "simplemousetooltip",
-    "name": "SimpleMouseToolTip",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "SimpleMouseToolTip"
       ]
     ]
   },
@@ -95373,6 +95387,20 @@
     "folders": [
       [
         "itruliaSunder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389105",
+    "slug": "sunderarmorcount",
+    "name": "SunderArmorCount",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SunderArmorCount"
       ]
     ]
   },
@@ -224000,14 +224028,7 @@
     ],
     "folders": [
       [
-        "CastingBar",
-        "CharacterFrame",
-        "Minimap",
-        "RaidFrame",
-        "TargetingFrame",
-        "TimeManager",
-        "Vehicles",
-        "Calendar"
+        "TargetingFrame"
       ]
     ]
   },
@@ -224176,6 +224197,16 @@
     "id": "147",
     "slug": "",
     "name": "Custom Tags",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "162",
+    "slug": "",
+    "name": "Data Bars &amp; Texts",
     "compatibility": [
       "retail"
     ],
