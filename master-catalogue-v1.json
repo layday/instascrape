@@ -3853,6 +3853,20 @@
   },
   {
     "source": "curse",
+    "id": "389106",
+    "slug": "awfarmer",
+    "name": "Anchor Weed Farmer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AWFarmer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "67138",
     "slug": "angry-assignments",
     "name": "Angry Assignments",
@@ -26509,6 +26523,36 @@
   },
   {
     "source": "curse",
+    "id": "21364",
+    "slug": "dbm-raidleadtools",
+    "name": "DBM-RaidLeadTools2",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-RaidLeadTools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "18712",
+    "slug": "dbm-spelltimers",
+    "name": "DBM-SpellTimers2",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DBM-SpellTimers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297307",
     "slug": "dbm-vpcodiak",
     "name": "DBM-VPCodiak",
@@ -43734,6 +43778,20 @@
     "folders": [
       [
         "GreaseGoblin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388701",
+    "slug": "greatestrogueontheserver",
+    "name": "GreatestRogueOnTheServer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GreatestRogueOnTheServer"
       ]
     ]
   },
@@ -82451,6 +82509,20 @@
   },
   {
     "source": "curse",
+    "id": "389027",
+    "slug": "raidlootseller",
+    "name": "RaidLootSeller",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RaidLootSeller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22822",
     "slug": "raidmobmarker-hud",
     "name": "RaidMobMarker HUD",
@@ -85519,6 +85591,21 @@
     "folders": [
       [
         "Ringprob"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388012",
+    "slug": "rinseobags",
+    "name": "RinseOBags",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RinseOBags"
       ]
     ]
   },
@@ -102163,6 +102250,20 @@
     "folders": [
       [
         "TooltipRealmInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386581",
+    "slug": "tooltiptosimc",
+    "name": "TooltipToSimc",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TooltipToSimc"
       ]
     ]
   },
