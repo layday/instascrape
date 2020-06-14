@@ -28668,7 +28668,8 @@
     "slug": "death_roll",
     "name": "Death Roll",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -69285,7 +69286,8 @@
     "slug": "musicianmidi",
     "name": "Musician MIDI",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -118085,6 +118087,33 @@
     "folders": [
       [
         "WO_ezcalinvit"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "3826",
+    "slug": "",
+    "name": "CTMod",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CT_BarMod",
+        "CT_BottomBar",
+        "CT_BuffMod",
+        "CT_Core",
+        "CT_ExpenseHistory",
+        "CT_Library",
+        "CT_MailMod",
+        "CT_MapMod",
+        "CT_PartyBuffs",
+        "CT_RaidAssist",
+        "CT_Timer",
+        "CT_UnitFrames",
+        "CT_Viewport"
       ]
     ]
   },
@@ -224160,6 +224189,48 @@
     "folders": [
       [
         "AshUI-Hide"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25599",
+    "slug": "",
+    "name": "CTMod (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CT_BarMod",
+        "CT_BottomBar",
+        "CT_BuffMod",
+        "CT_Core",
+        "CT_ExpenseHistory",
+        "CT_Library",
+        "CT_MailMod",
+        "CT_MapMod",
+        "CT_PartyBuffs",
+        "CT_RaidAssist",
+        "CT_Timer",
+        "CT_UnitFrames",
+        "CT_Viewport"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25600",
+    "slug": "",
+    "name": "Custom Jax sArena",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "sArena"
       ]
     ]
   },
