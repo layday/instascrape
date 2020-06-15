@@ -34222,8 +34222,7 @@
     "slug": "elvui-shadow-light",
     "name": "ElvUI Shadow & Light",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -68759,6 +68758,9 @@
     "folders": [
       [
         "ZAFtoEAB"
+      ],
+      [
+        "MoveSanityOrb"
       ]
     ]
   },
@@ -81566,23 +81568,6 @@
       "retail"
     ],
     "folders": [
-      [
-        "RSA_DeathKnight",
-        "RSA_DemonHunter",
-        "RSA_Druid",
-        "RSA_Hunter",
-        "RSA_Mage",
-        "RSA_Monk",
-        "RSA_Options",
-        "RSA_Paladin",
-        "RSA_Priest",
-        "RSA_Reminders",
-        "RSA_Rogue",
-        "RSA_Shaman",
-        "RSA_Warlock",
-        "RSA_Warrior",
-        "RSA"
-      ],
       [
         "RSA_Options",
         "RSA_Reminders",
@@ -224158,7 +224143,14 @@
     ],
     "folders": [
       [
-        "TargetingFrame"
+        "CharacterFrame",
+        "ComboFrame",
+        "RaidFrame",
+        "TargetingFrame",
+        "TimeManager",
+        "Vehicles",
+        "Buttons",
+        "CastingBar"
       ]
     ]
   },
