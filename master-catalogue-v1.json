@@ -9176,6 +9176,20 @@
   },
   {
     "source": "curse",
+    "id": "389870",
+    "slug": "bgqueuetracker",
+    "name": "BG Queue Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BGQueueTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85219",
     "slug": "bgcallouts",
     "name": "BGCallouts",
@@ -17889,6 +17903,20 @@
   },
   {
     "source": "curse",
+    "id": "389618",
+    "slug": "cepgp-zone-award",
+    "name": "CEPGP Zone Award",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CEPGP_ZA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "385862",
     "slug": "cepgp_data",
     "name": "CEPGP_DATA",
@@ -24421,6 +24449,20 @@
   },
   {
     "source": "curse",
+    "id": "389565",
+    "slug": "cooldownreminder",
+    "name": "CooldownRemind",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CooldownRemind"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13712",
     "slug": "cooldown-to-go",
     "name": "CooldownToGo",
@@ -25209,34 +25251,6 @@
     "folders": [
       [
         "Cube"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "324542",
-    "slug": "curator",
-    "name": "Curator",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Curator"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "339061",
-    "slug": "curator-classic",
-    "name": "Curator: Classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "CuratorClassic"
       ]
     ]
   },
@@ -52088,6 +52102,21 @@
   },
   {
     "source": "curse",
+    "id": "389753",
+    "slug": "improved-ui",
+    "name": "Improved Ui",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "D4KiR Improved Ui"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "360127",
     "slug": "in-memory-dkp-prices",
     "name": "In Memory DKP Prices",
@@ -57647,7 +57676,8 @@
     "slug": "lastseen",
     "name": "LastSeen",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -70275,6 +70305,20 @@
     "folders": [
       [
         "NDui"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389434",
+    "slug": "ndui_plus",
+    "name": "NDui_Plus",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NDui_Plus"
       ]
     ]
   },
@@ -82945,6 +82989,20 @@
   },
   {
     "source": "curse",
+    "id": "389680",
+    "slug": "randomcompanion_reloaded",
+    "name": "RandomCompanion_Reloaded",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RandomCompanion"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "325572",
     "slug": "randomgenerator",
     "name": "RandomGenerator",
@@ -91092,6 +91150,20 @@
   },
   {
     "source": "curse",
+    "id": "389802",
+    "slug": "sinstats-classic",
+    "name": "SinStats - Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SinStats"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "273060",
     "slug": "sinner",
     "name": "Sinner",
@@ -98683,6 +98755,20 @@
     "folders": [
       [
         "TheAddon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "388030",
+    "slug": "theaddon2",
+    "name": "TheAddon2",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TheAddon2"
       ]
     ]
   },
@@ -223814,8 +223900,7 @@
     ],
     "folders": [
       [
-        "Icons",
-        "Preview"
+        "WoW Reforged Icons 1.4.1"
       ]
     ]
   },
@@ -224227,6 +224312,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25601",
+    "slug": "",
+    "name": "SinStats - Classic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SinStats"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -224331,6 +224431,16 @@
     "id": "148",
     "slug": "",
     "name": "Buff Highlight",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "163",
+    "slug": "",
+    "name": "Call to Arms",
     "compatibility": [
       "retail"
     ],
@@ -224671,6 +224781,16 @@
     "id": "22",
     "slug": "",
     "name": "GarrisonDisenchant",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "164",
+    "slug": "",
+    "name": "Gathering",
     "compatibility": [
       "retail"
     ],
@@ -225321,6 +225441,16 @@
     "id": "18",
     "slug": "",
     "name": "ElvUI_QuestXP_Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "40",
+    "slug": "",
+    "name": "Gathering Classic",
     "compatibility": [
       "classic"
     ],
