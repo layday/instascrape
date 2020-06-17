@@ -2522,6 +2522,20 @@
   },
   {
     "source": "curse",
+    "id": "390065",
+    "slug": "adibags_openable",
+    "name": "AdiBags_Openable",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Openable"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "24545",
     "slug": "adibags_outfitter",
     "name": "AdiBags_Outfitter",
@@ -12627,6 +12641,17 @@
         "BigWigs_CrucibleOfStorms",
         "BigWigs_EternalPalace",
         "BigWigs_Nyalotha",
+        "BigWigs"
+      ],
+      [
+        "BigWigs_Core",
+        "BigWigs_Options",
+        "BigWigs_Plugins",
+        "BigWigs_Onyxia",
+        "BigWigs_MoltenCore",
+        "BigWigs_World",
+        "BigWigs_BlackwingLair",
+        "BigWigs_ZulGurub",
         "BigWigs"
       ]
     ]
@@ -24696,6 +24721,20 @@
   },
   {
     "source": "curse",
+    "id": "390144",
+    "slug": "corruption-vendor",
+    "name": "Corruption Vendor",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CorruptionVendor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "363347",
     "slug": "corruptionaffix",
     "name": "CorruptionAffix",
@@ -33412,6 +33451,20 @@
       [
         "Ellipsis_Options",
         "Ellipsis"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389833",
+    "slug": "elvui-additional-fonts",
+    "name": "ElvUI Additional Fonts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_AdditionalFonts"
       ]
     ]
   },
@@ -51941,6 +51994,20 @@
     "folders": [
       [
         "ImoFriendGroups"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390046",
+    "slug": "impactloot",
+    "name": "ImpactLoot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ImpactLoot"
       ]
     ]
   },
@@ -87038,6 +87105,20 @@
   },
   {
     "source": "curse",
+    "id": "390040",
+    "slug": "sauce",
+    "name": "Sauce",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Sauce"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "295875",
     "slug": "saunantaakseemotes",
     "name": "SaunanTaakseEmotes",
@@ -91151,8 +91232,8 @@
   {
     "source": "curse",
     "id": "389802",
-    "slug": "sinstats-classic",
-    "name": "SinStats - Classic",
+    "slug": "sinstats",
+    "name": "SinStats HUD",
     "compatibility": [
       "classic"
     ],
@@ -97264,6 +97345,20 @@
     "folders": [
       [
         "TableExplorer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389881",
+    "slug": "tabu-bars",
+    "name": "Tabu-Bars",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Tabu-Bars"
       ]
     ]
   },
@@ -109331,6 +109426,20 @@
   },
   {
     "source": "curse",
+    "id": "390159",
+    "slug": "wowpopolsku-movies-subtitles",
+    "name": "WoWpoPolsku-Movies (subtitles)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Movies"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "34192",
     "slug": "quest-translator",
     "name": "WoWpoPolsku-Quests (cont. Quest Translator)",
@@ -116858,6 +116967,20 @@
     "folders": [
       [
         "statslog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390205",
+    "slug": "tchat",
+    "name": "tChat",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "tChat"
       ]
     ]
   },
@@ -224315,7 +224438,7 @@
     "source": "wowi",
     "id": "25601",
     "slug": "",
-    "name": "SinStats - Classic",
+    "name": "SinStats HUD",
     "compatibility": [
       "retail",
       "classic"
@@ -224323,6 +224446,36 @@
     "folders": [
       [
         "SinStats"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25602",
+    "slug": "",
+    "name": "HeroLobby",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HeroLobby-0.1.3"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25603",
+    "slug": "",
+    "name": "WoWpoPolsku-Movies (subtitles) 80300 2020-06-16",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Movies"
       ]
     ]
   },
@@ -225248,6 +225401,16 @@
   },
   {
     "source": "tukui",
+    "id": "165",
+    "slug": "",
+    "name": "vUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
     "id": "133",
     "slug": "",
     "name": "VxtUI",
@@ -225621,6 +225784,16 @@
     "id": "23",
     "slug": "",
     "name": "Tukui_Microbar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "41",
+    "slug": "",
+    "name": "vUI Classic",
     "compatibility": [
       "classic"
     ],
