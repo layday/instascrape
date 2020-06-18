@@ -19546,6 +19546,20 @@
   },
   {
     "source": "curse",
+    "id": "389472",
+    "slug": "character-loadout-manager",
+    "name": "Character Loadout Manager",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CharacterLoadoutManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "24993",
     "slug": "character-notes",
     "name": "Character Notes",
@@ -82354,6 +82368,20 @@
   },
   {
     "source": "curse",
+    "id": "390297",
+    "slug": "raidbuffstatus-classic",
+    "name": "RaidBuffStatus Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidBuffStatus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "45729",
     "slug": "raidbuffschecker",
     "name": "RaidBuffsChecker Tukui&ElvUI&BlizzardUI",
@@ -89254,7 +89282,7 @@
     "source": "curse",
     "id": "387455",
     "slug": "shestakui-wowclassic-by-wj",
-    "name": "ShestakUI For WOWClassic(wj)",
+    "name": "ShestakUI For WOWClassic(w)",
     "compatibility": [
       "classic"
     ],
@@ -98110,6 +98138,20 @@
     "folders": [
       [
         "TargetClassButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390384",
+    "slug": "targetefc",
+    "name": "TargetEFC",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TargetEFC"
       ]
     ]
   },
