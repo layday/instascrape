@@ -5859,6 +5859,20 @@
   },
   {
     "source": "curse",
+    "id": "389672",
+    "slug": "assistant-red-revs-rep",
+    "name": "Assistant Red - Rev's Rep",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AssistantRed-RevsRep"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "265199",
     "slug": "astral-keys",
     "name": "Astral Keys",
@@ -9735,6 +9749,20 @@
     "folders": [
       [
         "BagButtonHider3000"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390489",
+    "slug": "bagcleaner",
+    "name": "BagCleaner",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BagCleaner"
       ]
     ]
   },
@@ -26812,6 +26840,20 @@
       ],
       [
         "DKP-Manager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390562",
+    "slug": "dkp-bid-view",
+    "name": "DKP Bid View",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DKPBidView"
       ]
     ]
   },
@@ -90503,6 +90545,20 @@
   },
   {
     "source": "curse",
+    "id": "390449",
+    "slug": "simple-lfg-panel",
+    "name": "Simple LFG Panel (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleLFGPanel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "34476",
     "slug": "simple-loot-list",
     "name": "Simple Loot Announcer",
@@ -91760,6 +91816,21 @@
     "folders": [
       [
         "SlamAndAwe"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390369",
+    "slug": "slapmeboiiiiii",
+    "name": "SlapMeBoiiiiii",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SlapMeBoiiiiii"
       ]
     ]
   },
@@ -105335,6 +105406,20 @@
     "folders": [
       [
         "UnusedEssenceSlotGTFO"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389425",
+    "slug": "unusedgear",
+    "name": "UnusedGear",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UnusedGear"
       ]
     ]
   },
@@ -224510,7 +224595,7 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 80300 2020-06-16",
+    "name": "WoWpoPolsku-Movies (subtitles) 80300 2020-06-18",
     "compatibility": [
       "retail",
       "classic"
