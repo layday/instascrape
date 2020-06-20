@@ -12653,16 +12653,6 @@
         "BigWigs_Core",
         "BigWigs_Options",
         "BigWigs_Plugins",
-        "BigWigs_Onyxia",
-        "BigWigs_MoltenCore",
-        "BigWigs_World",
-        "BigWigs_BlackwingLair",
-        "BigWigs"
-      ],
-      [
-        "BigWigs_Core",
-        "BigWigs_Options",
-        "BigWigs_Plugins",
         "BigWigs_Azeroth",
         "BigWigs_Uldir",
         "BigWigs_BattleOfDazaralor",
@@ -45864,6 +45854,20 @@
   },
   {
     "source": "curse",
+    "id": "390458",
+    "slug": "guidelime_zarant",
+    "name": "Guidelime_Zarant",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Zarant"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336585",
     "slug": "guidelime_ahmp",
     "name": "Guidelime_ahmp",
@@ -52869,20 +52873,6 @@
   },
   {
     "source": "curse",
-    "id": "387834",
-    "slug": "instance-boost-payment-tracker",
-    "name": "Instance Boost Payment Tracker",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "InstanceBoostTracker"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "302718",
     "slug": "instance-durability",
     "name": "Instance Durability",
@@ -52991,6 +52981,20 @@
     "folders": [
       [
         "InstanceSpec"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "387834",
+    "slug": "instance-tracker",
+    "name": "Instance Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InstanceBoostTracker"
       ]
     ]
   },
@@ -109619,6 +109623,20 @@
     "folders": [
       [
         "WolfpackEmotes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "385346",
+    "slug": "womfacts",
+    "name": "Womfacts",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "womfacts"
       ]
     ]
   },
