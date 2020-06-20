@@ -91319,6 +91319,20 @@
   },
   {
     "source": "curse",
+    "id": "389327",
+    "slug": "sinmedia",
+    "name": "SinMedia",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SinMedia"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "389802",
     "slug": "sinstats",
     "name": "SinStats HUD",
@@ -109561,7 +109575,8 @@
     "slug": "wowpopolsku-movies-subtitles",
     "name": "WoWpoPolsku-Movies (subtitles)",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -168525,7 +168540,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 80300 2020-06-10",
+    "name": "WoWpoPolsku-Quests 8.16 2020-06-20",
     "compatibility": [
       "retail",
       "classic"
@@ -212495,7 +212510,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 80300 2020-06-10",
+    "name": "WoWpoPolsku-Bubbles 8.10 2020-06-20",
     "compatibility": [
       "retail",
       "classic"
@@ -218742,7 +218757,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-06-10",
+    "name": "WoWpoPolsku-Quests Classic 2020-06-20",
     "compatibility": [
       "retail",
       "classic"
@@ -218824,7 +218839,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-06-10",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-06-20",
     "compatibility": [
       "retail",
       "classic"
@@ -224613,7 +224628,52 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 80300 2020-06-18",
+    "name": "WoWpoPolsku-Movies (subtitles) 8.04 2020-06-20",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Movies"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25605",
+    "slug": "",
+    "name": "Atlas (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Atlas"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25606",
+    "slug": "",
+    "name": "Atlas Classic WoW (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Atlas_ClassicWoW"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25607",
+    "slug": "",
+    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-06-20",
     "compatibility": [
       "retail",
       "classic"
