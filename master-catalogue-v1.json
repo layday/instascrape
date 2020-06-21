@@ -48680,6 +48680,20 @@
   },
   {
     "source": "curse",
+    "id": "389023",
+    "slug": "healcommchecker",
+    "name": "HealCommChecker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HealCommCheck"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "352582",
     "slug": "healcommclassic",
     "name": "HealCommClassic",
@@ -224681,6 +224695,21 @@
     "folders": [
       [
         "WoWpoPolsku_Movies"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25608",
+    "slug": "",
+    "name": "Atlas Transportation (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Atlas_Transportation"
       ]
     ]
   },
