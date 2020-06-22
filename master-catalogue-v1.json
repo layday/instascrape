@@ -82218,6 +82218,20 @@
   },
   {
     "source": "curse",
+    "id": "357515",
+    "slug": "xckraidsubmanager",
+    "name": "Raid Sub Manager",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "XckRaidSubManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "257188",
     "slug": "raid-target-helper",
     "name": "Raid Target Helper",
@@ -111041,20 +111055,6 @@
     "folders": [
       [
         "XckMasterLootAdvanced"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "357515",
-    "slug": "xckraidsubmanager",
-    "name": "Xck Raid Sub Manager",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "XckRaidSubManager"
       ]
     ]
   },
