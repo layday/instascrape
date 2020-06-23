@@ -5831,6 +5831,20 @@
   },
   {
     "source": "curse",
+    "id": "390677",
+    "slug": "asraibagcleaner",
+    "name": "AsraiBagCleaner",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AsraiBagCleaner"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "17087",
     "slug": "assassintimer",
     "name": "AssassinTimer",
@@ -13336,6 +13350,20 @@
   },
   {
     "source": "curse",
+    "id": "390935",
+    "slug": "bingo-kos",
+    "name": "Bingo KoS",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BingoKoS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "52702",
     "slug": "bittens-spellflash-key-bindings",
     "name": "Bitten's SpellFlash Key Bindings",
@@ -18541,6 +18569,20 @@
   },
   {
     "source": "curse",
+    "id": "366624",
+    "slug": "cameraovershoulder-fix-dynamiccam",
+    "name": "CameraOverShoulder Fix (DynamicCam)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CameraOverShoulderFix"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "388877",
     "slug": "camp-twacker",
     "name": "Camp Twacker",
@@ -23065,6 +23107,20 @@
   },
   {
     "source": "curse",
+    "id": "386969",
+    "slug": "combattimetrackerclassic",
+    "name": "CombatTimeTrackerClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CombatTimeTrackerClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "26646",
     "slug": "combat-timer",
     "name": "CombatTimer",
@@ -23564,6 +23620,20 @@
     "folders": [
       [
         "Community2Raid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390738",
+    "slug": "communitydkp",
+    "name": "CommunityDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CommunityDKP"
       ]
     ]
   },
@@ -57466,6 +57536,21 @@
   },
   {
     "source": "curse",
+    "id": "391012",
+    "slug": "loc-messages",
+    "name": "LOC Messages",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "D4KiR LOC Messages"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "75173",
     "slug": "loihcal",
     "name": "LOIHCal",
@@ -62200,6 +62285,20 @@
   },
   {
     "source": "curse",
+    "id": "390962",
+    "slug": "lootmonitor",
+    "name": "LootMonitor",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LootMonitor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "32397",
     "slug": "lootmyfish",
     "name": "LootMyFish",
@@ -62237,6 +62336,20 @@
     "folders": [
       [
         "LootRaffle"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390790",
+    "slug": "lootreserve",
+    "name": "LootReserve",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LootReserve"
       ]
     ]
   },
@@ -67536,6 +67649,20 @@
   },
   {
     "source": "curse",
+    "id": "390879",
+    "slug": "modernactionbar",
+    "name": "ModernActionBar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ModernActionBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "351855",
     "slug": "mog-assistant",
     "name": "Mog Assistant",
@@ -71627,6 +71754,20 @@
     "folders": [
       [
         "Niggles-PetTeams"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390895",
+    "slug": "night-shift-loot-priority-tooltips",
+    "name": "Night Shift Loot Priority Tooltips",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NightShiftLootPriority"
       ]
     ]
   },
@@ -82151,6 +82292,20 @@
     "folders": [
       [
         "RaidMover"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "391168",
+    "slug": "raid-reset-tracker",
+    "name": "Raid Reset Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidResetTracker"
       ]
     ]
   },
@@ -224710,6 +224865,21 @@
     "folders": [
       [
         "Atlas_Transportation"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25609",
+    "slug": "",
+    "name": "CommunityDKP",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CommunityDKP"
       ]
     ]
   },
