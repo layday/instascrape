@@ -5031,6 +5031,20 @@
   },
   {
     "source": "curse",
+    "id": "391483",
+    "slug": "arenatalents",
+    "name": "ArenaTalents",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ArenaTalents"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "56419",
     "slug": "argus",
     "name": "Argus",
@@ -29024,7 +29038,8 @@
     "slug": "debuglog",
     "name": "DebugLog",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -55468,25 +55483,6 @@
   },
   {
     "source": "curse",
-    "id": "338672",
-    "slug": "kaydee",
-    "name": "Kaydee",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Kaydee",
-        "LibDBIcon-1.0",
-        "LibDeflate",
-        "Ace3",
-        "LibBrazier"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "354296",
     "slug": "kaymonscloset",
     "name": "KaymonsCloset",
@@ -59251,21 +59247,6 @@
     "folders": [
       [
         "LibBossIDs-1.0"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "338671",
-    "slug": "libbrazier",
-    "name": "LibBrazier",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "LibBrazier"
       ]
     ]
   },
@@ -63237,6 +63218,20 @@
   },
   {
     "source": "curse",
+    "id": "389400",
+    "slug": "ms-gt-os",
+    "name": "MS gt OS",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MSgtOS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "254936",
     "slug": "msa-dropdownmenu-10",
     "name": "MSA-DropDownMenu-1.0",
@@ -66687,6 +66682,20 @@
     "folders": [
       [
         "MinersCoffeeAndPick"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390686",
+    "slug": "minesweeperr",
+    "name": "Minesweeperr",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Minesweeperr"
       ]
     ]
   },
@@ -75654,23 +75663,6 @@
     "folders": [
       [
         "PersonalResourceClickThrough"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "338674",
-    "slug": "pesky",
-    "name": "Pesky",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "LibDBIcon-1.0",
-        "Pesky",
-        "Ace3"
       ]
     ]
   },
@@ -97116,7 +97108,8 @@
     "slug": "sweetsours-custom-audio",
     "name": "Sweetsour's Custom Audio",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -108242,25 +108235,6 @@
   },
   {
     "source": "curse",
-    "id": "338667",
-    "slug": "whelp",
-    "name": "Whelp",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "LibDBIcon-1.0",
-        "LibDeflate",
-        "Whelp",
-        "Ace3",
-        "LibBrazier"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "18226",
     "slug": "whenlevel",
     "name": "WhenLevel",
@@ -115155,6 +115129,20 @@
     "folders": [
       [
         "iTargetingFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390111",
+    "slug": "i-taunted",
+    "name": "iTaunted",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ITaunted"
       ]
     ]
   },
@@ -224880,6 +224868,46 @@
     "folders": [
       [
         "CommunityDKP"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25610",
+    "slug": "",
+    "name": "Altoholic Retail (Teelo's Fork)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Altoholic",
+        "Altoholic_Achievements",
+        "Altoholic_Agenda",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore",
+        "DataStore_Achievements",
+        "DataStore_Agenda",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Currencies",
+        "DataStore_Garrisons",
+        "DataStore_Inventory",
+        "DataStore_Keystones",
+        "DataStore_Mails",
+        "DataStore_Pets",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore_Spells",
+        "DataStore_Stats",
+        "DataStore_Talents"
       ]
     ]
   },
