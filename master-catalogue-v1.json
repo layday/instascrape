@@ -72920,7 +72920,7 @@
     "source": "curse",
     "id": "320655",
     "slug": "nys-todolist",
-    "name": "Ny's ToDoList",
+    "name": "Ny's To-Do List",
     "compatibility": [
       "retail",
       "classic"
@@ -79914,6 +79914,9 @@
       ],
       [
         "Queso"
+      ],
+      [
+        "Queso GW2UI"
       ]
     ]
   },
@@ -117746,6 +117749,21 @@
   },
   {
     "source": "curse",
+    "id": "379096",
+    "slug": "vars",
+    "name": "vars",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "vars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "378871",
     "slug": "vclootpriority",
     "name": "vcLootPriority",
@@ -117895,6 +117913,20 @@
     "folders": [
       [
         "Watch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390275",
+    "slug": "watchchat",
+    "name": "watchchat",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "watchchat"
       ]
     ]
   },
@@ -224340,7 +224372,7 @@
     ],
     "folders": [
       [
-        "WoW Reforged Icons 1.4.1"
+        "WoW Reforged Icons 1.5.0"
       ]
     ]
   },
