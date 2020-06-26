@@ -35494,7 +35494,7 @@
     ],
     "folders": [
       [
-        "RaidFrameIndicators"
+        "EnhancedRaidFrames"
       ]
     ]
   },
@@ -67468,6 +67468,20 @@
   },
   {
     "source": "curse",
+    "id": "391658",
+    "slug": "mom-loot-priority-classic",
+    "name": "MoM Loot Priority Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MoM_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "65658",
     "slug": "moprares",
     "name": "MoPRares",
@@ -84350,6 +84364,20 @@
     "folders": [
       [
         "RealLinks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390303",
+    "slug": "realqueues",
+    "name": "RealQueues",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RealQueues"
       ]
     ]
   },
@@ -105231,6 +105259,20 @@
     "folders": [
       [
         "UltimateDemonHunterImmersion"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "391984",
+    "slug": "ultra-lustinct",
+    "name": "Ultra Lustinct",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "UltraLustinct"
       ]
     ]
   },
@@ -224944,6 +224986,36 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25611",
+    "slug": "",
+    "name": "Grey Handling",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GreyHandling"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25612",
+    "slug": "",
+    "name": "Grey Handling",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GreyHandling"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -225478,16 +225550,6 @@
     "id": "6",
     "slug": "",
     "name": "LocationPlus for ElvUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "114",
-    "slug": "",
-    "name": "Masque: Epix",
     "compatibility": [
       "retail"
     ],
