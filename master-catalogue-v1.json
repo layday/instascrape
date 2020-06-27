@@ -58645,6 +58645,20 @@
   },
   {
     "source": "curse",
+    "id": "391930",
+    "slug": "leveltimings",
+    "name": "Level Timings",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LevelTimings"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86176",
     "slug": "levelupannouncer",
     "name": "Level Up Announcer",
@@ -66455,20 +66469,6 @@
   },
   {
     "source": "curse",
-    "id": "288981",
-    "slug": "method-dungeon-tools",
-    "name": "Method Dungeon Tools",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MethodDungeonTools"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "301649",
     "slug": "mezui",
     "name": "MezUI",
@@ -70257,6 +70257,24 @@
     "folders": [
       [
         "MythicAudit"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "288981",
+    "slug": "mythic-dungeon-tools",
+    "name": "Mythic Dungeon Tools",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MethodDungeonTools"
+      ],
+      [
+        "MethodDungeonTools",
+        "MythicDungeonTools"
       ]
     ]
   },
@@ -98848,6 +98866,20 @@
     "folders": [
       [
         "TempestLight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "391669",
+    "slug": "templar-prio",
+    "name": "Templar Prio",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TemplarPrio"
       ]
     ]
   },
