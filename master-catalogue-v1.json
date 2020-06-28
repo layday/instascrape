@@ -29891,9 +29891,9 @@
         "Details"
       ],
       [
+        "Details_TinyThreat",
         "Details_DataStorage",
         "Details_Streamer",
-        "Details_TinyThreat",
         "Details"
       ]
     ]
@@ -215400,9 +215400,8 @@
     ],
     "folders": [
       [
-        "MusicianList",
         "Musician",
-        "__MACOSX"
+        "MusicianList"
       ]
     ]
   },
@@ -218571,9 +218570,8 @@
     ],
     "folders": [
       [
-        "MusicianList",
-        "__MACOSX",
-        "Musician"
+        "Musician",
+        "MusicianList"
       ]
     ]
   },
@@ -223109,14 +223107,15 @@
     "source": "wowi",
     "id": "25470",
     "slug": "",
-    "name": "Method Dungeon Tools",
+    "name": "Mythic Dungeon Tools",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "MethodDungeonTools"
+        "MethodDungeonTools",
+        "MythicDungeonTools"
       ]
     ]
   },
@@ -225044,6 +225043,21 @@
     "folders": [
       [
         "GreyHandling"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25613",
+    "slug": "",
+    "name": "RP Chat Bubbles",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RoleplayChatBubbles"
       ]
     ]
   },
