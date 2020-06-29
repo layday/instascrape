@@ -8917,13 +8917,16 @@
     "source": "curse",
     "id": "334593",
     "slug": "azeriteui-classic",
-    "name": "AzeriteUI for WoW Classic",
+    "name": "AzeriteUI Classic",
     "compatibility": [
       "classic"
     ],
     "folders": [
       [
         "AzeriteUI_Classic"
+      ],
+      [
+        "AzeriteUI"
       ]
     ]
   },
@@ -25485,7 +25488,8 @@
     "slug": "currency-tracking",
     "name": "Currency Tracking",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -225058,6 +225062,21 @@
     "folders": [
       [
         "RoleplayChatBubbles"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25614",
+    "slug": "",
+    "name": "TitleFix",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TitleFix"
       ]
     ]
   },
