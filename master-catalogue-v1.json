@@ -17991,6 +17991,20 @@
   },
   {
     "source": "curse",
+    "id": "392588",
+    "slug": "cepgp-tooltip-override",
+    "name": "CEPGP Tooltip Override",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CEPGP_TooltipOverride"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "389618",
     "slug": "cepgp-zone-award",
     "name": "CEPGP Zone Award",
@@ -29624,6 +29638,20 @@
   },
   {
     "source": "curse",
+    "id": "392624",
+    "slug": "delete-hearthstone",
+    "name": "Delete Hearthstone",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DeleteHearthstone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "377586",
     "slug": "deleteconfirmer",
     "name": "DeleteConfirmer",
@@ -30805,6 +30833,20 @@
   },
   {
     "source": "curse",
+    "id": "392510",
+    "slug": "dollyanddotarenotmyfriends",
+    "name": "DollyAndDotAreNotMyFriends",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DollyAndDotAreNotMyFriends"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "334960",
     "slug": "domdom-pack-classic",
     "name": "DomDom Pack Classic",
@@ -31460,6 +31502,20 @@
     "folders": [
       [
         "DrinkIt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392388",
+    "slug": "drinkinggame",
+    "name": "DrinkingGame for Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DrinkingGame"
       ]
     ]
   },
@@ -33025,6 +33081,20 @@
     "folders": [
       [
         "EasyDisenchant"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392458",
+    "slug": "easyfilter",
+    "name": "EasyFilter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EasyFilter"
       ]
     ]
   },
@@ -35314,6 +35384,20 @@
     "folders": [
       [
         "EndureBossChecker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392517",
+    "slug": "enemy-cooldown-count-classic",
+    "name": "Enemy Cooldown Count (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ECDC"
       ]
     ]
   },
@@ -42864,6 +42948,21 @@
   },
   {
     "source": "curse",
+    "id": "392557",
+    "slug": "global-font-russian-cursive",
+    "name": "Global Font (Russian Cursive)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "!GlobalFont_RussianCursive"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "372729",
     "slug": "global-font-std-w2",
     "name": "Global Font (Std W2)",
@@ -47485,6 +47584,20 @@
       ],
       [
         "HandyNotes_ToolsOfTheTrade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392540",
+    "slug": "handynotes-warcraft-conquest",
+    "name": "HandyNotes - Warcraft Conquest",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_WarcraftConquest"
       ]
     ]
   },
@@ -56627,7 +56740,7 @@
     "source": "curse",
     "id": "95528",
     "slug": "kkthnxui",
-    "name": "KkthnxUI",
+    "name": "KkthnxUI for WoW Retail",
     "compatibility": [
       "retail"
     ],
@@ -65974,6 +66087,20 @@
   },
   {
     "source": "curse",
+    "id": "392581",
+    "slug": "mayui",
+    "name": "MayUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MayUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "378633",
     "slug": "mayceiaalts",
     "name": "MayceiaAlts",
@@ -67267,7 +67394,7 @@
     "source": "curse",
     "id": "341275",
     "slug": "powermissing",
-    "name": "Missing Power (Five Second Rule + Next Energy Tick)",
+    "name": "Missing Power (Mana, Energy, ...) (Five Second Rule + Next Energy Tick)",
     "compatibility": [
       "retail",
       "classic"
@@ -72956,7 +73083,7 @@
     "source": "curse",
     "id": "320655",
     "slug": "nys-todolist",
-    "name": "Ny's To-Do List",
+    "name": "Ny's To Do List",
     "compatibility": [
       "retail",
       "classic"
@@ -99149,6 +99276,7 @@
     "slug": "the-mother-tongue",
     "name": "The Mother Tongue",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -220831,7 +220959,7 @@
     "source": "wowi",
     "id": "25309",
     "slug": "",
-    "name": "The Mother Tongue",
+    "name": "The Mother Tongue (Classic)",
     "compatibility": [
       "retail",
       "classic"
@@ -225081,6 +225209,36 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25615",
+    "slug": "",
+    "name": "DigDug",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DigDug"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25616",
+    "slug": "",
+    "name": "The Mother Tongue (Retail)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TheMotherTongue"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -225255,6 +225413,16 @@
     "id": "70",
     "slug": "",
     "name": "DejaCharacterStats",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "169",
+    "slug": "",
+    "name": "DiceUI",
     "compatibility": [
       "retail"
     ],
