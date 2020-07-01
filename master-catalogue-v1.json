@@ -30363,6 +30363,20 @@
   },
   {
     "source": "curse",
+    "id": "392710",
+    "slug": "digdug",
+    "name": "DigDug",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DigDug"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "92871",
     "slug": "diminish",
     "name": "Diminish DR Tracker (Classic & Retail)",
@@ -38805,6 +38819,20 @@
     "folders": [
       [
         "Fizzle"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392849",
+    "slug": "fizzwidgets-huntershelper",
+    "name": "Fizzwidget's HuntersHelper Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GFW_HuntersHelper"
       ]
     ]
   },
@@ -56738,11 +56766,11 @@
   },
   {
     "source": "curse",
-    "id": "95528",
-    "slug": "kkthnxui",
-    "name": "KkthnxUI for WoW Retail",
+    "id": "342348",
+    "slug": "kkthnxui_classic",
+    "name": "KkthnxUI Classic",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -56753,11 +56781,11 @@
   },
   {
     "source": "curse",
-    "id": "342348",
-    "slug": "kkthnxui_classic",
-    "name": "KkthnxUI_Classic",
+    "id": "95528",
+    "slug": "kkthnxui",
+    "name": "KkthnxUI for WoW Retail",
     "compatibility": [
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -83289,6 +83317,20 @@
   },
   {
     "source": "curse",
+    "id": "392786",
+    "slug": "raidinfos",
+    "name": "Raidinfos",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Raidinfos"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "338637",
     "slug": "rainingblood",
     "name": "RainingBlood",
@@ -100905,6 +100947,20 @@
     "folders": [
       [
         "TitanCooking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "392831",
+    "slug": "titan-panel-corruption",
+    "name": "Titan Panel [Corruption]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TitanCorruption"
       ]
     ]
   },
@@ -225235,6 +225291,23 @@
     "folders": [
       [
         "TheMotherTongue"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25617",
+    "slug": "",
+    "name": "Lxx UI",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Fonts",
+        "Interface",
+        "WTF"
       ]
     ]
   },
