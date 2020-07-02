@@ -21762,6 +21762,20 @@
   },
   {
     "source": "curse",
+    "id": "392930",
+    "slug": "classicautosayge",
+    "name": "ClassicAutoSayge",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicAutoSayge"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "341978",
     "slug": "classic-blacklist",
     "name": "ClassicBlacklist",
@@ -22280,6 +22294,20 @@
     "folders": [
       [
         "CleanMyBag"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "313123",
+    "slug": "cleanactionbars",
+    "name": "CleanActionBars",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CleanActionBars"
       ]
     ]
   },
@@ -25346,8 +25374,7 @@
     "slug": "crosshairs-enhanced",
     "name": "Crosshairs",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -38824,15 +38851,15 @@
   },
   {
     "source": "curse",
-    "id": "392849",
-    "slug": "fizzwidgets-huntershelper",
-    "name": "Fizzwidget's HuntersHelper Classic",
+    "id": "393057",
+    "slug": "fizzwidget-feed-o-matic-classic",
+    "name": "Fizzwidget Feed-O-Matic Classic",
     "compatibility": [
       "classic"
     ],
     "folders": [
       [
-        "GFW_HuntersHelper"
+        "GFW_FeedOMatic"
       ]
     ]
   },
@@ -53300,6 +53327,20 @@
   },
   {
     "source": "curse",
+    "id": "393020",
+    "slug": "instancetrack",
+    "name": "InstanceTrack",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InstanceTrack"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "279210",
     "slug": "instances-entrees",
     "name": "Instances Entr\u00e9es",
@@ -58049,6 +58090,9 @@
     "folders": [
       [
         "LastSeen"
+      ],
+      [
+        "LastSeen-Classic"
       ]
     ]
   },
@@ -71050,6 +71094,20 @@
   },
   {
     "source": "curse",
+    "id": "393022",
+    "slug": "nameplate-highlight",
+    "name": "Nameplate Highlight",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NameplateHighlight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "269544",
     "slug": "nameplate-scrolling-combat-text",
     "name": "Nameplate Scrolling Combat Text",
@@ -73936,6 +73994,21 @@
     "folders": [
       [
         "OneShotProspect"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393028",
+    "slug": "only-loot-gold",
+    "name": "Only Loot Gold",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "OnlyLootGold"
       ]
     ]
   },
@@ -104723,20 +104796,6 @@
   },
   {
     "source": "curse",
-    "id": "315877",
-    "slug": "trialhelper",
-    "name": "TrialHelper",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "TrialHelper"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "20506",
     "slug": "tributeloot",
     "name": "TributeLoot",
@@ -113241,8 +113300,8 @@
   {
     "source": "curse",
     "id": "380889",
-    "slug": "alatradeframe",
-    "name": "alaTradeFrame",
+    "slug": "alatradeskill",
+    "name": "alaTradeSkill",
     "compatibility": [
       "classic"
     ],
@@ -225312,6 +225371,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25618",
+    "slug": "",
+    "name": "LibCeldorMedia",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibCeldorMedia"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -225406,6 +225480,16 @@
     "id": "11",
     "slug": "",
     "name": "BenikUI - The ElvUI edit",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "170",
+    "slug": "",
+    "name": "Bigger Action Buttons",
     "compatibility": [
       "retail"
     ],
