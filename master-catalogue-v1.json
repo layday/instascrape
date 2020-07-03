@@ -5887,6 +5887,23 @@
   },
   {
     "source": "curse",
+    "id": "392978",
+    "slug": "assistant-red-easys-loot",
+    "name": "Assistant Red - Easy's Loot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AssistantRed - Easy's Loot"
+      ],
+      [
+        "AssistantRed-Easy's Loot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "389672",
     "slug": "assistant-red-revs-rep",
     "name": "Assistant Red - Rev's Rep",
@@ -12701,6 +12718,19 @@
         "BigWigs_World",
         "BigWigs_BlackwingLair",
         "BigWigs_ZulGurub",
+        "BigWigs"
+      ],
+      [
+        "BigWigs_Core",
+        "BigWigs_Options",
+        "BigWigs_Plugins",
+        "BigWigs_Onyxia",
+        "BigWigs_MoltenCore",
+        "BigWigs_World",
+        "BigWigs_BlackwingLair",
+        "BigWigs_ZulGurub",
+        "BigWigs_AhnQirajRuins",
+        "BigWigs_AhnQirajTemple",
         "BigWigs"
       ]
     ]
@@ -25689,6 +25719,20 @@
     "name": "Custom Player Portrait",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "CustomPlayerPortrait"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393145",
+    "slug": "custom-player-portrait-classic",
+    "name": "Custom Player Portrait - Classic",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -38860,6 +38904,20 @@
     "folders": [
       [
         "GFW_FeedOMatic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393270",
+    "slug": "fizzwidget-hunters-helper-classic",
+    "name": "Fizzwidget Hunter's Helper Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GFW_HuntersHelper"
       ]
     ]
   },
@@ -58089,10 +58147,10 @@
     ],
     "folders": [
       [
-        "LastSeen"
+        "LastSeen-Classic"
       ],
       [
-        "LastSeen-Classic"
+        "LastSeen"
       ]
     ]
   },
@@ -70069,6 +70127,20 @@
   },
   {
     "source": "curse",
+    "id": "392078",
+    "slug": "my-instance-lockouts",
+    "name": "My Instance Lockouts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MyInstanceLocks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "346262",
     "slug": "myjournal",
     "name": "My Journal",
@@ -74219,6 +74291,20 @@
     "folders": [
       [
         "OrderHallResourceTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393227",
+    "slug": "ore-herb-recolt-money-bfa",
+    "name": "Ore/herb money - bfa",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Ores_money_bfa"
       ]
     ]
   },
@@ -80177,10 +80263,7 @@
         "Queso Classic"
       ],
       [
-        "Queso"
-      ],
-      [
-        "Queso GW2UI"
+        "Queso Clear"
       ]
     ]
   },
@@ -89597,6 +89680,20 @@
     "folders": [
       [
         "SharedMedia_Causese"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393088",
+    "slug": "sharedmedia_gba",
+    "name": "SharedMedia_GBA",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_GBA"
       ]
     ]
   },
@@ -112171,6 +112268,20 @@
     "folders": [
       [
         "ZT_RealmPlayer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393062",
+    "slug": "ztargetreborn",
+    "name": "ZTargetReborn",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZTargetReborn"
       ]
     ]
   },
@@ -216623,7 +216734,7 @@
     ],
     "folders": [
       [
-        "HandyNotes_ShrinesForJewelcrafters"
+        "shrines-for-jewelcrafters-1.1.5-release"
       ]
     ]
   },
@@ -225470,6 +225581,16 @@
     "id": "153",
     "slug": "",
     "name": "Arcane_UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "172",
+    "slug": "",
+    "name": "Auto Keystone",
     "compatibility": [
       "retail"
     ],
