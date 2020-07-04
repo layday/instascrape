@@ -48417,6 +48417,20 @@
   },
   {
     "source": "curse",
+    "id": "392564",
+    "slug": "handynotes_guild-classic",
+    "name": "HandyNotes_Guild (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HandyNotes_Guild"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "46114",
     "slug": "handynotes_hallowsend",
     "name": "HandyNotes_HallowsEnd",
@@ -70241,20 +70255,6 @@
   },
   {
     "source": "curse",
-    "id": "302428",
-    "slug": "mybigclock",
-    "name": "MyBigClock",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MyBigClock"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "341693",
     "slug": "mychatalert",
     "name": "MyChatAlert",
@@ -74840,6 +74840,20 @@
     "folders": [
       [
         "PUG_Hero"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393319",
+    "slug": "pvp-kill-announcer",
+    "name": "PVP Kill Announcer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Pvp Kill Announcer"
       ]
     ]
   },
@@ -96037,6 +96051,20 @@
     "folders": [
       [
         "Stopwatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393205",
+    "slug": "stopwatch-alert",
+    "name": "Stopwatch Alert",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Saspatoon"
       ]
     ]
   },
