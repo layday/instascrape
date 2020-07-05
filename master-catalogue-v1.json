@@ -60272,7 +60272,8 @@
     "slug": "libinspect",
     "name": "LibInspect",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -80277,7 +80278,7 @@
         "Queso Classic"
       ],
       [
-        "Queso Clear"
+        "Queso"
       ]
     ]
   },
@@ -91375,12 +91376,18 @@
     "slug": "simple-ilevel",
     "name": "Simple iLevel",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "SimpleILevel_Group",
         "SimpleILevel_Resilience",
+        "SimpleILevel_Social",
+        "SimpleILevel"
+      ],
+      [
+        "SimpleILevel_Group",
         "SimpleILevel_Social",
         "SimpleILevel"
       ]
@@ -103098,7 +103105,8 @@
     "slug": "tooltip-spec",
     "name": "Tooltip Spec",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -225520,7 +225528,8 @@
     ],
     "folders": [
       [
-        "LibCeldorMedia"
+        "",
+        "Libs"
       ]
     ]
   },
