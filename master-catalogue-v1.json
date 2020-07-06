@@ -27092,21 +27092,6 @@
   },
   {
     "source": "curse",
-    "id": "377293",
-    "slug": "los-protectores-wowrpg",
-    "name": "DMWoWRPG",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DiceMaster_UnitFrames",
-        "DiceMaster"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "304713",
     "slug": "dps-tacho",
     "name": "DPS Tacho",
@@ -30380,6 +30365,21 @@
     "id": "263267",
     "slug": "dicemaster",
     "name": "DiceMaster",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DiceMaster_UnitFrames",
+        "DiceMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "377293",
+    "slug": "dicetools-dicemaster",
+    "name": "Dicemaster spanish",
     "compatibility": [
       "retail"
     ],
@@ -169197,7 +169197,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 8.16 2020-06-20",
+    "name": "WoWpoPolsku-Quests 8.17 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -213167,7 +213167,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 8.10 2020-06-20",
+    "name": "WoWpoPolsku-Bubbles 8.10 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -219412,7 +219412,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-06-20",
+    "name": "WoWpoPolsku-Quests Classic 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -219494,7 +219494,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-06-20",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -225284,7 +225284,7 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 8.04 2020-06-20",
+    "name": "WoWpoPolsku-Movies (subtitles) 8.04 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -225329,7 +225329,7 @@
     "source": "wowi",
     "id": "25607",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-06-20",
+    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-07-05",
     "compatibility": [
       "retail",
       "classic"
@@ -225528,8 +225528,27 @@
     ],
     "folders": [
       [
+        "LibCeldorMedia"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25619",
+    "slug": "",
+    "name": "PhreakFonts Pack",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
         "",
-        "Libs"
+        "Core",
+        "Fonts",
+        "Libs",
+        "Licensing",
+        "Media"
       ]
     ]
   },
