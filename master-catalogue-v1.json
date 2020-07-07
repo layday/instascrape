@@ -837,6 +837,20 @@
   },
   {
     "source": "curse",
+    "id": "390627",
+    "slug": "aq-idol-roller",
+    "name": "AQ Idol Roller",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AQIdolRoller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "381592",
     "slug": "aq-war-effort",
     "name": "AQ War Effort",
@@ -19643,7 +19657,8 @@
     "slug": "character-info-durability",
     "name": "Character Info Durability",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -21773,6 +21788,20 @@
     "folders": [
       [
         "ClassicAuraDurations"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393731",
+    "slug": "classicautobwlorb",
+    "name": "ClassicAutoBWLOrb",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicAutoBWLOrb"
       ]
     ]
   },
@@ -24427,6 +24456,20 @@
     "name": "Convert Ratings",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "ConvertRatings"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393895",
+    "slug": "convert-ratings-classic",
+    "name": "Convert Ratings (Classic)",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -38398,6 +38441,20 @@
     "folders": [
       [
         "FindParty"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393629",
+    "slug": "finder",
+    "name": "Finder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Finder"
       ]
     ]
   },
@@ -59555,6 +59612,20 @@
   },
   {
     "source": "curse",
+    "id": "393645",
+    "slug": "libceldormedia",
+    "name": "LibCeldorMedia",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibCeldorMedia"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "51580",
     "slug": "libchatanims",
     "name": "LibChatAnims",
@@ -59935,6 +60006,20 @@
     "folders": [
       [
         "LibEffects-1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393486",
+    "slug": "libencounters-classic",
+    "name": "LibEncounters (Classic)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibEncounters"
       ]
     ]
   },
@@ -64350,6 +64435,21 @@
     "folders": [
       [
         "make-tab-targeting-great-again"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393982",
+    "slug": "makemegetmymain",
+    "name": "MakeMeGetMyMain",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MakeMeGetMyMain"
       ]
     ]
   },
@@ -72950,6 +73050,20 @@
   },
   {
     "source": "curse",
+    "id": "393085",
+    "slug": "nova-instance-tracker",
+    "name": "Nova Instance Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NovaInstanceTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "366310",
     "slug": "nova-world-buffs",
     "name": "Nova World Buffs",
@@ -80270,13 +80384,9 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
-      [
-        "Queso Classic"
-      ],
       [
         "Queso"
       ]
@@ -109247,6 +109357,21 @@
   },
   {
     "source": "curse",
+    "id": "393487",
+    "slug": "whotrades",
+    "name": "WhoTrades",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WhoTrades"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339063",
     "slug": "whowhispers",
     "name": "WhoWhispers",
@@ -111753,6 +111878,21 @@
     "folders": [
       [
         "XoneFobicsSpellFlash_Shaman"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393216",
+    "slug": "xp-chart-classic",
+    "name": "Xp Chart (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "XpChart"
       ]
     ]
   },
@@ -225122,7 +225262,7 @@
     ],
     "folders": [
       [
-        "EZDownRank-master"
+        "EZDownRank"
       ]
     ]
   },
