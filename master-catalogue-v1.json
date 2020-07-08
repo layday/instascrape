@@ -12732,17 +12732,6 @@
         "BigWigs_World",
         "BigWigs_BlackwingLair",
         "BigWigs_ZulGurub",
-        "BigWigs"
-      ],
-      [
-        "BigWigs_Core",
-        "BigWigs_Options",
-        "BigWigs_Plugins",
-        "BigWigs_Onyxia",
-        "BigWigs_MoltenCore",
-        "BigWigs_World",
-        "BigWigs_BlackwingLair",
-        "BigWigs_ZulGurub",
         "BigWigs_AhnQirajRuins",
         "BigWigs_AhnQirajTemple",
         "BigWigs"
@@ -12816,6 +12805,20 @@
     "folders": [
       [
         "BigWigs_Voice_UT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394127",
+    "slug": "bigwigs-korean-voice-pack",
+    "name": "BigWigs Korean Voice Pack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_Voice_Korean"
       ]
     ]
   },
@@ -21972,6 +21975,20 @@
     "folders": [
       [
         "ClassicGearSet"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394073",
+    "slug": "classicgoals",
+    "name": "ClassicGoals",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicGoals"
       ]
     ]
   },
@@ -38105,6 +38122,20 @@
     "folders": [
       [
         "FeedTillers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393431",
+    "slug": "fel-union",
+    "name": "Fel Union",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RAWarlocks"
       ]
     ]
   },
@@ -224979,7 +225010,7 @@
     ],
     "folders": [
       [
-        "WoW Reforged Icons 1.5.0"
+        "WoW Reforged Icons 1.6.0"
       ]
     ]
   },
@@ -225689,6 +225720,21 @@
         "Libs",
         "Licensing",
         "Media"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25621",
+    "slug": "",
+    "name": "CrayUI Texture Pack",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CrayUI"
       ]
     ]
   },
