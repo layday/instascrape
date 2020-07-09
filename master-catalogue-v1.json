@@ -7219,20 +7219,6 @@
   },
   {
     "source": "curse",
-    "id": "271368",
-    "slug": "autores",
-    "name": "Auto Res",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AutoRes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "351604",
     "slug": "autorestocker",
     "name": "Auto Restocker",
@@ -25952,6 +25938,20 @@
   },
   {
     "source": "curse",
+    "id": "394409",
+    "slug": "cyruslootpriority",
+    "name": "CyrusLootPriority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CyrusLootPriority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28576",
     "slug": "darcmarks",
     "name": "DArcBinds",
@@ -26112,6 +26112,20 @@
     "folders": [
       [
         "DBM-Battlestandards"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394328",
+    "slug": "dbm-countpack-hots-korean",
+    "name": "DBM CountPack HoTS (Korean) \ud788\uc624\uc2a4 \ud55c\uad6d\uc5b4",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-CountPack-HoTS"
       ]
     ]
   },
@@ -34452,10 +34466,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ],
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ]
     ]
   },
@@ -60954,6 +60968,20 @@
   },
   {
     "source": "curse",
+    "id": "394430",
+    "slug": "libreallyflyable",
+    "name": "LibReallyFlyable",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibReallyFlyable"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "83224",
     "slug": "librealminfo",
     "name": "LibRealmInfo",
@@ -62799,6 +62827,20 @@
   },
   {
     "source": "curse",
+    "id": "394261",
+    "slug": "loottochat",
+    "name": "LootToChat",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LootToChat"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22783",
     "slug": "loottrain",
     "name": "LootTrain",
@@ -63549,6 +63591,20 @@
     "folders": [
       [
         "MDGuildBest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394116",
+    "slug": "mdreport",
+    "name": "MDReport",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MDReport"
       ]
     ]
   },
@@ -66500,6 +66556,20 @@
     "folders": [
       [
         "MedusaPrelude"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394339",
+    "slug": "medusa-staple",
+    "name": "MedusaStaple",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MedusaStaple"
       ]
     ]
   },
@@ -99998,6 +100068,20 @@
   },
   {
     "source": "curse",
+    "id": "394380",
+    "slug": "threatbar",
+    "name": "ThreatBar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ThreatBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "355497",
     "slug": "threatclassic2",
     "name": "ThreatClassic2",
@@ -100021,6 +100105,20 @@
     "folders": [
       [
         "ThreatMeterQuery"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394360",
+    "slug": "threatmini-classic",
+    "name": "ThreatMini Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ThreatMini"
       ]
     ]
   },
@@ -104182,7 +104280,7 @@
     ],
     "folders": [
       [
-        "TradeShout"
+        "TradeLogUnlimited"
       ]
     ]
   },
@@ -108789,6 +108887,20 @@
   },
   {
     "source": "curse",
+    "id": "394428",
+    "slug": "whatreprecipes",
+    "name": "WhatRepRecipes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WhatRepRecipes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "377737",
     "slug": "whatcha-say-death-sound",
     "name": "Whatcha Say Death Sound",
@@ -112489,6 +112601,21 @@
     "folders": [
       [
         "ZTargetReborn"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "271368",
+    "slug": "autores",
+    "name": "Zadrot AutoRes",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Zadrot AutoRes"
       ]
     ]
   },
@@ -227023,6 +227150,16 @@
     "id": "9",
     "slug": "",
     "name": "Tukui Custom Action Bar Layout",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "43",
+    "slug": "",
+    "name": "Tukui Nameplate Features Classic",
     "compatibility": [
       "classic"
     ],
