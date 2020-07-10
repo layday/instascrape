@@ -5169,6 +5169,20 @@
   },
   {
     "source": "curse",
+    "id": "394438",
+    "slug": "arkinventorycharacterrules",
+    "name": "ArkInventoryCharacterRules",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ArkInventoryCharacterRules"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101232",
     "slug": "ark-inventory-profiles",
     "name": "ArkInventoryProfiles",
@@ -68929,6 +68943,20 @@
   },
   {
     "source": "curse",
+    "id": "394575",
+    "slug": "mother-corrution-vendor",
+    "name": "Mother, corrution vendor",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MOTHER"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "304178",
     "slug": "motherbother",
     "name": "MotherBother",
@@ -101199,6 +101227,20 @@
   },
   {
     "source": "curse",
+    "id": "377708",
+    "slug": "titan-panel-classic-recount",
+    "name": "Titan Panel Classic [Recount]",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TitanClassicRecount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339295",
     "slug": "titan-panel-classic-rest-plus",
     "name": "Titan Panel Classic [Rest Plus]",
@@ -106108,10 +106150,9 @@
         "UnitFramesPlus"
       ],
       [
-        "UnitFramesPlus_Options",
-        "UnitFramesPlus_Threat",
-        "UnitFramesPlus_Cooldown",
         "UnitFramesPlus_MobHealth",
+        "UnitFramesPlus_Options",
+        "UnitFramesPlus_Cooldown",
         "UnitFramesPlus"
       ]
     ]
@@ -112621,6 +112662,34 @@
   },
   {
     "source": "curse",
+    "id": "394539",
+    "slug": "autotrain",
+    "name": "Zadrot AutoTrain",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Zadrot AutoTrain"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394542",
+    "slug": "zadrot-killsound",
+    "name": "Zadrot KillSound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Zadrot KillSound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "93097",
     "slug": "zakuun-assist",
     "name": "Zakuun Assist",
@@ -113752,7 +113821,8 @@
     ],
     "folders": [
       [
-        "alaTradeFrame"
+        "alaTradeFrame",
+        "alaTradeSkill"
       ]
     ]
   },
@@ -224785,7 +224855,7 @@
     ],
     "folders": [
       [
-        "TitanClassRecount"
+        "TitanClassicRecount"
       ]
     ]
   },
