@@ -7090,6 +7090,21 @@
   },
   {
     "source": "curse",
+    "id": "3727",
+    "slug": "auto-destroy",
+    "name": "Auto Destroy",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoDestroy"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "305493",
     "slug": "auto-dialog-sounds",
     "name": "Auto Dialog Sounds",
@@ -36046,6 +36061,20 @@
   },
   {
     "source": "curse",
+    "id": "394797",
+    "slug": "equippummeler",
+    "name": "EquipPummeler",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EquipPummeler"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20950",
     "slug": "equipsee",
     "name": "EquipSee",
@@ -40970,6 +40999,20 @@
     "name": "GDKPd",
     "compatibility": [
       "retail"
+    ],
+    "folders": [
+      [
+        "GDKPd"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394761",
+    "slug": "gdkpd-classic",
+    "name": "GDKPd Classic",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -76280,7 +76323,8 @@
     "slug": "peskytext",
     "name": "PeskyText",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -97070,6 +97114,21 @@
   },
   {
     "source": "curse",
+    "id": "394799",
+    "slug": "super-lfg",
+    "name": "Super LFG",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SuperLFG"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "326843",
     "slug": "super-status-tracking-bar",
     "name": "Super Status Tracking Bar",
@@ -109862,6 +109921,20 @@
     "folders": [
       [
         "Wishlist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394782",
+    "slug": "witchhunt-classic",
+    "name": "WitchHunt-Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WitchHunt-Classic"
       ]
     ]
   },
@@ -226160,6 +226233,16 @@
     "id": "64",
     "slug": "",
     "name": "ElvUI Actionbar Combat State",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "174",
+    "slug": "",
+    "name": "ElvUI BC DataTexts",
     "compatibility": [
       "retail"
     ],
