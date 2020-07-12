@@ -3657,6 +3657,21 @@
   },
   {
     "source": "curse",
+    "id": "395022",
+    "slug": "always-show-level",
+    "name": "Always Show Level",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AlwaysShowLevel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "33436",
     "slug": "alysmon",
     "name": "Alysmon",
@@ -16185,6 +16200,20 @@
     "folders": [
       [
         "Broker_Currencyflow"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "380492",
+    "slug": "broker_dateclock",
+    "name": "Broker_DateClock",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Broker_DateClock"
       ]
     ]
   },
@@ -44591,6 +44620,20 @@
         "Grid2RaidDebuffsOptions",
         "Grid2LDB",
         "Grid2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394916",
+    "slug": "grid2-survival-buff-korean-plugin",
+    "name": "Grid2 Survival Buff(Korean) plugin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Grid2SurvivalBuff"
       ]
     ]
   },
@@ -98943,6 +98986,20 @@
     "folders": [
       [
         "Target_3D_Model_Viewer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "394881",
+    "slug": "target-assist",
+    "name": "Target Assist",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Target Assist"
       ]
     ]
   },
@@ -226243,6 +226300,16 @@
     "id": "174",
     "slug": "",
     "name": "ElvUI BC DataTexts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "175",
+    "slug": "",
+    "name": "ElvUI BFA Currencies",
     "compatibility": [
       "retail"
     ],
