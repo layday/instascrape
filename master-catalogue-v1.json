@@ -34524,10 +34524,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ],
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ]
     ]
   },
@@ -34888,10 +34888,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -57098,7 +57098,7 @@
     "source": "curse",
     "id": "95528",
     "slug": "kkthnxui",
-    "name": "KkthnxUI for WoW Retail",
+    "name": "KkthnxUI Retail",
     "compatibility": [
       "retail"
     ],
@@ -61642,6 +61642,20 @@
     "folders": [
       [
         "LightSpeed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395189",
+    "slug": "lightning-timer",
+    "name": "Lightning Timer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LightningTimer"
       ]
     ]
   },
@@ -77437,6 +77451,21 @@
   },
   {
     "source": "curse",
+    "id": "393721",
+    "slug": "phreakin-handwriting-fonts",
+    "name": "Phreakin's Handwriting Fonts",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PhreakFonts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336529",
     "slug": "pickpocketer",
     "name": "PickPocketer",
@@ -86281,6 +86310,21 @@
   },
   {
     "source": "curse",
+    "id": "395100",
+    "slug": "request-stop-transparent",
+    "name": "Request Stop Transparent",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RequestStopTransparent"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101773",
     "slug": "requeststop",
     "name": "RequestStop",
@@ -90738,6 +90782,20 @@
     "folders": [
       [
         "Data"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "393421",
+    "slug": "shutuptoys",
+    "name": "ShutupToys",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ShutupToys"
       ]
     ]
   },
@@ -112235,6 +112293,20 @@
     "folders": [
       [
         "XpGainNotify"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395128",
+    "slug": "xplogger",
+    "name": "XpLogger",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "XpLogger"
       ]
     ]
   },
@@ -226237,16 +226309,6 @@
   },
   {
     "source": "tukui",
-    "id": "162",
-    "slug": "",
-    "name": "Data Bars &amp; Texts",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
     "id": "8",
     "slug": "",
     "name": "DecUI",
@@ -226300,16 +226362,6 @@
     "id": "174",
     "slug": "",
     "name": "ElvUI BC DataTexts",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "175",
-    "slug": "",
-    "name": "ElvUI BFA Currencies",
     "compatibility": [
       "retail"
     ],
