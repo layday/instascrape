@@ -14274,6 +14274,20 @@
   },
   {
     "source": "curse",
+    "id": "395166",
+    "slug": "bobui",
+    "name": "Bob UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BobUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "57828",
     "slug": "bobhud",
     "name": "BobHUD",
@@ -18077,6 +18091,20 @@
     "folders": [
       [
         "CEPGP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395425",
+    "slug": "cepgp-standings-tracker",
+    "name": "CEPGP Standings Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CEPGP-StandingsTracker"
       ]
     ]
   },
@@ -38315,7 +38343,8 @@
     "slug": "feralcps",
     "name": "FeralCPs",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -45754,6 +45783,20 @@
     "folders": [
       [
         "GroupCalendarClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395454",
+    "slug": "groupfarmer",
+    "name": "GroupFarmer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GroupFarmer"
       ]
     ]
   },
@@ -53568,6 +53611,20 @@
     "folders": [
       [
         "InstanceCounter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395316",
+    "slug": "instancelockeddowntimer",
+    "name": "InstanceLockeddownTimer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "InstanceLockeddownTimer"
       ]
     ]
   },
@@ -63712,7 +63769,7 @@
     "source": "curse",
     "id": "394116",
     "slug": "mdreport",
-    "name": "MDReport",
+    "name": "MDReport (\uc410\uae30\ub3cc \ubcf4\uace0\uc11c)",
     "compatibility": [
       "retail"
     ],
@@ -73585,7 +73642,7 @@
     "source": "curse",
     "id": "320655",
     "slug": "nys-todolist",
-    "name": "Ny's To Do List",
+    "name": "Ny's To-Do List",
     "compatibility": [
       "retail",
       "classic"
@@ -77446,6 +77503,21 @@
     "folders": [
       [
         "PhotoRobot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395296",
+    "slug": "phreakdisplayfonts",
+    "name": "Phreak Display Fonts",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PhreakDisplayFonts"
       ]
     ]
   },
@@ -222941,6 +223013,7 @@
     ],
     "folders": [
       [
+        "Buttons",
         "Glues"
       ]
     ]
