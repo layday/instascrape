@@ -25860,20 +25860,6 @@
   },
   {
     "source": "curse",
-    "id": "393145",
-    "slug": "custom-player-portrait-classic",
-    "name": "Custom Player Portrait - Classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "CustomPlayerPortrait"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "85995",
     "slug": "custom-tooltips",
     "name": "Custom Tooltips",
@@ -44636,13 +44622,6 @@
       "classic"
     ],
     "folders": [
-      [
-        "Grid2LDB",
-        "Grid2Options",
-        "Grid2RaidDebuffs",
-        "Grid2RaidDebuffsOptions",
-        "Grid2"
-      ],
       [
         "Grid2Options",
         "Grid2RaidDebuffs",
@@ -77510,7 +77489,7 @@
     "source": "curse",
     "id": "395296",
     "slug": "phreakdisplayfonts",
-    "name": "Phreak Display Fonts",
+    "name": "Phreakin's Display Fonts",
     "compatibility": [
       "retail",
       "classic"
@@ -80701,9 +80680,13 @@
     "slug": "quest-cinematic",
     "name": "Queso",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
+      [
+        "Queso Classic"
+      ],
       [
         "Queso"
       ]
@@ -104598,6 +104581,20 @@
     "folders": [
       [
         "TradeSkillDW"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395522",
+    "slug": "tradeskillexporter",
+    "name": "TradeSkillExporter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TradeSkillExporter"
       ]
     ]
   },
