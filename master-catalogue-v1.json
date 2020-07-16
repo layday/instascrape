@@ -11804,7 +11804,7 @@
     "source": "curse",
     "id": "360318",
     "slug": "best-in-slot-classic",
-    "name": "Best In Slot - Classic",
+    "name": "Best In Slot - Classic - Discontinued",
     "compatibility": [
       "classic"
     ],
@@ -18012,20 +18012,6 @@
   },
   {
     "source": "curse",
-    "id": "96784",
-    "slug": "ccicons",
-    "name": "CCIcons",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "CCIcons"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "370700",
     "slug": "ccra-gnoblinboi",
     "name": "CCRA Gnoblinboi",
@@ -19695,6 +19681,20 @@
     "folders": [
       [
         "Chaos Bolt DPET Tracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395624",
+    "slug": "chardeathcounter",
+    "name": "CharDeathCounter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CharDeathCounter"
       ]
     ]
   },
@@ -41060,7 +41060,8 @@
     ],
     "folders": [
       [
-        "GDKPd"
+        "GDKPd",
+        "TradeShout"
       ]
     ]
   },
@@ -47062,20 +47063,6 @@
   },
   {
     "source": "curse",
-    "id": "94548",
-    "slug": "guildmanagement",
-    "name": "GuildManagement",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GuildManagement"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "30073",
     "slug": "libgmi",
     "name": "GuildMemberInfo",
@@ -51789,6 +51776,20 @@
     "folders": [
       [
         "HunterPetInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395826",
+    "slug": "huokan-payout",
+    "name": "Huokan Payout",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HuokanPayout"
       ]
     ]
   },
@@ -69080,8 +69081,8 @@
   {
     "source": "curse",
     "id": "394575",
-    "slug": "mother-corrution-vendor",
-    "name": "Mother, corrution vendor",
+    "slug": "mother-corruption-vendor",
+    "name": "Mother, corruption vendor",
     "compatibility": [
       "retail"
     ],
@@ -91815,8 +91816,7 @@
     "slug": "simple-ilevel",
     "name": "Simple iLevel",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -94799,6 +94799,20 @@
     "folders": [
       [
         "Speedy.gg Timer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395956",
+    "slug": "speedybwlgossip",
+    "name": "SpeedyBWLGossip",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SpeedyBWLGossip"
       ]
     ]
   },
@@ -103615,8 +103629,7 @@
     "slug": "tooltip-spec",
     "name": "Tooltip Spec",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -106740,6 +106753,20 @@
   },
   {
     "source": "curse",
+    "id": "395877",
+    "slug": "valkyrie-emotes",
+    "name": "Valkyrie Emotes",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ValkyrieEmotes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "96359",
     "slug": "valor",
     "name": "Valor",
@@ -108157,6 +108184,20 @@
     "folders": [
       [
         "WRAIO"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "395894",
+    "slug": "wui",
+    "name": "WUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WUI"
       ]
     ]
   },
