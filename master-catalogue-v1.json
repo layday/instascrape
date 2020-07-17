@@ -65175,6 +65175,20 @@
   },
   {
     "source": "curse",
+    "id": "396005",
+    "slug": "marking-bar-lives",
+    "name": "Marking Bar Lives",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MarkingBarLives"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13592",
     "slug": "masque",
     "name": "Masque",
@@ -80690,6 +80704,9 @@
       ],
       [
         "Queso"
+      ],
+      [
+        "Queso Clear"
       ]
     ]
   },
@@ -115061,7 +115078,7 @@
     ],
     "folders": [
       [
-        "AutoLooter"
+        "AutoRoller"
       ]
     ]
   },
@@ -226245,6 +226262,21 @@
     "folders": [
       [
         "CrayUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25623",
+    "slug": "",
+    "name": "Broker: Call to Arms",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Broker_CTA"
       ]
     ]
   },
