@@ -65175,20 +65175,6 @@
   },
   {
     "source": "curse",
-    "id": "396005",
-    "slug": "marking-bar-lives",
-    "name": "Marking Bar Lives",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MarkingBarLives"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "13592",
     "slug": "masque",
     "name": "Masque",
@@ -86850,6 +86836,20 @@
   },
   {
     "source": "curse",
+    "id": "396005",
+    "slug": "marking-bar-lives",
+    "name": "Robert Ryan",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MarkingBarLives"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102800",
     "slug": "robotofonts",
     "name": "Roboto Fonts",
@@ -88483,11 +88483,13 @@
     ],
     "folders": [
       [
+        "Scorpio.MVC",
+        "Scorpio.Secure",
+        "Scorpio.UI",
+        "Scorpio.Widget",
         "Scorpio"
       ],
       [
-        "Scorpio.MVC",
-        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
@@ -226281,6 +226283,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25624",
+    "slug": "",
+    "name": "Frame Id Output",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "FrameIdOutput"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -227235,6 +227252,16 @@
     "id": "133",
     "slug": "",
     "name": "VxtUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "176",
+    "slug": "",
+    "name": "Zone Text Hider",
     "compatibility": [
       "retail"
     ],
