@@ -29825,21 +29825,6 @@
   },
   {
     "source": "curse",
-    "id": "257636",
-    "slug": "dejunk",
-    "name": "Dejunk",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Dejunk"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "392624",
     "slug": "delete-hearthstone",
     "name": "Delete Hearthstone",
@@ -30932,6 +30917,20 @@
     "folders": [
       [
         "Disenchantor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396287",
+    "slug": "dismountorstand",
+    "name": "DismountOrStand",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DismountOrStand"
       ]
     ]
   },
@@ -39112,20 +39111,6 @@
   },
   {
     "source": "curse",
-    "id": "304709",
-    "slug": "flabbybirb",
-    "name": "FlabbyBirb",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "FlabbyBirb"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "341447",
     "slug": "flame",
     "name": "Flame",
@@ -40146,6 +40131,20 @@
     "folders": [
       [
         "Interruption"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396196",
+    "slug": "frameidoutput",
+    "name": "FrameIdOutput",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "FrameIdOutput"
       ]
     ]
   },
@@ -45906,7 +45905,7 @@
     ],
     "folders": [
       [
-        "GryphonRemover"
+        "Gryphons"
       ]
     ]
   },
@@ -52441,6 +52440,20 @@
   },
   {
     "source": "curse",
+    "id": "396301",
+    "slug": "ignitetrackerclassic",
+    "name": "IgniteTrackerClassic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "IgniteTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89861",
     "slug": "ignoreenemyemotes",
     "name": "IgnoreEnemyEmotes",
@@ -58647,11 +58660,11 @@
   },
   {
     "source": "curse",
-    "id": "322362",
-    "slug": "leatrix-plus-classic",
-    "name": "Leatrix Plus (Classic)",
+    "id": "94855",
+    "slug": "leatrix-plus",
+    "name": "Leatrix Plus (Battle for Azeroth and Shadowlands)",
     "compatibility": [
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -58661,11 +58674,11 @@
   },
   {
     "source": "curse",
-    "id": "94855",
-    "slug": "leatrix-plus",
-    "name": "Leatrix Plus (Retail)",
+    "id": "322362",
+    "slug": "leatrix-plus-classic",
+    "name": "Leatrix Plus (Classic)",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -64816,20 +64829,6 @@
     "folders": [
       [
         "ManaPerc"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "340579",
-    "slug": "manapercent",
-    "name": "ManaPercent",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ManaPercent"
       ]
     ]
   },
@@ -77498,21 +77497,6 @@
     "folders": [
       [
         "PhreakDisplayFonts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "393721",
-    "slug": "phreakin-handwriting-fonts",
-    "name": "Phreakin's Handwriting Fonts",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "PhreakFonts"
       ]
     ]
   },
@@ -93881,20 +93865,6 @@
   },
   {
     "source": "curse",
-    "id": "318761",
-    "slug": "sokoban",
-    "name": "Sokoban",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Sokoban"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "90729",
     "slug": "sols-noxxic-stat-priorities",
     "name": "Sol's Noxxic Stat Priorities",
@@ -98348,20 +98318,6 @@
     "id": "282337",
     "slug": "tl-dr",
     "name": "TL;DR",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "TLDR"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "283019",
-    "slug": "tldr",
-    "name": "TLDR",
     "compatibility": [
       "retail"
     ],
@@ -105247,20 +105203,6 @@
   },
   {
     "source": "curse",
-    "id": "256604",
-    "slug": "transmogaway",
-    "name": "TransmogAway",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "TransmogAway"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "101175",
     "slug": "transmogcleanup",
     "name": "TransmogCleanup",
@@ -105270,20 +105212,6 @@
     "folders": [
       [
         "TransmogCleanup"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "301539",
-    "slug": "transmogexpander",
-    "name": "TransmogExpander",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "TransmogExpander"
       ]
     ]
   },
@@ -109091,20 +109019,6 @@
   },
   {
     "source": "curse",
-    "id": "318174",
-    "slug": "west",
-    "name": "West",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "West"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "97534",
     "slug": "wgrasp",
     "name": "Wgrasp",
@@ -109571,20 +109485,6 @@
     "folders": [
       [
         "WhistleMaster"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "302416",
-    "slug": "whistledaway",
-    "name": "WhistledAway",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "WhistledAway"
       ]
     ]
   },
