@@ -34901,10 +34901,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -54613,6 +54613,20 @@
   },
   {
     "source": "curse",
+    "id": "354662",
+    "slug": "itemloot",
+    "name": "ItemLoot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LootInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102804",
     "slug": "item-name-localized",
     "name": "ItemNameLocalized Core",
@@ -58632,11 +58646,11 @@
   },
   {
     "source": "curse",
-    "id": "324034",
-    "slug": "leatrix-maps-classic",
-    "name": "Leatrix Maps (Classic)",
+    "id": "298842",
+    "slug": "leatrix-maps",
+    "name": "Leatrix Maps (Battle for Azeroth and Shadowlands)",
     "compatibility": [
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -58646,11 +58660,11 @@
   },
   {
     "source": "curse",
-    "id": "298842",
-    "slug": "leatrix-maps",
-    "name": "Leatrix Maps (Retail)",
+    "id": "324034",
+    "slug": "leatrix-maps-classic",
+    "name": "Leatrix Maps (Classic)",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -58688,6 +58702,20 @@
   },
   {
     "source": "curse",
+    "id": "304659",
+    "slug": "leatrix-sounds",
+    "name": "Leatrix Sounds (Battle for Azeroth and Shadowlands)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Leatrix_Sounds"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "323023",
     "slug": "leatrix-sounds-classic",
     "name": "Leatrix Sounds (Classic)",
@@ -58702,15 +58730,15 @@
   },
   {
     "source": "curse",
-    "id": "304659",
-    "slug": "leatrix-sounds",
-    "name": "Leatrix Sounds (Retail)",
+    "id": "324297",
+    "slug": "leatrix-tunes",
+    "name": "Leatrix Tunes (Battle for Azeroth and Shadowlands)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Sounds"
+        "Leatrix_Tunes"
       ]
     ]
   },
@@ -58721,20 +58749,6 @@
     "name": "Leatrix Tunes (Classic)",
     "compatibility": [
       "classic"
-    ],
-    "folders": [
-      [
-        "Leatrix_Tunes"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "324297",
-    "slug": "leatrix-tunes",
-    "name": "Leatrix Tunes (Retail)",
-    "compatibility": [
-      "retail"
     ],
     "folders": [
       [
@@ -65174,6 +65188,20 @@
   },
   {
     "source": "curse",
+    "id": "396005",
+    "slug": "marking-bar-lives",
+    "name": "Marking Bar Lives",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MarkingBarLives"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13592",
     "slug": "masque",
     "name": "Masque",
@@ -70138,6 +70166,21 @@
     "folders": [
       [
         "MultiTool"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "27342",
+    "slug": "slavegirl",
+    "name": "Multibox Follower Helper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SlaveGirl"
       ]
     ]
   },
@@ -78185,6 +78228,20 @@
     "folders": [
       [
         "PlayerBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "386631",
+    "slug": "pmq",
+    "name": "PlayerMadeQuests",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PlayerMadeQuests"
       ]
     ]
   },
@@ -86820,20 +86877,6 @@
   },
   {
     "source": "curse",
-    "id": "396005",
-    "slug": "marking-bar-lives",
-    "name": "Robert Ryan",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MarkingBarLives"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "102800",
     "slug": "robotofonts",
     "name": "Roboto Fonts",
@@ -92979,21 +93022,6 @@
     "folders": [
       [
         "SlashRead"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "27342",
-    "slug": "slavegirl",
-    "name": "Slave Girl",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "SlaveGirl"
       ]
     ]
   },
@@ -114458,7 +114486,7 @@
     "source": "curse",
     "id": "65461",
     "slug": "cargbags-nivaya-mop-update",
-    "name": "cargBags Nivaya (RealUI/standalone)",
+    "name": "cargBags Nivaya",
     "compatibility": [
       "retail",
       "classic"
@@ -115863,7 +115891,8 @@
     "slug": "igear",
     "name": "iGear",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -116082,7 +116111,8 @@
     "slug": "ireputation",
     "name": "iReputation",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -226194,6 +226224,36 @@
     "folders": [
       [
         "FrameIdOutput"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25625",
+    "slug": "",
+    "name": "TankMD Misdirect",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "TankMD"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25627",
+    "slug": "",
+    "name": "SimpleActionBars",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleActionBars"
       ]
     ]
   },
