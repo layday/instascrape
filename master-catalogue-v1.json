@@ -44473,7 +44473,7 @@
     "source": "curse",
     "id": "336164",
     "slug": "greyhandling",
-    "name": "GreyHandling",
+    "name": "Grey Handling",
     "compatibility": [
       "retail",
       "classic"
@@ -88510,13 +88510,13 @@
     ],
     "folders": [
       [
-        "Scorpio.MVC",
-        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
       ],
       [
+        "Scorpio.MVC",
+        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
@@ -108866,7 +108866,7 @@
     "source": "curse",
     "id": "65387",
     "slug": "weakauras-2",
-    "name": "WeakAuras 2",
+    "name": "WeakAuras",
     "compatibility": [
       "retail",
       "classic"
