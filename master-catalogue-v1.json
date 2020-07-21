@@ -9051,6 +9051,9 @@
         "AAP-WoD",
         "AAP-Core",
         "Azeroth Auto Pilot"
+      ],
+      [
+        "AAP-Test"
       ]
     ]
   },
@@ -12745,6 +12748,19 @@
         "BigWigs_Core",
         "BigWigs_Options",
         "BigWigs_Plugins",
+        "BigWigs_Onyxia",
+        "BigWigs_MoltenCore",
+        "BigWigs_World",
+        "BigWigs_BlackwingLair",
+        "BigWigs_ZulGurub",
+        "BigWigs_AhnQirajRuins",
+        "BigWigs_AhnQirajTemple",
+        "BigWigs"
+      ],
+      [
+        "BigWigs_Core",
+        "BigWigs_Options",
+        "BigWigs_Plugins",
         "BigWigs_Azeroth",
         "BigWigs_Uldir",
         "BigWigs_BattleOfDazaralor",
@@ -12757,13 +12773,13 @@
         "BigWigs_Core",
         "BigWigs_Options",
         "BigWigs_Plugins",
-        "BigWigs_Onyxia",
-        "BigWigs_MoltenCore",
-        "BigWigs_World",
-        "BigWigs_BlackwingLair",
-        "BigWigs_ZulGurub",
-        "BigWigs_AhnQirajRuins",
-        "BigWigs_AhnQirajTemple",
+        "BigWigs_Azeroth",
+        "BigWigs_Uldir",
+        "BigWigs_BattleOfDazaralor",
+        "BigWigs_CrucibleOfStorms",
+        "BigWigs_EternalPalace",
+        "BigWigs_Nyalotha",
+        "BigWigs_CastleNathria",
         "BigWigs"
       ]
     ]
@@ -22940,6 +22956,20 @@
   },
   {
     "source": "curse",
+    "id": "396504",
+    "slug": "caa-scan",
+    "name": "Coffee Addicts Anonymous Unitscan",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CAAScan"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "378313",
     "slug": "coffindeathsound",
     "name": "CoffinDeathSound",
@@ -30140,6 +30170,20 @@
   },
   {
     "source": "curse",
+    "id": "396450",
+    "slug": "details-damage-meter-shadowlands-beta",
+    "name": "Details! Damage Meter Shadowlands",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Details"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "75162",
     "slug": "details-advanced-death-logs-plug",
     "name": "Details! Damage Meter: Advanced Death Logs (plugin)",
@@ -34449,6 +34493,9 @@
     "folders": [
       [
         "ElvUI_KlixUI"
+      ],
+      [
+        "ElvUI_KlixUI_Classic"
       ]
     ]
   },
@@ -36407,6 +36454,20 @@
     "folders": [
       [
         "EssenceSetManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396536",
+    "slug": "essences-talents-tab",
+    "name": "Essences Talents Tab",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EssencesTalentsTab"
       ]
     ]
   },
@@ -54811,6 +54872,20 @@
   },
   {
     "source": "curse",
+    "id": "396419",
+    "slug": "itemstats",
+    "name": "ItemStats",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ItemStats"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "352828",
     "slug": "itemsurveyclassic",
     "name": "ItemSurveyClassic",
@@ -54850,6 +54925,20 @@
     "folders": [
       [
         "ItemType"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396623",
+    "slug": "items-expansions-in-tooltip",
+    "name": "Items expansions in tooltip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemExpansion"
       ]
     ]
   },
@@ -58210,6 +58299,20 @@
       ],
       [
         "LUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384811",
+    "slug": "lzm_displaycoins",
+    "name": "LZM_DisplayCoins",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LZM_DisplayCoins"
       ]
     ]
   },
@@ -69276,6 +69379,20 @@
   },
   {
     "source": "curse",
+    "id": "396299",
+    "slug": "mountboss",
+    "name": "MountBoss",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MountBoss"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "84219",
     "slug": "mountinfo-wod",
     "name": "MountInfo: WOD",
@@ -78055,6 +78172,20 @@
     "compatibility": [
       "retail",
       "classic"
+    ],
+    "folders": [
+      [
+        "Plater"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396952",
+    "slug": "plater-nameplates-for-shadowlands-beta",
+    "name": "Plater Nameplates for Shadowlands",
+    "compatibility": [
+      "retail"
     ],
     "folders": [
       [
@@ -91069,6 +91200,20 @@
   },
   {
     "source": "curse",
+    "id": "396518",
+    "slug": "silentflights",
+    "name": "SilentFlights",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SilentFlights"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "365227",
     "slug": "silly-jump-sound",
     "name": "Silly Jump Sound",
@@ -91908,6 +92053,20 @@
   },
   {
     "source": "curse",
+    "id": "396422",
+    "slug": "simpleactionbars",
+    "name": "SimpleActionBars",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SimpleActionBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "327411",
     "slug": "simpleassist",
     "name": "SimpleAssist",
@@ -92330,6 +92489,20 @@
     "folders": [
       [
         "SimpleVignette"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "396427",
+    "slug": "simpler-map",
+    "name": "Simpler Map",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimplerMap"
       ]
     ]
   },
@@ -226258,6 +226431,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25629",
+    "slug": "",
+    "name": "LFRAdvanced",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LFRAdvanced"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -226402,6 +226590,16 @@
     "id": "75",
     "slug": "",
     "name": "Cecile_MeterOverlay",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "177",
+    "slug": "",
+    "name": "Chat Box Fader",
     "compatibility": [
       "retail"
     ],
