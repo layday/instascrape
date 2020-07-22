@@ -28620,6 +28620,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -28633,21 +28648,6 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -34046,6 +34046,20 @@
     "folders": [
       [
         "ElvUI_BetterTalentFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397099",
+    "slug": "elvui-buff-highlight",
+    "name": "ElvUI Buff Highlight",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_BuffHighlight"
       ]
     ]
   },
@@ -50341,6 +50355,20 @@
   },
   {
     "source": "curse",
+    "id": "397117",
+    "slug": "hide-minimap-poi-arrows",
+    "name": "Hide Minimap POI Arrows",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HideMinimapPOIArrow"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87349",
     "slug": "hideobjectivetracker",
     "name": "Hide Objective Tracker",
@@ -51836,20 +51864,6 @@
     "folders": [
       [
         "HunterPetInfo"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "395826",
-    "slug": "huokan-payout",
-    "name": "Huokan Payout",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "HuokanPayout"
       ]
     ]
   },
@@ -94336,6 +94350,20 @@
   },
   {
     "source": "curse",
+    "id": "396972",
+    "slug": "sorted",
+    "name": "Sorted.",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Sorted"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "345172",
     "slug": "sota-dkp-addon",
     "name": "SotA - DKP Addon",
@@ -117488,6 +117516,20 @@
     "folders": [
       [
         "nakaGold"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397053",
+    "slug": "nameplatem",
+    "name": "namePlateM+",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Nameplates"
       ]
     ]
   },
@@ -225642,7 +225684,7 @@
     ],
     "folders": [
       [
-        "WoW Reforged Icons 1.6.0"
+        "WoW Reforged Icons 1.6.1"
       ]
     ]
   },
@@ -226442,6 +226484,21 @@
     "folders": [
       [
         "LFRAdvanced"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25630",
+    "slug": "",
+    "name": "Huokan Payout",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HuokanPayout"
       ]
     ]
   },
