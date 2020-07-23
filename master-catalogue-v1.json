@@ -22956,20 +22956,6 @@
   },
   {
     "source": "curse",
-    "id": "396504",
-    "slug": "caa-scan",
-    "name": "Coffee Addicts Anonymous Unitscan",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "CAAScan"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "378313",
     "slug": "coffindeathsound",
     "name": "CoffinDeathSound",
@@ -46612,6 +46598,20 @@
   },
   {
     "source": "curse",
+    "id": "397040",
+    "slug": "guild-gear-rules",
+    "name": "Guild Gear Rules",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GuildGearRules"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "363791",
     "slug": "guildintooltip",
     "name": "Guild In Tooltip",
@@ -52710,6 +52710,20 @@
     "folders": [
       [
         "ImoFriendGroups"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397382",
+    "slug": "impact-loot-council",
+    "name": "Impact Loot Council",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ImpactLC"
       ]
     ]
   },
@@ -73222,6 +73236,20 @@
   },
   {
     "source": "curse",
+    "id": "397304",
+    "slug": "notalkinghead",
+    "name": "NoTalkingHead",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NoTalkingHead"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86607",
     "slug": "no-title",
     "name": "NoTitle",
@@ -77665,8 +77693,7 @@
     "slug": "phreakdisplayfonts",
     "name": "Phreakin's Display Fonts",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -88655,13 +88682,13 @@
     ],
     "folders": [
       [
+        "Scorpio.MVC",
+        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
       ],
       [
-        "Scorpio.MVC",
-        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
@@ -89146,6 +89173,20 @@
     "folders": [
       [
         "SecureTabs-2.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397201",
+    "slug": "securetrade",
+    "name": "SecureTrade",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SecureTrade"
       ]
     ]
   },
@@ -94354,7 +94395,8 @@
     "slug": "sorted",
     "name": "Sorted.",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
