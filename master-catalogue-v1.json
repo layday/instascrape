@@ -13094,6 +13094,20 @@
   },
   {
     "source": "curse",
+    "id": "397633",
+    "slug": "bigwigs_kaoskatie_voice",
+    "name": "BigWigs_KaosKatie_Voice",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_KaosKatie_Voice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "300657",
     "slug": "bigwigs_legion",
     "name": "BigWigs_Legion",
@@ -48155,6 +48169,20 @@
   },
   {
     "source": "curse",
+    "id": "397565",
+    "slug": "handynotes-draenor",
+    "name": "HandyNotes: Draenor",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_Draenor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98392",
     "slug": "handynotes-ever-shifting-mirror",
     "name": "HandyNotes: Ever-Shifting Mirror",
@@ -77693,7 +77721,8 @@
     "slug": "phreakdisplayfonts",
     "name": "Phreakin's Display Fonts",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -79532,6 +79561,20 @@
     "folders": [
       [
         "Prio3"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397624",
+    "slug": "priorollmanager",
+    "name": "PrioRollManager",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PrioRollManager"
       ]
     ]
   },
@@ -83716,6 +83759,20 @@
     "folders": [
       [
         "RaidFrameReSizer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397494",
+    "slug": "raidframes",
+    "name": "RaidFrameS",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RaidFrameS"
       ]
     ]
   },
@@ -103293,20 +103350,6 @@
   },
   {
     "source": "curse",
-    "id": "30218",
-    "slug": "togglemyname",
-    "name": "ToggleMyName",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ToggleMyName"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "20417",
     "slug": "togglenames",
     "name": "ToggleNames",
@@ -109557,6 +109600,20 @@
     "folders": [
       [
         "WhereToGo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397431",
+    "slug": "wheres-my-camp",
+    "name": "Where's My Camp?",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WheresMyCamp"
       ]
     ]
   },
@@ -226526,21 +226583,6 @@
     "folders": [
       [
         "LFRAdvanced"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "25630",
-    "slug": "",
-    "name": "Huokan Payout",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "HuokanPayout"
       ]
     ]
   },
