@@ -4517,6 +4517,21 @@
   },
   {
     "source": "curse",
+    "id": "397761",
+    "slug": "ara-broker-xp",
+    "name": "Ara Broker XP",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Ara_Broker_XP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29174",
     "slug": "arbitcomm",
     "name": "Arbitrary Commands",
@@ -9054,6 +9069,11 @@
       ],
       [
         "AAP-Test"
+      ],
+      [
+        "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
+        "AAP-Core"
       ]
     ]
   },
@@ -13095,7 +13115,7 @@
   {
     "source": "curse",
     "id": "397633",
-    "slug": "bigwigs_kaoskatie_voice",
+    "slug": "bigwigs-kaoskatie-voice",
     "name": "BigWigs_KaosKatie_Voice",
     "compatibility": [
       "retail"
@@ -13145,6 +13165,20 @@
     "folders": [
       [
         "BigWigs_NezirIcePatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397766",
+    "slug": "bigwigs_qc_countdown",
+    "name": "BigWigs_QC_Countdown",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_Voice_QC"
       ]
     ]
   },
@@ -31603,6 +31637,20 @@
     "folders": [
       [
         "draiks-broker-ilevel"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397732",
+    "slug": "drainerx-ui",
+    "name": "Drainerx UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Drainerx UI"
       ]
     ]
   },
@@ -67650,6 +67698,20 @@
   },
   {
     "source": "curse",
+    "id": "397745",
+    "slug": "minimapbutton-for-notes",
+    "name": "MiniMapButton For Notes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NotesMiniMapButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20621",
     "slug": "minimapstrata",
     "name": "MiniMapStrata",
@@ -88739,13 +88801,13 @@
     ],
     "folders": [
       [
-        "Scorpio.MVC",
-        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
       ],
       [
+        "Scorpio.MVC",
+        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
@@ -94173,6 +94235,20 @@
     "folders": [
       [
         "SociallyUndead"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "397725",
+    "slug": "socket-switcher",
+    "name": "Socket Switcher",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Socket Swicher"
       ]
     ]
   },
@@ -104826,6 +104902,9 @@
     "folders": [
       [
         "TradeLogUnlimited"
+      ],
+      [
+        "TradeLogUnlimitedClassic"
       ]
     ]
   },
@@ -106511,6 +106590,23 @@
     "folders": [
       [
         "UmberRunes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "389233",
+    "slug": "unbuff",
+    "name": "Unbuff",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Ewlf's Debuff"
+      ],
+      [
+        "Unbuff"
       ]
     ]
   },
