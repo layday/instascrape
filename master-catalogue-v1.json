@@ -2424,20 +2424,6 @@
   },
   {
     "source": "curse",
-    "id": "361561",
-    "slug": "adibags_blackempiregear",
-    "name": "AdiBags_BlackEmpireGear",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_BlackEmpireGear"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "47706",
     "slug": "adibags_bound",
     "name": "AdiBags_Bound",
@@ -2447,20 +2433,6 @@
     "folders": [
       [
         "AdiBags_Bound"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "371294",
-    "slug": "adibags_cosmetic",
-    "name": "AdiBags_Cosmetic",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_Cosmetic"
       ]
     ]
   },
@@ -2489,20 +2461,6 @@
     "folders": [
       [
         "AdiBags_Herbalism"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "339087",
-    "slug": "adibags_keystone",
-    "name": "AdiBags_Keystone",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_Keystones"
       ]
     ]
   },
@@ -17243,6 +17201,20 @@
   },
   {
     "source": "curse",
+    "id": "297376",
+    "slug": "btw-quests-the-burning-crusade",
+    "name": "BtWQuests: The Burning Crusade",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsTheBurningCrusade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297380",
     "slug": "btw-quests-warlords-of-draenor",
     "name": "BtWQuests: Warlords of Draenor",
@@ -27059,6 +27031,20 @@
     "folders": [
       [
         "DBM-VictorySound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "398098",
+    "slug": "dbm_countdown_kaoskatie",
+    "name": "DBM_Countdown_KaosKatie",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM_Countdown_KaosKatie"
       ]
     ]
   },
@@ -42134,8 +42120,7 @@
     "slug": "gathersage2",
     "name": "GatherSage2",
     "compatibility": [
-      "classic",
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -72766,14 +72751,14 @@
   {
     "source": "curse",
     "id": "390895",
-    "slug": "night-shift-loot-priority-tooltips",
-    "name": "Night Shift Loot Priority Tooltips",
+    "slug": "night-shift-epgp",
+    "name": "Night Shift EPGP",
     "compatibility": [
       "classic"
     ],
     "folders": [
       [
-        "NightShiftLootPriority"
+        "NightShiftEPGP"
       ]
     ]
   },
@@ -92458,6 +92443,20 @@
   },
   {
     "source": "curse",
+    "id": "397908",
+    "slug": "simplehealingtext",
+    "name": "SimpleHealingText",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SimpleHealingText"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "299576",
     "slug": "simpleloc",
     "name": "SimpleLOC",
@@ -97101,6 +97100,7 @@
     "slug": "strudelstore",
     "name": "StrudelStore",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -226725,6 +226725,21 @@
     "folders": [
       [
         "LFRAdvanced"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25631",
+    "slug": "",
+    "name": "BtWQuests: The Burning Crusade",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsTheBurningCrusade"
       ]
     ]
   },
