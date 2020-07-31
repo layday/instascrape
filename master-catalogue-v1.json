@@ -3775,6 +3775,20 @@
   },
   {
     "source": "curse",
+    "id": "398897",
+    "slug": "amused-to-death",
+    "name": "Amused to Death",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Amused2Death"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "302536",
     "slug": "ans",
     "name": "AnS",
@@ -3892,6 +3906,20 @@
     "folders": [
       [
         "AngryBossReminders"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "398490",
+    "slug": "angry-girls",
+    "name": "Angry Girls",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AngryGirls"
       ]
     ]
   },
@@ -8577,6 +8605,20 @@
     "folders": [
       [
         "AutoWhispAchiev"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "398791",
+    "slug": "autowhisperinvite-classic",
+    "name": "AutoWhisperInvite Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoWhisperInvite"
       ]
     ]
   },
@@ -23235,6 +23277,20 @@
   },
   {
     "source": "curse",
+    "id": "398922",
+    "slug": "combat-helm",
+    "name": "Combat Helm",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CombatHelm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "69834",
     "slug": "combat-log-remover",
     "name": "Combat Log Remover",
@@ -28654,21 +28710,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -28682,6 +28723,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -37434,7 +37490,7 @@
     "source": "curse",
     "id": "305470",
     "slug": "fflu",
-    "name": "FFLU - Final Fantasy Level Up",
+    "name": "FFLU - Final Fantasy Level Up!",
     "compatibility": [
       "retail",
       "classic"
@@ -44195,6 +44251,20 @@
   },
   {
     "source": "curse",
+    "id": "351522",
+    "slug": "golddelta",
+    "name": "GoldDelta",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "GoldDelta"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "30797",
     "slug": "goldloot",
     "name": "GoldLoot",
@@ -49480,6 +49550,20 @@
     "folders": [
       [
         "HealCommClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "398991",
+    "slug": "healmana",
+    "name": "HealMana",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HealMana"
       ]
     ]
   },
@@ -83049,6 +83133,20 @@
   },
   {
     "source": "curse",
+    "id": "398640",
+    "slug": "rpmanageritems",
+    "name": "RPManagerItems",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RPManagerItems"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "293984",
     "slug": "rptools",
     "name": "RPTools",
@@ -86689,7 +86787,7 @@
   {
     "source": "curse",
     "id": "398354",
-    "slug": "reported-x",
+    "slug": "reported",
     "name": "Reported",
     "compatibility": [
       "retail"
@@ -112833,6 +112931,20 @@
     "folders": [
       [
         "XarUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "378451",
+    "slug": "xceed-raid-tools",
+    "name": "Xceed Raid Tools",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "XceedRT"
       ]
     ]
   },
