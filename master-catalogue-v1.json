@@ -9099,8 +9099,8 @@
         "AAP-Test"
       ],
       [
-        "AAP-EasternKingdoms",
         "AAP-Shadowlands",
+        "AAP-EasternKingdoms",
         "AAP-Core"
       ]
     ]
@@ -21223,6 +21223,20 @@
     "folders": [
       [
         "CivilianWarning"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "399540",
+    "slug": "clammaster",
+    "name": "ClamMaster",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClamMaster"
       ]
     ]
   },
@@ -37413,6 +37427,20 @@
     "folders": [
       [
         "Exxark-DPS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "399324",
+    "slug": "eyeon",
+    "name": "EyeOn",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EyeOn"
       ]
     ]
   },
@@ -63861,6 +63889,20 @@
   },
   {
     "source": "curse",
+    "id": "399314",
+    "slug": "low-mana-moooo",
+    "name": "Low Mana, Moooo!",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LowManaMooo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "33251",
     "slug": "low-hp",
     "name": "LowHP",
@@ -78525,6 +78567,21 @@
   },
   {
     "source": "curse",
+    "id": "399043",
+    "slug": "pokemon-level-up",
+    "name": "PkmnLU - Pokemon Level Up!",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PkmnLU"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "306769",
     "slug": "plaffs-keys",
     "name": "Plaffs - !keys",
@@ -83316,6 +83373,20 @@
   },
   {
     "source": "curse",
+    "id": "397496",
+    "slug": "rtrank",
+    "name": "RTRank",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RTRank"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "283389",
     "slug": "ruf",
     "name": "RUF",
@@ -83857,6 +83928,20 @@
       ],
       [
         "RaidTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "399582",
+    "slug": "classicraidtracker_stormforged",
+    "name": "Raid Tracker - Stormforged",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidTracker_Stormforged"
       ]
     ]
   },
@@ -88126,6 +88211,20 @@
   },
   {
     "source": "curse",
+    "id": "399450",
+    "slug": "run-loot-priority",
+    "name": "Run Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Run_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97379",
     "slug": "runestimator",
     "name": "RunEstimator",
@@ -89339,7 +89438,7 @@
     "source": "curse",
     "id": "92534",
     "slug": "screengrid",
-    "name": "Screen Overlay: Enhanced (f.k.a. ScreenGrid)",
+    "name": "Screen Overlay: Enhanced",
     "compatibility": [
       "retail"
     ],
@@ -104669,6 +104768,20 @@
   },
   {
     "source": "curse",
+    "id": "399323",
+    "slug": "total-fragments",
+    "name": "Total Fragments",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TotalFragments"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "54344",
     "slug": "total-gold-earned",
     "name": "Total Gold Earned",
@@ -105116,6 +105229,20 @@
     "folders": [
       [
         "TrackCooldowns"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "399326",
+    "slug": "track-everything",
+    "name": "Track Everything",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TrackEverything"
       ]
     ]
   },
@@ -217279,6 +217406,7 @@
       [
         "WeakAuras",
         "WeakAurasOptions",
+        "WeakAurasModelPaths",
         "WeakAurasTemplates",
         "WeakAurasArchive"
       ]
@@ -225944,22 +226072,6 @@
     "folders": [
       [
         "WindDungeonHelper"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "25533",
-    "slug": "",
-    "name": "DockingStation (Display)",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DockingStation",
-        "DockingStation_Config"
       ]
     ]
   },
