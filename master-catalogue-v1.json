@@ -1892,6 +1892,7 @@
     "slug": "adblock",
     "name": "Adblock",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -27079,6 +27080,7 @@
     "slug": "dbm-interrupts",
     "name": "DBM-Interrupts",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -32167,6 +32169,20 @@
     "folders": [
       [
         "DrunkardSK"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "399216",
+    "slug": "drustvar-com-pvp-ratings",
+    "name": "Drustvar.com PVP Ratings",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Drustvar"
       ]
     ]
   },
@@ -58013,20 +58029,6 @@
   },
   {
     "source": "curse",
-    "id": "336365",
-    "slug": "kuinameplates-azeriteui",
-    "name": "KuiNameplates: AzeriteUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AzeriteUI_KuiNameplates"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "263930",
     "slug": "kuinameplates-fade-filters",
     "name": "KuiNameplates: Fade Filters",
@@ -65851,21 +65853,6 @@
   },
   {
     "source": "curse",
-    "id": "318313",
-    "slug": "masque-arcanestone",
-    "name": "Masque: Arcane Stone",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "Masque_ArcaneStone"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "300224",
     "slug": "masque-azerite",
     "name": "Masque: Azerite",
@@ -65890,21 +65877,6 @@
     "folders": [
       [
         "Masque_Bamboo"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "318318",
-    "slug": "masque-brasscogs",
-    "name": "Masque: Brass Cogs",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "Masque_BrassCogs"
       ]
     ]
   },
@@ -66034,21 +66006,6 @@
     "folders": [
       [
         "Masque_Diabolic"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "318320",
-    "slug": "masque-dragon",
-    "name": "Masque: Dragon",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "Masque_Dragon"
       ]
     ]
   },
@@ -66421,21 +66378,6 @@
     "folders": [
       [
         "Masque_Sonata"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "318316",
-    "slug": "masque-spikystone",
-    "name": "Masque: Spiky Stone",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "Masque_SpikyStone"
       ]
     ]
   },
@@ -81391,9 +81333,6 @@
       ],
       [
         "Queso"
-      ],
-      [
-        "Queso Clear"
       ]
     ]
   },
@@ -81692,6 +81631,20 @@
     "folders": [
       [
         "QuestBuster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400099",
+    "slug": "questcheck",
+    "name": "QuestCheck",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestCheck"
       ]
     ]
   },
@@ -90841,20 +90794,6 @@
     "folders": [
       [
         "SharedMedia_ClassicalFonts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "296759",
-    "slug": "sharedmedia-diabolic",
-    "name": "SharedMedia: Diabolic",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SharedMedia_Diabolic"
       ]
     ]
   },
@@ -227491,6 +227430,21 @@
     "folders": [
       [
         "DontWhisper"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25641",
+    "slug": "",
+    "name": "Adblock",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "adblock"
       ]
     ]
   },
