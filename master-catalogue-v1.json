@@ -566,6 +566,20 @@
   },
   {
     "source": "curse",
+    "id": "400249",
+    "slug": "afktimer",
+    "name": "AFKTimer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AFKTimer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "25968",
     "slug": "agfilter",
     "name": "AGChatFilter",
@@ -8308,6 +8322,20 @@
     "folders": [
       [
         "AutoRepBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400397",
+    "slug": "autoreptracker",
+    "name": "AutoRepTracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AutoRepTracker"
       ]
     ]
   },
@@ -22385,6 +22413,20 @@
   },
   {
     "source": "curse",
+    "id": "400050",
+    "slug": "classicpathcalculator",
+    "name": "ClassicPathCalculator",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicPathCalculator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "354484",
     "slug": "classicpremade",
     "name": "ClassicPremade",
@@ -25086,6 +25128,20 @@
     "folders": [
       [
         "CopyAnything"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400382",
+    "slug": "copymacro",
+    "name": "CopyMacro",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CopyMacro"
       ]
     ]
   },
@@ -28810,6 +28866,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -28823,21 +28894,6 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -49448,6 +49504,20 @@
   },
   {
     "source": "curse",
+    "id": "399110",
+    "slug": "hardcore",
+    "name": "Hardcore",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Hardcore"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "90689",
     "slug": "harmonious",
     "name": "Harmonious",
@@ -54658,6 +54728,20 @@
     "folders": [
       [
         "IrlName"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400237",
+    "slug": "ironmanchecker",
+    "name": "IronmanChecker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "IronmanChecker"
       ]
     ]
   },
@@ -80217,7 +80301,8 @@
     ],
     "folders": [
       [
-        "hKiB_ProfessionTrack"
+        "hKiB_ProfessionTrack",
+        "hKiB_ProfessionTrack_Mini"
       ]
     ]
   },
@@ -95308,6 +95393,20 @@
     "folders": [
       [
         "Spade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400230",
+    "slug": "spam-text-filter-ultra-stfu",
+    "name": "Spam Text Filter Ultra (STFU)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "STFU"
       ]
     ]
   },
