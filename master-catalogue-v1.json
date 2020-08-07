@@ -34034,6 +34034,20 @@
   },
   {
     "source": "curse",
+    "id": "400678",
+    "slug": "elevator-taxi",
+    "name": "Elevator Taxi",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElevatorTaxi"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "256112",
     "slug": "elfos-datatext",
     "name": "Elfos Datatext",
@@ -35266,10 +35280,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -97582,6 +97596,20 @@
   },
   {
     "source": "curse",
+    "id": "400539",
+    "slug": "stormforged-raid-tracker",
+    "name": "Stormforged Raid Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicRaidTracker_Stormforged"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "291838",
     "slug": "story-teller",
     "name": "Story Teller",
@@ -112529,6 +112557,20 @@
   },
   {
     "source": "curse",
+    "id": "384840",
+    "slug": "wowaudit-invite-tool",
+    "name": "Wowaudit Invite Tool",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "v0.1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "90306",
     "slug": "wowhead-link",
     "name": "Wowhead Link",
@@ -113924,20 +113966,6 @@
   },
   {
     "source": "curse",
-    "id": "376631",
-    "slug": "zgautoroll",
-    "name": "ZG AutoRoll",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ZGAutoRoll"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "377671",
     "slug": "zg-bijou-roller",
     "name": "ZG Bijou Roller",
@@ -113947,6 +113975,20 @@
     "folders": [
       [
         "ZGBijouRoller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "376631",
+    "slug": "zgaqautoroll",
+    "name": "ZG/AQ AutoRoll",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ZGAutoRoll"
       ]
     ]
   },
