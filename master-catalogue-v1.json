@@ -9142,8 +9142,8 @@
         "AAP-Test"
       ],
       [
-        "AAP-Shadowlands",
         "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
         "AAP-Core"
       ]
     ]
@@ -31398,6 +31398,13 @@
         "Dominos_Config",
         "Dominos_Progress",
         "Dominos_Roll",
+        "Dominos"
+      ],
+      [
+        "Dominos_Cast",
+        "Dominos_Config",
+        "Dominos_Encounter",
+        "Dominos_Progress",
         "Dominos"
       ]
     ]
@@ -70302,34 +70309,6 @@
   },
   {
     "source": "curse",
-    "id": "102532",
-    "slug": "move-pad-plus",
-    "name": "Move Pad Plus",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MovePadPlus"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "339933",
-    "slug": "move-pad-plus-classic",
-    "name": "Move Pad Plus [Classic]",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "MovePadPlus"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "358737",
     "slug": "move-sanity-orb-button",
     "name": "Move Sanity Orb Button",
@@ -70384,6 +70363,34 @@
     "folders": [
       [
         "MoveAround"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "102532",
+    "slug": "movepadplus",
+    "name": "MovePadPlus",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MovePadPlus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "339933",
+    "slug": "movepadplus-classic",
+    "name": "MovePadPlus [Classic]",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MovePadPlus"
       ]
     ]
   },
@@ -227610,6 +227617,36 @@
     "folders": [
       [
         "PHGPCthunPlanner"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25645",
+    "slug": "",
+    "name": "NightLight Ver 1.0.0 (versioned for Classic)",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "NightLight"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25646",
+    "slug": "",
+    "name": "NightLight Ver 1.0.0 ( versioned for retail - Battle for Azeroth)",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "NightLight"
       ]
     ]
   },
