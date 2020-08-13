@@ -4844,6 +4844,20 @@
   },
   {
     "source": "curse",
+    "id": "4875",
+    "slug": "project-4875",
+    "name": "Arena Calculator",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ArenaCalculator"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336908",
     "slug": "arena-filter",
     "name": "Arena Filter",
@@ -12874,6 +12888,20 @@
     "folders": [
       [
         "BigWigs_CountDown_Narwhal"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "307815",
+    "slug": "bigwigs-countdown-eminem",
+    "name": "BigWigs Countdown Eminem",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_Voice_Eminem"
       ]
     ]
   },
@@ -34225,6 +34253,22 @@
   },
   {
     "source": "curse",
+    "id": "333072",
+    "slug": "elvui-adibags",
+    "name": "ElvUI AdiBags",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AdiBags_Config",
+        "AdiBags"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "96937",
     "slug": "elvui-animations",
     "name": "ElvUI Animations",
@@ -48444,6 +48488,20 @@
   },
   {
     "source": "curse",
+    "id": "305235",
+    "slug": "handynotes-universal-explorer",
+    "name": "HandyNotes Universal Explorer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_Universal_Explorer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "99064",
     "slug": "handynotes_achievements",
     "name": "HandyNotes: Achievements",
@@ -50510,6 +50568,20 @@
     "folders": [
       [
         "HideBattleNetFriendsRealNames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "33245",
+    "slug": "partyhide",
+    "name": "Hide Blizzard Party Frames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PartyHide"
       ]
     ]
   },
@@ -63979,6 +64051,21 @@
     "folders": [
       [
         "LowManaMooo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "33251",
+    "slug": "low-hp",
+    "name": "LowHP",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LowHP"
       ]
     ]
   },
@@ -78012,6 +78099,20 @@
   },
   {
     "source": "curse",
+    "id": "381654",
+    "slug": "phenomraidtools",
+    "name": "PhenomRaidTools",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PhenomRaidTools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20812",
     "slug": "phoenixstyle",
     "name": "PhoenixStyle",
@@ -85947,6 +86048,20 @@
     "folders": [
       [
         "RealQueues"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "305381",
+    "slug": "realistic-nights",
+    "name": "Realistic nights",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Realistic Nights"
       ]
     ]
   },
@@ -100722,6 +100837,20 @@
     "folders": [
       [
         "TempestLight"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "391669",
+    "slug": "templar-prio",
+    "name": "Templar Prio",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TemplarPrio"
       ]
     ]
   },
@@ -214808,8 +214937,7 @@
     ],
     "folders": [
       [
-        "BtWQuests",
-        "BtWQuestsBattleForAzeroth"
+        "BtWQuests"
       ]
     ]
   },
