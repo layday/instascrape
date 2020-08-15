@@ -33276,6 +33276,20 @@
   },
   {
     "source": "curse",
+    "id": "401033",
+    "slug": "ezpoolsize",
+    "name": "EZPoolSize",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EZPoolSize"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "324054",
     "slug": "ezquest",
     "name": "EZQuest",
@@ -33381,7 +33395,6 @@
     "slug": "easy-channel",
     "name": "Easy Channel",
     "compatibility": [
-      "classic",
       "retail"
     ],
     "folders": [
@@ -81513,6 +81526,24 @@
   },
   {
     "source": "curse",
+    "id": "319411",
+    "slug": "quest-cinematic",
+    "name": "Queso",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "Queso Classic"
+      ],
+      [
+        "Queso"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "3607",
     "slug": "quest-announce-3",
     "name": "Quest Announce 3",
@@ -125422,7 +125453,9 @@
     ],
     "folders": [
       [
-        "Pawn"
+        "",
+        "Textures",
+        "VgerCore"
       ]
     ]
   },
@@ -214972,7 +215005,8 @@
     ],
     "folders": [
       [
-        "BtWQuests"
+        "BtWQuests",
+        "BtWQuestsBattleForAzeroth"
       ]
     ]
   },
@@ -227727,6 +227761,36 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25647",
+    "slug": "",
+    "name": "TinyTooltip For 9.0.1",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "TinyTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25648",
+    "slug": "",
+    "name": "TinyInspect For 9.0.1",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "TinyInspect"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -227981,6 +228045,16 @@
     "id": "15",
     "slug": "",
     "name": "ElvUI ChannelAlerts",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "182",
+    "slug": "",
+    "name": "ElvUI Chat Panel AutoHide",
     "compatibility": [
       "retail"
     ],
