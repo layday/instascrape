@@ -3585,6 +3585,26 @@
         "DataStore_Quests",
         "DataStore_Reputations",
         "DataStore"
+      ],
+      [
+        "Altoholic",
+        "Altoholic_Agenda",
+        "Altoholic_Characters",
+        "Altoholic_Grids",
+        "Altoholic_Guild",
+        "Altoholic_Search",
+        "Altoholic_Summary",
+        "DataStore_Agenda",
+        "DataStore_Auctions",
+        "DataStore_Characters",
+        "DataStore_Containers",
+        "DataStore_Crafts",
+        "DataStore_Inventory",
+        "DataStore_Mails",
+        "DataStore_Quests",
+        "DataStore_Reputations",
+        "DataStore_Talents",
+        "DataStore"
       ]
     ]
   },
@@ -36134,6 +36154,20 @@
     "folders": [
       [
         "EnemyPlayerTracking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "384994",
+    "slug": "enemy-spellcast-counter",
+    "name": "Enemy Spellcast Counter",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EnemySpellcastCounter"
       ]
     ]
   },
@@ -81597,6 +81631,10 @@
       ],
       [
         "Queso"
+      ],
+      [
+        "Immersion",
+        "Queso"
       ]
     ]
   },
@@ -92936,7 +92974,8 @@
     "slug": "simple-threat-plates",
     "name": "Simple Threat Plates",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -109243,6 +109282,20 @@
   },
   {
     "source": "curse",
+    "id": "401759",
+    "slug": "wfgowhoosh",
+    "name": "WFGoWhoosh",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WFGoWhoosh"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "94717",
     "slug": "wheirloomlist",
     "name": "WHeirloomList",
@@ -112198,6 +112251,20 @@
     "folders": [
       [
         "Worgenius"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "401733",
+    "slug": "work-cooldown-tracker",
+    "name": "Work Cooldown Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "workCooldownTracker"
       ]
     ]
   },
@@ -227873,6 +227940,21 @@
     "folders": [
       [
         "ValhallaGuildTools"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25654",
+    "slug": "",
+    "name": "zz_Quest",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "zz_Quest"
       ]
     ]
   },
