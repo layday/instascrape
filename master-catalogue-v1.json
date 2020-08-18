@@ -7925,6 +7925,20 @@
   },
   {
     "source": "curse",
+    "id": "402897",
+    "slug": "autogem",
+    "name": "AutoGem",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoGem"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87894",
     "slug": "autogeneralchat",
     "name": "AutoGeneralChat",
@@ -8971,6 +8985,20 @@
   },
   {
     "source": "curse",
+    "id": "402406",
+    "slug": "azerpug-instanceutility-checklist",
+    "name": "AzerPUG-InstanceUtility-CheckList",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AzerPUG-InstanceUtility-CheckList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "401378",
     "slug": "azerpug-instanceutility-core",
     "name": "AzerPUG-InstanceUtility-Core",
@@ -8979,7 +9007,21 @@
     ],
     "folders": [
       [
-        "AzerPUG Instance Utility"
+        "AzerPUG-InstanceUtility-Core"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402935",
+    "slug": "azerpug-instanceutility-readycheck",
+    "name": "AzerPUG-InstanceUtility-ReadyCheck",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AzerPUG-InstanceUtility-ReadyCheck"
       ]
     ]
   },
@@ -13049,6 +13091,20 @@
     "folders": [
       [
         "BigWigs_Voice_FR"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402180",
+    "slug": "bigwigs-voice-korean",
+    "name": "BigWigs Voice (KR)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_Voice"
       ]
     ]
   },
@@ -25183,6 +25239,20 @@
   },
   {
     "source": "curse",
+    "id": "402367",
+    "slug": "copymog",
+    "name": "CopyMog",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CopyMog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "301203",
     "slug": "copypasta",
     "name": "CopyPasta",
@@ -35878,6 +35948,20 @@
   },
   {
     "source": "curse",
+    "id": "323854",
+    "slug": "emote-magic-classic",
+    "name": "Emote Magic Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EmoteMagicClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "100713",
     "slug": "emote-splitter",
     "name": "Emote Splitter",
@@ -38122,6 +38206,20 @@
     "folders": [
       [
         "FakeItemLinks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402362",
+    "slug": "fake-keystones",
+    "name": "Fake Keystones",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Fake_Keystones"
       ]
     ]
   },
@@ -42539,6 +42637,20 @@
     "folders": [
       [
         "Carbonite.Gathermate2_Data"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402881",
+    "slug": "gathermate2_dbbrowser",
+    "name": "GatherMate2_DbBrowser",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GatherMate2_DbBrowser"
       ]
     ]
   },
@@ -59034,20 +59146,6 @@
   },
   {
     "source": "curse",
-    "id": "307322",
-    "slug": "funny-quotes-translator",
-    "name": "Language Translator",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "FunnyQuotesTranslator"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "15974",
     "slug": "languagecycle",
     "name": "LanguageCycle",
@@ -59305,20 +59403,6 @@
     "folders": [
       [
         "LazyJukeBox"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "302174",
-    "slug": "lazyspecs",
-    "name": "LazySpecs",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "LazySpecs"
       ]
     ]
   },
@@ -64086,6 +64170,20 @@
     "folders": [
       [
         "LostKeys"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402615",
+    "slug": "lost-rabbits-prio-blau",
+    "name": "Lost Rabbits Prio Blau",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LostRabbitsPrio"
       ]
     ]
   },
@@ -70565,6 +70663,20 @@
     "folders": [
       [
         "MovePadPlus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402280",
+    "slug": "movestandardframe",
+    "name": "MoveStandardFrame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MoveStandardFrame"
       ]
     ]
   },
@@ -86411,6 +86523,20 @@
   },
   {
     "source": "curse",
+    "id": "402909",
+    "slug": "recipe-searching",
+    "name": "Recipe searching",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "recipeSearching"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "280290",
     "slug": "recipelinkfix",
     "name": "RecipeLinkFix",
@@ -97266,6 +97392,20 @@
   },
   {
     "source": "curse",
+    "id": "302174",
+    "slug": "statprioritytracker-retail",
+    "name": "StatPriorityTracker-Retail",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StatPriorityTracker_Retail"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "345723",
     "slug": "statrack",
     "name": "StatRack",
@@ -99641,6 +99781,20 @@
   },
   {
     "source": "curse",
+    "id": "402339",
+    "slug": "tsm-popup-hider",
+    "name": "TSM Popup Hider",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TSMPopupHider"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "367548",
     "slug": "tthide",
     "name": "TTHide",
@@ -101141,6 +101295,20 @@
     "folders": [
       [
         "TFTB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402573",
+    "slug": "the-brimstone-order-loot-priority",
+    "name": "The Brimstone Order Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TBO_Loot_Priority"
       ]
     ]
   },
@@ -110961,20 +111129,6 @@
     "folders": [
       [
         "WTFrames"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "307327",
-    "slug": "raid-or-group-wipe-fault",
-    "name": "Who's the Baddie?",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "RaidWipeFault"
       ]
     ]
   },
@@ -227955,6 +228109,21 @@
     "folders": [
       [
         "zz_Quest"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25655",
+    "slug": "",
+    "name": "BtWQuests: Shadowlands",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BtWQuestsShadowlands"
       ]
     ]
   },
