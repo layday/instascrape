@@ -17590,6 +17590,20 @@
   },
   {
     "source": "curse",
+    "id": "352620",
+    "slug": "bufftimers",
+    "name": "Buff Timers",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BuffTimers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "349856",
     "slug": "buffomat",
     "name": "Buff'o'mat",
@@ -17697,20 +17711,6 @@
     "folders": [
       [
         "BuffMe"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "352620",
-    "slug": "bufftimers",
-    "name": "BuffTimers",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "BuffTimers"
       ]
     ]
   },
@@ -25497,6 +25497,20 @@
   },
   {
     "source": "curse",
+    "id": "382449",
+    "slug": "countdown-loot-priority",
+    "name": "Countdown Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Countdown_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "373746",
     "slug": "counterspellalert",
     "name": "CounterspellAlert",
@@ -28987,21 +29001,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -29015,6 +29014,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -63780,6 +63794,20 @@
   },
   {
     "source": "curse",
+    "id": "402978",
+    "slug": "lootrollledger",
+    "name": "LootRollLedger",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LootRollLedger"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "17488",
     "slug": "lootrollmover",
     "name": "LootRollMover",
@@ -72205,6 +72233,7 @@
     "slug": "ndui_plus",
     "name": "NDui_Plus",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -73433,6 +73462,21 @@
     "folders": [
       [
         "NightRaider"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "401135",
+    "slug": "nightlight",
+    "name": "Nightlight",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NightLight"
       ]
     ]
   },
@@ -108285,20 +108329,6 @@
   },
   {
     "source": "curse",
-    "id": "382449",
-    "slug": "vanilla-veterans-loot-priority",
-    "name": "Vanilla Veterans Loot Priority",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "VanillaVeterans_Loot_Priority"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "262852",
     "slug": "vantus-rune-checker",
     "name": "Vantus Rune Checker",
@@ -109445,20 +109475,6 @@
     "folders": [
       [
         "WEmote"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "401759",
-    "slug": "wfgowhoosh",
-    "name": "WFGoWhoosh",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "WFGoWhoosh"
       ]
     ]
   },
@@ -114458,6 +114474,9 @@
     "folders": [
       [
         "Zadrot AutoRes"
+      ],
+      [
+        "Zadrot_AutoRes"
       ]
     ]
   },
@@ -114472,6 +114491,21 @@
     "folders": [
       [
         "Zadrot AutoTrain"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "402225",
+    "slug": "dps",
+    "name": "Zadrot Damage Meter",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Zadrot_DamageMeter"
       ]
     ]
   },
@@ -229152,6 +229186,16 @@
     "id": "13",
     "slug": "",
     "name": "BenikUI Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "45",
+    "slug": "",
+    "name": "CHS Addon Pack",
     "compatibility": [
       "classic"
     ],
