@@ -89111,14 +89111,12 @@
     "slug": "sp-timers",
     "name": "SPTimers",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "SPTimersSpellCache",
-        "SPTimers"
-      ],
-      [
         "SPTimers"
       ]
     ]
@@ -119083,7 +119081,7 @@
     "source": "curse",
     "id": "397053",
     "slug": "nameplatem",
-    "name": "namePlateM+",
+    "name": "namePlate M+",
     "compatibility": [
       "retail"
     ],
