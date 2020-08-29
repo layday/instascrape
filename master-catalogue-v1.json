@@ -453,6 +453,20 @@
   },
   {
     "source": "curse",
+    "id": "404958",
+    "slug": "a-bomb-azeroth-bombardier",
+    "name": "A-Bomb: Azeroth Bombardier",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "A-Bomb"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22862",
     "slug": "aav-atrox-arena-viewer",
     "name": "AAV - atrox Arena Viewer",
@@ -2464,6 +2478,20 @@
     "folders": [
       [
         "AdiBags_lootboxes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "404971",
+    "slug": "adibags-keystones",
+    "name": "AdiBags-Keystones",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "adibags_keystones"
       ]
     ]
   },
@@ -9248,8 +9276,8 @@
         "AAP-Test"
       ],
       [
-        "AAP-Shadowlands",
         "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
         "AAP-Core"
       ]
     ]
@@ -67810,6 +67838,20 @@
   },
   {
     "source": "curse",
+    "id": "405161",
+    "slug": "meefsmod",
+    "name": "MeefsMod",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MeefMod"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "258375",
     "slug": "meepmerp",
     "name": "MeepMerp",
@@ -74569,6 +74611,21 @@
     "folders": [
       [
         "Notes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "400633",
+    "slug": "noteworthy-ii",
+    "name": "Noteworthy II",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NoteworthyII"
       ]
     ]
   },
@@ -228646,6 +228703,21 @@
     "folders": [
       [
         "MorphSet"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25660",
+    "slug": "",
+    "name": "BtWQuests: Shadowlands Prologue",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BtWQuestsShadowlandsPrologue"
       ]
     ]
   },
