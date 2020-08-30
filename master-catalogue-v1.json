@@ -455,7 +455,7 @@
     "source": "curse",
     "id": "404958",
     "slug": "a-bomb-azeroth-bombardier",
-    "name": "A-Bomb: Azeroth Bombardier",
+    "name": "A-Bomb!  Azeroth Bombardier  (In-Flight Minigame)",
     "compatibility": [
       "classic"
     ],
@@ -29123,21 +29123,6 @@
       ],
       [
         "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -29151,6 +29136,21 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -47782,7 +47782,8 @@
     "slug": "guild-search",
     "name": "Guild Search",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -188100,7 +188101,7 @@
     "source": "wowi",
     "id": "21474",
     "slug": "",
-    "name": "oUF_Hank Fan Update for 8.0",
+    "name": "oUF_Hank Fan Update",
     "compatibility": [
       "retail",
       "classic"
@@ -228184,7 +228185,8 @@
     ],
     "folders": [
       [
-        "RoleplayChatBubbles"
+        "",
+        "button"
       ]
     ]
   },
