@@ -24389,6 +24389,9 @@
     "folders": [
       [
         "competitiontracker"
+      ],
+      [
+        "CompetitionTracker"
       ]
     ]
   },
@@ -41253,7 +41256,8 @@
     "slug": "friend-notes",
     "name": "Friend Notes",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -73258,20 +73262,6 @@
     "folders": [
       [
         "NeedyGreedy"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "90473",
-    "slug": "neeve",
-    "name": "Neeve",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Neeve"
       ]
     ]
   },
@@ -227631,7 +227621,7 @@
     ],
     "folders": [
       [
-        "WoW Reforged Icons 1.6.1"
+        "Reforged_Icons_Original 2.0.0"
       ]
     ]
   },
