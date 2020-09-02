@@ -454,7 +454,7 @@
   {
     "source": "curse",
     "id": "404958",
-    "slug": "a-bomb-azeroth-bombardier",
+    "slug": "a-bomb",
     "name": "A-Bomb!  Azeroth Bombardier  (In-Flight Minigame)",
     "compatibility": [
       "classic"
@@ -4746,6 +4746,20 @@
     "folders": [
       [
         "ArcaneThirst"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "405848",
+    "slug": "arcanist-classic",
+    "name": "Arcanist Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Arcanist"
       ]
     ]
   },
@@ -13623,6 +13637,20 @@
     "id": "303859",
     "slug": "chinese-voice-pack",
     "name": "Bigwigs Voice - Chinese voice pack (mandarin) by XF\u5915\u98ce",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BigWigs_Voice"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "405737",
+    "slug": "bigwigs-voice-chinese-voicepack-om",
+    "name": "Bigwigs Voice - Chinese voicepack (OldMan)",
     "compatibility": [
       "retail"
     ],
@@ -27312,6 +27340,20 @@
     "folders": [
       [
         "DBM-VPYike"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "405894",
+    "slug": "dbm-voicepack-oldman",
+    "name": "DBM Voicepack:OldMan",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPOldMan"
       ]
     ]
   },
@@ -42823,8 +42865,21 @@
     "slug": "gathermate2",
     "name": "GatherMate2",
     "compatibility": [
-      "classic",
       "retail"
+    ],
+    "folders": [
+      [
+        "GatherMate2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "405809",
+    "slug": "gathermate2-classic",
+    "name": "GatherMate2 Classic",
+    "compatibility": [
+      "classic"
     ],
     "folders": [
       [
@@ -63928,6 +63983,7 @@
     "slug": "lootfast2",
     "name": "LootFast2",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -64689,6 +64745,7 @@
     "slug": "luckycharms2",
     "name": "LuckyCharms2",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -113722,6 +113779,20 @@
         "WreckedBars_Roll",
         "WreckedBars",
         "WreckedUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "405542",
+    "slug": "wrong-cthun-planner",
+    "name": "WrongCthunPlanner",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WrongCthunPlanner"
       ]
     ]
   },
