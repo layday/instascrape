@@ -23079,6 +23079,7 @@
     "slug": "clicked",
     "name": "Clicked",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -44306,6 +44307,7 @@
     "slug": "glass",
     "name": "Glass",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
