@@ -1118,6 +1118,20 @@
   },
   {
     "source": "curse",
+    "id": "407154",
+    "slug": "abyssui-classic",
+    "name": "AbyssUI Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AbyssUIClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "89712",
     "slug": "acacia-boss-mod",
     "name": "Acac\u00efa Boss Mods",
@@ -9099,7 +9113,7 @@
   {
     "source": "curse",
     "id": "404673",
-    "slug": "azerpug-instanceutility-raidleading",
+    "slug": "azerpug-instanceutility-instanceleading",
     "name": "AzerPUG-InstanceUtility-InstanceLeading",
     "compatibility": [
       "retail"
@@ -18133,7 +18147,6 @@
     "slug": "busy-and-away",
     "name": "Busy and Away",
     "compatibility": [
-      "classic",
       "retail"
     ],
     "folders": [
@@ -45167,6 +45180,21 @@
   },
   {
     "source": "curse",
+    "id": "383888",
+    "slug": "goldgoblinloot",
+    "name": "GoldGoblinLoot",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoldGoblinLootArchive",
+        "GoldGoblinLoot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "30797",
     "slug": "goldloot",
     "name": "GoldLoot",
@@ -47257,8 +47285,7 @@
     "slug": "milksmuggler-tacticslol-guidelime",
     "name": "Guidelime Package by Milksmuggler and Tactics_lol",
     "compatibility": [
-      "classic",
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -47606,8 +47633,8 @@
   {
     "source": "curse",
     "id": "82308",
-    "slug": "guild-bank-tools",
-    "name": "Guild Bank Tools",
+    "slug": "guild-bank-snapshots",
+    "name": "Guild Bank Snapshots",
     "compatibility": [
       "retail"
     ],
@@ -60837,6 +60864,20 @@
     "folders": [
       [
         "LibAddonCompat-1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407139",
+    "slug": "libaddongui",
+    "name": "LibAddonGUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibAddonGUI"
       ]
     ]
   },
@@ -76630,6 +76671,20 @@
   },
   {
     "source": "curse",
+    "id": "407138",
+    "slug": "overbound",
+    "name": "Overbound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Overbound"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102953",
     "slug": "overdramatic-nightmare-edition",
     "name": "Overdramatic - Nightmare Edition",
@@ -84937,6 +84992,21 @@
   },
   {
     "source": "curse",
+    "id": "407267",
+    "slug": "raid-invites",
+    "name": "Raid Invites",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "RaidInvites"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "98718",
     "slug": "raid-lock-report",
     "name": "Raid Lock Report",
@@ -86812,6 +86882,20 @@
     "folders": [
       [
         "ReQuest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407211",
+    "slug": "restack",
+    "name": "ReStack",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ReStack"
       ]
     ]
   },
@@ -120438,6 +120522,20 @@
       [
         "oUF_LegionGrid_Config",
         "oUF_LegionGrid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407135",
+    "slug": "ouf_nameplates",
+    "name": "oUF_Nameplates",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "oUF_Nameplates"
       ]
     ]
   },
@@ -229290,6 +229388,21 @@
     "folders": [
       [
         "oUF_Nameplates"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25668",
+    "slug": "",
+    "name": "LibAddonGUI",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibAddonGUI"
       ]
     ]
   },
