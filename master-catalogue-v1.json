@@ -9346,8 +9346,8 @@
         "AAP-Test"
       ],
       [
-        "AAP-Shadowlands",
         "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
         "AAP-Core"
       ]
     ]
@@ -18147,6 +18147,7 @@
     "slug": "busy-and-away",
     "name": "Busy and Away",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -32775,8 +32776,8 @@
       ],
       [
         "DuffedUI_ConfigUI",
-        "Aurora",
-        "DuffedUI"
+        "DuffedUI",
+        "Aurora"
       ]
     ]
   },
@@ -50614,6 +50615,20 @@
   },
   {
     "source": "curse",
+    "id": "407315",
+    "slug": "healerrez",
+    "name": "HealerRez",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "healerRez"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "7976",
     "slug": "hgscontinued",
     "name": "Healing Groups Sucks Continued",
@@ -66757,6 +66772,20 @@
   },
   {
     "source": "curse",
+    "id": "407438",
+    "slug": "masque-blizz-bars",
+    "name": "Masque Blizz Bars",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MasqueBlizzBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "27778",
     "slug": "blizzbuffsfacade",
     "name": "Masque Skinner: Blizz Buffs",
@@ -70936,6 +70965,20 @@
     "folders": [
       [
         "MountedSFX"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "390088",
+    "slug": "mountie",
+    "name": "Mountie",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Mountie"
       ]
     ]
   },
@@ -76675,6 +76718,7 @@
     "slug": "overbound",
     "name": "Overbound",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -84973,6 +85017,20 @@
     "folders": [
       [
         "RaidGroupOrganizer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407014",
+    "slug": "raid-group-organizer-irony-extension",
+    "name": "Raid Group Organizer Irony Extension",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RgoIronyExtension"
       ]
     ]
   },
@@ -95386,6 +95444,20 @@
     "folders": [
       [
         "SmallFriendlyNameplates"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407212",
+    "slug": "smart-chat-fade",
+    "name": "Smart Chat Fade",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SmartChatFade"
       ]
     ]
   },
@@ -110553,6 +110625,7 @@
     "slug": "wim-skin-elvui",
     "name": "WIM Skin: ElvUI",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -229403,6 +229476,21 @@
     "folders": [
       [
         "LibAddonGUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25670",
+    "slug": "",
+    "name": "Overbound",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "Overbound"
       ]
     ]
   },
