@@ -9343,8 +9343,8 @@
         "Azeroth Auto Pilot"
       ],
       [
-        "AAP-EasternKingdoms",
         "AAP-Shadowlands",
+        "AAP-EasternKingdoms",
         "AAP-Core"
       ]
     ]
@@ -25855,6 +25855,20 @@
   },
   {
     "source": "curse",
+    "id": "407479",
+    "slug": "cpt-stadics-map-of-vendor-treasures",
+    "name": "Cpt. Stadics' Vendor Treasures",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CptStadicsVendorTreasures"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "28794",
     "slug": "crackcooldown",
     "name": "CrackCooldown",
@@ -30861,6 +30875,7 @@
     "folders": [
       [
         "Details_CastHistory",
+        "Details_DataStorage",
         "Details_EncounterDetails",
         "Details_Streamer",
         "Details"
@@ -58020,6 +58035,20 @@
   },
   {
     "source": "curse",
+    "id": "407692",
+    "slug": "khesyc-mount",
+    "name": "Khes'yc Mount",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Khesyc_Mount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "103142",
     "slug": "khiohud",
     "name": "KhioHud (Bandaid lite)",
@@ -82678,10 +82707,6 @@
     "folders": [
       [
         "Queso Classic"
-      ],
-      [
-        "Immersion",
-        "Queso"
       ],
       [
         "Queso"
@@ -229573,6 +229598,21 @@
     "folders": [
       [
         "LFG_Finder"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25674",
+    "slug": "",
+    "name": "Clickzz",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Clickzz"
       ]
     ]
   },
