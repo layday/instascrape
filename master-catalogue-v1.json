@@ -15933,6 +15933,20 @@
   },
   {
     "source": "curse",
+    "id": "407948",
+    "slug": "broker-recount",
+    "name": "Broker Recount",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Broker_Recount"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "24699",
     "slug": "broker-runspeed",
     "name": "Broker RunSpeed",
@@ -20893,20 +20907,6 @@
     "folders": [
       [
         "ChatMod2"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "406464",
-    "slug": "chatpanel",
-    "name": "ChatPanel",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ChatPanel"
       ]
     ]
   },
@@ -47336,6 +47336,20 @@
   },
   {
     "source": "curse",
+    "id": "407977",
+    "slug": "guidelime-rogue-hardcore-speedrun-route-by",
+    "name": "Guidelime Rogue Hardcore Speedrun Route by Tactics_lol",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Guidelime_Milksmuggler_HC"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "335852",
     "slug": "guidelime-busteas-1-60-leveling",
     "name": "Guidelime_Bustea's 1-60 Horde Leveling Guide",
@@ -48712,20 +48726,6 @@
     "folders": [
       [
         "GBS"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "353296",
-    "slug": "tranqrotate",
-    "name": "Guillaume Chopelet",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "TranqRotate"
       ]
     ]
   },
@@ -51301,6 +51301,20 @@
     "folders": [
       [
         "HIP_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408029",
+    "slug": "hip-cthun",
+    "name": "HiP-Cthun",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HiPCthunPlanner"
       ]
     ]
   },
@@ -71267,7 +71281,8 @@
     "slug": "mouselookhandler",
     "name": "MouselookHandler (Mouse Look)",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -79532,6 +79547,20 @@
     "folders": [
       [
         "PingSnitch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407868",
+    "slug": "pingannouncer",
+    "name": "PingAnnouncer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PingAnnouncer"
       ]
     ]
   },
@@ -90774,7 +90803,6 @@
         "Scorpio"
       ],
       [
-        "Scorpio.MVC",
         "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
@@ -107708,6 +107736,20 @@
   },
   {
     "source": "curse",
+    "id": "353296",
+    "slug": "tranqrotate",
+    "name": "TranqRotate",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "TranqRotate"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "27295",
     "slug": "tranqshotmonitor",
     "name": "TranqShotMonitor",
@@ -114431,7 +114473,7 @@
   {
     "source": "curse",
     "id": "355170",
-    "slug": "xtranqmanager",
+    "slug": "easy-and-lazy-tranq-shot-announcer",
     "name": "X Tranq Manager",
     "compatibility": [
       "classic"
@@ -229613,6 +229655,36 @@
     "folders": [
       [
         "Clickzz"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25675",
+    "slug": "",
+    "name": "PingAnnouncer",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PingAnnouncer"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25676",
+    "slug": "",
+    "name": "MouselookHandler",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MouselookHandler"
       ]
     ]
   },
