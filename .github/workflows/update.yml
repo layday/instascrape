@@ -7,6 +7,14 @@ on:
 jobs:
   update:
     runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        catalogue:
+        - version: v1
+          ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
+        - version: v2
+          ref: ''
     steps:
     - name: Check-out the data branch
       uses: actions/checkout@v2
@@ -16,9 +24,10 @@ jobs:
       uses: actions/checkout@v2
       with:
         repository: layday/instawow
+        ref: ${{ matrix.catalogue.ref }}
         path: instawow
     - name: Install Python
-      uses: actions/setup-python@v1
+      uses: actions/setup-python@v2
       with:
         python-version: '3.7'
     - name: Install instawow
@@ -26,10 +35,10 @@ jobs:
         python -m pip install ./instawow
     - name: Generate the catalogues
       run: |
-        python -m instawow generate-catalogue master-catalogue-v1.json
+        python -m instawow generate-catalogue master-catalogue-${{ matrix.catalogue.version }}.json
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Update master catalogue
         branch: data
-        file_pattern: master-catalogue-v1*.json
+        file_pattern: master-catalogue-*.json
