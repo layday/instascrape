@@ -25939,6 +25939,21 @@
   },
   {
     "source": "curse",
+    "id": "20253",
+    "slug": "crafthelper",
+    "name": "Crafthelper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Crafthelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102614",
     "slug": "crafting-filters",
     "name": "Crafting Filters",
@@ -32991,6 +33006,21 @@
     "folders": [
       [
         "DungeonOrganizer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "407491",
+    "slug": "dungeonhelper2",
+    "name": "DungeonHelper2",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DungeonHelper2"
       ]
     ]
   },
@@ -67257,6 +67287,20 @@
   },
   {
     "source": "curse",
+    "id": "407999",
+    "slug": "masque-hex",
+    "name": "Masque: Hex",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "masque-hex"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88583",
     "slug": "masque-imoen",
     "name": "Masque: Imoen",
@@ -77996,6 +78040,20 @@
   },
   {
     "source": "curse",
+    "id": "408041",
+    "slug": "pepe-collection",
+    "name": "Pepe Collection",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PepeCollection"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "256664",
     "slug": "pepebuddy",
     "name": "PepeBuddy",
@@ -80847,6 +80905,20 @@
     "folders": [
       [
         "PowerInterface"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408202",
+    "slug": "powershiftconsumable",
+    "name": "PowerShiftConsumable",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PowerShiftConsumable"
       ]
     ]
   },
@@ -85138,20 +85210,6 @@
     "folders": [
       [
         "RaidGroupOrganizer"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "407014",
-    "slug": "raid-group-organizer-irony-extension",
-    "name": "Raid Group Organizer Irony Extension",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "RgoIronyExtension"
       ]
     ]
   },
@@ -119281,6 +119339,21 @@
     "folders": [
       [
         "idTweaks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408116",
+    "slug": "iddqd-loot-priority",
+    "name": "iddqd loot priority",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "iddqd_Loot_Priority"
       ]
     ]
   },
