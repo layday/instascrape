@@ -31,11 +31,19 @@ jobs:
       with:
         python-version: '3.7'
     - name: Install instawow
-      run: |
+      run: >
         python -m pip install ./instawow
-    - name: Generate the catalogues
-      run: |
-        python -m instawow generate-catalogue master-catalogue-${{ matrix.catalogue.version }}.json
+    - name: Generate ${{ matrix.catalogue.version }} catalogue
+      run: >-
+        python -m instawow
+        generate-catalogue master-catalogue-${{ matrix.catalogue.version }}.json
+      if: ${{ matrix.catalogue.version == 'v1' }}
+    - name: Generate ${{ matrix.catalogue.version }} catalogue
+      run: >-
+        python -m instawow
+        generate-catalogue master-catalogue-${{ matrix.catalogue.version }}.json
+        --age-cutoff 2016-08-09T00:00:00+00:00
+      if: ${{ matrix.catalogue.version == 'v2' }}
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
