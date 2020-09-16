@@ -24983,6 +24983,20 @@
   },
   {
     "source": "curse",
+    "id": "408342",
+    "slug": "consequence-flightmaster",
+    "name": "Consequence - Flightmaster",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Consequence-Flightmaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "384457",
     "slug": "consequence-raid-sorter",
     "name": "Consequence - Raid Sorter",
@@ -50178,14 +50192,13 @@
     "source": "curse",
     "id": "345781",
     "slug": "handynotes-syds-chest-addon",
-    "name": "HandyNotes_Syd'sChestAddOn",
+    "name": "HandyNotes_Syd'sWitheredChestsAddOn",
     "compatibility": [
-      "classic",
       "retail"
     ],
     "folders": [
       [
-        "HandyNotes_WitheredChests"
+        "HandyNotes_Syd'sWitheredChests"
       ]
     ]
   },
