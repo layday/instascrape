@@ -15,6 +15,7 @@ jobs:
           ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
         - version: v2
           ref: ''
+      max-parallel: 1
     steps:
     - name: Check-out the data branch
       uses: actions/checkout@v2
