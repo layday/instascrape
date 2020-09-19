@@ -9357,8 +9357,8 @@
         "Azeroth Auto Pilot"
       ],
       [
-        "AAP-Shadowlands",
         "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
         "AAP-Core"
       ]
     ]
@@ -30931,6 +30931,7 @@
     ],
     "folders": [
       [
+        "Details_AdvancedPlayerBreakdown",
         "Details_CastHistory",
         "Details_DataStorage",
         "Details_EncounterDetails",
@@ -34306,6 +34307,20 @@
     "folders": [
       [
         "EasyGroupFinder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408671",
+    "slug": "easyinvites",
+    "name": "EasyInvites",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EasyInvites"
       ]
     ]
   },
@@ -38804,6 +38819,20 @@
     "folders": [
       [
         "FamilyFighter_Tacker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408507",
+    "slug": "fancydinganimation",
+    "name": "FancyDingAnimation",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CoolLevelUp"
       ]
     ]
   },
@@ -85232,7 +85261,8 @@
     "slug": "raid-frames-fader",
     "name": "Raid Frames Fader",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -85265,6 +85295,20 @@
     "folders": [
       [
         "RaidGroupOrganizer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408619",
+    "slug": "raid-icon-marker",
+    "name": "Raid Icon Marker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidIconMarker"
       ]
     ]
   },
@@ -122006,6 +122050,20 @@
     "folders": [
       [
         "vUI_MemoryDataText"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408768",
+    "slug": "vui-minimap-button",
+    "name": "vUI Minimap Button",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "vUI_Button"
       ]
     ]
   },
@@ -229863,7 +229921,7 @@
     "source": "wowi",
     "id": "25679",
     "slug": "",
-    "name": "Specialization Specific Keybinds",
+    "name": "Specialization Specific Keybinds (alpha)",
     "compatibility": [
       "retail",
       "classic"
@@ -229871,6 +229929,36 @@
     "folders": [
       [
         "SpecSpecificKeybinds"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25680",
+    "slug": "",
+    "name": "AltReps",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AltReps"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25681",
+    "slug": "",
+    "name": "HearthRoulette",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HearthRoulette"
       ]
     ]
   },
@@ -230608,7 +230696,7 @@
     "source": "tukui",
     "id": "143",
     "slug": "",
-    "name": "SkullFlower UI",
+    "name": "Skullflower UI",
     "compatibility": [
       "retail"
     ],
