@@ -11087,6 +11087,20 @@
   },
   {
     "source": "curse",
+    "id": "408051",
+    "slug": "banking-tools",
+    "name": "Banking Tools",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Banking-Tools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "91590",
     "slug": "banner-banner",
     "name": "Banner Banner",
@@ -27351,6 +27365,20 @@
     "folders": [
       [
         "DBM-VPKimnaa324"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408843",
+    "slug": "dbm-voicepack-korean-female-fallinlove",
+    "name": "DBM Voicepack Korean Female FallInLove (\uce58\uc720\ube5b)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPFallInLove"
       ]
     ]
   },
@@ -65312,6 +65340,20 @@
   },
   {
     "source": "curse",
+    "id": "408908",
+    "slug": "ludwig-goes-down",
+    "name": "Ludwig Goes Down",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LudwigGoesDown"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13156",
     "slug": "luggage",
     "name": "Luggage",
@@ -82644,6 +82686,20 @@
   },
   {
     "source": "curse",
+    "id": "408819",
+    "slug": "qiraji-loot-reminder",
+    "name": "Qiraji Loot Reminder",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Qiraji_Loot_Reminder"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "91989",
     "slug": "qpop",
     "name": "Qpop",
@@ -87016,7 +87072,8 @@
     "slug": "raven",
     "name": "Raven",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -90461,6 +90518,20 @@
     "folders": [
       [
         "Salty Spitoon InviteHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408862",
+    "slug": "salvaway",
+    "name": "SalvAway",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SalvAway"
       ]
     ]
   },
@@ -109234,6 +109305,21 @@
   },
   {
     "source": "curse",
+    "id": "408735",
+    "slug": "unit-tooltip-upgrade",
+    "name": "Unit Tooltip Upgrade",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "UnitTooltipUpgrade"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "14858",
     "slug": "project-14858",
     "name": "UnitActionBars",
@@ -113736,7 +113822,7 @@
     "source": "curse",
     "id": "34192",
     "slug": "quest-translator",
-    "name": "WoWpoPolsku-Quests (cont. Quest Translator)",
+    "name": "WoWpoPolsku-Quests",
     "compatibility": [
       "retail",
       "classic"
@@ -173050,7 +173136,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 8.17 2020-08-18",
+    "name": "WoWpoPolsku-Quests 8.17 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -217020,7 +217106,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 8.10 2020-08-18",
+    "name": "WoWpoPolsku-Bubbles 8.10 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -223265,7 +223351,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-08-18",
+    "name": "WoWpoPolsku-Quests Classic 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -223347,7 +223433,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-08-18",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -229032,7 +229118,7 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 8.04 2020-08-18",
+    "name": "WoWpoPolsku-Movies (subtitles) 8.04 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -229077,7 +229163,7 @@
     "source": "wowi",
     "id": "25607",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-08-18",
+    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-09-19",
     "compatibility": [
       "retail",
       "classic"
@@ -229959,6 +230045,66 @@
     "folders": [
       [
         "HearthRoulette"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25682",
+    "slug": "",
+    "name": "WoWpoPolsku-Quests 9.00 2020-09-19",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25683",
+    "slug": "",
+    "name": "WoWpoPolsku-Bubbles 9.00 2020-09-19",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Bubbles"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25684",
+    "slug": "",
+    "name": "WoWpoPolsku-Movies (subtitles) 9.00 2020-09-19",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWpoPolsku_Movies"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25685",
+    "slug": "",
+    "name": "Elevator Taxi",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ElevatorTaxi"
       ]
     ]
   },
