@@ -87072,8 +87072,7 @@
     "slug": "raven",
     "name": "Raven",
     "compatibility": [
-      "retail",
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -216435,8 +216434,7 @@
     ],
     "folders": [
       [
-        "KkthnxUI",
-        "KkthnxUI_Config"
+        "KkthnxUI"
       ]
     ]
   },
@@ -230105,6 +230103,21 @@
     "folders": [
       [
         "ElevatorTaxi"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25686",
+    "slug": "",
+    "name": "LibMemoize",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibMemoize-2.0"
       ]
     ]
   },
