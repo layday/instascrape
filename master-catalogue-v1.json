@@ -57658,6 +57658,20 @@
   },
   {
     "source": "curse",
+    "id": "408988",
+    "slug": "kayle-league-of-legends-voice-pack-paladin-female",
+    "name": "Kayle - League of Legends voice pack / Paladin Female",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Kayle_Paladin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "354296",
     "slug": "kaymonscloset",
     "name": "KaymonsCloset",
@@ -58392,6 +58406,20 @@
   },
   {
     "source": "curse",
+    "id": "409325",
+    "slug": "killthemall-neltharion",
+    "name": "KillThemAll Neltharion",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KillThemAll_Neltharion"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "327122",
     "slug": "killthemall_aluneth",
     "name": "KillThemAll_Aluneth",
@@ -58849,6 +58877,9 @@
     "folders": [
       [
         "KkthnxUI_Config",
+        "KkthnxUI"
+      ],
+      [
         "KkthnxUI"
       ]
     ]
@@ -64370,6 +64401,20 @@
     "folders": [
       [
         "LootToasts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409079",
+    "slug": "loot-tracker",
+    "name": "Loot Tracker",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "LootTracker"
       ]
     ]
   },
@@ -79652,6 +79697,20 @@
   },
   {
     "source": "curse",
+    "id": "409059",
+    "slug": "pickuproll",
+    "name": "PickUpRoll",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "PickUpRoll"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "295784",
     "slug": "pickpocketeer",
     "name": "Pickpocketeer",
@@ -83773,9 +83832,6 @@
     ],
     "folders": [
       [
-        "ArenaSound"
-      ],
-      [
         "QueueSound"
       ]
     ]
@@ -87653,6 +87709,20 @@
     "folders": [
       [
         "RealmHider"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409124",
+    "slug": "realmlang",
+    "name": "RealmLang",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RealmLang"
       ]
     ]
   },
@@ -102557,20 +102627,6 @@
     "folders": [
       [
         "TempestLight"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "391669",
-    "slug": "templar-prio",
-    "name": "Templar Prio",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "TemplarPrio"
       ]
     ]
   },
@@ -122144,7 +122200,8 @@
     "slug": "vui-minimap-button",
     "name": "vUI Minimap Button",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -122781,9 +122838,6 @@
       "retail"
     ],
     "folders": [
-      [
-        "zPets"
-      ],
       [
         "zCombat",
         "zPets"
@@ -230118,6 +230172,36 @@
     "folders": [
       [
         "LibMemoize-2.0"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25687",
+    "slug": "",
+    "name": "ElvUI_WindTools",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ElvUI_WindTools"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25688",
+    "slug": "",
+    "name": "Minimal Head Frame",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Minimal Head Frame"
       ]
     ]
   },
