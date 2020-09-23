@@ -4607,20 +4607,6 @@
   },
   {
     "source": "curse",
-    "id": "379136",
-    "slug": "applebandit-standby-loot",
-    "name": "Applebandit Standby Loot",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Applebandit_Standby_Loot"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "280790",
     "slug": "aptechka",
     "name": "Aptechka",
@@ -23155,6 +23141,20 @@
   },
   {
     "source": "curse",
+    "id": "409457",
+    "slug": "cleverpet",
+    "name": "CleverPet",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CleverPet"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "302157",
     "slug": "clicklinks",
     "name": "Click Links",
@@ -31817,6 +31817,20 @@
     "folders": [
       [
         "Dispeller"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409456",
+    "slug": "displaydungeon",
+    "name": "DisplayDungeon",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DisplayDungeon"
       ]
     ]
   },
@@ -67663,7 +67677,8 @@
     "slug": "masque-serenity",
     "name": "Masque: Serenity",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -81313,6 +81328,20 @@
   },
   {
     "source": "curse",
+    "id": "408587",
+    "slug": "premade-group",
+    "name": "Premade Group",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PremadeGroup"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "91733",
     "slug": "premade-group-finder",
     "name": "Premade Group Finder",
@@ -85224,6 +85253,20 @@
     "folders": [
       [
         "RaidAttendanceTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409297",
+    "slug": "raid-attendance-tracker-classic-rat",
+    "name": "Raid Attendance Tracker Classic - (RAT)",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "RaidAttendanceTrackerClassic"
       ]
     ]
   },
@@ -99031,6 +99074,20 @@
     "folders": [
       [
         "Stay_Dead"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408854",
+    "slug": "steasummon",
+    "name": "SteaSummon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SteaSummon"
       ]
     ]
   },
@@ -159260,8 +159317,7 @@
     ],
     "folders": [
       [
-        "PetEmote",
-        "__MACOSX"
+        "PetEmote"
       ]
     ]
   },
@@ -228196,21 +228252,6 @@
   },
   {
     "source": "wowi",
-    "id": "25517",
-    "slug": "",
-    "name": "oUF_TankResourceBar",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "oUF_TankResourceBar"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "25520",
     "slug": "",
     "name": "Mute Screech",
@@ -230202,6 +230243,36 @@
     "folders": [
       [
         "Minimal Head Frame"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25689",
+    "slug": "",
+    "name": "CleverPet",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "CleverPet"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25690",
+    "slug": "",
+    "name": "DisplayDungeon",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DisplayDungeon"
       ]
     ]
   },
