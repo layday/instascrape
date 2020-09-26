@@ -6052,6 +6052,20 @@
   },
   {
     "source": "curse",
+    "id": "409767",
+    "slug": "aspect-of-the-hunter",
+    "name": "Aspect Of The Hunter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AspectOfTheHunter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101023",
     "slug": "aspect_off",
     "name": "Aspect Off",
@@ -9357,8 +9371,8 @@
         "Azeroth Auto Pilot"
       ],
       [
-        "AAP-EasternKingdoms",
         "AAP-Shadowlands",
+        "AAP-EasternKingdoms",
         "AAP-Core"
       ]
     ]
@@ -13822,6 +13836,20 @@
     "folders": [
       [
         "BindPad"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "24984",
+    "slug": "binder",
+    "name": "Binder",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Binder"
       ]
     ]
   },
@@ -28222,7 +28250,7 @@
     "source": "curse",
     "id": "409653",
     "slug": "dunitframes",
-    "name": "DUnitFrames (Big Healthbar)",
+    "name": "DUnitFrames",
     "compatibility": [
       "retail",
       "classic"
@@ -36129,6 +36157,20 @@
     "folders": [
       [
         "ElvUI_ExtraDataTexts_Classic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409762",
+    "slug": "elvui_gba",
+    "name": "ElvUI_GBA",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_GBA"
       ]
     ]
   },
@@ -45793,6 +45835,20 @@
   },
   {
     "source": "curse",
+    "id": "409373",
+    "slug": "grandmail",
+    "name": "GrandMail",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GrandMail"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "372817",
     "slug": "grats-mosin",
     "name": "Grats Mosin",
@@ -49202,6 +49258,20 @@
     "folders": [
       [
         "hagakure_cooldowns"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409539",
+    "slug": "halfhill-farmers",
+    "name": "Halfhill Farmers",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TillerTracker"
       ]
     ]
   },
@@ -54998,7 +55068,8 @@
     "slug": "inputlagfix",
     "name": "InputLagFix",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -57159,20 +57230,6 @@
     "folders": [
       [
         "Joke"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "24984",
-    "slug": "binder",
-    "name": "Jordan Taylor",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Binder"
       ]
     ]
   },
@@ -65737,6 +65794,20 @@
     "folders": [
       [
         "MDTGuide"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409781",
+    "slug": "mdx_auto-macro",
+    "name": "MDX_Auto Macro",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MDX_Auto Macro"
       ]
     ]
   },
@@ -90182,6 +90253,20 @@
   },
   {
     "source": "curse",
+    "id": "409828",
+    "slug": "rune-hero",
+    "name": "Rune-Hero",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RuneHero"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19392",
     "slug": "runeitall",
     "name": "Rune-It-All",
@@ -100710,6 +100795,20 @@
     "folders": [
       [
         "Surprise"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409820",
+    "slug": "surrender",
+    "name": "Surrender /Command",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Surrender"
       ]
     ]
   },
