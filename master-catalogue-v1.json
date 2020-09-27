@@ -9371,8 +9371,8 @@
         "Azeroth Auto Pilot"
       ],
       [
-        "AAP-Shadowlands",
         "AAP-EasternKingdoms",
+        "AAP-Shadowlands",
         "AAP-Core"
       ]
     ]
@@ -75171,6 +75171,20 @@
     "folders": [
       [
         "NoMoreGryphons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408799",
+    "slug": "nomultishots",
+    "name": "NoMultishots",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "NoMultishots"
       ]
     ]
   },
@@ -221422,7 +221436,7 @@
     ],
     "folders": [
       [
-        "Interface"
+        "AbyssUIClassic"
       ]
     ]
   },
