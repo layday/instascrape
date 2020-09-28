@@ -37930,7 +37930,7 @@
   {
     "source": "curse",
     "id": "50218",
-    "slug": "dispatch-flasher",
+    "slug": "execute-range",
     "name": "Execute Range",
     "compatibility": [
       "retail"
@@ -54656,7 +54656,7 @@
     "source": "curse",
     "id": "389753",
     "slug": "improved-ui",
-    "name": "Improved Ui",
+    "name": "Improved Ui (will be replaced, see description)",
     "compatibility": [
       "retail",
       "classic"
@@ -68814,6 +68814,20 @@
     "folders": [
       [
         "MegaDamage"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "410116",
+    "slug": "mega-macro",
+    "name": "Mega\u00a0Macro",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MegaMacro"
       ]
     ]
   },
@@ -231045,16 +231059,6 @@
     "id": "96",
     "slug": "",
     "name": "GennUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "78",
-    "slug": "",
-    "name": "iFilger",
     "compatibility": [
       "retail"
     ],
