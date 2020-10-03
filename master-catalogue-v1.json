@@ -23791,6 +23791,7 @@
     ],
     "folders": [
       [
+        "Collectionator-data",
         "Collectionator"
       ]
     ]
@@ -31088,11 +31089,17 @@
     ],
     "folders": [
       [
+        "Details_ChartViewer",
+        "Details_DataStorage",
+        "Details_DeathGraphs",
+        "Details_EncounterDetails",
+        "Details_RaidCheck",
+        "Details_RaidPowerBars",
+        "Details_Streamer",
+        "Details_TargetCaller",
+        "Details_TimeLine",
         "Details_AdvancedPlayerBreakdown",
         "Details_CastHistory",
-        "Details_DataStorage",
-        "Details_EncounterDetails",
-        "Details_Streamer",
         "Details"
       ]
     ]
@@ -37492,20 +37499,6 @@
     "folders": [
       [
         "Error_Hider"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "353472",
-    "slug": "errordkp",
-    "name": "ErrorDKP",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ErrorDKP"
       ]
     ]
   },
@@ -83296,6 +83289,20 @@
   },
   {
     "source": "curse",
+    "id": "409129",
+    "slug": "quartz-rank",
+    "name": "Quartz Rank",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Quartz_Rank"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "46800",
     "slug": "quartz-power-bar",
     "name": "Quartz: Power Bar",
@@ -110549,6 +110556,13 @@
         "Vendor_Pawn",
         "Vendor_Ark",
         "Vendor_RulePack",
+        "Vendor"
+      ],
+      [
+        "Vendor_Pawn",
+        "Vendor_Ark",
+        "Vendor_RulePack",
+        "Vendor_TSM",
         "Vendor"
       ],
       [
