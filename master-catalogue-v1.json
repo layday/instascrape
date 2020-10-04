@@ -8886,8 +8886,8 @@
   {
     "source": "curse",
     "id": "398791",
-    "slug": "autowhisperinvite-classic",
-    "name": "AutoWhisperInvite Classic",
+    "slug": "autowhisperinvite",
+    "name": "AutoWhisperInvite",
     "compatibility": [
       "classic"
     ],
@@ -23791,8 +23791,8 @@
     ],
     "folders": [
       [
-        "Collectionator-data",
-        "Collectionator"
+        "Collectionator",
+        "Collectionator-data"
       ]
     ]
   },
@@ -56109,6 +56109,20 @@
     "folders": [
       [
         "IsQuestCompleted"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "410808",
+    "slug": "isenautocombatlog",
+    "name": "IsenAutoCombatLog",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "IsenAutoCombatLog"
       ]
     ]
   },
@@ -230764,6 +230778,21 @@
     "folders": [
       [
         "AspectOfTheHunter"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25696",
+    "slug": "",
+    "name": "HealBar",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HealBar"
       ]
     ]
   },
