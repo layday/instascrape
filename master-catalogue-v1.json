@@ -45623,6 +45623,20 @@
   },
   {
     "source": "curse",
+    "id": "410820",
+    "slug": "goobdkp",
+    "name": "GoobDKP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Goobdkp"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "366649",
     "slug": "goodepgp",
     "name": "GoodEPGP",
@@ -101554,6 +101568,20 @@
   },
   {
     "source": "curse",
+    "id": "398177",
+    "slug": "sylingtracker",
+    "name": "Syling Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SylingTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19938",
     "slug": "syllabus",
     "name": "Syllabus",
@@ -107215,6 +107243,7 @@
     "slug": "tooltips-translator-chinese",
     "name": "Tooltips Translator - Chinese",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -230953,16 +230982,6 @@
     "id": "-2",
     "slug": "",
     "name": "ElvUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "184",
-    "slug": "",
-    "name": "",
     "compatibility": [
       "retail"
     ],
