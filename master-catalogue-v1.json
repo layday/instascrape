@@ -31043,6 +31043,7 @@
     ],
     "folders": [
       [
+        "Details_CastHistory",
         "Details_ChartViewer",
         "Details_DataStorage",
         "Details_DeathGraphs",
@@ -31052,8 +31053,6 @@
         "Details_Streamer",
         "Details_TargetCaller",
         "Details_TimeLine",
-        "Details_AdvancedPlayerBreakdown",
-        "Details_CastHistory",
         "Details"
       ]
     ]
@@ -66073,7 +66072,7 @@
     "source": "curse",
     "id": "411196",
     "slug": "mui_config",
-    "name": "MUI_Config",
+    "name": "MUI Config",
     "compatibility": [
       "retail",
       "classic"
@@ -66088,7 +66087,7 @@
     "source": "curse",
     "id": "411194",
     "slug": "mui_core",
-    "name": "MUI_Core",
+    "name": "MUI Core",
     "compatibility": [
       "retail",
       "classic"
@@ -66103,7 +66102,7 @@
     "source": "curse",
     "id": "411198",
     "slug": "mui_setup",
-    "name": "MUI_Setup",
+    "name": "MUI Setup",
     "compatibility": [
       "retail",
       "classic"
@@ -67922,7 +67921,8 @@
     "slug": "masque-litestep",
     "name": "Masque: LiteStep",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -87935,6 +87935,20 @@
   },
   {
     "source": "curse",
+    "id": "411974",
+    "slug": "readycheck-screenshot",
+    "name": "Readycheck Screenshot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Readycheck Screenshot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "255228",
     "slug": "reagent-banker",
     "name": "Reagent Banker",
@@ -91745,6 +91759,21 @@
     "folders": [
       [
         "ScrapMeltdownAssist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412047",
+    "slug": "scrap_elvui",
+    "name": "Scrap_ElvUI",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Scrap_ElvUI"
       ]
     ]
   },
@@ -102360,6 +102389,21 @@
     "folders": [
       [
         "TanaanJungleStalker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "411210",
+    "slug": "tanis-lc-helper",
+    "name": "Tanis LC-Helper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "DD_LC_Helper"
       ]
     ]
   },
@@ -113147,6 +113191,20 @@
     "folders": [
       [
         "WhispList"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "411921",
+    "slug": "whisper-logs-2",
+    "name": "Whisper Logs 2",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WhisperLogs2"
       ]
     ]
   },
@@ -230895,16 +230953,16 @@
   },
   {
     "source": "wowi",
-    "id": "25701",
+    "id": "25702",
     "slug": "",
-    "name": "VGS",
+    "name": "HoN Announcer (REMADE) (Classic)",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "VGS"
+        "HoN-Announcer-REMADE"
       ]
     ]
   },
