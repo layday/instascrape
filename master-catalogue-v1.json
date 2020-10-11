@@ -9748,20 +9748,6 @@
   },
   {
     "source": "curse",
-    "id": "338692",
-    "slug": "bgcallouts_classic",
-    "name": "BGCallouts_classic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "BGCallouts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "87757",
     "slug": "bgframes",
     "name": "BGFrames",
@@ -16225,20 +16211,6 @@
     "folders": [
       [
         "Broker_AudioHardware"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "101689",
-    "slug": "broker-call-arms",
-    "name": "Broker: Call to Arms",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Broker_CTA"
       ]
     ]
   },
@@ -33079,20 +33051,6 @@
     "folders": [
       [
         "Dumpster"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "86007",
-    "slug": "dungeon-difficulty",
-    "name": "Dungeon Difficulty",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DungeonDifficulty"
       ]
     ]
   },
@@ -69391,20 +69349,6 @@
   },
   {
     "source": "curse",
-    "id": "298602",
-    "slug": "microcancel",
-    "name": "MicroCancel",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MicroCancel"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "18952",
     "slug": "microdeclineduel",
     "name": "MicroDeclineDuel",
@@ -84963,6 +84907,20 @@
   },
   {
     "source": "curse",
+    "id": "316956",
+    "slug": "raider-io-total-rp-3-tooltips",
+    "name": "R.IO Info in TRP3 Tooltips",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "tRP3_RDotIO"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "294365",
     "slug": "rafp",
     "name": "RAFP",
@@ -86786,20 +86744,6 @@
     "folders": [
       [
         "RaidBuffStatus"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "316956",
-    "slug": "raider-io-total-rp-3-tooltips",
-    "name": "Raider.IO Info in Total RP 3 Tooltips",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "tRP3_RDotIO"
       ]
     ]
   },
@@ -120028,6 +119972,9 @@
     "folders": [
       [
         "ipmythictimer"
+      ],
+      [
+        "iPMythicTimer"
       ]
     ]
   },
@@ -209445,21 +209392,6 @@
   },
   {
     "source": "wowi",
-    "id": "23781",
-    "slug": "",
-    "name": "Hekili",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Hekili"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "23782",
     "slug": "",
     "name": "Storyline",
@@ -230963,6 +230895,96 @@
     "folders": [
       [
         "HoN-Announcer-REMADE"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25703",
+    "slug": "",
+    "name": "Clicked",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Clicked"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25704",
+    "slug": "",
+    "name": "Clicked (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Clicked"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25705",
+    "slug": "",
+    "name": "PetXP",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PetXP"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25706",
+    "slug": "",
+    "name": "NefHunterHelper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NefHunterHelper"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25707",
+    "slug": "",
+    "name": "NPC RP Gossip Text Re-enabler",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "NPCRPGossip"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25708",
+    "slug": "",
+    "name": "R.IO Info in TRP3 Tooltips",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "tRP3_RDotIO"
       ]
     ]
   },
