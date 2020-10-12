@@ -893,6 +893,20 @@
   },
   {
     "source": "curse",
+    "id": "411355",
+    "slug": "aq20-guild-bank-loot-vacuum",
+    "name": "AQ20 Guild Bank Loot Vacuum",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "HMA_AQ20_GB_Looter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "349425",
     "slug": "at-raid-export",
     "name": "AT Raid Export",
@@ -43706,7 +43720,8 @@
     "slug": "geist",
     "name": "Geist",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -45418,9 +45433,9 @@
     ],
     "folders": [
       [
-        "GoldGoblinLootArchive",
         "GoldGoblinLoot",
-        "+GoldGoblinLoot"
+        "+GoldGoblinLoot",
+        "GoldGoblinLootArchive"
       ]
     ]
   },
@@ -53057,20 +53072,6 @@
     "folders": [
       [
         "Hokutonomonk"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "411355",
-    "slug": "hold-my-ale-aq20-loot-vacuum",
-    "name": "Hold My Ale - AQ20 Loot Vacuum",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "HMA_AQ20_GB_Looter"
       ]
     ]
   },
@@ -71874,7 +71875,8 @@
     "slug": "mouseover-portrai",
     "name": "Mouseover Portrai",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -110358,6 +110360,20 @@
     "folders": [
       [
         "VERSAddon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "411907",
+    "slug": "vgs",
+    "name": "VGS",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "VGS"
       ]
     ]
   },
@@ -230014,6 +230030,21 @@
   },
   {
     "source": "wowi",
+    "id": "25623",
+    "slug": "",
+    "name": "Broker: Call to Arms",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "libs"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
     "id": "25624",
     "slug": "",
     "name": "Frame Id Output",
@@ -230885,6 +230916,21 @@
   },
   {
     "source": "wowi",
+    "id": "25701",
+    "slug": "",
+    "name": "VGS",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "VGS"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
     "id": "25702",
     "slug": "",
     "name": "HoN Announcer (REMADE) (Classic)",
@@ -230917,7 +230963,7 @@
     "source": "wowi",
     "id": "25704",
     "slug": "",
-    "name": "Clicked (Classic)",
+    "name": "Clicked (Classic) - See Main Addon instead",
     "compatibility": [
       "retail",
       "classic"
@@ -230985,6 +231031,65 @@
     "folders": [
       [
         "tRP3_RDotIO"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25709",
+    "slug": "",
+    "name": "RSA - Raeli's Spell Announcer",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RSA",
+        "RSA_Options",
+        "RSA_Reminders",
+        "RSA_DeathKnight",
+        "RSA_DemonHunter",
+        "RSA_Druid",
+        "RSA_Hunter",
+        "RSA_Mage",
+        "RSA_Monk",
+        "RSA_Paladin",
+        "RSA_Priest",
+        "RSA_Rogue",
+        "RSA_Shaman",
+        "RSA_Warlock",
+        "RSA_Warrior"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25710",
+    "slug": "",
+    "name": "Fortuna Dice Roller",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "FortunaDiceRoller"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25712",
+    "slug": "",
+    "name": "Broker: Dungeon Difficulty",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "libs"
       ]
     ]
   },
