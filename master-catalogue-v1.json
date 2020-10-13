@@ -2266,6 +2266,18 @@
         "AdiBags_ByExpansion_WoW",
         "AdiBags_ByExpansion_Wrath",
         "AdiBags_ByExpansion"
+      ],
+      [
+        "AdiBags_ByExpansion_BfA",
+        "AdiBags_ByExpansion_Cata",
+        "AdiBags_ByExpansion_Legion",
+        "AdiBags_ByExpansion_MoP",
+        "AdiBags_ByExpansion_Shadowlands",
+        "AdiBags_ByExpansion_TBC",
+        "AdiBags_ByExpansion_WoD",
+        "AdiBags_ByExpansion_WoW",
+        "AdiBags_ByExpansion_Wrath",
+        "AdiBags_ByExpansion"
       ]
     ]
   },
@@ -9203,6 +9215,20 @@
     "folders": [
       [
         "AzerPUG-GameUtility-Core"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412230",
+    "slug": "azerpug-gameutility-questefficiency",
+    "name": "AzerPUG-GameUtility-QuestEfficiency",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AzerPUG-GameUtility-QuestEfficiency"
       ]
     ]
   },
@@ -18941,6 +18967,7 @@
       ],
       [
         "CUI_Config",
+        "CUI_Statistics",
         "CUI_WorldmapMarkers",
         "CUI"
       ]
@@ -26634,6 +26661,20 @@
     "folders": [
       [
         "CurrencyTracking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412420",
+    "slug": "currency-value",
+    "name": "Currency Value",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CurrencyValue"
       ]
     ]
   },
@@ -44354,6 +44395,20 @@
   },
   {
     "source": "curse",
+    "id": "412745",
+    "slug": "shado-ladius",
+    "name": "Gladiatorial Arena Frame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Gladius"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29689",
     "slug": "gladiatorlossa",
     "name": "GladiatorlosSA",
@@ -60618,20 +60673,6 @@
   },
   {
     "source": "curse",
-    "id": "298842",
-    "slug": "leatrix-maps",
-    "name": "Leatrix Maps (Battle for Azeroth and Shadowlands)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Leatrix_Maps"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "324034",
     "slug": "leatrix-maps-classic",
     "name": "Leatrix Maps (Classic)",
@@ -60646,15 +60687,15 @@
   },
   {
     "source": "curse",
-    "id": "94855",
-    "slug": "leatrix-plus",
-    "name": "Leatrix Plus (Battle for Azeroth and Shadowlands)",
+    "id": "298842",
+    "slug": "leatrix-maps",
+    "name": "Leatrix Maps (Shadowlands)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Plus"
+        "Leatrix_Maps"
       ]
     ]
   },
@@ -60674,15 +60715,15 @@
   },
   {
     "source": "curse",
-    "id": "304659",
-    "slug": "leatrix-sounds",
-    "name": "Leatrix Sounds (Battle for Azeroth and Shadowlands)",
+    "id": "94855",
+    "slug": "leatrix-plus",
+    "name": "Leatrix Plus (Shadowlands)",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Leatrix_Sounds"
+        "Leatrix_Plus"
       ]
     ]
   },
@@ -60693,6 +60734,20 @@
     "name": "Leatrix Sounds (Classic)",
     "compatibility": [
       "classic"
+    ],
+    "folders": [
+      [
+        "Leatrix_Sounds"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "304659",
+    "slug": "leatrix-sounds",
+    "name": "Leatrix Sounds (Shadowlands)",
+    "compatibility": [
+      "retail"
     ],
     "folders": [
       [
@@ -62300,6 +62355,21 @@
     "folders": [
       [
         "LibGUIDRegistry-0.1"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412373",
+    "slug": "libgatheringnodes",
+    "name": "LibGatheringNodes",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibGatheringNodes"
       ]
     ]
   },
@@ -72086,6 +72156,20 @@
   },
   {
     "source": "curse",
+    "id": "412676",
+    "slug": "movespeed",
+    "name": "MoveSpeed",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MoveSpeed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "402280",
     "slug": "movestandardframe",
     "name": "MoveStandardFrame",
@@ -73289,6 +73373,9 @@
       [
         "MethodDungeonTools",
         "MythicDungeonTools"
+      ],
+      [
+        "MythicDungeonTools"
       ]
     ]
   },
@@ -73685,10 +73772,10 @@
     ],
     "folders": [
       [
-        "NPCRPGossip"
+        "NPCRPGossipClassic"
       ],
       [
-        "NPCRPGossipClassic"
+        "NPCRPGossip"
       ]
     ]
   },
@@ -76325,6 +76412,20 @@
     "folders": [
       [
         "Obituary"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412159",
+    "slug": "objectscanner",
+    "name": "ObjectScanner",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ObjectScanner"
       ]
     ]
   },
@@ -81072,6 +81173,20 @@
     "folders": [
       [
         "PolMonitor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412587",
+    "slug": "poli-leveling-util",
+    "name": "Poli Leveling Util",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PoliLevelingUtil"
       ]
     ]
   },
@@ -95097,6 +95212,21 @@
   },
   {
     "source": "curse",
+    "id": "412308",
+    "slug": "simplecc",
+    "name": "SimpleCC",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SimpleCC_Config",
+        "SimpleCC"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "6911",
     "slug": "simple_calc",
     "name": "SimpleCalc",
@@ -102533,6 +102663,20 @@
     "folders": [
       [
         "TanksEventsHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412169",
+    "slug": "tankus-check-trinket-check",
+    "name": "Tankus Check ( Trinket Check )",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Tankus Check"
       ]
     ]
   },
@@ -120216,6 +120360,20 @@
     "folders": [
       [
         "iWTB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412648",
+    "slug": "iwclplayerscore",
+    "name": "iWclPlayerScore",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "iWclPlayerScore"
       ]
     ]
   },
@@ -231090,6 +231248,21 @@
     "folders": [
       [
         "libs"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25714",
+    "slug": "",
+    "name": "Work Orders Complete [Fixed for SL]",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WorkOrdersComplete"
       ]
     ]
   },
