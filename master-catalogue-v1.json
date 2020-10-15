@@ -2261,17 +2261,6 @@
         "AdiBags_ByExpansion_Cata",
         "AdiBags_ByExpansion_Legion",
         "AdiBags_ByExpansion_MoP",
-        "AdiBags_ByExpansion_TBC",
-        "AdiBags_ByExpansion_WoD",
-        "AdiBags_ByExpansion_WoW",
-        "AdiBags_ByExpansion_Wrath",
-        "AdiBags_ByExpansion"
-      ],
-      [
-        "AdiBags_ByExpansion_BfA",
-        "AdiBags_ByExpansion_Cata",
-        "AdiBags_ByExpansion_Legion",
-        "AdiBags_ByExpansion_MoP",
         "AdiBags_ByExpansion_Shadowlands",
         "AdiBags_ByExpansion_TBC",
         "AdiBags_ByExpansion_WoD",
@@ -3442,6 +3431,20 @@
   },
   {
     "source": "curse",
+    "id": "265581",
+    "slug": "method-alt-manager",
+    "name": "Alt Manager",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AltManager"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "298830",
     "slug": "alt-paragon-tracker",
     "name": "Alt Paragon Tracker",
@@ -3521,6 +3524,21 @@
     "folders": [
       [
         "AltTabber"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413132",
+    "slug": "altvault",
+    "name": "AltVault",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AltVault",
+        "AltVaultData"
       ]
     ]
   },
@@ -3641,7 +3659,6 @@
         "Altoholic"
       ],
       [
-        "DataStore_Talents",
         "Altoholic",
         "Altoholic_Achievements",
         "Altoholic_Agenda",
@@ -3659,12 +3676,15 @@
         "DataStore_Currencies",
         "DataStore_Garrisons",
         "DataStore_Inventory",
+        "DataStore_Keystones",
         "DataStore_Mails",
         "DataStore_Pets",
         "DataStore_Quests",
+        "DataStore_Rares",
         "DataStore_Reputations",
         "DataStore_Spells",
         "DataStore_Stats",
+        "DataStore_Talents",
         "DataStore"
       ]
     ]
@@ -3779,6 +3799,7 @@
         "Altoholic_Summary",
         "DataStore_Achievements",
         "DataStore_Agenda",
+        "DataStore_Auctions",
         "DataStore_Characters",
         "DataStore_Containers",
         "DataStore_Crafts",
@@ -8941,6 +8962,7 @@
     "slug": "autowhisperinvite",
     "name": "AutoWhisperInvite",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -9215,6 +9237,20 @@
     "folders": [
       [
         "AzerPUG-GameUtility-Core"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412899",
+    "slug": "azerpug-gameutility-levelstats",
+    "name": "AzerPUG-GameUtility-LevelStats",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AzerPUG-GameUtility-LevelStats"
       ]
     ]
   },
@@ -9538,6 +9574,20 @@
     "folders": [
       [
         "hqAzerothAtWar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412815",
+    "slug": "azerothaudigy",
+    "name": "AzerothAudigy",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AzerothAudigy"
       ]
     ]
   },
@@ -11623,6 +11673,20 @@
   },
   {
     "source": "curse",
+    "id": "412845",
+    "slug": "battle-pet-battle-ui-tweaks",
+    "name": "Battle Pet Battle UI Tweaks",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BattlePetBattleUITweaks"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "48478",
     "slug": "battle-pet-binds",
     "name": "Battle Pet Binds",
@@ -12279,6 +12343,20 @@
   },
   {
     "source": "curse",
+    "id": "412590",
+    "slug": "best-in-slot-classic-to-be-continued",
+    "name": "Best In Slot - Classic - To Be Continued",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BestInSlotClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "369136",
     "slug": "best-in-slot-ng",
     "name": "Best In Slot NG",
@@ -12546,6 +12624,21 @@
     "folders": [
       [
         "BetterBattlePetTooltip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "341428",
+    "slug": "better-crits",
+    "name": "Better Crits",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BetterCrits"
       ]
     ]
   },
@@ -17731,7 +17824,7 @@
     "source": "curse",
     "id": "297375",
     "slug": "btw-quests-classic",
-    "name": "BtWQuests: Classic (for Retail)",
+    "name": "BtWQuests: Classic (Deprecated)",
     "compatibility": [
       "retail"
     ],
@@ -21279,6 +21372,20 @@
     "id": "13663",
     "slug": "chatter",
     "name": "Chatter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Chatter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412724",
+    "slug": "chatter-patched-for-shadowlands",
+    "name": "Chatter patched for Shadowlands",
     "compatibility": [
       "retail"
     ],
@@ -26303,21 +26410,6 @@
   },
   {
     "source": "curse",
-    "id": "341428",
-    "slug": "crit-commander",
-    "name": "Crit Commander",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "CritCommander"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "368578",
     "slug": "critchain-classic",
     "name": "CritChain CLASSIC",
@@ -29303,6 +29395,62 @@
   },
   {
     "source": "curse",
+    "id": "19873",
+    "slug": "datastore_achievements",
+    "name": "DataStore_Achievements",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Achievements"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "29739",
+    "slug": "datastore_agenda",
+    "name": "DataStore_Agenda",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Agenda"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20205",
+    "slug": "datastore_auctions",
+    "name": "DataStore_Auctions",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Auctions"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20206",
+    "slug": "datastore_characters",
+    "name": "DataStore_Characters",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Characters"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19872",
     "slug": "datastore_containers",
     "name": "DataStore_Containers",
@@ -29331,6 +29479,34 @@
   },
   {
     "source": "curse",
+    "id": "20207",
+    "slug": "datastore_currencies",
+    "name": "DataStore_Currencies",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Currencies"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "88051",
+    "slug": "datastore_garrisons",
+    "name": "DataStore_Garrisons",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Garrisons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "20208",
     "slug": "datastore_inventory",
     "name": "DataStore_Inventory",
@@ -29345,6 +29521,76 @@
   },
   {
     "source": "curse",
+    "id": "411498",
+    "slug": "datastore_keystones",
+    "name": "DataStore_Keystones",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Keystones"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20209",
+    "slug": "datastore_mails",
+    "name": "DataStore_Mails",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Mails"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "19875",
+    "slug": "datastore_pets",
+    "name": "DataStore_Pets",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Pets"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20210",
+    "slug": "datastore_quests",
+    "name": "DataStore_Quests",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "411494",
+    "slug": "datastore_rares",
+    "name": "DataStore_Rares",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Rares"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "19876",
     "slug": "datastore_reputations",
     "name": "DataStore_Reputations",
@@ -29354,6 +29600,48 @@
     "folders": [
       [
         "DataStore_Reputations"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20212",
+    "slug": "datastore_spells",
+    "name": "DataStore_Spells",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Spells"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "20213",
+    "slug": "datastore_stats",
+    "name": "DataStore_Stats",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Stats"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "19877",
+    "slug": "datastore_talents",
+    "name": "DataStore_Talents",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DataStore_Talents"
       ]
     ]
   },
@@ -29511,6 +29799,21 @@
       ],
       [
         "DBM-Core",
+        "DBM-GUI",
+        "DBM-Party-Classic",
+        "DBM-AQ20",
+        "DBM-AQ40",
+        "DBM-Azeroth",
+        "DBM-BWL",
+        "DBM-MC",
+        "DBM-Onyxia",
+        "DBM-Naxx",
+        "DBM-ZG",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
         "DBM-Brawlers",
         "DBM-DMF",
         "DBM-GUI",
@@ -29524,21 +29827,6 @@
         "DBM-EternalPalace",
         "DBM-Nyalotha",
         "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-GUI",
-        "DBM-Party-Classic",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-MC",
-        "DBM-Onyxia",
-        "DBM-Naxx",
-        "DBM-ZG",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
       ]
@@ -31382,21 +31670,6 @@
   },
   {
     "source": "curse",
-    "id": "94516",
-    "slug": "dialogkey",
-    "name": "DialogKey",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "DialogKey"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "355597",
     "slug": "dice",
     "name": "Dice",
@@ -32077,13 +32350,6 @@
       [
         "Dominos_Cast",
         "Dominos_Config",
-        "Dominos_Progress",
-        "Dominos_Roll",
-        "Dominos"
-      ],
-      [
-        "Dominos_Cast",
-        "Dominos_Config",
         "Dominos_Encounter",
         "Dominos_Progress",
         "Dominos"
@@ -32230,6 +32496,20 @@
     "folders": [
       [
         "DontCast"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412432",
+    "slug": "dontforgetme",
+    "name": "DontForgetMe",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DontForgetMe"
       ]
     ]
   },
@@ -32806,6 +33086,20 @@
   },
   {
     "source": "curse",
+    "id": "412814",
+    "slug": "droptrash",
+    "name": "DropTrash",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DropTrash"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "334762",
     "slug": "druid-bar-classic",
     "name": "Druid Bar Classic",
@@ -33012,14 +33306,13 @@
       ],
       [
         "DuffedUI_ConfigUI",
-        "ProjectAzilroka",
-        "AddOnSkins",
+        "Aurora",
         "DuffedUI"
       ],
       [
         "DuffedUI_ConfigUI",
-        "Aurora",
-        "DuffedUI"
+        "DuffedUI",
+        "Aurora"
       ]
     ]
   },
@@ -34442,20 +34735,6 @@
   },
   {
     "source": "curse",
-    "id": "408671",
-    "slug": "easyinvites",
-    "name": "EasyInvites",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "EasyInvites"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "33858",
     "slug": "easylogger",
     "name": "EasyLogger",
@@ -34807,6 +35086,20 @@
     "folders": [
       [
         "Elephant"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413110",
+    "slug": "eles-professions-mod",
+    "name": "Elerion's Professions Mod",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElesMod"
       ]
     ]
   },
@@ -35400,7 +35693,7 @@
     "source": "curse",
     "id": "101590",
     "slug": "elvui-enhanced-again",
-    "name": "ElvUI Enhanced Again (BfA)",
+    "name": "ElvUI Enhanced Again (Shadowlands)",
     "compatibility": [
       "retail"
     ],
@@ -35708,10 +36001,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ],
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ]
     ]
   },
@@ -36035,7 +36328,7 @@
   {
     "source": "curse",
     "id": "300361",
-    "slug": "elvui_windtools",
+    "slug": "elvui-windtools",
     "name": "ElvUI WindTools",
     "compatibility": [
       "retail"
@@ -36799,20 +37092,6 @@
     "folders": [
       [
         "EncounterJournalPlus_InstanceInfo"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "263966",
-    "slug": "endless-raid-tools",
-    "name": "Endless Raid Tools",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "EndlessRaidTools"
       ]
     ]
   },
@@ -39080,6 +39359,20 @@
     "folders": [
       [
         "FarmLog"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412896",
+    "slug": "farmsesh",
+    "name": "FarmSesh",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "FarmSesh"
       ]
     ]
   },
@@ -45488,9 +45781,9 @@
     ],
     "folders": [
       [
-        "GoldGoblinLoot",
         "+GoldGoblinLoot",
-        "GoldGoblinLootArchive"
+        "GoldGoblinLootArchive",
+        "GoldGoblinLoot"
       ]
     ]
   },
@@ -51650,6 +51943,20 @@
   },
   {
     "source": "curse",
+    "id": "410191",
+    "slug": "herodbc",
+    "name": "HeroDBC",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HeroDBC"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "271528",
     "slug": "herolib",
     "name": "HeroLib",
@@ -51689,6 +51996,16 @@
         "HeroRotation_Warlock",
         "HeroRotation_Warrior",
         "HeroCache"
+      ],
+      [
+        "HeroRotation_DeathKnight",
+        "HeroRotation_DemonHunter",
+        "HeroRotation_Hunter",
+        "HeroRotation_Mage",
+        "HeroRotation_Priest",
+        "HeroRotation_Rogue",
+        "HeroRotation_Warlock",
+        "HeroRotation"
       ]
     ]
   },
@@ -54660,7 +54977,8 @@
     "slug": "improved-blizzard-ui",
     "name": "Improved Blizzard UI",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -55067,6 +55385,23 @@
   },
   {
     "source": "curse",
+    "id": "263966",
+    "slug": "infinite-raid-tools",
+    "name": "Infinite Raid Tools",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EndlessRaidTools"
+      ],
+      [
+        "InfiniteRaidTools"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "88520",
     "slug": "infoframes",
     "name": "InfoFrames",
@@ -55388,20 +55723,6 @@
     "folders": [
       [
         "InstanceEnteredCounter"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "387064",
-    "slug": "instance-gold-tracker",
-    "name": "Instance Gold Tracker",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "InstanceGoldTracker"
       ]
     ]
   },
@@ -56692,21 +57013,6 @@
   },
   {
     "source": "curse",
-    "id": "1186",
-    "slug": "itemrack",
-    "name": "ItemRack",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ItemRackOptions",
-        "ItemRack"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "340903",
     "slug": "itemrack-classic",
     "name": "ItemRack Classic",
@@ -57691,20 +57997,6 @@
   },
   {
     "source": "curse",
-    "id": "374093",
-    "slug": "ktracker",
-    "name": "KTracker",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "!KTracker"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "339809",
     "slug": "kaliels-tracker-classic",
     "name": "Kaliel's Quest Tracker (Classic)",
@@ -57826,21 +58118,6 @@
     "folders": [
       [
         "Kals_MovableMoneyLabel"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "299209",
-    "slug": "kalsquesttexttochat",
-    "name": "Kals QuestTextToChat",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "Kals_QuestTextToChat"
       ]
     ]
   },
@@ -60168,6 +60445,35 @@
   },
   {
     "source": "curse",
+    "id": "101604",
+    "slug": "ls-toasts",
+    "name": "LS: Toasts",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ls_Toasts"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "81413",
+    "slug": "ls-ui",
+    "name": "LS: UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ls_UI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "74042",
     "slug": "lsm-ccredalert",
     "name": "LSM-CCRedAlert",
@@ -60245,10 +60551,6 @@
       "retail"
     ],
     "folders": [
-      [
-        "LUI",
-        "Bartender4"
-      ],
       [
         "LUI"
       ]
@@ -60565,7 +60867,8 @@
     "slug": "lazy-ready-check",
     "name": "Lazy Ready Check",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -60584,6 +60887,20 @@
     "folders": [
       [
         "LazyCurve"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "408671",
+    "slug": "lazyinvites",
+    "name": "LazyInvites",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LazyInvites"
       ]
     ]
   },
@@ -69364,20 +69681,6 @@
   },
   {
     "source": "curse",
-    "id": "265581",
-    "slug": "method-alt-manager",
-    "name": "Method Alt Manager",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MethodAltManager"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "301649",
     "slug": "mezui",
     "name": "MezUI",
@@ -69481,7 +69784,8 @@
     "slug": "mik-scrolling-battle-text",
     "name": "MikScrollingBattleText",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -69852,6 +70156,20 @@
     "folders": [
       [
         "MinimalArchaeology"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409210",
+    "slug": "minimal-head-frame",
+    "name": "Minimal Head Frame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MinimalHeadFrame"
       ]
     ]
   },
@@ -70543,7 +70861,8 @@
     "slug": "model-pique",
     "name": "Model Pique",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -73371,10 +73690,6 @@
         "MethodDungeonTools"
       ],
       [
-        "MethodDungeonTools",
-        "MythicDungeonTools"
-      ],
-      [
         "MythicDungeonTools"
       ]
     ]
@@ -73692,11 +74007,11 @@
   },
   {
     "source": "curse",
-    "id": "338794",
-    "slug": "ndui-classic",
-    "name": "NDui Classic",
+    "id": "324377",
+    "slug": "ndui",
+    "name": "NDui",
     "compatibility": [
-      "classic"
+      "retail"
     ],
     "folders": [
       [
@@ -73706,11 +74021,11 @@
   },
   {
     "source": "curse",
-    "id": "324377",
-    "slug": "ndui",
-    "name": "NDui Core",
+    "id": "338794",
+    "slug": "ndui-classic",
+    "name": "NDui Classic",
     "compatibility": [
-      "retail"
+      "classic"
     ],
     "folders": [
       [
@@ -74147,6 +74462,11 @@
         "Narcissus"
       ],
       [
+        "Narcissus_Database",
+        "Narcissus"
+      ],
+      [
+        "Narcissus_Barbershop",
         "Narcissus_Database",
         "Narcissus"
       ]
@@ -80724,20 +81044,6 @@
   },
   {
     "source": "curse",
-    "id": "396952",
-    "slug": "plater-nameplates-for-shadowlands-beta",
-    "name": "Plater Nameplates for Shadowlands",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Plater"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "275697",
     "slug": "playsound-temporal-fix",
     "name": "PlaySound Temporal Fix",
@@ -83645,6 +83951,34 @@
     "folders": [
       [
         "QuestMapWithDetails"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "94616",
+    "slug": "quest-out-loud",
+    "name": "Quest Out Loud",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestOutLoud"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "412707",
+    "slug": "quest-out-loud-exiles-reach",
+    "name": "Quest Out Loud - Exile's Reach",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestOutLoud_ExilesReach"
       ]
     ]
   },
@@ -91113,6 +91447,20 @@
   },
   {
     "source": "curse",
+    "id": "413096",
+    "slug": "safe-armory-classic-addon",
+    "name": "Safe Armory Classic Addon",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SafeArmoryClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "363233",
     "slug": "safe-pull-classic",
     "name": "Safe Pull Classic",
@@ -91672,6 +92020,23 @@
       [
         "Scorchio2_Options",
         "Scorchio2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "27055",
+    "slug": "titanpanel-points",
+    "name": "Scoreboard",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TitanPoints"
+      ],
+      [
+        "Scoreboard"
       ]
     ]
   },
@@ -92639,20 +93004,6 @@
     "folders": [
       [
         "Serrah_Lio"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "359894",
-    "slug": "serthanaui",
-    "name": "SerthanaUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SerthanaUI"
       ]
     ]
   },
@@ -94403,6 +94754,7 @@
         "SilverDragon_Warlords",
         "SilverDragon_Legion",
         "SilverDragon_BattleForAzeroth",
+        "SilverDragon_Shadowlands",
         "SilverDragon"
       ]
     ]
@@ -95635,6 +95987,20 @@
     "folders": [
       [
         "SimplerMap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "359894",
+    "slug": "simplifiedui",
+    "name": "Simplified UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SimplifiedUI"
       ]
     ]
   },
@@ -97595,6 +97961,20 @@
   },
   {
     "source": "curse",
+    "id": "412982",
+    "slug": "soulkeeper",
+    "name": "SoulKeeper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "SoulKeeper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "336356",
     "slug": "soulsort-easy-soul-shard-management",
     "name": "SoulSort - Easy Soul Shard Management",
@@ -98759,11 +99139,15 @@
     "slug": "dailyitems",
     "name": "Spinx Daily Items",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
         "DailyItems"
+      ],
+      [
+        "SpinxDailyItems"
       ]
     ]
   },
@@ -103777,6 +104161,20 @@
   },
   {
     "source": "curse",
+    "id": "380731",
+    "slug": "thelo-macrohelper",
+    "name": "Thelo-Macrohelper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Thelo-Macrohelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101515",
     "slug": "themp_mob_count",
     "name": "Themp Mob Count",
@@ -105899,20 +106297,6 @@
     "folders": [
       [
         "TitanPals"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "27055",
-    "slug": "titanpanel-points",
-    "name": "Titan Panel [Points]",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "TitanPoints"
       ]
     ]
   },
@@ -110820,14 +111204,14 @@
         "Vendor"
       ],
       [
+        "Vendor_Ark",
+        "Vendor"
+      ],
+      [
         "Vendor_Pawn",
         "Vendor_Ark",
         "Vendor_RulePack",
         "Vendor_TSM",
-        "Vendor"
-      ],
-      [
-        "Vendor_Ark",
         "Vendor"
       ]
     ]
@@ -111107,8 +111491,8 @@
   {
     "source": "curse",
     "id": "359854",
-    "slug": "vex-runes-bfa",
-    "name": "Vex Runes - BFA",
+    "slug": "vex-runes-sl",
+    "name": "Vex Runes - Shadowlands",
     "compatibility": [
       "retail"
     ],
@@ -114293,10 +114677,6 @@
       ],
       [
         "WoWPro_Leveling",
-        "WoWPro_Dailies",
-        "WoWPro_Profession",
-        "WoWPro_WorldEvents",
-        "WoWPro_Achievements",
         "WoWPro"
       ]
     ]
@@ -115830,7 +116210,8 @@
     "slug": "xp_timer",
     "name": "XP Timer and Gold Tracker",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -116900,9 +117281,6 @@
     ],
     "folders": [
       [
-        "Zadrot AutoRes"
-      ],
-      [
         "Zadrot_AutoRes"
       ]
     ]
@@ -116917,7 +117295,7 @@
     ],
     "folders": [
       [
-        "Zadrot AutoTrain"
+        "Zadrot_AutoTrain"
       ]
     ]
   },
@@ -116938,20 +117316,6 @@
   },
   {
     "source": "curse",
-    "id": "402223",
-    "slug": "zadrot-itemlevel",
-    "name": "Zadrot Item Level",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Zadrot_ItemLevel"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "394542",
     "slug": "zadrot-killsound",
     "name": "Zadrot KillSound",
@@ -116960,7 +117324,7 @@
     ],
     "folders": [
       [
-        "Zadrot KillSound"
+        "Zadrot_KillSound"
       ]
     ]
   },
@@ -120705,21 +121069,6 @@
   },
   {
     "source": "curse",
-    "id": "101604",
-    "slug": "ls-toasts",
-    "name": "ls: Toasts",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "ls_Toasts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "277644",
     "slug": "ls-toasts-sqw",
     "name": "ls: Toasts - sqw",
@@ -120729,20 +121078,6 @@
     "folders": [
       [
         "ls_Toasts-sqw"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "81413",
-    "slug": "ls-ui",
-    "name": "ls: UI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ls_UI"
       ]
     ]
   },
@@ -126990,7 +127325,8 @@
         "SilverDragon_Mists",
         "SilverDragon_Warlords",
         "SilverDragon_Legion",
-        "SilverDragon_BattleForAzeroth"
+        "SilverDragon_BattleForAzeroth",
+        "SilverDragon_Shadowlands"
       ]
     ]
   },
@@ -132040,8 +132376,7 @@
         "Dominos_Cast",
         "Dominos_Config",
         "Dominos_Encounter",
-        "Dominos_Progress",
-        "Dominos_Roll"
+        "Dominos_Progress"
       ]
     ]
   },
@@ -173981,7 +174316,7 @@
     "source": "wowi",
     "id": "19315",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 8.17 2020-10-04",
+    "name": "WoWpoPolsku-Quests 8.17 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -199879,7 +200214,7 @@
     "source": "wowi",
     "id": "22662",
     "slug": "",
-    "name": "ls: UI",
+    "name": "LS: UI",
     "compatibility": [
       "retail",
       "classic"
@@ -200160,8 +200495,7 @@
     "folders": [
       [
         "oUF",
-        "oUF_Bob",
-        "!Beautycase"
+        "oUF_Bob"
       ]
     ]
   },
@@ -212374,7 +212708,7 @@
     "source": "wowi",
     "id": "24123",
     "slug": "",
-    "name": "ls: Toasts",
+    "name": "LS: Toasts",
     "compatibility": [
       "retail",
       "classic"
@@ -212442,7 +212776,7 @@
     ],
     "folders": [
       [
-        "nPlates-2.69-release"
+        "nPlates"
       ]
     ]
   },
@@ -217340,7 +217674,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar"
+        "TwintopInsanityBar-9.0.2.6-release"
       ]
     ]
   },
@@ -217920,7 +218254,7 @@
     "source": "wowi",
     "id": "24692",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 8.10 2020-10-04",
+    "name": "WoWpoPolsku-Bubbles 8.10 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -218346,7 +218680,7 @@
     "source": "wowi",
     "id": "24740",
     "slug": "",
-    "name": "BtWQuests: Classic",
+    "name": "BtWQuests: Classic (Deprecated)",
     "compatibility": [
       "retail",
       "classic"
@@ -220581,8 +220915,8 @@
         "Dominos",
         "Dominos_Cast",
         "Dominos_Config",
-        "Dominos_Progress",
-        "Dominos_Roll"
+        "Dominos_Encounter",
+        "Dominos_Progress"
       ]
     ]
   },
@@ -224150,7 +224484,7 @@
     "source": "wowi",
     "id": "25184",
     "slug": "",
-    "name": "WoWpoPolsku-Quests Classic 2020-10-04",
+    "name": "WoWpoPolsku-Quests Classic 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -224232,7 +224566,7 @@
     "source": "wowi",
     "id": "25189",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles Classic 2020-10-04",
+    "name": "WoWpoPolsku-Bubbles Classic 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -228247,7 +228581,6 @@
     ],
     "folders": [
       [
-        "MethodDungeonTools",
         "MythicDungeonTools"
       ]
     ]
@@ -229902,7 +230235,7 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 8.06 2020-10-04",
+    "name": "WoWpoPolsku-Movies (subtitles) 8.07 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -229947,7 +230280,7 @@
     "source": "wowi",
     "id": "25607",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-10-04",
+    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -230010,6 +230343,7 @@
         "DataStore",
         "DataStore_Achievements",
         "DataStore_Agenda",
+        "DataStore_Auctions",
         "DataStore_Characters",
         "DataStore_Containers",
         "DataStore_Crafts",
@@ -230197,7 +230531,7 @@
     ],
     "folders": [
       [
-        "libs"
+        "Broker_CTA"
       ]
     ]
   },
@@ -230851,7 +231185,7 @@
     "source": "wowi",
     "id": "25682",
     "slug": "",
-    "name": "WoWpoPolsku-Quests 9.00 2020-10-04",
+    "name": "WoWpoPolsku-Quests 9.01 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -230866,7 +231200,7 @@
     "source": "wowi",
     "id": "25683",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 9.00 2020-10-04",
+    "name": "WoWpoPolsku-Bubbles 9.00 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -230881,7 +231215,7 @@
     "source": "wowi",
     "id": "25684",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 9.06 2020-10-04",
+    "name": "WoWpoPolsku-Movies (subtitles) 9.07 2020-10-13",
     "compatibility": [
       "retail",
       "classic"
@@ -230948,7 +231282,7 @@
     ],
     "folders": [
       [
-        "Minimal Head Frame"
+        "MinimalHeadFrame"
       ]
     ]
   },
@@ -231238,6 +231572,21 @@
   },
   {
     "source": "wowi",
+    "id": "25711",
+    "slug": "",
+    "name": "Key Reporter",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "KeyReporter"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
     "id": "25712",
     "slug": "",
     "name": "Broker: Dungeon Difficulty",
@@ -231247,7 +231596,7 @@
     ],
     "folders": [
       [
-        "libs"
+        "Broker_DungeonDifficulty"
       ]
     ]
   },
@@ -231263,6 +231612,172 @@
     "folders": [
       [
         "WorkOrdersComplete"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25715",
+    "slug": "",
+    "name": "Garrison Master",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "GarrisonMaster"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25716",
+    "slug": "",
+    "name": "HeroLobby companion",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "HeroLobby"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25717",
+    "slug": "",
+    "name": "RUF",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "RUF"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25718",
+    "slug": "",
+    "name": "Battle Pet Battle UI Tweaks",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BattlePetBattleUITweaks"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25719",
+    "slug": "",
+    "name": "Masque: Raeli",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Masque_Raeli"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25720",
+    "slug": "",
+    "name": "Tooltips Translator - Chinese (9.0.1)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWeuCN_Tooltips"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25721",
+    "slug": "",
+    "name": "Tooltips Translator - Chinese (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWeuCN_Tooltips"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25722",
+    "slug": "",
+    "name": "Quest Translator - Chinese (Classic)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWeuCN_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25723",
+    "slug": "",
+    "name": "Quest Translator - Chinese (9.0.1)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "WoWeuCN_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25724",
+    "slug": "",
+    "name": "Stea Summon",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "SteaSummon-2",
+        "__MACOSX"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25725",
+    "slug": "",
+    "name": "BattlegroundTargets3",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "BattlegroundTargets3"
       ]
     ]
   },
@@ -231891,16 +232406,6 @@
     "id": "109",
     "slug": "",
     "name": "OrkoUI",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "73",
-    "slug": "",
-    "name": "OzCooldowns",
     "compatibility": [
       "retail"
     ],
