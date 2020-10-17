@@ -499,6 +499,7 @@
     "slug": "ace3-gui-panel-widget",
     "name": "ACE3 GUI Panel Widget",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -723,7 +724,7 @@
     "source": "curse",
     "id": "301639",
     "slug": "aia",
-    "name": "AIA - Accept (Calendar) Invites Automatically",
+    "name": "AIA Calendar Manager - Accept Invites Automatically",
     "compatibility": [
       "retail"
     ],
@@ -2979,20 +2980,6 @@
   },
   {
     "source": "curse",
-    "id": "410561",
-    "slug": "affixschedule",
-    "name": "AffixSchedule",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AffixSchedule"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "18964",
     "slug": "afflicted3",
     "name": "Afflicted 3",
@@ -3228,6 +3215,20 @@
     "folders": [
       [
         "ad"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413472",
+    "slug": "alertme-pvp",
+    "name": "AlertMe - PvP",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AlertMe"
       ]
     ]
   },
@@ -5292,6 +5293,22 @@
     "folders": [
       [
         "ArenaMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413388",
+    "slug": "arenamaster",
+    "name": "ArenaMaster PvP Inspect",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ArenaMaster_DB_EU",
+        "ArenaMaster_DB_US",
+        "ArenaMasterPVPInspect"
       ]
     ]
   },
@@ -13866,6 +13883,20 @@
   },
   {
     "source": "curse",
+    "id": "413500",
+    "slug": "bigger-combo-points",
+    "name": "Bigger Combo Points",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BiggerComboPoints"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "263139",
     "slug": "bigger-fish-to-fry-tracker",
     "name": "Bigger Fish To Fry Tracker",
@@ -21941,6 +21972,20 @@
   },
   {
     "source": "curse",
+    "id": "413419",
+    "slug": "class-colored-unitframes",
+    "name": "Class Colored UnitFrames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Class Colored UnitFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "17635",
     "slug": "classcolors",
     "name": "Class Colors",
@@ -24884,9 +24929,6 @@
       "retail"
     ],
     "folders": [
-      [
-        "competitiontracker"
-      ],
       [
         "CompetitionTracker"
       ]
@@ -31301,6 +31343,13 @@
         "Details_DataStorage",
         "Details_Streamer",
         "Details"
+      ],
+      [
+        "Details_Streamer",
+        "Details_DataStorage",
+        "Details_EncounterDetails",
+        "Details_RaidCheck",
+        "Details"
       ]
     ]
   },
@@ -31328,23 +31377,25 @@
   {
     "source": "curse",
     "id": "396450",
-    "slug": "details-damage-meter-shadowlands-beta",
+    "slug": "details2",
     "name": "Details! Damage Meter Shadowlands",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "Details_CastHistory",
-        "Details_ChartViewer",
+        "Details_Streamer",
         "Details_DataStorage",
-        "Details_DeathGraphs",
         "Details_EncounterDetails",
         "Details_RaidCheck",
-        "Details_RaidPowerBars",
-        "Details_Streamer",
         "Details_TargetCaller",
         "Details_TimeLine",
+        "Details_TinyThreat",
+        "Details_Vanguard",
+        "Details_CastHistory",
+        "Details_ChartViewer",
+        "Details_DeathGraphs",
+        "Details_RaidPowerBars",
         "Details"
       ]
     ]
@@ -33384,7 +33435,7 @@
     "source": "curse",
     "id": "266106",
     "slug": "dumpster-reborn",
-    "name": "Dumpster Reborn",
+    "name": "Dumpster",
     "compatibility": [
       "retail"
     ],
@@ -35098,7 +35149,7 @@
   {
     "source": "curse",
     "id": "413110",
-    "slug": "eles-professions-mod",
+    "slug": "elerions-professions-mod",
     "name": "Elerion's Professions Mod",
     "compatibility": [
       "retail"
@@ -35505,20 +35556,6 @@
   },
   {
     "source": "curse",
-    "id": "42415",
-    "slug": "elvui-customchannelalert",
-    "name": "ElvUI ChannelAlerts",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_ChannelAlerts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "31954",
     "slug": "elvui_chattweaks",
     "name": "ElvUI Chat Tweaks",
@@ -35550,21 +35587,6 @@
     "folders": [
       [
         "ElvUI_CliqueDatatext"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "93995",
-    "slug": "elvui-codenameblaze",
-    "name": "ElvUI CodeNameBlaze",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "ElvUI_CodeNameBlaze"
       ]
     ]
   },
@@ -43431,20 +43453,6 @@
   },
   {
     "source": "curse",
-    "id": "90124",
-    "slug": "garrisondisenchant",
-    "name": "GarrisonDisenchant",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GarrisonDisenchant"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "84515",
     "slug": "garrisonfix",
     "name": "GarrisonFix",
@@ -45787,9 +45795,9 @@
     ],
     "folders": [
       [
+        "GoldGoblinLoot",
         "+GoldGoblinLoot",
-        "GoldGoblinLootArchive",
-        "GoldGoblinLoot"
+        "GoldGoblinLootArchive"
       ]
     ]
   },
@@ -55748,6 +55756,20 @@
   },
   {
     "source": "curse",
+    "id": "387064",
+    "slug": "instance-gold-tracker",
+    "name": "Instance Gold Tracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InstanceGoldTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "100298",
     "slug": "instance-portals",
     "name": "Instance Portals",
@@ -57028,6 +57050,21 @@
     "folders": [
       [
         "ItemQuests"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "1186",
+    "slug": "itemrack",
+    "name": "ItemRack",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ItemRackOptions",
+        "ItemRack"
       ]
     ]
   },
@@ -59996,6 +60033,20 @@
     "folders": [
       [
         "LFGCallToArmsBroker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413502",
+    "slug": "lfg-classes",
+    "name": "LFG Classes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LFGClasses"
       ]
     ]
   },
@@ -68431,6 +68482,20 @@
   },
   {
     "source": "curse",
+    "id": "413382",
+    "slug": "masque-shadowlands",
+    "name": "Masque: Shadowlands",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Masque_Shadowlands"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "87883",
     "slug": "masque-simplesquare",
     "name": "Masque: SimpleSquare",
@@ -70603,6 +70668,20 @@
     "folders": [
       [
         "MissionHush"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413412",
+    "slug": "mission-table-tabs",
+    "name": "Mission Table Tabs",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MissionTableTabs"
       ]
     ]
   },
@@ -73526,20 +73605,6 @@
     "folders": [
       [
         "MyNPC"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "310224",
-    "slug": "mypathfinder",
-    "name": "MyPathfinder",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MyPathfinder"
       ]
     ]
   },
@@ -81319,6 +81384,20 @@
   },
   {
     "source": "curse",
+    "id": "411702",
+    "slug": "plexusgridstatusrd_sl",
+    "name": "PlexusGridStatusRD_SL",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PlexusGridStatusRD_SL"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "399251",
     "slug": "plexusstatushealtracker",
     "name": "PlexusStatusHealTracker",
@@ -83008,6 +83087,20 @@
   },
   {
     "source": "curse",
+    "id": "413501",
+    "slug": "psychoui",
+    "name": "PsychoUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PsychoUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "348326",
     "slug": "pugloot",
     "name": "PugLoot",
@@ -83663,6 +83756,12 @@
       ],
       [
         "Quafe_MEKA",
+        "Quafe_Overwatch",
+        "Quafe"
+      ],
+      [
+        "Quafe_MEKA",
+        "Quafe_Options",
         "Quafe_Overwatch",
         "Quafe"
       ]
@@ -92086,12 +92185,12 @@
     ],
     "folders": [
       [
+        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
       ],
       [
-        "Scorpio.Secure",
         "Scorpio.UI",
         "Scorpio.Widget",
         "Scorpio"
@@ -93379,6 +93478,20 @@
     "folders": [
       [
         "ShadowedUF_SmoothBars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413413",
+    "slug": "shadowlands-api-compatibility-patch",
+    "name": "Shadowlands API Compatibility Patch",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ShadowlandsAPICompatibilityPatch"
       ]
     ]
   },
@@ -109781,6 +109894,20 @@
   },
   {
     "source": "curse",
+    "id": "413471",
+    "slug": "tugas-guild-gossip",
+    "name": "Tuga's Guild Gossip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TugasGuildGossip"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "14840",
     "slug": "project-14840",
     "name": "TuiRaidTracker",
@@ -113315,6 +113442,10 @@
     "folders": [
       [
         "WeekKeys"
+      ],
+      [
+        "WeekKeys_Guild",
+        "WeekKeys"
       ]
     ]
   },
@@ -115796,7 +115927,7 @@
     ],
     "folders": [
       [
-        "v0.1.1"
+        "v0.1.2"
       ]
     ]
   },
@@ -117547,6 +117678,20 @@
   },
   {
     "source": "curse",
+    "id": "413487",
+    "slug": "zinmon-opendyslexic",
+    "name": "Zinmon OpenDyslexic",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "OpenDyslexic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "380150",
     "slug": "zishor-raid-reset",
     "name": "Zishor Raid Reset",
@@ -117893,6 +118038,20 @@
     "folders": [
       [
         "Zum"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409968",
+    "slug": "zurichoui",
+    "name": "ZurichoUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZurichosUI"
       ]
     ]
   },
@@ -217720,7 +217879,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.7-release"
+        "TwintopInsanityBar-9.0.2.8-release"
       ]
     ]
   },
@@ -231246,7 +231405,7 @@
     "source": "wowi",
     "id": "25683",
     "slug": "",
-    "name": "WoWpoPolsku-Bubbles 9.00 2020-10-13",
+    "name": "WoWpoPolsku-Bubbles 9.02 2020-10-16",
     "compatibility": [
       "classic",
       "retail"
@@ -231823,7 +231982,7 @@
     ],
     "folders": [
       [
-        "BattlegroundTargets3"
+        "BattlegroundTargets3-v07"
       ]
     ]
   },
@@ -231839,6 +231998,96 @@
     "folders": [
       [
         "zz_LFG"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25727",
+    "slug": "",
+    "name": "AIA Calendar Manager",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AIA"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25728",
+    "slug": "",
+    "name": "SharedMedia: WLNO Rogue",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharedMedia_WLNO"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25729",
+    "slug": "",
+    "name": "Mount Collector",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "MountCollector"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25730",
+    "slug": "",
+    "name": "SRAE-WOW",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "SRAE-WOW"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25731",
+    "slug": "",
+    "name": "PsychoUI",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "PsychoUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25732",
+    "slug": "",
+    "name": "LootRollLedger",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "LootRollLedger"
       ]
     ]
   },
@@ -232004,16 +232253,6 @@
   },
   {
     "source": "tukui",
-    "id": "2",
-    "slug": "",
-    "name": "CodeNameBlaze",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
     "id": "147",
     "slug": "",
     "name": "Custom Tags",
@@ -232087,16 +232326,6 @@
     "id": "152",
     "slug": "",
     "name": "ElvUI Cardinal Points",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "15",
-    "slug": "",
-    "name": "ElvUI ChannelAlerts",
     "compatibility": [
       "retail"
     ],
@@ -232327,16 +232556,6 @@
     "id": "137",
     "slug": "",
     "name": "Floating Combat Text",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "22",
-    "slug": "",
-    "name": "GarrisonDisenchant",
     "compatibility": [
       "retail"
     ],
@@ -232837,16 +233056,6 @@
     "id": "45",
     "slug": "",
     "name": "CHS Addon Pack",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "29",
-    "slug": "",
-    "name": "CodeNameBlaze",
     "compatibility": [
       "classic"
     ],
