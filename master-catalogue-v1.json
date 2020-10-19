@@ -5817,20 +5817,6 @@
   },
   {
     "source": "curse",
-    "id": "262555",
-    "slug": "artifactpowerkillsyou",
-    "name": "ArtifactPowerKillsYou",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ArtifactPowerKillsYou"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "102259",
     "slug": "artifactpowertip",
     "name": "ArtifactPowerTip",
@@ -31072,6 +31058,21 @@
   },
   {
     "source": "curse",
+    "id": "413260",
+    "slug": "dejunk",
+    "name": "Dejunk (Sell & Destroy Junk)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Dejunk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "392624",
     "slug": "delete-hearthstone",
     "name": "Delete Hearthstone",
@@ -36035,10 +36036,10 @@
     ],
     "folders": [
       [
-        "ElvUI_NutsAndBolts_Classic"
+        "ElvUI_NutsAndBolts"
       ],
       [
-        "ElvUI_NutsAndBolts"
+        "ElvUI_NutsAndBolts_Classic"
       ]
     ]
   },
@@ -66581,6 +66582,20 @@
   },
   {
     "source": "curse",
+    "id": "412950",
+    "slug": "macframes",
+    "name": "MacFrames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MacFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102827",
     "slug": "macmenu",
     "name": "MacMenu",
@@ -82836,24 +82851,6 @@
   },
   {
     "source": "curse",
-    "id": "102607",
-    "slug": "professiontab",
-    "name": "ProfessionTab",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ProfessionTab"
-      ],
-      [
-        "ProfessionTab",
-        "CloudyTradeSkill"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "92838",
     "slug": "professions-complete",
     "name": "Professions Complete",
@@ -93845,7 +93842,8 @@
     "slug": "sharedmedia-alexa-play-creed",
     "name": "SharedMedia_AlexaPlayCreed",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -104412,7 +104410,7 @@
     ],
     "folders": [
       [
-        "ElvUI_ThinkTankUI_RM"
+        "ElvUI_MOGUI"
       ]
     ]
   },
@@ -111392,12 +111390,6 @@
       "classic"
     ],
     "folders": [
-      [
-        "Vendor_Pawn",
-        "Vendor_Ark",
-        "Vendor_RulePack",
-        "Vendor"
-      ],
       [
         "Vendor_Ark",
         "Vendor_Pawn",
@@ -197807,7 +197799,7 @@
     "source": "wowi",
     "id": "22329",
     "slug": "",
-    "name": "cargBags Nivaya (RealUI/standalone)",
+    "name": "cargBags Nivaya",
     "compatibility": [
       "retail",
       "classic"
@@ -217904,7 +217896,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.9-release"
+        "TwintopInsanityBar-9.0.2.10-release"
       ]
     ]
   },
@@ -227003,10 +226995,10 @@
     ],
     "folders": [
       [
-        "SellOMatic2_Destroy",
-        "SellOMatic2_Item",
         "SellOMatic2_List",
-        "SellOMatic2"
+        "SellOMatic2",
+        "SellOMatic2_Destroy",
+        "SellOMatic2_Item"
       ]
     ]
   },
@@ -232178,6 +232170,36 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25738",
+    "slug": "",
+    "name": "Macro Extractor",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MacroExtractor"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25739",
+    "slug": "",
+    "name": "MacFrames",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MacFrames"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -232762,6 +232784,16 @@
     "id": "145",
     "slug": "",
     "name": "Neat Minimap",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "185",
+    "slug": "",
+    "name": "NoobTacoUI Media",
     "compatibility": [
       "retail"
     ],
