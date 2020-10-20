@@ -1007,6 +1007,20 @@
   },
   {
     "source": "curse",
+    "id": "413944",
+    "slug": "abandon-zone-quests",
+    "name": "Abandon Zone Quests",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AbandonZoneQuest"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "334989",
     "slug": "abarclassic",
     "name": "AbarClassic",
@@ -8208,6 +8222,20 @@
     "folders": [
       [
         "AutoGroupAccept"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414081",
+    "slug": "autoguildnote",
+    "name": "AutoGuildNote",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoGuildNote"
       ]
     ]
   },
@@ -16456,6 +16484,20 @@
   },
   {
     "source": "curse",
+    "id": "413516",
+    "slug": "broker-ggsocialstate2",
+    "name": "Broker: GGSocialState2",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GGSocialState2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "102729",
     "slug": "broker-gotmail",
     "name": "Broker: GotMail",
@@ -23465,6 +23507,20 @@
   },
   {
     "source": "curse",
+    "id": "413789",
+    "slug": "clear-map-pin",
+    "name": "Clear Map Pin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ClearMapPin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "409457",
     "slug": "cleverpet",
     "name": "CleverPet",
@@ -23547,6 +23603,20 @@
     "folders": [
       [
         "Clicked"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413629",
+    "slug": "clippy-assist",
+    "name": "Clippy Assist",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ClippyAssist"
       ]
     ]
   },
@@ -28166,7 +28236,7 @@
     "source": "curse",
     "id": "15406",
     "slug": "dhud-3_0",
-    "name": "DHUD for 8.0 and Classic",
+    "name": "DHUD for 9.0 and Classic",
     "compatibility": [
       "retail",
       "classic"
@@ -28598,10 +28668,10 @@
     ],
     "folders": [
       [
-        "DagAssist"
+        "DagAssistClassic"
       ],
       [
-        "DagAssistClassic"
+        "DagAssist"
       ]
     ]
   },
@@ -45234,6 +45304,20 @@
   },
   {
     "source": "curse",
+    "id": "413699",
+    "slug": "glowoff",
+    "name": "GlowOFF",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GlowOFF"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22288",
     "slug": "gezfx",
     "name": "Gluggen's Easy Fix",
@@ -51455,6 +51539,20 @@
   },
   {
     "source": "curse",
+    "id": "413959",
+    "slug": "health-alarm",
+    "name": "Health Alarm",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HealthAlarm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "312940",
     "slug": "healthstone-auto-macro",
     "name": "Healthstone Auto Macro",
@@ -52294,6 +52392,20 @@
     "folders": [
       [
         "HideCleanUpBagsButton"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413742",
+    "slug": "hide-corruption-tooltips",
+    "name": "Hide Corruption Tooltips",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HideCorruptionTooltips"
       ]
     ]
   },
@@ -53677,6 +53789,20 @@
     "folders": [
       [
         "HPH"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "260248",
+    "slug": "honor-track",
+    "name": "Honor Track",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HonorTrack"
       ]
     ]
   },
@@ -58062,6 +58188,20 @@
   },
   {
     "source": "curse",
+    "id": "374093",
+    "slug": "ktracker",
+    "name": "KTracker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "!KTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "339809",
     "slug": "kaliels-tracker-classic",
     "name": "Kaliel's Quest Tracker (Classic)",
@@ -59069,10 +59209,10 @@
     ],
     "folders": [
       [
-        "KillThemAll"
+        "KillThemAll_Classic"
       ],
       [
-        "KillThemAll_Classic"
+        "KillThemAll"
       ]
     ]
   },
@@ -59155,6 +59295,20 @@
     "id": "306083",
     "slug": "killthemall_sargeras",
     "name": "KillThemAll_Sargeras",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KillThemAll_Sargeras"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413731",
+    "slug": "killthemall_sargeras-reupload",
+    "name": "KillThemAll_Sargeras (Reupload)",
     "compatibility": [
       "retail"
     ],
@@ -61350,20 +61504,6 @@
     "folders": [
       [
         "LegionCPFrame"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "260248",
-    "slug": "legion-honor",
-    "name": "Legion Honor",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "LegionHonor"
       ]
     ]
   },
@@ -71773,6 +71913,20 @@
   },
   {
     "source": "curse",
+    "id": "413895",
+    "slug": "more-buffs-per-row",
+    "name": "More Buffs Per Row",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MoreBuffsPerRow"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85099",
     "slug": "more-stopwatches",
     "name": "More Stopwatches",
@@ -72377,6 +72531,20 @@
     "folders": [
       [
         "MouselookHandler"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "300304",
+    "slug": "mouseoverhideobjectives",
+    "name": "Mouseover Hide Objectives",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MouseoverHideObjectives"
       ]
     ]
   },
@@ -81406,6 +81574,36 @@
   },
   {
     "source": "curse",
+    "id": "414001",
+    "slug": "plexusindicatorsdynamic",
+    "name": "PlexusIndicatorsDynamic",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PlexusIndicatorsDynamic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413886",
+    "slug": "plexusstatusaurasext",
+    "name": "PlexusStatusAurasExt",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PlexusStatusAurasExt"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "399251",
     "slug": "plexusstatushealtracker",
     "name": "PlexusStatusHealTracker",
@@ -84671,6 +84869,20 @@
     "folders": [
       [
         "QuestProgressTooltips"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413775",
+    "slug": "quest-puncher",
+    "name": "QuestPuncher",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "QuestPuncher"
       ]
     ]
   },
@@ -94806,6 +95018,20 @@
   },
   {
     "source": "curse",
+    "id": "413697",
+    "slug": "silentium",
+    "name": "Silentium",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Silentium"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "398416",
     "slug": "silfui",
     "name": "SilfUI",
@@ -96833,6 +97059,20 @@
     "folders": [
       [
         "SlashIn"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413845",
+    "slug": "slashpin",
+    "name": "SlashPin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SlashPin"
       ]
     ]
   },
@@ -100079,6 +100319,20 @@
     "folders": [
       [
         "StatusBars2"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413888",
+    "slug": "stay-sheathed-lite",
+    "name": "Stay Sheathed Lite",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StaySheathed"
       ]
     ]
   },
@@ -104410,7 +104664,7 @@
     ],
     "folders": [
       [
-        "ElvUI_MOGUI"
+        "ElvUI_ThinkTankUI_RM"
       ]
     ]
   },
@@ -111393,16 +111647,11 @@
       [
         "Vendor_Ark",
         "Vendor_Pawn",
-        "Vendor_Titan",
-        "Vendor_TSM",
+        "Vendor_RulePack",
         "Vendor"
       ],
       [
-        "Vendor_Pawn",
         "Vendor_Ark",
-        "Vendor_RulePack",
-        "Vendor_TSM",
-        "Vendor_Titan",
         "Vendor"
       ]
     ]
@@ -111788,8 +112037,8 @@
     ],
     "folders": [
       [
-        "ViksUI",
-        "Viks_ConfigUI"
+        "Viks_ConfigUI",
+        "ViksUI"
       ]
     ]
   },
@@ -113461,6 +113710,7 @@
       ],
       [
         "WeekKeys_Guild",
+        "WeekKeys_MTable",
         "WeekKeys"
       ]
     ]
@@ -115907,6 +116157,20 @@
   },
   {
     "source": "curse",
+    "id": "414057",
+    "slug": "wowinfo",
+    "name": "WowInfo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WowInfo"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "24331",
     "slug": "wowlua",
     "name": "WowLua - Lua in Wow",
@@ -117619,6 +117883,20 @@
     "folders": [
       [
         "ZeBid"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413760",
+    "slug": "zeldaloot-extended",
+    "name": "ZeldaLoot Extended",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZeldaLoot_Extended"
       ]
     ]
   },
@@ -121062,6 +121340,20 @@
     "folders": [
       [
         "ifarm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413244",
+    "slug": "jautoquest",
+    "name": "jAutoQuest",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "jAutoQuest"
       ]
     ]
   },
@@ -217782,6 +218074,21 @@
   },
   {
     "source": "wowi",
+    "id": "24608",
+    "slug": "",
+    "name": "Hekili",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "Hekili"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
     "id": "24613",
     "slug": "",
     "name": "LibAuras",
@@ -219871,7 +220178,7 @@
     "source": "wowi",
     "id": "24819",
     "slug": "",
-    "name": "AllPlayed fix for 8.0",
+    "name": "AllPlayed fix for 9.0.1",
     "compatibility": [
       "retail",
       "classic"
@@ -232354,6 +232661,16 @@
     "id": "177",
     "slug": "",
     "name": "Chat Box Fader",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "186",
+    "slug": "",
+    "name": "CopyPasta2",
     "compatibility": [
       "retail"
     ],
