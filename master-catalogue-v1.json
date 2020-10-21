@@ -4643,7 +4643,8 @@
     "slug": "anyfont",
     "name": "AnyFont",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -7713,6 +7714,20 @@
     "folders": [
       [
         "AutoStopwatch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414142",
+    "slug": "auto-track-map-pin",
+    "name": "Auto Track Map Pin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoTrackMapPin"
       ]
     ]
   },
@@ -19123,9 +19138,9 @@
         "CUI"
       ],
       [
-        "CUI_Config",
         "CUI_Statistics",
         "CUI_WorldmapMarkers",
+        "CUI_Config",
         "CUI"
       ]
     ]
@@ -22563,6 +22578,20 @@
   },
   {
     "source": "curse",
+    "id": "414259",
+    "slug": "classic-quest-log-elvui-skin",
+    "name": "Classic Quest Log ElvUI Skin",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Classic Quest Log ElvUI Skin"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "358382",
     "slug": "classic-raid-assist",
     "name": "Classic Raid Assist",
@@ -25669,20 +25698,6 @@
     "folders": [
       [
         "CookyItemSplitter"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "95267",
-    "slug": "cookychat",
-    "name": "CookyChat",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "CookyChat"
       ]
     ]
   },
@@ -32471,13 +32486,6 @@
         "Dominos_Progress",
         "Dominos_Roll",
         "Dominos"
-      ],
-      [
-        "Dominos_Cast",
-        "Dominos_Config",
-        "Dominos_Encounter",
-        "Dominos_Progress",
-        "Dominos"
       ]
     ]
   },
@@ -37202,20 +37210,6 @@
   },
   {
     "source": "curse",
-    "id": "274181",
-    "slug": "endure-boss-checker",
-    "name": "Endure Boss Checker",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "EndureBossChecker"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "392517",
     "slug": "enemy-cooldown-count-classic",
     "name": "Enemy Cooldown Count (Classic)",
@@ -38412,6 +38406,20 @@
     "folders": [
       [
         "expstats"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414353",
+    "slug": "exptextremove",
+    "name": "ExpTextRemove",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ExpTextRemove"
       ]
     ]
   },
@@ -49133,7 +49141,8 @@
     "slug": "guildnotechanges",
     "name": "GuildNoteChanges",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -51495,6 +51504,20 @@
   },
   {
     "source": "curse",
+    "id": "414194",
+    "slug": "healers-adjust-loot-priority",
+    "name": "Healers Adjust Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Healersadjust_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "7976",
     "slug": "hgscontinued",
     "name": "Healing Groups Sucks Continued",
@@ -52140,6 +52163,20 @@
     "folders": [
       [
         "HeroicRaidReady"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414197",
+    "slug": "hexs-hexes",
+    "name": "Hexs' Hexes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HexsHexes"
       ]
     ]
   },
@@ -55221,6 +55258,20 @@
   },
   {
     "source": "curse",
+    "id": "413567",
+    "slug": "improved-macro-frame",
+    "name": "Improved Macro Frame",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ImprovedMacroFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "31682",
     "slug": "improved-options-frames",
     "name": "Improved Options Frames",
@@ -57025,6 +57076,7 @@
         "ILD-Arkinventory",
         "ILD-Baggins",
         "ILD-Bagnon",
+        "ILD-Baudbag",
         "ILD-Blizzard",
         "ILD-Combuctor",
         "ILD-Litebag",
@@ -66509,13 +66561,13 @@
     "source": "curse",
     "id": "409781",
     "slug": "mdx_auto-macro",
-    "name": "MDX_Auto Macro",
+    "name": "MDX_Auto_Macro",
     "compatibility": [
       "retail"
     ],
     "folders": [
       [
-        "MDX_Auto Macro"
+        "MDX_Auto_Macro"
       ]
     ]
   },
@@ -66815,6 +66867,9 @@
     "folders": [
       [
         "MacroToolkitIcons",
+        "MacroToolkit"
+      ],
+      [
         "MacroToolkit"
       ]
     ]
@@ -70481,6 +70536,21 @@
   },
   {
     "source": "curse",
+    "id": "414251",
+    "slug": "minimap-button-frame-fan-update",
+    "name": "Minimap Button Frame (Fan-Update)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MinimapButtonFrame_SkinPack",
+        "MinimapButtonFrame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "32669",
     "slug": "minimap-mousewheel-enabler",
     "name": "Minimap Mousewheel Enabler",
@@ -72370,7 +72440,8 @@
     "slug": "mouselook",
     "name": "Mouse Look",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -72794,7 +72865,7 @@
   {
     "source": "curse",
     "id": "402280",
-    "slug": "movestandardframe",
+    "slug": "msf",
     "name": "MoveStandardFrame",
     "compatibility": [
       "retail"
@@ -94205,6 +94276,20 @@
   },
   {
     "source": "curse",
+    "id": "414004",
+    "slug": "sharpecombopoints",
+    "name": "SharpeComboPoints",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SharpeComboHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "289284",
     "slug": "shathyar",
     "name": "Shath'Yar",
@@ -111647,11 +111732,16 @@
       [
         "Vendor_Ark",
         "Vendor_Pawn",
-        "Vendor_RulePack",
+        "Vendor_Titan",
+        "Vendor_TSM",
         "Vendor"
       ],
       [
+        "Vendor_Pawn",
         "Vendor_Ark",
+        "Vendor_RulePack",
+        "Vendor_TSM",
+        "Vendor_Titan",
         "Vendor"
       ]
     ]
@@ -116207,7 +116297,7 @@
     ],
     "folders": [
       [
-        "v0.1.2"
+        "WowauditInviteTool"
       ]
     ]
   },
@@ -120635,6 +120725,20 @@
     "folders": [
       [
         "gmVideoSwitch"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414241",
+    "slug": "goloot",
+    "name": "goLoot",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "goLoot"
       ]
     ]
   },
@@ -125184,8 +125288,7 @@
     ],
     "folders": [
       [
-        "OneBag3",
-        "OneCore"
+        "OneBag3"
       ]
     ]
   },
@@ -127099,36 +127202,6 @@
   },
   {
     "source": "wowi",
-    "id": "5782",
-    "slug": "",
-    "name": "AlarBGHelper",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "AlarBGHelper"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "5783",
-    "slug": "",
-    "name": "AlarQuickButtons",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "AlarQuickButtons"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "5812",
     "slug": "",
     "name": "Advanced Trade Skill Window",
@@ -127675,21 +127748,6 @@
     "folders": [
       [
         "Cockpit"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "6457",
-    "slug": "",
-    "name": "AlarAutomation",
-    "compatibility": [
-      "retail",
-      "classic"
-    ],
-    "folders": [
-      [
-        "AlarAutomation"
       ]
     ]
   },
@@ -140240,8 +140298,7 @@
     ],
     "folders": [
       [
-        "OneBank3",
-        "OneCore"
+        "OneBank3"
       ]
     ]
   },
@@ -187981,14 +188038,15 @@
     ],
     "folders": [
       [
-        "ILD-Arkinventory",
-        "ILD-Baggins",
-        "ILD-Bagnon",
+        "ItemLevelDisplay",
         "ILD-Blizzard",
+        "ILD-Arkinventory",
+        "ILD-Bagnon",
+        "ILD-Baggins",
+        "ILD-Baudbag",
         "ILD-Combuctor",
         "ILD-Litebag",
-        "ILD-Onebag3",
-        "ItemLevelDisplay"
+        "ILD-Onebag3"
       ]
     ]
   },
@@ -207376,8 +207434,8 @@
     ],
     "folders": [
       [
-        "GarrisonCommander-Broker",
-        "GarrisonCommander"
+        "GarrisonCommander",
+        "GarrisonCommander-Broker"
       ]
     ]
   },
@@ -215616,14 +215674,14 @@
     "source": "wowi",
     "id": "24343",
     "slug": "",
-    "name": "Legion Honor",
+    "name": "Honor Track",
     "compatibility": [
       "retail",
       "classic"
     ],
     "folders": [
       [
-        "LegionHonor"
+        "HonorTrack"
       ]
     ]
   },
@@ -231019,7 +231077,7 @@
     "source": "wowi",
     "id": "25619",
     "slug": "",
-    "name": "PhreakFonts Pack",
+    "name": "Phreakin's Display Fonts",
     "compatibility": [
       "retail",
       "classic"
@@ -231027,10 +231085,9 @@
     "folders": [
       [
         "",
-        "Core",
+        "Docs",
         "Fonts",
         "Libs",
-        "Licensing",
         "Media"
       ]
     ]
@@ -232503,6 +232560,94 @@
     "folders": [
       [
         "MacFrames"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25740",
+    "slug": "",
+    "name": "AtlasLoot Enhanced v8.12.00 ShadowlandsFix_r001",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AtlasLoot_WrathoftheLichKing",
+        "AtlasLoot",
+        "AtlasLoot_BattleforAzeroth",
+        "AtlasLoot_BurningCrusade",
+        "AtlasLoot_Cataclysm",
+        "AtlasLoot_Classic",
+        "AtlasLoot_Collections",
+        "AtlasLoot_Crafting",
+        "AtlasLoot_Factions",
+        "AtlasLoot_Legion",
+        "AtlasLoot_MistsofPandaria",
+        "AtlasLoot_Options",
+        "AtlasLoot_PvP",
+        "AtlasLoot_WarlordsofDraenor",
+        "AtlasLoot_WorldEvents"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25741",
+    "slug": "",
+    "name": "Misdirect Helper",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "MisdirectHelper"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25742",
+    "slug": "",
+    "name": "AtlasLoot Enhanced v8.12.00 ShadowlandsFix r002",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "AtlasLoot",
+        "AtlasLoot_BattleforAzeroth",
+        "AtlasLoot_BurningCrusade",
+        "AtlasLoot_Cataclysm",
+        "AtlasLoot_Classic",
+        "AtlasLoot_Collections",
+        "AtlasLoot_Crafting",
+        "AtlasLoot_Factions",
+        "AtlasLoot_Legion",
+        "AtlasLoot_MistsofPandaria",
+        "AtlasLoot_Options",
+        "AtlasLoot_PvP",
+        "AtlasLoot_WarlordsofDraenor",
+        "AtlasLoot_WorldEvents",
+        "AtlasLoot_WrathoftheLichKing"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25743",
+    "slug": "",
+    "name": "Elite Player Frame (Enhanced)",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "ElitePlayerFrame_Enhanced"
       ]
     ]
   },
