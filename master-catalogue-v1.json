@@ -13279,6 +13279,20 @@
   },
   {
     "source": "curse",
+    "id": "415432",
+    "slug": "bigbattleshout",
+    "name": "BigBattleShout",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "BigBattleShout"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "349169",
     "slug": "bigbraintanking",
     "name": "BigBrainTanking",
@@ -14090,6 +14104,20 @@
     "folders": [
       [
         "BillsUtils"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413770",
+    "slug": "biltong",
+    "name": "Biltong",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Biltong"
       ]
     ]
   },
@@ -19372,6 +19400,20 @@
   },
   {
     "source": "curse",
+    "id": "414764",
+    "slug": "caligo-raid-frames",
+    "name": "Caligo Raid Frames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CaligoRaidFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "95800",
     "slug": "call-arms-tracker",
     "name": "Call To Arms Tracker",
@@ -20333,6 +20375,20 @@
     "folders": [
       [
         "Celebrate!"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "409666",
+    "slug": "cell",
+    "name": "Cell",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Cell"
       ]
     ]
   },
@@ -22394,6 +22450,21 @@
   },
   {
     "source": "curse",
+    "id": "322865",
+    "slug": "classiccastbars",
+    "name": "Classic Castbars",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ClassicCastbars_Options",
+        "ClassicCastbars"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "328240",
     "slug": "classic-countdown",
     "name": "Classic Countdown",
@@ -22854,21 +22925,6 @@
     "folders": [
       [
         "ClassicCal"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "322865",
-    "slug": "classiccastbars",
-    "name": "ClassicCastbars",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ClassicCastbars_Options",
-        "ClassicCastbars"
       ]
     ]
   },
@@ -24941,6 +24997,20 @@
   },
   {
     "source": "curse",
+    "id": "415403",
+    "slug": "compact-action-bar",
+    "name": "Compact Action Bar",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CompactActionBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "44085",
     "slug": "compact-runes",
     "name": "Compact Runes",
@@ -25529,6 +25599,10 @@
         "ConsolePortBar",
         "ConsolePortUI_Loot",
         "ConsolePortUI_Menu"
+      ],
+      [
+        "ConsolePort_Config",
+        "ConsolePort"
       ]
     ]
   },
@@ -26241,7 +26315,8 @@
     "slug": "countit",
     "name": "CountIt",
     "compatibility": [
-      "classic"
+      "classic",
+      "retail"
     ],
     "folders": [
       [
@@ -36180,6 +36255,21 @@
   },
   {
     "source": "curse",
+    "id": "415331",
+    "slug": "elvui-noborders",
+    "name": "ElvUI NoBorders",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_NoBorders"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "47763",
     "slug": "elvui-nutsandbolts",
     "name": "ElvUI Nuts and Bolts",
@@ -36567,10 +36657,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ],
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ]
     ]
   },
@@ -38103,6 +38193,20 @@
   },
   {
     "source": "curse",
+    "id": "415043",
+    "slug": "euicombopoint",
+    "name": "EuiComboPoint",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EuiComboPoint"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "86104",
     "slug": "evening-wear",
     "name": "Evening Wear",
@@ -38209,6 +38313,20 @@
     "folders": [
       [
         "EventLib"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "414768",
+    "slug": "eventreminder",
+    "name": "EventReminder",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EventReminder"
       ]
     ]
   },
@@ -48174,20 +48292,6 @@
   },
   {
     "source": "curse",
-    "id": "364472",
-    "slug": "guidelime_busteas-1-60-horde-and-alliance-grinding",
-    "name": "Guidelime_Bustea's 1-60 Horde and Alliance Grinding Guide",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "Guidelime_Bustea's 1-60 Grinding Horde and Alliance"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "335818",
     "slug": "guidelime_cowcium",
     "name": "Guidelime_Cowcium",
@@ -56323,6 +56427,20 @@
   },
   {
     "source": "curse",
+    "id": "415390",
+    "slug": "instantloot",
+    "name": "InstantLoot",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InstantLoot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29354",
     "slug": "instigator",
     "name": "Instigator",
@@ -57928,7 +58046,8 @@
     "slug": "jerk-script",
     "name": "Jerk Script",
     "compatibility": [
-      "classic"
+      "classic",
+      "retail"
     ],
     "folders": [
       [
@@ -63512,6 +63631,7 @@
     "slug": "liblevelguess-1-0",
     "name": "LibLevelGuess-1.0",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -68927,6 +69047,7 @@
     "slug": "masque-squat",
     "name": "Masque: Squat",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -70679,6 +70800,7 @@
     "slug": "minimap-alert",
     "name": "Minimap Alert",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -79353,9 +79475,6 @@
     ],
     "folders": [
       [
-        "PartyMarkerClassic"
-      ],
-      [
         "PartyMarker"
       ]
     ]
@@ -83554,6 +83673,20 @@
     "folders": [
       [
         "ProspectBarLives"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "82538",
+    "slug": "prospectbutton",
+    "name": "ProspectButton",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ProspectButton"
       ]
     ]
   },
@@ -98298,20 +98431,6 @@
   },
   {
     "source": "curse",
-    "id": "298322",
-    "slug": "socialite",
-    "name": "Socialite",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "Socialite"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "26811",
     "slug": "titanpanel-social",
     "name": "Socialite (Titan Social)",
@@ -99058,6 +99177,20 @@
     "folders": [
       [
         "SpartanUI_ChineseFont"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415334",
+    "slug": "spassball",
+    "name": "Spassball",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Spassball"
       ]
     ]
   },
@@ -101294,6 +101427,20 @@
     "folders": [
       [
         "StreamBuddy"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415202",
+    "slug": "strongstyle-ui",
+    "name": "Strongstyle UI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "StrongstyleUI"
       ]
     ]
   },
@@ -105249,6 +105396,20 @@
   },
   {
     "source": "curse",
+    "id": "415145",
+    "slug": "thunderhorn-flock-loot-priority",
+    "name": "ThunderHorn Flock Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ThunderhornsFlock_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "367988",
     "slug": "thunderloot",
     "name": "ThunderLoot",
@@ -107184,6 +107345,20 @@
     "folders": [
       [
         "TitanRecap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415271",
+    "slug": "titan-panel-recount",
+    "name": "Titan Panel [Recount]",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TitanRecount"
       ]
     ]
   },
@@ -113021,12 +113196,15 @@
     "slug": "wfgowhoosh",
     "name": "WFGoWhoosh",
     "compatibility": [
-      "classic",
-      "retail"
+      "classic"
     ],
     "folders": [
       [
         "WFGoWhoosh"
+      ],
+      [
+        "WFGoWhoosh",
+        "IsQuenBuffed"
       ]
     ]
   },
@@ -114113,6 +114291,7 @@
         "WeekKeys"
       ],
       [
+        "WeekKeys_Friends",
         "WeekKeys_Guild",
         "WeekKeys_MTable",
         "WeekKeys"
@@ -218559,7 +218738,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.13-release"
+        "TwintopInsanityBar-9.0.2.14-release"
       ]
     ]
   },
@@ -227628,10 +227807,10 @@
     ],
     "folders": [
       [
-        "SellOMatic2_List",
         "SellOMatic2",
         "SellOMatic2_Destroy",
-        "SellOMatic2_Item"
+        "SellOMatic2_Item",
+        "SellOMatic2_List"
       ]
     ]
   },
@@ -232935,6 +233114,36 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25747",
+    "slug": "",
+    "name": "Strongstyle UI",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "StrongstyleUI"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25749",
+    "slug": "",
+    "name": "AutoUnsheath",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoUnsheath"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -233189,6 +233398,16 @@
     "id": "44",
     "slug": "",
     "name": "ElvUI CustomMedia",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "188",
+    "slug": "",
+    "name": "ElvUI Enhanced (Again)",
     "compatibility": [
       "retail"
     ],
@@ -233926,16 +234145,6 @@
   },
   {
     "source": "tukui",
-    "id": "45",
-    "slug": "",
-    "name": "CHS Addon Pack",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
     "id": "30",
     "slug": "",
     "name": "Custom Tags",
@@ -234059,16 +234268,6 @@
     "id": "32",
     "slug": "",
     "name": "ElvUI_mMediaTagClassic",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": []
-  },
-  {
-    "source": "tukui",
-    "id": "18",
-    "slug": "",
-    "name": "ElvUI_QuestXP_Classic",
     "compatibility": [
       "classic"
     ],
