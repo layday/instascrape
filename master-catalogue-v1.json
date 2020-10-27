@@ -9048,6 +9048,21 @@
   },
   {
     "source": "curse",
+    "id": "415645",
+    "slug": "autozone",
+    "name": "AutoZone",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoZone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "83846",
     "slug": "autoloot1337",
     "name": "Autoloot",
@@ -22593,6 +22608,20 @@
   },
   {
     "source": "curse",
+    "id": "411003",
+    "slug": "classicnfct",
+    "name": "Classic Nameplate-based Floating Combat Text",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ClassicNFCT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "264469",
     "slug": "classic-pvp-flagging",
     "name": "Classic PVP Flagging",
@@ -23180,20 +23209,6 @@
     "folders": [
       [
         "ClassicLevelUp"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "411003",
-    "slug": "classicnfct",
-    "name": "ClassicNFCT",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ClassicNFCT"
       ]
     ]
   },
@@ -32313,6 +32328,20 @@
     "folders": [
       [
         "DisablePortraitText"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415591",
+    "slug": "disablett",
+    "name": "DisableTT",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "disablett"
       ]
     ]
   },
@@ -67079,6 +67108,20 @@
   },
   {
     "source": "curse",
+    "id": "415467",
+    "slug": "mcsexporter",
+    "name": "Machigatta's\u00a0Character\u00a0Stats\u00a0Exporter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MCSExport"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "48678",
     "slug": "macro-box",
     "name": "Macro Box",
@@ -68906,6 +68949,20 @@
     "folders": [
       [
         "Masque_Onyx"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415741",
+    "slug": "masque-pixel-perfect",
+    "name": "Masque: Pixel Perfect",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Masque_PixelPerfect"
       ]
     ]
   },
@@ -73208,6 +73265,20 @@
   },
   {
     "source": "curse",
+    "id": "415652",
+    "slug": "movement-speed",
+    "name": "Movement Speed",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MovementSpeed"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "2268",
     "slug": "mozz-full-world-map-fans-update",
     "name": "MozzFullWorldMap",
@@ -74685,7 +74756,7 @@
     "source": "curse",
     "id": "324377",
     "slug": "ndui",
-    "name": "NDui",
+    "name": "NDui(core)",
     "compatibility": [
       "retail"
     ],
@@ -74699,7 +74770,7 @@
     "source": "curse",
     "id": "338794",
     "slug": "ndui-classic",
-    "name": "NDui Classic",
+    "name": "NDui(core) Classic",
     "compatibility": [
       "classic"
     ],
@@ -78420,6 +78491,20 @@
     "id": "379384",
     "slug": "outofmana",
     "name": "OutOfMana",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "OutOfMana"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415594",
+    "slug": "outofmana-oom",
+    "name": "OutOfMana (OOM)",
     "compatibility": [
       "retail"
     ],
@@ -119834,8 +119919,8 @@
   {
     "source": "curse",
     "id": "335009",
-    "slug": "bfapetdone",
-    "name": "bfaPetDone",
+    "slug": "bfapetquest",
+    "name": "bfaPetQuest",
     "compatibility": [
       "retail"
     ],
@@ -124846,6 +124931,7 @@
     "slug": "xmerchant",
     "name": "xMerchant",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -198883,7 +198969,7 @@
     "source": "wowi",
     "id": "22355",
     "slug": "",
-    "name": "Aurora_Vendorizer",
+    "name": "Aurora_Vendorizer (Deprecated)",
     "compatibility": [
       "classic",
       "retail"
@@ -200918,7 +201004,7 @@
     "source": "wowi",
     "id": "22618",
     "slug": "",
-    "name": "Aurora_RaidManager",
+    "name": "Aurora_RaidManager (Deprecated)",
     "compatibility": [
       "classic",
       "retail"
@@ -216241,7 +216327,7 @@
     "source": "wowi",
     "id": "24354",
     "slug": "",
-    "name": "MarksMan",
+    "name": "MarksMan (Deprecated)",
     "compatibility": [
       "classic",
       "retail"
@@ -216318,7 +216404,7 @@
     "source": "wowi",
     "id": "24360",
     "slug": "",
-    "name": "BloodyHell",
+    "name": "BloodyHell (Deprecated)",
     "compatibility": [
       "classic",
       "retail"
@@ -218738,7 +218824,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.14-release"
+        "TwintopInsanityBar-9.0.2.16-release"
       ]
     ]
   },
@@ -233140,6 +233226,51 @@
     "folders": [
       [
         "AutoUnsheath"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25750",
+    "slug": "",
+    "name": "OmniBar",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "OmniBar"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25751",
+    "slug": "",
+    "name": "AutoZone",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoZone"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25752",
+    "slug": "",
+    "name": "GnomishVendorShrinker Future",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "GnomishVendorShrinker"
       ]
     ]
   },
