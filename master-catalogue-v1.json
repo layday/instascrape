@@ -9076,11 +9076,24 @@
   },
   {
     "source": "curse",
-    "id": "415645",
+    "id": "415989",
     "slug": "autozone",
     "name": "AutoZone",
     "compatibility": [
-      "retail",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoZone"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415991",
+    "slug": "autozone-classic",
+    "name": "AutoZone Classic",
+    "compatibility": [
       "classic"
     ],
     "folders": [
@@ -24409,7 +24422,8 @@
     "slug": "combat-mode",
     "name": "Combat Mode",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -27573,7 +27587,7 @@
     "source": "curse",
     "id": "306880",
     "slug": "dbm-voice-pack-korean-female-dingdiring",
-    "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v8.3.0)",
+    "name": "DBM Voice Pack (Korean Female) Dingdiring\ub529\ub514\ub9c1 (v9.0.1)",
     "compatibility": [
       "retail"
     ],
@@ -29651,62 +29665,6 @@
   },
   {
     "source": "curse",
-    "id": "19873",
-    "slug": "datastore_achievements",
-    "name": "DataStore_Achievements",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Achievements"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "29739",
-    "slug": "datastore_agenda",
-    "name": "DataStore_Agenda",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Agenda"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20205",
-    "slug": "datastore_auctions",
-    "name": "DataStore_Auctions",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Auctions"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20206",
-    "slug": "datastore_characters",
-    "name": "DataStore_Characters",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Characters"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "19872",
     "slug": "datastore_containers",
     "name": "DataStore_Containers",
@@ -29730,34 +29688,6 @@
     "folders": [
       [
         "DataStore_Crafts"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20207",
-    "slug": "datastore_currencies",
-    "name": "DataStore_Currencies",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Currencies"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "88051",
-    "slug": "datastore_garrisons",
-    "name": "DataStore_Garrisons",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Garrisons"
       ]
     ]
   },
@@ -29791,48 +29721,6 @@
   },
   {
     "source": "curse",
-    "id": "20209",
-    "slug": "datastore_mails",
-    "name": "DataStore_Mails",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Mails"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "19875",
-    "slug": "datastore_pets",
-    "name": "DataStore_Pets",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Pets"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20210",
-    "slug": "datastore_quests",
-    "name": "DataStore_Quests",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Quests"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "411494",
     "slug": "datastore_rares",
     "name": "DataStore_Rares",
@@ -29856,48 +29744,6 @@
     "folders": [
       [
         "DataStore_Reputations"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20212",
-    "slug": "datastore_spells",
-    "name": "DataStore_Spells",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Spells"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "20213",
-    "slug": "datastore_stats",
-    "name": "DataStore_Stats",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Stats"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "19877",
-    "slug": "datastore_talents",
-    "name": "DataStore_Talents",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DataStore_Talents"
       ]
     ]
   },
@@ -34845,6 +34691,20 @@
       [
         "EasyPortalAdvert",
         "EPA-CooldownMonitor"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416083",
+    "slug": "easy-quest-abandon",
+    "name": "Easy Quest Abandon",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "EasyQuestAbandon"
       ]
     ]
   },
@@ -47334,7 +47194,8 @@
     "slug": "gridstatusexternals",
     "name": "GridStatusExternals",
     "compatibility": [
-      "retail"
+      "retail",
+      "classic"
     ],
     "folders": [
       [
@@ -60385,6 +60246,20 @@
     "folders": [
       [
         "KrosusAssist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416016",
+    "slug": "ksraidskip",
+    "name": "KsRaidSkip",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "KsRaidSkip"
       ]
     ]
   },
@@ -82184,6 +82059,21 @@
   },
   {
     "source": "curse",
+    "id": "416030",
+    "slug": "plexussmoothhealth",
+    "name": "PlexusSmoothHealth",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "PlexusSmoothHealth"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "413886",
     "slug": "plexusstatusaurasext",
     "name": "PlexusStatusAurasExt",
@@ -84008,6 +83898,20 @@
     "folders": [
       [
         "PummelerCountBagnon"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415933",
+    "slug": "pumpers",
+    "name": "Pumpers",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Pumpers"
       ]
     ]
   },
@@ -110151,6 +110055,23 @@
     "folders": [
       [
         "TradeSkillWhisperLookup"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "404902",
+    "slug": "tsb",
+    "name": "TradeSpamBlocker (TSB)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GrimTrades"
+      ],
+      [
+        "TradeSpamBlocker"
       ]
     ]
   },
@@ -218931,7 +218852,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.16-release"
+        "TwintopInsanityBar-9.0.2.17-release"
       ]
     ]
   },
