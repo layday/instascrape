@@ -29952,24 +29952,6 @@
         "DBM-Party-BfA",
         "DBM-Party-Shadowlands",
         "DBM-Azeroth-BfA",
-        "DBM-Uldir",
-        "DBM-CrucibleofStorms",
-        "DBM-ZuldazarRaid",
-        "DBM-EternalPalace",
-        "DBM-Nyalotha",
-        "DBM-CastleNathria",
-        "DBM-DefaultSkin",
-        "DBM-StatusBarTimers"
-      ],
-      [
-        "DBM-Core",
-        "DBM-Brawlers",
-        "DBM-DMF",
-        "DBM-GUI",
-        "DBM-WorldEvents",
-        "DBM-Party-BfA",
-        "DBM-Party-Shadowlands",
-        "DBM-Azeroth-BfA",
         "DBM-Shadowlands",
         "DBM-Uldir",
         "DBM-CrucibleofStorms",
@@ -30035,20 +30017,6 @@
         "DBM-AQ20",
         "DBM-TheEye",
         "DBM-BurningCrusade"
-      ],
-      [
-        "DBM-Outlands",
-        "DBM-AQ20",
-        "DBM-AQ40",
-        "DBM-Azeroth",
-        "DBM-BWL",
-        "DBM-BlackTemple",
-        "DBM-Hyjal",
-        "DBM-Karazhan",
-        "DBM-MC",
-        "DBM-Serpentshrine",
-        "DBM-Sunwell",
-        "DBM-TheEye"
       ],
       [
         "DBM-Outlands",
@@ -81456,7 +81424,7 @@
     "source": "curse",
     "id": "342120",
     "slug": "pini-goldstats",
-    "name": "Pini GoldStats",
+    "name": "Pini Gold Stats",
     "compatibility": [
       "retail"
     ],
@@ -88837,10 +88805,6 @@
     ],
     "folders": [
       [
-        "RareTrackerCore"
-      ],
-      [
-        "RareTrackerWorldBosses",
         "RareTrackerCore"
       ]
     ]
@@ -113485,15 +113449,12 @@
     "slug": "wfgowhoosh",
     "name": "WFGoWhoosh",
     "compatibility": [
-      "classic"
+      "classic",
+      "retail"
     ],
     "folders": [
       [
         "WFGoWhoosh"
-      ],
-      [
-        "WFGoWhoosh",
-        "IsQuenBuffed"
       ]
     ]
   },
@@ -133180,6 +133141,7 @@
         "DBM-Party-BfA",
         "DBM-Party-Shadowlands",
         "DBM-Azeroth-BfA",
+        "DBM-Shadowlands",
         "DBM-Uldir",
         "DBM-CrucibleofStorms",
         "DBM-ZuldazarRaid",
@@ -140405,7 +140367,6 @@
         "DBM-Outlands",
         "DBM-AQ20",
         "DBM-AQ40",
-        "DBM-Azeroth",
         "DBM-BWL",
         "DBM-BlackTemple",
         "DBM-Hyjal",
@@ -220703,14 +220664,14 @@
     "source": "wowi",
     "id": "24794",
     "slug": "",
-    "name": "QTR-Quests",
+    "name": "WoWinEnglish-Quests",
     "compatibility": [
       "classic",
       "retail"
     ],
     "folders": [
       [
-        "QTR_Quests"
+        "WoWinEnglish_Quests"
       ]
     ]
   },
@@ -233521,6 +233482,21 @@
     "folders": [
       [
         "DBM-VPTatyana"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25761",
+    "slug": "",
+    "name": "WoWinRussian-Quests",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "WoWinRussian_Quests"
       ]
     ]
   },
