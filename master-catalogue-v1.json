@@ -18817,6 +18817,20 @@
   },
   {
     "source": "curse",
+    "id": "415622",
+    "slug": "druid-of-the-flame-fan-update",
+    "name": "By Fire Be Heard",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Druid_of_the_Flame"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "41195",
     "slug": "byehakmud",
     "name": "ByeHakmud",
@@ -19026,6 +19040,20 @@
     "folders": [
       [
         "CEPGP_ZA"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416701",
+    "slug": "cepgp_bulkaward",
+    "name": "CEPGP_BulkAward",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CEPGP_BulkAward"
       ]
     ]
   },
@@ -21033,6 +21061,20 @@
     "folders": [
       [
         "ChatReverse"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417213",
+    "slug": "chat-sound-customizer",
+    "name": "Chat Sound Customizer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Chat_Sound_Customizer"
       ]
     ]
   },
@@ -25676,7 +25718,8 @@
       ],
       [
         "ConsolePort_Config",
-        "ConsolePort"
+        "ConsolePort",
+        "GamepadTool"
       ]
     ]
   },
@@ -36633,10 +36676,10 @@
     ],
     "folders": [
       [
-        "ElvUI_BenikUI"
+        "ElvUI_BenikUI_Classic"
       ],
       [
-        "ElvUI_BenikUI_Classic"
+        "ElvUI_BenikUI"
       ]
     ]
   },
@@ -55684,6 +55727,20 @@
   },
   {
     "source": "curse",
+    "id": "417246",
+    "slug": "inactive-reputation-headers",
+    "name": "Inactive Reputation Headers",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InactiveReputationHeaders"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "48933",
     "slug": "inbox-mailbag",
     "name": "Inbox Mailbag",
@@ -58446,6 +58503,20 @@
     "folders": [
       [
         "JustInTime"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416744",
+    "slug": "justspeedrun",
+    "name": "JustSpeedRun",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "JustSpeedRun"
       ]
     ]
   },
@@ -64381,6 +64452,20 @@
     "folders": [
       [
         "LibTagCompiler-2.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417044",
+    "slug": "libtalentinfo",
+    "name": "LibTalentInfo",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibTalentInfo-1.0"
       ]
     ]
   },
@@ -88792,6 +88877,20 @@
     "folders": [
       [
         "RareScanner"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416852",
+    "slug": "raretracker-rt",
+    "name": "RareTracker (RT)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareTracker"
       ]
     ]
   },
@@ -116090,6 +116189,20 @@
   },
   {
     "source": "curse",
+    "id": "416975",
+    "slug": "wowhub",
+    "name": "WoWHub",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WoWHub"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "42192",
     "slug": "wowjapanizer",
     "name": "WoWJapanizer",
@@ -119712,6 +119825,20 @@
     "folders": [
       [
         "aPVPName1s2s"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417165",
+    "slug": "abomination",
+    "name": "abomiNATION",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "abomiNATION"
       ]
     ]
   },
@@ -219004,7 +219131,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.17-release"
+        "TwintopInsanityBar-9.0.2.18-release"
       ]
     ]
   },
@@ -233497,6 +233624,36 @@
     "folders": [
       [
         "WoWinRussian_Quests"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25763",
+    "slug": "",
+    "name": "TankAddon",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "TankAddon"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25764",
+    "slug": "",
+    "name": "WarlockWizz",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "WarlockWizz"
       ]
     ]
   },
