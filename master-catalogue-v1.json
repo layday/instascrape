@@ -18028,6 +18028,20 @@
   },
   {
     "source": "curse",
+    "id": "370493",
+    "slug": "btw-quests-shadowlands",
+    "name": "BtWQuests: Shadowlands",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BtWQuestsShadowlands"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297376",
     "slug": "btw-quests-the-burning-crusade",
     "name": "BtWQuests: The Burning Crusade",
@@ -18825,7 +18839,7 @@
     ],
     "folders": [
       [
-        "Druid_of_the_Flame"
+        "ByFireBeHeard"
       ]
     ]
   },
@@ -54254,6 +54268,20 @@
   },
   {
     "source": "curse",
+    "id": "417127",
+    "slug": "hott",
+    "name": "HotT - Herald of the Titans Helper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HotT"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "406911",
     "slug": "hoverbind",
     "name": "HoverBind",
@@ -60489,6 +60517,20 @@
       ],
       [
         "Kui_Nameplates_Spell_Alert"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416974",
+    "slug": "kuinameplates-target-helper",
+    "name": "KuiNameplates Target Helper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Kui_Nameplates_TargetHelper"
       ]
     ]
   },
@@ -67879,6 +67921,7 @@
     "slug": "mailnotifier-broker",
     "name": "MailNotifier Broker",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -71338,6 +71381,20 @@
     "folders": [
       [
         "MissionHush"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417232",
+    "slug": "mission-reports",
+    "name": "Mission Reports",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MissionReports"
       ]
     ]
   },
@@ -89195,7 +89252,6 @@
         "RazerNaga"
       ],
       [
-        "RazerAnansi",
         "RazerNaga_Cast",
         "RazerNaga_Config",
         "RazerNaga_Encounter",
@@ -91045,6 +91101,20 @@
     "folders": [
       [
         "RetroSkullMinimap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417262",
+    "slug": "retroui",
+    "name": "RetroUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_RetroUI"
       ]
     ]
   },
@@ -100486,6 +100556,20 @@
   },
   {
     "source": "curse",
+    "id": "82944",
+    "slug": "squaremap",
+    "name": "Square Map",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SquareMap"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "361395",
     "slug": "square-one-dkp-values",
     "name": "Square One DKP Values",
@@ -100495,20 +100579,6 @@
     "folders": [
       [
         "SQ1_DKP_Values"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "82944",
-    "slug": "squaremap",
-    "name": "SquareMap",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "SquareMap"
       ]
     ]
   },
@@ -109217,6 +109287,20 @@
   },
   {
     "source": "curse",
+    "id": "416827",
+    "slug": "total-rp-3-intended",
+    "name": "Total RP 3: Intended",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "totalRP3_Intended"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "103217",
     "slug": "total-rp-3-kuinameplates-module",
     "name": "Total RP 3: KuiNameplates module",
@@ -114150,6 +114234,20 @@
   },
   {
     "source": "curse",
+    "id": "417264",
+    "slug": "warlockwizz",
+    "name": "WarlockWizz",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "WarlockWizz"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101290",
     "slug": "warlockbox",
     "name": "Warlockbox",
@@ -114644,6 +114742,7 @@
         "WeekKeys_Guild",
         "WeekKeys_Lootfinder",
         "WeekKeys_MTable",
+        "WeekKeys_Party",
         "WeekKeys"
       ]
     ]
@@ -204036,21 +204135,6 @@
   },
   {
     "source": "wowi",
-    "id": "22960",
-    "slug": "",
-    "name": "SquareMap",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "SquareMap"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
     "id": "22969",
     "slug": "",
     "name": "Arcira &#9658; Grafic\u00b7Patch",
@@ -233654,6 +233738,51 @@
     "folders": [
       [
         "WarlockWizz"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25765",
+    "slug": "",
+    "name": "AutoZone Classic",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoZone"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25766",
+    "slug": "",
+    "name": "FixTaintedRaidFrames",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "FixTaintedRaidFrames"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25767",
+    "slug": "",
+    "name": "FixTaintedRaidFrames Classic",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "FixTaintedRaidFrames"
       ]
     ]
   },
