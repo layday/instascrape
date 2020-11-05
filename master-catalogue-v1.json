@@ -467,6 +467,20 @@
   },
   {
     "source": "curse",
+    "id": "417361",
+    "slug": "aa-loot-prio",
+    "name": "AA loot prio",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "AA_Loot_Priority"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "22862",
     "slug": "aav-atrox-arena-viewer",
     "name": "AAV - atrox Arena Viewer",
@@ -1382,6 +1396,20 @@
     "folders": [
       [
         "AceGUI-3.0-Completing-EditBox"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417680",
+    "slug": "acegui-3-0-eliote-autocompleteeditbox",
+    "name": "AceGUI-3.0-Eliote-AutoCompleteEditBox",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AceGUI-3.0-Eliote-AutoCompleteEditBox"
       ]
     ]
   },
@@ -3982,7 +4010,7 @@
     "source": "curse",
     "id": "322782",
     "slug": "amalu-soundpack",
-    "name": "Amalu Soundpack (plus+)",
+    "name": "Amalu Soundpack+",
     "compatibility": [
       "classic",
       "retail"
@@ -19374,6 +19402,63 @@
   },
   {
     "source": "curse",
+    "id": "261484",
+    "slug": "dbm-voicepack-deutsch-manlich",
+    "name": "Calanon's DBM Voicepack Deutsch m\u00e4nnlich",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPDeutsch maenlich"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "261452",
+    "slug": "dbm-voicepack-deutsch-weiblich",
+    "name": "Calanon's DBM Voicepack Deutsch weiblich",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPDeutsch weiblich"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "267250",
+    "slug": "dbm-voicepack-english-female",
+    "name": "Calanon's DBM Voicepack English female",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPEnglish female"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "267249",
+    "slug": "dbm-voicepack-english-male",
+    "name": "Calanon's DBM Voicepack English male",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DBM-VPEnglish male"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "29819",
     "slug": "calc",
     "name": "Calc",
@@ -27842,66 +27927,6 @@
   },
   {
     "source": "curse",
-    "id": "261484",
-    "slug": "dbm-voicepack-deutsch-manlich",
-    "name": "DBM Voicepack Deutsch m\u00e4nnlich",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "DBM-VPDeutsch maenlich"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "261452",
-    "slug": "dbm-voicepack-deutsch-weiblich",
-    "name": "DBM Voicepack Deutsch weiblich",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "DBM-VPDeutsch weiblich"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "267250",
-    "slug": "dbm-voicepack-english-female",
-    "name": "DBM Voicepack English female",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "DBM-VPEnglish female"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "267249",
-    "slug": "dbm-voicepack-english-male",
-    "name": "DBM Voicepack English male",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "DBM-VPEnglish male"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "261300",
     "slug": "dbm-vo-movieguy",
     "name": "DBM Voicepack Epic Movie Guy",
@@ -29914,6 +29939,20 @@
     "folders": [
       [
         "DeSpamMaster"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413267",
+    "slug": "detrashloot",
+    "name": "DeTrashLoot",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DeTrashLoot"
       ]
     ]
   },
@@ -33103,6 +33142,20 @@
     "folders": [
       [
         "DreamArrowsClassic"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417494",
+    "slug": "dream-world-plus",
+    "name": "Dream World Plus",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DWPlus"
       ]
     ]
   },
@@ -38548,20 +38601,6 @@
   },
   {
     "source": "curse",
-    "id": "414442",
-    "slug": "exitbroker",
-    "name": "ExitBroker",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "ExitBroker"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "284907",
     "slug": "exlist",
     "name": "Exlist",
@@ -41016,6 +41055,34 @@
     "folders": [
       [
         "FixTab"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417336",
+    "slug": "fixtaintedraidframes",
+    "name": "FixTaintedRaidFrames",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "FixTaintedRaidFrames"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417337",
+    "slug": "fixtaintedraidframes-classic",
+    "name": "FixTaintedRaidFrames Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "FixTaintedRaidFrames"
       ]
     ]
   },
@@ -49639,6 +49706,20 @@
     "folders": [
       [
         "Guildmate"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417383",
+    "slug": "guildmateinvestigator",
+    "name": "GuildmateInvestigator",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GuildmateInvestigator"
       ]
     ]
   },
@@ -73646,6 +73727,20 @@
   },
   {
     "source": "curse",
+    "id": "301856",
+    "slug": "muffinarchaeologyui",
+    "name": "MuffinArchaeologyUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MuffinArchaeologyUI"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "282045",
     "slug": "muffinfactionizer",
     "name": "MuffinFactionizer",
@@ -73655,6 +73750,20 @@
     "folders": [
       [
         "MuffinFactionizer"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "21762",
+    "slug": "muffinmotd",
+    "name": "MuffinMOTD",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MuffinMOTD"
       ]
     ]
   },
@@ -82235,6 +82344,21 @@
     "folders": [
       [
         "PlexusBuffIcons"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "416218",
+    "slug": "plexusclicksets",
+    "name": "PlexusClickSets",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "PlexusClickSets"
       ]
     ]
   },
@@ -95960,6 +96084,19 @@
         "SilverDragon"
       ],
       [
+        "SilverDragon_Vanilla",
+        "SilverDragon_BurningCrusade",
+        "SilverDragon_Wrath",
+        "SilverDragon_Cataclysm",
+        "SilverDragon_Mists",
+        "SilverDragon_Warlords",
+        "SilverDragon_Legion",
+        "SilverDragon_BattleForAzeroth",
+        "SilverDragon_Shadowlands",
+        "SilverDragon"
+      ],
+      [
+        "SilverDragon_Overlay",
         "SilverDragon_Vanilla",
         "SilverDragon_BurningCrusade",
         "SilverDragon_Wrath",
@@ -124835,6 +124972,20 @@
     "id": "341823",
     "slug": "unitscan",
     "name": "unitscan",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "unitscan"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417296",
+    "slug": "unitscan-rares",
+    "name": "unitscan rares",
     "compatibility": [
       "classic"
     ],
@@ -233787,6 +233938,21 @@
     ]
   },
   {
+    "source": "wowi",
+    "id": "25768",
+    "slug": "",
+    "name": "RetroUI_CE",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "ElvUI_RetroUI_CE"
+      ]
+    ]
+  },
+  {
     "source": "tukui",
     "id": "-1",
     "slug": "",
@@ -235021,6 +235187,16 @@
     "id": "6",
     "slug": "",
     "name": "RedtuzkUI Classic",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": []
+  },
+  {
+    "source": "tukui",
+    "id": "45",
+    "slug": "",
+    "name": "RetroUI_CE",
     "compatibility": [
       "classic"
     ],
