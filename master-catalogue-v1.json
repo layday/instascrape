@@ -2329,6 +2329,20 @@
   },
   {
     "source": "curse",
+    "id": "417785",
+    "slug": "adibags-cooking",
+    "name": "AdiBags - Cooking",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Cooking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "361466",
     "slug": "adibags-corruption-gear",
     "name": "AdiBags - Corruption Gear",
@@ -19670,6 +19684,20 @@
   },
   {
     "source": "curse",
+    "id": "417353",
+    "slug": "calvogambling",
+    "name": "CalvoGambling",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "CalvoGambling"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "297604",
     "slug": "camel-spotter",
     "name": "Camel Spotter",
@@ -33535,6 +33563,20 @@
   },
   {
     "source": "curse",
+    "id": "414392",
+    "slug": "duelbook",
+    "name": "DuelBook",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "DuelBook"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "69707",
     "slug": "duelcountdown",
     "name": "DuelCountdown",
@@ -33602,11 +33644,6 @@
         "DuffedUI_ConfigUI",
         "Aurora",
         "DuffedUI"
-      ],
-      [
-        "DuffedUI_ConfigUI",
-        "DuffedUI",
-        "Aurora"
       ]
     ]
   },
@@ -63922,6 +63959,24 @@
     "folders": [
       [
         "LibMapData-1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "354116",
+    "slug": "libmemoize",
+    "name": "LibMemoize",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "LibMemoize-2.0"
+      ],
+      [
+        "LibMemoize"
       ]
     ]
   },
@@ -105549,7 +105604,8 @@
     "slug": "theaddon2",
     "name": "TheAddon2",
     "compatibility": [
-      "classic"
+      "classic",
+      "retail"
     ],
     "folders": [
       [
@@ -112995,6 +113051,20 @@
   },
   {
     "source": "curse",
+    "id": "417724",
+    "slug": "verbose-junker",
+    "name": "Verbose Junker",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "VerboseJunker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "317665",
     "slug": "vernacular",
     "name": "Vernacular",
@@ -119151,6 +119221,20 @@
     "folders": [
       [
         "zepmix_damageTaken"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417828",
+    "slug": "zeronotes",
+    "name": "ZeroNotes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "ZeroNotes"
       ]
     ]
   },
