@@ -509,6 +509,20 @@
   },
   {
     "source": "curse",
+    "id": "417928",
+    "slug": "abp-naxx-helper",
+    "name": "ABP Naxx Helper",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "ABP-Naxx"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "274868",
     "slug": "ace3-gui-panel-widget",
     "name": "ACE3 GUI Panel Widget",
@@ -4031,10 +4045,7 @@
     ],
     "folders": [
       [
-        "Amalu Soundpack"
-      ],
-      [
-        "Amalu Soundpack (plus+)"
+        "Amalu_Soundpack+"
       ]
     ]
   },
@@ -46102,6 +46113,20 @@
   },
   {
     "source": "curse",
+    "id": "336854",
+    "slug": "sharedmediagoblintalk",
+    "name": "GoblinTalk",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "GoblinTalk"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "42741",
     "slug": "goblintrike-no-gearshift",
     "name": "GoblinTrike no gearshift",
@@ -52531,6 +52556,7 @@
         "HeroRotation_Hunter",
         "HeroRotation_Mage",
         "HeroRotation_Monk",
+        "HeroRotation_Paladin",
         "HeroRotation_Priest",
         "HeroRotation_Rogue",
         "HeroRotation_Warlock",
@@ -81129,14 +81155,6 @@
     ],
     "folders": [
       [
-        "PetTracker_Breeds",
-        "PetTracker_Switcher",
-        "PetTracker_Config",
-        "PetTracker_Upgrades",
-        "PetTracker_Journal",
-        "PetTracker"
-      ],
-      [
         "PetTracker_Battle",
         "PetTracker_Config",
         "PetTracker_Journal",
@@ -95008,20 +95026,6 @@
   },
   {
     "source": "curse",
-    "id": "336854",
-    "slug": "sharedmediagoblintalk",
-    "name": "SharedMediaGoblinTalk",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "GoblinTalk"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "373102",
     "slug": "sharedmedia_abain",
     "name": "SharedMedia_Abain",
@@ -99466,6 +99470,21 @@
     "folders": [
       [
         "ONEUP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417900",
+    "slug": "sound-effects-on",
+    "name": "Sound Effects On",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "SoundEffectsOn"
       ]
     ]
   },
@@ -122500,6 +122519,20 @@
   },
   {
     "source": "curse",
+    "id": "417896",
+    "slug": "isquidmod-2020",
+    "name": "iSquidMod 2020",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "iSquidMod"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "100085",
     "slug": "itargetingframes",
     "name": "iTargetingFrames",
@@ -125199,6 +125232,7 @@
     "slug": "vui-invite-links",
     "name": "vUI Invite Links",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -234033,6 +234067,21 @@
     "folders": [
       [
         "ElvUI_RetroUI_CE"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25769",
+    "slug": "",
+    "name": "BattlePetQualityCheck",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "BattlePetQualityCheck"
       ]
     ]
   },
