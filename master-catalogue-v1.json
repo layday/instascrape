@@ -21206,7 +21206,7 @@
     "source": "curse",
     "id": "417213",
     "slug": "chat-sound-customizer",
-    "name": "Chat Sound Customizer",
+    "name": "Chat Sound Customizer (CSC)",
     "compatibility": [
       "retail"
     ],
@@ -25856,8 +25856,7 @@
       ],
       [
         "ConsolePort_Config",
-        "ConsolePort",
-        "GamepadTool"
+        "ConsolePort"
       ]
     ]
   },
@@ -74267,6 +74266,20 @@
   },
   {
     "source": "curse",
+    "id": "417142",
+    "slug": "mxw",
+    "name": "MxW",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MxW"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "45519",
     "slug": "my-battle-pet-notifier",
     "name": "My Battle Pet Notifier",
@@ -112267,6 +112280,20 @@
   },
   {
     "source": "curse",
+    "id": "417770",
+    "slug": "unityemotes",
+    "name": "UnityEmotes",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "UnityEmotes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "267963",
     "slug": "unleashed-wrath",
     "name": "Unleashed Wrath",
@@ -114969,6 +114996,7 @@
         "WeekKeys_Lootfinder",
         "WeekKeys_MTable",
         "WeekKeys_Party",
+        "WeekKeys_Settings",
         "WeekKeys"
       ]
     ]
