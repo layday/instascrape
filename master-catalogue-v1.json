@@ -2116,6 +2116,9 @@
     "folders": [
       [
         "AddUI"
+      ],
+      [
+        "PlateColor"
       ]
     ]
   },
@@ -7464,20 +7467,6 @@
     "folders": [
       [
         "AutionerFast"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "102870",
-    "slug": "aac",
-    "name": "Auto ActionCam",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AutoActionCam"
       ]
     ]
   },
@@ -67065,6 +67054,7 @@
     "slug": "mama-multiboxing",
     "name": "MAMA (Minimal yet Awesome Multiboxing Assistant)",
     "compatibility": [
+      "classic",
       "retail"
     ],
     "folders": [
@@ -219512,7 +219502,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.18-release"
+        "TwintopInsanityBar-9.0.2.19-release"
       ]
     ]
   },
@@ -234110,6 +234100,21 @@
     "folders": [
       [
         "BattlePetQualityCheck"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25771",
+    "slug": "",
+    "name": "Call Target",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "CallTarget"
       ]
     ]
   },
