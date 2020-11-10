@@ -509,20 +509,6 @@
   },
   {
     "source": "curse",
-    "id": "417928",
-    "slug": "abp-naxx-helper",
-    "name": "ABP Naxx Helper",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "ABP-Naxx"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "274868",
     "slug": "ace3-gui-panel-widget",
     "name": "ACE3 GUI Panel Widget",
@@ -2467,6 +2453,20 @@
     "folders": [
       [
         "AdiBags_Reputation"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418697",
+    "slug": "adibags-soulbound",
+    "name": "AdiBags - Soulbound",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_Soulbound"
       ]
     ]
   },
@@ -17949,6 +17949,20 @@
   },
   {
     "source": "curse",
+    "id": "418768",
+    "slug": "broschdadabaronshadowlards",
+    "name": "BroschdadaBaronShadowlards",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BroschdadaBaronShadowlards"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "279031",
     "slug": "btw-objective-filter",
     "name": "BtW Objective Filter",
@@ -32766,6 +32780,20 @@
   },
   {
     "source": "curse",
+    "id": "418312",
+    "slug": "donkey-brains-prio",
+    "name": "Donkey Brains Loot Priority",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "Donkey_Prio"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "13778",
     "slug": "dont-bug-me",
     "name": "DontBugMe",
@@ -34156,6 +34184,20 @@
     "folders": [
       [
         "DynamicPerformance"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418277",
+    "slug": "dynamicviewdistance",
+    "name": "DynamicViewDistance",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DynamicViewDistance"
       ]
     ]
   },
@@ -42187,6 +42229,24 @@
   },
   {
     "source": "curse",
+    "id": "417928",
+    "slug": "fourh-assist",
+    "name": "Four Horsemen Assistant (4H Assist)",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "ABP-Naxx"
+      ],
+      [
+        "4H-Assist"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "21320",
     "slug": "four-rocks-row",
     "name": "Four Rocks In A Row",
@@ -45095,6 +45155,20 @@
         "GiveMeBuff",
         "GiveMeHealth",
         "GiveMeMana"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418746",
+    "slug": "give-it-a-lick",
+    "name": "Give it a Lick",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "EssentialDKP"
       ]
     ]
   },
@@ -50478,6 +50552,20 @@
     "folders": [
       [
         "HandyNotes_ScarabCoffers"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "413922",
+    "slug": "handynotes-battle-for-azeroth",
+    "name": "HandyNotes: Battle for Azeroth",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_BattleForAzeroth"
       ]
     ]
   },
@@ -56008,6 +56096,20 @@
     "folders": [
       [
         "IncomingHeals"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418526",
+    "slug": "incomplete-achievements",
+    "name": "Incomplete Achievements",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "IncompleteAchievements"
       ]
     ]
   },
@@ -76508,6 +76610,20 @@
   },
   {
     "source": "curse",
+    "id": "418433",
+    "slug": "no-map-emote",
+    "name": "No Map Emote",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "NoMapEmote"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "322153",
     "slug": "no-more-invites",
     "name": "No More Invites",
@@ -78847,6 +78963,20 @@
     "id": "3299",
     "slug": "outfitter",
     "name": "Outfitter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Outfitter"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418067",
+    "slug": "outfitter-continued-for-9-0-1-fan-fixes",
+    "name": "Outfitter (continued for 9.0.1 - fan fixes)",
     "compatibility": [
       "retail"
     ],
@@ -82353,6 +82483,20 @@
   },
   {
     "source": "curse",
+    "id": "418260",
+    "slug": "playernotes",
+    "name": "PlayerNotes",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PlayerNotes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "97249",
     "slug": "playerrep",
     "name": "PlayerRep",
@@ -84602,6 +84746,20 @@
     "folders": [
       [
         "PvPAudit"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418778",
+    "slug": "pvpdb",
+    "name": "PvPDB",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "PvPDB"
       ]
     ]
   },
@@ -114479,7 +114637,7 @@
     "source": "curse",
     "id": "417264",
     "slug": "warlockwizz",
-    "name": "WarlockWizz",
+    "name": "WarlockWizz - Spell Duration ",
     "compatibility": [
       "retail"
     ],
@@ -115659,6 +115817,20 @@
     "folders": [
       [
         "WhoChallengedMe"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418226",
+    "slug": "whodingedmarrit",
+    "name": "WhoDingedMarrit",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WhoDingedMarrit"
       ]
     ]
   },
@@ -219502,7 +219674,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.19-release"
+        "TwintopInsanityBar-9.0.2.20-release"
       ]
     ]
   },
@@ -231632,7 +231804,7 @@
     ],
     "folders": [
       [
-        "Reforged_Icons_Original 2.0.3"
+        "Reforged_Icons_Original 2.1.0"
       ]
     ]
   },
@@ -232795,7 +232967,7 @@
     ],
     "folders": [
       [
-        "Reforged_Icons_Square 2.0.3"
+        "Reforged_Icons_Square 2.1.0"
       ]
     ]
   },
@@ -234115,6 +234287,21 @@
     "folders": [
       [
         "CallTarget"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25772",
+    "slug": "",
+    "name": "MissingFlightPaths",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "MissingFlightPaths"
       ]
     ]
   },
