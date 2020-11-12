@@ -11520,6 +11520,20 @@
   },
   {
     "source": "curse",
+    "id": "419188",
+    "slug": "barbershop-profiles",
+    "name": "BarberShop Profiles",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "BarberShopProfiles"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "257625",
     "slug": "barking-gabe-guns",
     "name": "Barking Gabe Guns",
@@ -30307,6 +30321,14 @@
         "DBM-Nighthold",
         "DBM-TombofSargeras",
         "DBM-TrialofValor"
+      ],
+      [
+        "DBM-BrokenIsles",
+        "DBM-AntorusBurningThrone",
+        "DBM-EmeraldNightmare",
+        "DBM-Nighthold",
+        "DBM-TombofSargeras",
+        "DBM-TrialofValor"
       ]
     ]
   },
@@ -30422,6 +30444,12 @@
         "DBM-Draenor",
         "DBM-BlackrockFoundry",
         "DBM-GarrisonInvasions",
+        "DBM-HellfireCitadel",
+        "DBM-Highmaul"
+      ],
+      [
+        "DBM-Draenor",
+        "DBM-BlackrockFoundry",
         "DBM-HellfireCitadel",
         "DBM-Highmaul"
       ]
@@ -34141,20 +34169,6 @@
     "folders": [
       [
         "Dwarvenizer"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "403805",
-    "slug": "dygdyg-addons",
-    "name": "DygDyg Addons",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "DygDyg_Addons"
       ]
     ]
   },
@@ -39239,6 +39253,23 @@
   },
   {
     "source": "curse",
+    "id": "403805",
+    "slug": "ezchatbar",
+    "name": "Ez ChatBar",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "DygDyg_Addons"
+      ],
+      [
+        "EzChatBar"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "379674",
     "slug": "ezmo",
     "name": "EzMo",
@@ -42502,6 +42533,20 @@
     "folders": [
       [
         "FreeholdBoosting"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419268",
+    "slug": "freemium",
+    "name": "Freemium",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Freemium"
       ]
     ]
   },
@@ -50092,6 +50137,20 @@
   },
   {
     "source": "curse",
+    "id": "380137",
+    "slug": "hb_tools_resources",
+    "name": "HB_Tools_Resources",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HB_Tools_Resources"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "272959",
     "slug": "hctoolkit",
     "name": "HCToolkit",
@@ -50651,6 +50710,20 @@
     "folders": [
       [
         "HandyNotes_BoralusRP"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419032",
+    "slug": "handynotes-covenant-sanctum",
+    "name": "HandyNotes: Covenant Sanctum",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "HandyNotes_CovenantSanctum"
       ]
     ]
   },
@@ -64146,6 +64219,51 @@
     "folders": [
       [
         "LibMapData-1.0"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419180",
+    "slug": "libmayrondb",
+    "name": "LibMayronDB",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibMayronDB"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419195",
+    "slug": "libmayronevents",
+    "name": "LibMayronEvents",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibMayronEvents"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419177",
+    "slug": "libmayronobjects",
+    "name": "LibMayronObjects",
+    "compatibility": [
+      "retail",
+      "classic"
+    ],
+    "folders": [
+      [
+        "LibMayronObjects"
       ]
     ]
   },
@@ -89439,6 +89557,20 @@
   },
   {
     "source": "curse",
+    "id": "419148",
+    "slug": "raretrackericecrown-rti",
+    "name": "RareTrackerIcecrown (RTI)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "RareTrackerIcecrown"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "327286",
     "slug": "raretrackermechagon-rtm",
     "name": "RareTrackerMechagon (RTM)",
@@ -96037,6 +96169,7 @@
     "slug": "showmoney",
     "name": "ShowMoney",
     "compatibility": [
+      "retail",
       "classic"
     ],
     "folders": [
@@ -115292,6 +115425,7 @@
         "WeekKeys_Lootfinder",
         "WeekKeys_MTable",
         "WeekKeys_Party",
+        "WeekKeys_Rares",
         "WeekKeys_Settings",
         "WeekKeys"
       ]
@@ -117381,6 +117515,20 @@
     "folders": [
       [
         "WorldBossStatus"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "418848",
+    "slug": "world-buff-death-announcer",
+    "name": "World Buff Death Announcer",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "WorldBuffDeathAnnouncer"
       ]
     ]
   },
@@ -220637,8 +220785,7 @@
     ],
     "folders": [
       [
-        "Reminders-Addon-8.0.9",
-        "__MACOSX"
+        "Reminders-Addon-9.0.1"
       ]
     ]
   },
@@ -232142,7 +232289,7 @@
     "source": "wowi",
     "id": "25603",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 8.07 2020-10-13",
+    "name": "WoWpoPolsku-Movies (subtitles) 8.08 2020-11-11",
     "compatibility": [
       "retail",
       "classic"
@@ -232187,7 +232334,7 @@
     "source": "wowi",
     "id": "25607",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-10-13",
+    "name": "WoWpoPolsku-Movies (subtitles) Classic 2020-11-11",
     "compatibility": [
       "retail",
       "classic"
@@ -233121,7 +233268,7 @@
     "source": "wowi",
     "id": "25684",
     "slug": "",
-    "name": "WoWpoPolsku-Movies (subtitles) 9.07 2020-10-13",
+    "name": "WoWpoPolsku-Movies (subtitles) 9.08 2020-11-11",
     "compatibility": [
       "retail",
       "classic"
