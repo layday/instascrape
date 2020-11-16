@@ -24016,6 +24016,10 @@
     "folders": [
       [
         "Clicked"
+      ],
+      [
+        "ClickedMedia",
+        "Clicked"
       ]
     ]
   },
@@ -71489,21 +71493,6 @@
   },
   {
     "source": "curse",
-    "id": "414251",
-    "slug": "minimap-button-frame-fan-update",
-    "name": "Minimap Button Frame (Fan-Update)",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "MinimapButtonFrame_SkinPack",
-        "MinimapButtonFrame"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "32669",
     "slug": "minimap-mousewheel-enabler",
     "name": "Minimap Mousewheel Enabler",
@@ -113422,6 +113411,14 @@
         "Vendor_Titan",
         "Vendor_TSM",
         "Vendor"
+      ],
+      [
+        "Vendor_Pawn",
+        "Vendor_Ark",
+        "Vendor_RulePack",
+        "Vendor_TSM",
+        "Vendor_Titan",
+        "Vendor"
       ]
     ]
   },
@@ -117620,20 +117617,6 @@
   },
   {
     "source": "curse",
-    "id": "418848",
-    "slug": "world-buff-death-announcer",
-    "name": "World Buff Death Announcer",
-    "compatibility": [
-      "classic"
-    ],
-    "folders": [
-      [
-        "WorldBuffDeathAnnouncer"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "53217",
     "slug": "world-map-ping-hider",
     "name": "World Map Ping Hider",
@@ -120750,20 +120733,6 @@
     "folders": [
       [
         "aPVPName1s2s"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "417165",
-    "slug": "abomination",
-    "name": "abomiNATION",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "abomiNATION"
       ]
     ]
   },
@@ -218791,7 +218760,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.21-release"
+        "TwintopInsanityBar-9.0.2.22-release"
       ]
     ]
   },
@@ -232532,7 +232501,8 @@
     ],
     "folders": [
       [
-        "Clicked"
+        "Clicked",
+        "ClickedMedia"
       ]
     ]
   },
@@ -233191,21 +233161,6 @@
     "folders": [
       [
         "AutoUnsheath"
-      ]
-    ]
-  },
-  {
-    "source": "wowi",
-    "id": "25750",
-    "slug": "",
-    "name": "OmniBar",
-    "compatibility": [
-      "classic",
-      "retail"
-    ],
-    "folders": [
-      [
-        "OmniBar"
       ]
     ]
   },
