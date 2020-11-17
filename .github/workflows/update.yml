@@ -11,8 +11,8 @@ jobs:
       fail-fast: false
       matrix:
         catalogue:
-        - version: v1
-          ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
+        # - version: v1
+        #   ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
         - version: v2
           ref: ''
       max-parallel: 1
