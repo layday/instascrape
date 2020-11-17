@@ -552,6 +552,20 @@
   },
   {
     "source": "curse",
+    "id": "420344",
+    "slug": "afkfps",
+    "name": "AFK FPS",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AFKFPS"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "74749",
     "slug": "afk-fullscreen-warning",
     "name": "AFK Fullscreen Warning",
@@ -2346,20 +2360,6 @@
   },
   {
     "source": "curse",
-    "id": "417785",
-    "slug": "adibags-cooking",
-    "name": "AdiBags - Cooking",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_Cooking"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
     "id": "361466",
     "slug": "adibags-corruption-gear",
     "name": "AdiBags - Corruption Gear",
@@ -2453,20 +2453,6 @@
     "folders": [
       [
         "AdiBags_PriorExpansions"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "415674",
-    "slug": "adibags-reputation",
-    "name": "AdiBags - Reputation",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "AdiBags_Reputation"
       ]
     ]
   },
@@ -2834,6 +2820,48 @@
     "folders": [
       [
         "AdiSpellHUD"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417785",
+    "slug": "adibags-cooking",
+    "name": "Adibags - Ren's Filters: Cooking",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_RensFilters_Cooking"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "420406",
+    "slug": "adibags-rens-filters-fishing",
+    "name": "Adibags - Ren's Filters: Fishing",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_RensFilters_Fishing"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "415674",
+    "slug": "adibags-reputation",
+    "name": "Adibags - Ren's Filters: Reputation",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AdiBags_RensFilters_Reputation"
       ]
     ]
   },
@@ -9737,6 +9765,11 @@
       [
         "AAP-EasternKingdoms",
         "AAP-Shadowlands",
+        "AAP-Core"
+      ],
+      [
+        "AAP-Shadowlands",
+        "AAP-EasternKingdoms",
         "AAP-Core"
       ]
     ]
@@ -21007,6 +21040,20 @@
   },
   {
     "source": "curse",
+    "id": "419815",
+    "slug": "characterprofiler",
+    "name": "CharacterProfiler",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "CharacterProfiler"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "278310",
     "slug": "characterquicklinks",
     "name": "CharacterQuickLinks (WowProgress + Raider.io + WarcraftLogs)",
@@ -23808,6 +23855,20 @@
   },
   {
     "source": "curse",
+    "id": "420121",
+    "slug": "clean-mini-map",
+    "name": "Clean-Mini-Map",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Clean-Mini-Map"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "313123",
     "slug": "cleanactionbars",
     "name": "CleanActionBars",
@@ -24014,9 +24075,6 @@
       "retail"
     ],
     "folders": [
-      [
-        "Clicked"
-      ],
       [
         "ClickedMedia",
         "Clicked"
@@ -30189,6 +30247,18 @@
         "DBM-CastleNathria",
         "DBM-DefaultSkin",
         "DBM-StatusBarTimers"
+      ],
+      [
+        "DBM-Core",
+        "DBM-Brawlers",
+        "DBM-DMF",
+        "DBM-GUI",
+        "DBM-WorldEvents",
+        "DBM-Party-Shadowlands",
+        "DBM-Shadowlands",
+        "DBM-CastleNathria",
+        "DBM-DefaultSkin",
+        "DBM-StatusBarTimers"
       ]
     ]
   },
@@ -30403,6 +30473,16 @@
         "DBM-Party-MoP",
         "DBM-Party-WoD",
         "DBM-Party-WotLK"
+      ],
+      [
+        "DBM-Party-BC",
+        "DBM-Party-Cataclysm",
+        "DBM-Party-Classic",
+        "DBM-Party-Legion",
+        "DBM-Party-MoP",
+        "DBM-Party-WoD",
+        "DBM-Party-WotLK",
+        "DBM-Party-BfA"
       ]
     ]
   },
@@ -55483,6 +55563,20 @@
   },
   {
     "source": "curse",
+    "id": "419554",
+    "slug": "icecrown-boss-alert-audio-announcer",
+    "name": "Icecrown Boss Alert (audio announcer)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "IcecrownBossAlert"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "24783",
     "slug": "icetip",
     "name": "Icetip",
@@ -56701,6 +56795,20 @@
     "folders": [
       [
         "InstanceGoldTracker"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419909",
+    "slug": "instance-loot-manager",
+    "name": "Instance Loot Manager",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "InstanceLootManager"
       ]
     ]
   },
@@ -61294,6 +61402,20 @@
     "folders": [
       [
         "LFGShout"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419979",
+    "slug": "lfgspamfilter",
+    "name": "LFGSpamFilter",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "LFGSpamFilter"
       ]
     ]
   },
@@ -68333,6 +68455,20 @@
   },
   {
     "source": "curse",
+    "id": "419964",
+    "slug": "mail-robot",
+    "name": "Mail Robot",
+    "compatibility": [
+      "classic"
+    ],
+    "folders": [
+      [
+        "MailRobot"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "95437",
     "slug": "mailsanc",
     "name": "Mail Sanctuary",
@@ -68736,6 +68872,20 @@
     "folders": [
       [
         "ZoneMapClassColors"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "420274",
+    "slug": "map-pin-helper",
+    "name": "Map Pin Helper",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "MapPinHelper"
       ]
     ]
   },
@@ -89036,6 +89186,20 @@
   },
   {
     "source": "curse",
+    "id": "419998",
+    "slug": "rand-jahm",
+    "name": "Rand-jahm (Random Bronjahm Sounds)",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Randjahm"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "321209",
     "slug": "random-battle-pet",
     "name": "Random Battle Pet",
@@ -92488,6 +92652,20 @@
   },
   {
     "source": "curse",
+    "id": "420193",
+    "slug": "rotacast_xchange",
+    "name": "RotaCast_XChange",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Rotacast_XChange"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "345255",
     "slug": "rotateminimapfix",
     "name": "RotateMinimapFix",
@@ -95157,6 +95335,20 @@
   },
   {
     "source": "curse",
+    "id": "419751",
+    "slug": "shadowlends-pre-patch-boss",
+    "name": "Shadowlends Pre Patch Boss",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "Shadowlends Pre Patch Boss"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "101693",
     "slug": "shamandawe",
     "name": "ShamAndAwe",
@@ -96448,6 +96640,20 @@
   },
   {
     "source": "curse",
+    "id": "419848",
+    "slug": "silence-ban-lu",
+    "name": "Silence, Ban-Lu",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SilenceBanLu"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
     "id": "85962",
     "slug": "silent-running",
     "name": "Silent Running",
@@ -97276,6 +97482,20 @@
     "folders": [
       [
         "SimpleShamanResources"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "419852",
+    "slug": "simple-sound-replacer",
+    "name": "Simple Sound Replacer",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "SimpleSoundReplacer"
       ]
     ]
   },
@@ -99530,6 +99750,20 @@
     "folders": [
       [
         "SoftRes"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "420177",
+    "slug": "sokrydes-autoquest",
+    "name": "Sokrydes AutoQuest",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "AutoQuest"
       ]
     ]
   },
@@ -104238,6 +104472,20 @@
     "folders": [
       [
         "TEARollHelper"
+      ]
+    ]
+  },
+  {
+    "source": "curse",
+    "id": "417043",
+    "slug": "tkui",
+    "name": "TKUI",
+    "compatibility": [
+      "retail"
+    ],
+    "folders": [
+      [
+        "TKUI"
       ]
     ]
   },
@@ -122141,20 +122389,6 @@
     "folders": [
       [
         "gKick"
-      ]
-    ]
-  },
-  {
-    "source": "curse",
-    "id": "411445",
-    "slug": "gbtools",
-    "name": "gbTools",
-    "compatibility": [
-      "retail"
-    ],
-    "folders": [
-      [
-        "gb"
       ]
     ]
   },
@@ -218760,7 +218994,7 @@
     ],
     "folders": [
       [
-        "TwintopInsanityBar-9.0.2.22-release"
+        "TwintopInsanityBar-9.0.2.23-release"
       ]
     ]
   },
@@ -229196,7 +229430,7 @@
     "source": "wowi",
     "id": "25440",
     "slug": "",
-    "name": "FarmingBar",
+    "name": "Farming Bar",
     "compatibility": [
       "classic",
       "retail"
@@ -233402,6 +233636,53 @@
     "folders": [
       [
         "LibMayronEvents"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25774",
+    "slug": "",
+    "name": "Mail Robot",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "MailRobot"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25775",
+    "slug": "",
+    "name": "Azeroth Auto Pilot",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "AAP-Shadowlands",
+        "AAP-Core",
+        "AAP-EasternKingdoms"
+      ]
+    ]
+  },
+  {
+    "source": "wowi",
+    "id": "25776",
+    "slug": "",
+    "name": "SorhaQuestLog Shadowlands Update",
+    "compatibility": [
+      "classic",
+      "retail"
+    ],
+    "folders": [
+      [
+        "SorhaQuestLog"
       ]
     ]
   },
