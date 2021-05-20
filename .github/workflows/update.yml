@@ -14,6 +14,8 @@ jobs:
         # - version: v1
         #   ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
         - version: v2
+          ref: fc2f76b1bd0854365a7a2db098e5672101ccb4d0
+        - version: v3
           ref: ''
       max-parallel: 1
     steps:
@@ -44,7 +46,7 @@ jobs:
         python -m instawow
         generate-catalogue master-catalogue-${{ matrix.catalogue.version }}.json
         --age-cutoff 2016-08-09T00:00:00+00:00
-      if: ${{ matrix.catalogue.version == 'v2' }}
+      if: ${{ matrix.catalogue.version != 'v1' }}
     - name: Commit changes
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
