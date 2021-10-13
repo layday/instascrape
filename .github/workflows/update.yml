@@ -15,8 +15,8 @@ jobs:
         #   ref: 75288bf84b5e55acc8ec5cc76b9b5a64931f3573
         # - version: v2
         #   ref: fc2f76b1bd0854365a7a2db098e5672101ccb4d0
-        - version: v3
-          ref: '64a688b9a2eba71d0be774a895029139a4fe6e65'
+        # - version: v3
+        #   ref: '64a688b9a2eba71d0be774a895029139a4fe6e65'
         - version: v4
           ref: ''
       max-parallel: 1
