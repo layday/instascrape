@@ -18,7 +18,7 @@ jobs:
         # - version: v3
         #   ref: '64a688b9a2eba71d0be774a895029139a4fe6e65'
         - version: v4
-          ref: ''
+          ref: 'v1.32.0'
       max-parallel: 1
     steps:
     - name: Check-out the data branch
