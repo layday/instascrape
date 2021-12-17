@@ -13,9 +13,9 @@ jobs:
         catalogue:
           - version: v4
             ref: "v1.32.0"
-            filename: master-catalogue-v4.json
+            filename: master-catalogue-v4
           - version: v5
-            filename: base-catalogue-v5.json
+            filename: base-catalogue-v5
       max-parallel: 1
     steps:
       - name: Check-out the data branch
@@ -31,7 +31,8 @@ jobs:
       - name: Install instawow
         run: pipx install ./instawow
       - name: Generate ${{ matrix.catalogue.version }} catalogue
-        run: instawow generate-catalogue --start-date 2016-08-09 ${{ matrix.catalogue.filename }}
+        run: instawow generate-catalogue --start-date 2016-08-09
+          ${{ matrix.catalogue.filename }}.json
         if: ${{ matrix.catalogue.version == 'v4' }}
       - name: Generate ${{ matrix.catalogue.version }} catalogue
         run: instawow generate-catalogue --start-date 2016-08-09
@@ -41,4 +42,4 @@ jobs:
         with:
           commit_message: Update ${{ matrix.catalogue.filename }}
           branch: data
-          file_pattern: ${{ matrix.catalogue.filename }}
+          file_pattern: ${{ matrix.catalogue.filename }}*.json
