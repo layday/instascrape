@@ -1,0 +1,44 @@
+---
+name: Update catalogues
+on:
+  schedule:
+    - cron: 0 0 * * *
+  push:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        catalogue:
+          - version: v4
+            ref: "v1.32.0"
+            filename: master-catalogue-v4.json
+          - version: v5
+            filename: base-catalogue-v5.json
+      max-parallel: 1
+    steps:
+      - name: Check-out the data branch
+        uses: actions/checkout@v2
+        with:
+          ref: data
+      - name: Check-out the main repo
+        uses: actions/checkout@v2
+        with:
+          repository: layday/instawow
+          ref: ${{ matrix.catalogue.ref }}
+          path: instawow
+      - name: Install instawow
+        run: pipx install ./instawow
+      - name: Generate ${{ matrix.catalogue.version }} catalogue
+        run: instawow generate-catalogue --start-date 2016-08-09 ${{ matrix.catalogue.filename }}
+        if: ${{ matrix.catalogue.version == 'v4' }}
+      - name: Generate ${{ matrix.catalogue.version }} catalogue
+        run: instawow generate-catalogue --start-date 2016-08-09
+        if: ${{ matrix.catalogue.version == 'v5' }}
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update ${{ matrix.catalogue.filename }}
+          branch: data
+          file_pattern: ${{ matrix.catalogue.filename }}
