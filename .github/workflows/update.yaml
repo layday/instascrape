@@ -11,9 +11,9 @@ jobs:
       fail-fast: false
       matrix:
         catalogue:
-          - version: v4
-            ref: "v1.32.0"
-            filename: master-catalogue-v4
+          # - version: v4
+          #   ref: "v1.32.0"
+          #   filename: master-catalogue-v4
           - version: v5
             filename: base-catalogue-v5
       max-parallel: 1
