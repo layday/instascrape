@@ -14,9 +14,7 @@ jobs:
         catalogue:
           - version: v5
             ref: f466c4c16e7d9f1f17d3b3f17e254e7d6cfa1d0f
-            filename: base-catalogue-v5
-          - version: v6
-            filename: base-catalogue-v6
+          - version: current
       max-parallel: 1
     steps:
       - name: Check-out the data branch
@@ -38,6 +36,6 @@ jobs:
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update ${{ matrix.catalogue.filename }}
+          commit_message: Update ${{ matrix.catalogue.version }} catalogue
           branch: data
-          file_pattern: ${{ matrix.catalogue.filename }}*.json
+          file_pattern: base-catalogue-v*.json
