@@ -12,11 +12,11 @@ jobs:
       fail-fast: false
       matrix:
         catalogue:
-          # - version: v4
-          #   ref: "v1.32.0"
-          #   filename: master-catalogue-v4
           - version: v5
+            ref: f466c4c16e7d9f1f17d3b3f17e254e7d6cfa1d0f
             filename: base-catalogue-v5
+          - version: v6
+            filename: base-catalogue-v6
       max-parallel: 1
     steps:
       - name: Check-out the data branch
