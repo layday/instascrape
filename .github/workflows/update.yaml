@@ -33,11 +33,6 @@ jobs:
         run: pipx install ./instawow
       - name: Generate ${{ matrix.catalogue.version }} catalogue
         run: instawow generate-catalogue --start-date 2016-08-09
-          ${{ matrix.catalogue.filename }}.json
-        if: ${{ matrix.catalogue.version == 'v4' }}
-      - name: Generate ${{ matrix.catalogue.version }} catalogue
-        run: instawow generate-catalogue --start-date 2016-08-09
-        if: ${{ matrix.catalogue.version == 'v5' }}
         env:
           INSTAWOW_ACCESS_TOKENS: ${{ secrets.INSTAWOW_ACCESS_TOKENS }}
       - name: Commit changes
