@@ -17,6 +17,11 @@ jobs:
           - version: current
       max-parallel: 1
     steps:
+      - name: Install Python 3.10
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+        id: install-cp310
       - name: Check-out the data branch
         uses: actions/checkout@v2
         with:
@@ -29,6 +34,8 @@ jobs:
           path: instawow
       - name: Install instawow
         run: pipx install ./instawow
+        env:
+          PIPX_DEFAULT_PYTHON: ${{ steps.install-cp310.outputs.python-path }}
       - name: Generate ${{ matrix.catalogue.version }} catalogue
         run: instawow generate-catalogue --start-date 2016-08-09
         env:
